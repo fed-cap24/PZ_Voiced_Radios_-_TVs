@@ -138,3 +138,7 @@ RadioWavs.addSongs("5c0ed7b3-6bb4-44c4-a074-898a644ac9ee","21c31b62-2efb-4e7d-93
 RadioWavs.addSongs("06fe18a6-beaa-40d6-aad7-1f6d2b2dab51","a16d146d-a989-4976-9757-8f913359ebe7")
 RadioWavs.addSongs("bf106674-5557-49ed-9ea5-7fcfbef67804","f51f3562-d2b5-4805-97bd-f6a0f41330f2")
 RadioWavs.addSongs("d182b03b-34cb-4bd7-a898-e084e005e8fa","447ee16a-b549-4306-a729-feb15ff55048")
+RadioWavs.addSongs("99919218-4785-4a56-89d3-17268037297e","01b989b8-c78f-47a7-b7cf-c8df42a5fe82")
+RadioWavs.addSongs("acef8146-1eac-47a6-af4a-da775f14d295","094e9dd9-8ea4-450a-9f79-940524eb48ff")
+RadioWavs.addSongs("1d3c4eed-ea61-4810-8ab9-ae8fb5bfef0a","b35ee8ae-d36a-4fa6-9990-c6b7188c4d76")
+RadioWavs.addSongs("7648bf70-a663-4d8c-bb23-b906b2202517","fe1bf109-20a0-465d-8177-b6d1df42fe36")
