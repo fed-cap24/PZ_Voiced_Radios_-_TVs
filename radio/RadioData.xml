@@ -4843,97 +4843,97 @@
         </BroadcastEntry>
         <BroadcastEntry ID="7e6bf8fc-89f7-4460-95c2-a8a4ca00a4e4" timestamp="5730" endstamp="5760" type="ActivateBroadcast" day="3" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="0b59941d-efe6-402c-980a-a090ee7a8762" timestamp="5760" endstamp="6120" type="ActivateBroadcast" day="4" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="af60382e-bfa3-437f-b73a-421dbef38635" r="255" g="192" b="0">This is &lt;bzzt&gt; </LineEntry>
-          <LineEntry ID="709575c8-2d40-4579-9ae8-ba53328e1cee" r="255" g="192" b="0" codes="BOR-1">&lt;fzzt&gt;</LineEntry>
-          <LineEntry ID="ff6b17a4-8cfe-4282-87ab-5ec423262e6e" r="255" g="192" b="0">&lt;bzzt&gt; military flights &lt;fzzt&gt;</LineEntry>
-          <LineEntry ID="2f81c211-c917-436e-a171-0eb675d9c620" r="255" g="192" b="0" codes="BOR-1">&lt;fzzt&gt;</LineEntry>
+          <LineEntry ID="af60382e-bfa3-437f-b73a-421dbef38635" r="255" g="192" b="0" codes="GUID:af60382e-bfa3-437f-b73a-421dbef38635">${t:2.42}This is &lt;bzzt&gt; </LineEntry>
+          <LineEntry ID="709575c8-2d40-4579-9ae8-ba53328e1cee" r="255" g="192" b="0" codes="BOR-1">${t:3.40}&lt;fzzt&gt;</LineEntry>
+          <LineEntry ID="ff6b17a4-8cfe-4282-87ab-5ec423262e6e" r="255" g="192" b="0">${t:4.17}&lt;bzzt&gt; military flights &lt;fzzt&gt;</LineEntry>
+          <LineEntry ID="2f81c211-c917-436e-a171-0eb675d9c620" r="255" g="192" b="0" codes="BOR-1">${t:4.48}&lt;fzzt&gt;</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="09cd526a-1c51-44ac-ae41-061ce691795f" timestamp="6120" endstamp="6480" type="ActivateBroadcast" day="4" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="66445919-0a16-48cb-9fa3-9146f582bfde" r="255" g="192" b="0" codes="BOR-1">This is Triple-N. </LineEntry>
-          <LineEntry ID="924d0a71-3eee-4e96-9edf-b5c03dcdcbe9" r="255" g="192" b="0">The Knox Event is contained, but a truth has emerged.</LineEntry>
-          <LineEntry ID="d7dc9beb-8675-44c1-9a66-2273f05a83cf" r="255" g="192" b="0" codes="BOR-1">We're going straight over to Kirsty Cormick in Kentucky.</LineEntry>
-          <LineEntry ID="ae447259-1d43-4e7e-b087-c7b2b39d2624" r="128" g="128" b="255">I'm afraid we have disturbing news.</LineEntry>
-          <LineEntry ID="a41146d8-041b-4d47-98a8-a377e4c70781" r="128" g="128" b="255" codes="BOR-1">I have verified reports of violence inside the Exclusion Zone. </LineEntry>
-          <LineEntry ID="3966f961-ef3f-4763-b7fe-fa258e323eba" r="128" g="128" b="255" codes="BOR-1">Survivors released from a military camp INSIDE the zone have made it through...</LineEntry>
-          <LineEntry ID="213f0be0-ac45-43a6-85ef-9d8e280cd736" r="128" g="128" b="255" codes="BOR-1">...the barriers behind me. Crossing the border several miles from here.</LineEntry>
-          <LineEntry ID="efc6821d-078f-4282-bdcc-3889a70737d0" r="128" g="128" b="255">Their story is one of horror.</LineEntry>
-          <LineEntry ID="853b5319-c598-486b-8f34-26887723f025" r="128" g="128" b="255" codes="BOR-1">The Knox Infection's final stage is one of violence.</LineEntry>
-          <LineEntry ID="9f2ce773-c089-4069-a34b-86422eb17e0a" r="128" g="128" b="255">Sufferers attack friends.</LineEntry>
-          <LineEntry ID="6b4d650d-c01d-4f4b-aa4c-66c1b9de1f61" r="128" g="128" b="255">Sufferers attack family.</LineEntry>
-          <LineEntry ID="ce37aa68-6b68-4254-abdd-e28cbf246259" r="128" g="128" b="255">These recently released survivors aside: the infection rate is total.</LineEntry>
-          <LineEntry ID="a4c67c26-b528-4d89-adc1-2366440aecad" r="128" g="128" b="255" codes="BOR-1">I just recorded an interview with Pauline Simpson who has come from inside the zone.</LineEntry>
-          <LineEntry ID="325a8dc9-5bd1-4d12-be49-94d47881efbe" r="128" g="128" b="255">You heard me right, she came from the INSIDE.</LineEntry>
-          <LineEntry ID="9cb70a98-d378-46dd-bce6-fa4056c668e0" r="0" g="176" b="80">We were on the road out when the fever hit.</LineEntry>
-          <LineEntry ID="9b9db1ca-0327-446e-b205-31369a3df652" r="0" g="176" b="80">Soldiers took us into their base.</LineEntry>
-          <LineEntry ID="c05066e4-1189-4faf-9391-31e84d68fcd4" r="0" g="176" b="80">There was a lot of us.</LineEntry>
-          <LineEntry ID="e5675900-0030-4d6a-9397-d3c9440958a7" r="0" g="176" b="80" codes="BOR-1">We were in dormitories. Cells. Anywhere they got lock us in.</LineEntry>
-          <LineEntry ID="194e3aa3-4fea-40d0-ab91-64b07cb01c1e" r="0" g="176" b="80">They said it was a quarantine.</LineEntry>
-          <LineEntry ID="1cc34156-3c65-4467-9c16-3818f37e29eb" r="0" g="176" b="80" codes="BOR-1">They took my Chris for tests, but he came back okay.</LineEntry>
-          <LineEntry ID="c1f8128b-a7c5-4caa-b9ef-3040676f1749" r="0" g="176" b="80" codes="BOR-1">Some people didn't come back from the tests.</LineEntry>
-          <LineEntry ID="57c7f1ab-ec67-4027-b3cf-b55d15101265" r="0" g="176" b="80" codes="BOR-1">I guess they got it. </LineEntry>
-          <LineEntry ID="ba5a34f6-0bde-4586-ba29-4980db75178b" r="128" g="128" b="255" codes="BOR-1">Got what Pauline?</LineEntry>
-          <LineEntry ID="33524350-411b-481d-b1d8-98ccc1790b01" r="0" g="176" b="80">It's like a plague. </LineEntry>
-          <LineEntry ID="5145da57-338d-41f8-bf38-0686e5b37e8c" r="0" g="176" b="80" codes="BOR-1">It kills you, but you're not gone.</LineEntry>
-          <LineEntry ID="83d76ed5-935b-4f3a-91af-2606310b983c" r="128" g="128" b="255" codes="BOR-1">Well, you're safe now.</LineEntry>
-          <LineEntry ID="2008424c-41b9-4b1f-ba02-c139f01f830a" r="0" g="176" b="80" codes="BOR-1">They can't stop it.</LineEntry>
-          <LineEntry ID="fa4725fe-3f1b-4386-ab2a-c4de0c700816" r="0" g="176" b="80" codes="BOR-1">They say it's contained, but you can't stop death.</LineEntry>
-          <LineEntry ID="63f29991-d121-49c4-907e-e753e65b4af6" r="0" g="176" b="80" codes="BOR-1">We've got it coming to us.</LineEntry>
-          <LineEntry ID="eab53b0d-5bbd-470f-97d4-4b63a1205159" r="0" g="176" b="80">It's been coming for a long time.</LineEntry>
-          <LineEntry ID="85b0bb43-3bf5-482c-862a-217b555e2696" r="128" g="128" b="255" codes="BOR-1">Okay. Back to the studio.</LineEntry>
-          <LineEntry ID="da78dc36-2cb6-47e8-bd97-9f86e93449a4" r="0" g="0" b="0" codes="BOR-1">&lt;fzzt&gt;</LineEntry>
-          <LineEntry ID="34d9d8c5-0698-43d9-bcc0-4c26b625bfc2" r="0" g="176" b="240" codes="BOR-1">The curfew begins at 6pm EST. Please stay in your houses.</LineEntry>
-          <LineEntry ID="4ad0e7fc-51d8-4ab1-9814-7c8214b1ca86" r="0" g="176" b="240" codes="BOR-1">Please tune in to local programming for curfew information.</LineEntry>
+          <LineEntry ID="66445919-0a16-48cb-9fa3-9146f582bfde" r="255" g="192" b="0" codes="BOR-1,GUID:66445919-0a16-48cb-9fa3-9146f582bfde">${t:2.34}This is Triple-N. </LineEntry>
+          <LineEntry ID="924d0a71-3eee-4e96-9edf-b5c03dcdcbe9" r="255" g="192" b="0">${t:3.46}The Knox Event is contained, but a truth has emerged.</LineEntry>
+          <LineEntry ID="d7dc9beb-8675-44c1-9a66-2273f05a83cf" r="255" g="192" b="0" codes="BOR-1">${t:2.60}We're going straight over to Kirsty Cormick in Kentucky.</LineEntry>
+          <LineEntry ID="ae447259-1d43-4e7e-b087-c7b2b39d2624" r="128" g="128" b="255">${t:2.19}I'm afraid we have disturbing news.</LineEntry>
+          <LineEntry ID="a41146d8-041b-4d47-98a8-a377e4c70781" r="128" g="128" b="255" codes="BOR-1">${t:3.87}I have verified reports of violence inside the Exclusion Zone. </LineEntry>
+          <LineEntry ID="3966f961-ef3f-4763-b7fe-fa258e323eba" r="128" g="128" b="255" codes="BOR-1">${t:4.58}Survivors released from a military camp INSIDE the zone have made it through...</LineEntry>
+          <LineEntry ID="213f0be0-ac45-43a6-85ef-9d8e280cd736" r="128" g="128" b="255" codes="BOR-1">${t:4.48}...the barriers behind me. Crossing the border several miles from here.</LineEntry>
+          <LineEntry ID="efc6821d-078f-4282-bdcc-3889a70737d0" r="128" g="128" b="255">${t:2.39}Their story is one of horror.</LineEntry>
+          <LineEntry ID="853b5319-c598-486b-8f34-26887723f025" r="128" g="128" b="255" codes="BOR-1">${t:3.41}The Knox Infection's final stage is one of violence.</LineEntry>
+          <LineEntry ID="9f2ce773-c089-4069-a34b-86422eb17e0a" r="128" g="128" b="255">${t:1.83}Sufferers attack friends.</LineEntry>
+          <LineEntry ID="6b4d650d-c01d-4f4b-aa4c-66c1b9de1f61" r="128" g="128" b="255">${t:1.63}Sufferers attack family.</LineEntry>
+          <LineEntry ID="ce37aa68-6b68-4254-abdd-e28cbf246259" r="128" g="128" b="255">${t:4.58}These recently released survivors aside: the infection rate is total.</LineEntry>
+          <LineEntry ID="a4c67c26-b528-4d89-adc1-2366440aecad" r="128" g="128" b="255" codes="BOR-1">${t:4.69}I just recorded an interview with Pauline Simpson who has come from inside the zone.</LineEntry>
+          <LineEntry ID="325a8dc9-5bd1-4d12-be49-94d47881efbe" r="128" g="128" b="255">${t:3.06}You heard me right, she came from the INSIDE.</LineEntry>
+          <LineEntry ID="9cb70a98-d378-46dd-bce6-fa4056c668e0" r="0" g="176" b="80">${t:2.34}We were on the road out when the fever hit.</LineEntry>
+          <LineEntry ID="9b9db1ca-0327-446e-b205-31369a3df652" r="0" g="176" b="80">${t:2.09}Soldiers took us into their base.</LineEntry>
+          <LineEntry ID="c05066e4-1189-4faf-9391-31e84d68fcd4" r="0" g="176" b="80">${t:1.22}There was a lot of us.</LineEntry>
+          <LineEntry ID="e5675900-0030-4d6a-9397-d3c9440958a7" r="0" g="176" b="80" codes="BOR-1">${t:4.48}We were in dormitories. Cells. Anywhere they got lock us in.</LineEntry>
+          <LineEntry ID="194e3aa3-4fea-40d0-ab91-64b07cb01c1e" r="0" g="176" b="80">${t:1.73}They said it was a quarantine.</LineEntry>
+          <LineEntry ID="1cc34156-3c65-4467-9c16-3818f37e29eb" r="0" g="176" b="80" codes="BOR-1">${t:3.46}They took my Chris for tests, but he came back okay.</LineEntry>
+          <LineEntry ID="c1f8128b-a7c5-4caa-b9ef-3040676f1749" r="0" g="176" b="80" codes="BOR-1">${t:2.50}Some people didn't come back from the tests.</LineEntry>
+          <LineEntry ID="57c7f1ab-ec67-4027-b3cf-b55d15101265" r="0" g="176" b="80" codes="BOR-1">${t:1.07}I guess they got it. </LineEntry>
+          <LineEntry ID="ba5a34f6-0bde-4586-ba29-4980db75178b" r="128" g="128" b="255" codes="BOR-1">${t:1.07}Got what Pauline?</LineEntry>
+          <LineEntry ID="33524350-411b-481d-b1d8-98ccc1790b01" r="0" g="176" b="80">${t:1.32}It's like a plague. </LineEntry>
+          <LineEntry ID="5145da57-338d-41f8-bf38-0686e5b37e8c" r="0" g="176" b="80" codes="BOR-1">${t:2.60}It kills you, but you're not gone.</LineEntry>
+          <LineEntry ID="83d76ed5-935b-4f3a-91af-2606310b983c" r="128" g="128" b="255" codes="BOR-1">${t:1.32}Well, you're safe now.</LineEntry>
+          <LineEntry ID="2008424c-41b9-4b1f-ba02-c139f01f830a" r="0" g="176" b="80" codes="BOR-1">${t:1.32}They can't stop it.</LineEntry>
+          <LineEntry ID="fa4725fe-3f1b-4386-ab2a-c4de0c700816" r="0" g="176" b="80" codes="BOR-1">${t:3.06}They say it's contained, but you can't stop death.</LineEntry>
+          <LineEntry ID="63f29991-d121-49c4-907e-e753e65b4af6" r="0" g="176" b="80" codes="BOR-1">${t:1.32}We've got it coming to us.</LineEntry>
+          <LineEntry ID="eab53b0d-5bbd-470f-97d4-4b63a1205159" r="0" g="176" b="80">${t:1.99}It's been coming for a long time.</LineEntry>
+          <LineEntry ID="85b0bb43-3bf5-482c-862a-217b555e2696" r="128" g="128" b="255" codes="BOR-1">${t:1.53}Okay. Back to the studio.</LineEntry>
+          <LineEntry ID="da78dc36-2cb6-47e8-bd97-9f86e93449a4" r="0" g="0" b="0" codes="BOR-1">${t:1.58}&lt;fzzt&gt;</LineEntry>
+          <LineEntry ID="34d9d8c5-0698-43d9-bcc0-4c26b625bfc2" r="0" g="176" b="240" codes="BOR-1">${t:4.07}The curfew begins at 6pm EST. Please stay in your houses.</LineEntry>
+          <LineEntry ID="4ad0e7fc-51d8-4ab1-9814-7c8214b1ca86" r="0" g="176" b="240" codes="BOR-1">${t:4.18}Please tune in to local programming for curfew information.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="67372b5b-bb03-4484-93e2-2d8451c797a9" timestamp="6480" endstamp="6840" type="ActivateBroadcast" day="4" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="8c157232-4261-43ba-9321-d87c2eb132dd" r="255" g="192" b="0" codes="BOR-1">This is Triple-N. </LineEntry>
-          <LineEntry ID="cdf09802-5ec4-4ff0-ba4a-588ad06e7ef3" r="255" g="192" b="0">With official channels silent, we have collated key information.</LineEntry>
-          <LineEntry ID="62984e31-c435-403b-afe0-dff4f8846449" r="255" g="192" b="0" codes="BOR-1">The Knox Event infection is spread through direct contact with sufferers.</LineEntry>
-          <LineEntry ID="670820eb-8ed6-45aa-9b9a-9c546a6f8d5b" r="255" g="192" b="0">At one point it was spread more easily, we don't know how.</LineEntry>
-          <LineEntry ID="0c70ce7a-561c-4f4e-b0e2-4fd639551320" r="255" g="192" b="0">Now, however transmission is possible. </LineEntry>
-          <LineEntry ID="bcefc754-bc5c-47ad-95a7-ec37398b3cf4" r="255" g="192" b="0">The Knox Event infection has a variable incubation period.</LineEntry>
-          <LineEntry ID="bc91ecab-c1b6-4219-8ac6-519032891d8e" r="255" g="192" b="0">After incubation the loss of rational thought is seemingly inevitable.</LineEntry>
-          <LineEntry ID="c2ef3a97-5007-4949-ad8b-f6db68df77b6" r="255" g="192" b="0" codes="BOR-1">Sufferers will attack each other, and non-sufferers.</LineEntry>
-          <LineEntry ID="0aabc8ed-a7de-4459-a4dd-2517fc10e52a" r="255" g="192" b="0">There is no known cure.</LineEntry>
-          <LineEntry ID="3dab6bbf-0ddb-49c8-ab85-e029dafe8ecc" r="255" g="192" b="0">We are expecting an official statement on these revelations imminently.</LineEntry>
-          <LineEntry ID="85d14165-81fc-4a63-9e11-6fcbf4ce4624" r="255" g="192" b="0" codes="BOR-1">We would like to thank Kirsty Cormick on the ground in Kentucky...</LineEntry>
-          <LineEntry ID="9f3421c7-7d5a-4c51-8263-f1af0e6180b4" r="255" g="192" b="0">... for this information.</LineEntry>
-          <LineEntry ID="e496207a-1cae-4516-b30e-35525707f4b1" r="255" g="192" b="0" codes="BOR-1">We know you're all inside watching this but...</LineEntry>
-          <LineEntry ID="852a2250-f7cf-4fac-b7b0-25c2c75f0158" r="255" g="192" b="0" codes="BOR-1">... we have been asked to remind you of the 6pm curfew.</LineEntry>
-          <LineEntry ID="38dc82e5-b200-4208-8dfe-9dd07ff822f8" r="255" g="192" b="0">This has been widened to: Chicago, San Diego and Baltimore.</LineEntry>
-          <LineEntry ID="98b483e1-eb6c-42dd-90ca-0d265911cfe1" r="255" g="192" b="0">Information on this can be found on your local news channel.</LineEntry>
-          <LineEntry ID="48cef58b-bd40-4a5f-9de7-f3c0484c7ad2" r="0" g="176" b="240" codes="BOR-1">The curfew begins at 6pm EST. Please stay in your houses.</LineEntry>
-          <LineEntry ID="20bd3224-21b4-472d-ba2a-d30eed431c2b" r="0" g="176" b="240">Please tune in to local programming for curfew information.</LineEntry>
+          <LineEntry ID="8c157232-4261-43ba-9321-d87c2eb132dd" r="255" g="192" b="0" codes="BOR-1,GUID:8c157232-4261-43ba-9321-d87c2eb132dd">${t:2.56}This is Triple-N. </LineEntry>
+          <LineEntry ID="cdf09802-5ec4-4ff0-ba4a-588ad06e7ef3" r="255" g="192" b="0">${t:3.94}With official channels silent, we have collated key information.</LineEntry>
+          <LineEntry ID="62984e31-c435-403b-afe0-dff4f8846449" r="255" g="192" b="0" codes="BOR-1">${t:3.91}The Knox Event infection is spread through direct contact with sufferers.</LineEntry>
+          <LineEntry ID="670820eb-8ed6-45aa-9b9a-9c546a6f8d5b" r="255" g="192" b="0">${t:3.30}At one point it was spread more easily, we don't know how.</LineEntry>
+          <LineEntry ID="0c70ce7a-561c-4f4e-b0e2-4fd639551320" r="255" g="192" b="0">${t:2.42}Now, however transmission is possible. </LineEntry>
+          <LineEntry ID="bcefc754-bc5c-47ad-95a7-ec37398b3cf4" r="255" g="192" b="0">${t:4.09}The Knox Event infection has a variable incubation period.</LineEntry>
+          <LineEntry ID="bc91ecab-c1b6-4219-8ac6-519032891d8e" r="255" g="192" b="0">${t:4.30}After incubation the loss of rational thought is seemingly inevitable.</LineEntry>
+          <LineEntry ID="c2ef3a97-5007-4949-ad8b-f6db68df77b6" r="255" g="192" b="0" codes="BOR-1">${t:3.45}Sufferers will attack each other, and non-sufferers.</LineEntry>
+          <LineEntry ID="0aabc8ed-a7de-4459-a4dd-2517fc10e52a" r="255" g="192" b="0">${t:1.81}There is no known cure.</LineEntry>
+          <LineEntry ID="3dab6bbf-0ddb-49c8-ab85-e029dafe8ecc" r="255" g="192" b="0">${t:4.33}We are expecting an official statement on these revelations imminently.</LineEntry>
+          <LineEntry ID="85d14165-81fc-4a63-9e11-6fcbf4ce4624" r="255" g="192" b="0" codes="BOR-1">${t:3.02}We would like to thank Kirsty Cormick on the ground in Kentucky...</LineEntry>
+          <LineEntry ID="9f3421c7-7d5a-4c51-8263-f1af0e6180b4" r="255" g="192" b="0">${t:1.63}... for this information.</LineEntry>
+          <LineEntry ID="e496207a-1cae-4516-b30e-35525707f4b1" r="255" g="192" b="0" codes="BOR-1">${t:2.52}We know you're all inside watching this but...</LineEntry>
+          <LineEntry ID="852a2250-f7cf-4fac-b7b0-25c2c75f0158" r="255" g="192" b="0" codes="BOR-1">${t:3.38}... we have been asked to remind you of the 6pm curfew.</LineEntry>
+          <LineEntry ID="38dc82e5-b200-4208-8dfe-9dd07ff822f8" r="255" g="192" b="0">${t:4.16}This has been widened to: Chicago, San Diego and Baltimore.</LineEntry>
+          <LineEntry ID="98b483e1-eb6c-42dd-90ca-0d265911cfe1" r="255" g="192" b="0">${t:2.91}Information on this can be found on your local news channel.</LineEntry>
+          <LineEntry ID="48cef58b-bd40-4a5f-9de7-f3c0484c7ad2" r="0" g="176" b="240" codes="BOR-1">${t:4.23}The curfew begins at 6pm EST. Please stay in your houses.</LineEntry>
+          <LineEntry ID="20bd3224-21b4-472d-ba2a-d30eed431c2b" r="0" g="176" b="240">${t:4.99}Please tune in to local programming for curfew information.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="f695c8be-7910-413d-828d-8a0ab95e16af" timestamp="6840" endstamp="7170" type="ActivateBroadcast" day="4" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="dad1293d-cb24-4749-9c54-5005d98cdebe" r="0" g="176" b="240" codes="BOR-1">Judge Matt Hass - on Triple-N!</LineEntry>
-          <LineEntry ID="b79b6381-d275-4046-906e-234241b9cc80" r="0" g="176" b="240">The voice of reason!</LineEntry>
-          <LineEntry ID="ad02427e-7256-4e4b-8379-3b6f01e268f3" r="0" g="176" b="80">I wouldn't have the words to express my feelings...</LineEntry>
-          <LineEntry ID="d62f0832-fe01-4f49-8672-f8c20f3c6838" r="0" g="176" b="80" codes="BOR-1">... even if I could. Or wanted to.</LineEntry>
-          <LineEntry ID="84550a81-5100-4a21-b545-9022904107ca" r="0" g="176" b="80">You don't need to hear me. You need this guy. General John McGrew.</LineEntry>
-          <LineEntry ID="22794740-f4b2-4bfa-a929-222150782489" r="0" g="176" b="80">This was recorded moments ago:</LineEntry>
-          <LineEntry ID="f9a559c0-8664-471e-8f71-b732956ba3ef" r="255" g="0" b="0">First and foremost: we are safe.</LineEntry>
-          <LineEntry ID="f15a392f-801b-4db4-b82f-0f9df2003100" r="255" g="0" b="0">America is safe.</LineEntry>
-          <LineEntry ID="4800c07b-88a6-491d-953d-599998065e0b" r="255" g="0" b="0" codes="BOR-1">Today we can confirm that, yes,  the nature of the Knox Event is degenerative.</LineEntry>
-          <LineEntry ID="b0b3a781-5848-44be-819c-5499ec000948" r="255" g="0" b="0">It causes panic and confusion among sufferers</LineEntry>
-          <LineEntry ID="877bd82b-3eac-4943-8604-e33ec893f26d" r="255" g="0" b="0" codes="BOR-1">Some of whom will then perform acts that are... un-American.</LineEntry>
-          <LineEntry ID="1bc3a009-2247-4f6c-b980-2d8a7b5beac6" r="255" g="0" b="0">The initial period of contagion is over.</LineEntry>
-          <LineEntry ID="0b49e457-117d-4f94-8c33-671839684b92" r="255" g="0" b="0" codes="BOR-1">There is absolutely NO need for further panic.</LineEntry>
-          <LineEntry ID="0360eada-a427-4e5d-96e3-5f37daabf446" r="255" g="0" b="0">Panic... engendered by irresponsible and unofficial reporting.</LineEntry>
-          <LineEntry ID="630f80e9-f8fc-4f6a-b20c-13f5de4c21c2" r="255" g="0" b="0">Sufferers are NOT deceased.</LineEntry>
-          <LineEntry ID="cb3f7e15-9053-4ae4-8397-cde74ed2e83d" r="255" g="0" b="0">We ARE establishing the likelihood of discovering a cure.</LineEntry>
-          <LineEntry ID="8674c372-fa48-4218-a104-2cb440972a27" r="255" g="0" b="0">At this stage the infection is passed  only through DIRECT fluid contact.</LineEntry>
-          <LineEntry ID="00812bdb-9310-49c9-8745-38be81a2a078" r="255" g="0" b="0">This means bites. This means scratches.</LineEntry>
-          <LineEntry ID="f122d1ec-9815-4e34-9bf8-ab44b8bd4872" r="255" g="0" b="0" codes="BOR-1">My thoughts are with those poor souls behind the Event line.</LineEntry>
-          <LineEntry ID="4af3bd3d-933b-4a7e-9c44-ab29b4f99ec5" r="255" g="0" b="0">But this is contained.</LineEntry>
-          <LineEntry ID="020938b0-3171-4b88-acae-341b111cabcf" r="255" g="0" b="0">It has always been contained.</LineEntry>
-          <LineEntry ID="03125e86-196d-488b-97d8-2a33d54f3ed1" r="255" g="0" b="0">We are safe.</LineEntry>
-          <LineEntry ID="32c08ff9-6829-41ef-a95f-1f7fffe34570" r="255" g="0" b="0" codes="BOR-1">America is safe.</LineEntry>
-          <LineEntry ID="49283845-745d-4534-9f2a-51a23d63c55b" r="0" g="176" b="80">There's the news folks.</LineEntry>
-          <LineEntry ID="dccbbc1d-078c-4635-a5ab-030cc1c08432" r="0" g="176" b="80" codes="BOR-1">God Bless America.</LineEntry>
-          <LineEntry ID="da3afdaf-24b7-4a5a-8f94-29caf638afeb" r="0" g="176" b="240" codes="BOR-1">That was Judge Matt Hass. Good evening, you're on...</LineEntry>
-          <LineEntry ID="2ae10035-1f17-496e-9cdf-df50a4d9d0dd" r="0" g="176" b="240">... Triple-N.</LineEntry>
-          <LineEntry ID="b8fc89aa-2787-4588-a338-f45475080ec6" r="0" g="176" b="240">The curfew begins at 6pm EST. Please stay in your houses.</LineEntry>
-          <LineEntry ID="45f84286-c5fc-4cc2-9a09-fbdafe6cfcb5" r="0" g="176" b="240" codes="BOR-1">Please tune in to local programming for curfew information.</LineEntry>
+          <LineEntry ID="dad1293d-cb24-4749-9c54-5005d98cdebe" r="0" g="176" b="240" codes="BOR-1,GUID:dad1293d-cb24-4749-9c54-5005d98cdebe">${t:3.24}Judge Matt Hass - on Triple-N!</LineEntry>
+          <LineEntry ID="b79b6381-d275-4046-906e-234241b9cc80" r="0" g="176" b="240">${t:0.82}The voice of reason!</LineEntry>
+          <LineEntry ID="ad02427e-7256-4e4b-8379-3b6f01e268f3" r="0" g="176" b="80">${t:2.65}I wouldn't have the words to express my feelings...</LineEntry>
+          <LineEntry ID="d62f0832-fe01-4f49-8672-f8c20f3c6838" r="0" g="176" b="80" codes="BOR-1">${t:2.83}... even if I could. Or wanted to.</LineEntry>
+          <LineEntry ID="84550a81-5100-4a21-b545-9022904107ca" r="0" g="176" b="80">${t:4.99}You don't need to hear me. You need this guy. General John McGrew.</LineEntry>
+          <LineEntry ID="22794740-f4b2-4bfa-a929-222150782489" r="0" g="176" b="80">${t:2.72}This was recorded moments ago:</LineEntry>
+          <LineEntry ID="f9a559c0-8664-471e-8f71-b732956ba3ef" r="255" g="0" b="0">${t:2.28}First and foremost: we are safe.</LineEntry>
+          <LineEntry ID="f15a392f-801b-4db4-b82f-0f9df2003100" r="255" g="0" b="0">${t:1.28}America is safe.</LineEntry>
+          <LineEntry ID="4800c07b-88a6-491d-953d-599998065e0b" r="255" g="0" b="0" codes="BOR-1">${t:3.97}Today we can confirm that, yes,  the nature of the Knox Event is degenerative.</LineEntry>
+          <LineEntry ID="b0b3a781-5848-44be-819c-5499ec000948" r="255" g="0" b="0">${t:2.96}It causes panic and confusion among sufferers</LineEntry>
+          <LineEntry ID="877bd82b-3eac-4943-8604-e33ec893f26d" r="255" g="0" b="0" codes="BOR-1">${t:3.74}Some of whom will then perform acts that are... un-American.</LineEntry>
+          <LineEntry ID="1bc3a009-2247-4f6c-b980-2d8a7b5beac6" r="255" g="0" b="0">${t:2.38}The initial period of contagion is over.</LineEntry>
+          <LineEntry ID="0b49e457-117d-4f94-8c33-671839684b92" r="255" g="0" b="0" codes="BOR-1">${t:3.47}There is absolutely NO need for further panic.</LineEntry>
+          <LineEntry ID="0360eada-a427-4e5d-96e3-5f37daabf446" r="255" g="0" b="0">${t:3.73}Panic... engendered by irresponsible and unofficial reporting.</LineEntry>
+          <LineEntry ID="630f80e9-f8fc-4f6a-b20c-13f5de4c21c2" r="255" g="0" b="0">${t:1.98}Sufferers are NOT deceased.</LineEntry>
+          <LineEntry ID="cb3f7e15-9053-4ae4-8397-cde74ed2e83d" r="255" g="0" b="0">${t:3.17}We ARE establishing the likelihood of discovering a cure.</LineEntry>
+          <LineEntry ID="8674c372-fa48-4218-a104-2cb440972a27" r="255" g="0" b="0">${t:4.01}At this stage the infection is passed  only through DIRECT fluid contact.</LineEntry>
+          <LineEntry ID="00812bdb-9310-49c9-8745-38be81a2a078" r="255" g="0" b="0">${t:2.51}This means bites. This means scratches.</LineEntry>
+          <LineEntry ID="f122d1ec-9815-4e34-9bf8-ab44b8bd4872" r="255" g="0" b="0" codes="BOR-1">${t:2.99}My thoughts are with those poor souls behind the Event line.</LineEntry>
+          <LineEntry ID="4af3bd3d-933b-4a7e-9c44-ab29b4f99ec5" r="255" g="0" b="0">${t:1.32}But this is contained.</LineEntry>
+          <LineEntry ID="020938b0-3171-4b88-acae-341b111cabcf" r="255" g="0" b="0">${t:1.87}It has always been contained.</LineEntry>
+          <LineEntry ID="03125e86-196d-488b-97d8-2a33d54f3ed1" r="255" g="0" b="0">${t:0.98}We are safe.</LineEntry>
+          <LineEntry ID="32c08ff9-6829-41ef-a95f-1f7fffe34570" r="255" g="0" b="0" codes="BOR-1">${t:2.17}America is safe.</LineEntry>
+          <LineEntry ID="49283845-745d-4534-9f2a-51a23d63c55b" r="0" g="176" b="80">${t:1.73}There's the news folks.</LineEntry>
+          <LineEntry ID="dccbbc1d-078c-4635-a5ab-030cc1c08432" r="0" g="176" b="80" codes="BOR-1">${t:1.35}God Bless America.</LineEntry>
+          <LineEntry ID="da3afdaf-24b7-4a5a-8f94-29caf638afeb" r="0" g="176" b="240" codes="BOR-1">${t:2.74}That was Judge Matt Hass. Good evening, you're on...</LineEntry>
+          <LineEntry ID="2ae10035-1f17-496e-9cdf-df50a4d9d0dd" r="0" g="176" b="240">${t:1.05}... Triple-N.</LineEntry>
+          <LineEntry ID="b8fc89aa-2787-4588-a338-f45475080ec6" r="0" g="176" b="240">${t:4.01}The curfew begins at 6pm EST. Please stay in your houses.</LineEntry>
+          <LineEntry ID="45f84286-c5fc-4cc2-9a09-fbdafe6cfcb5" r="0" g="176" b="240" codes="BOR-1">${t:4.99}Please tune in to local programming for curfew information.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="aecce284-a412-4098-bb23-2080e85a372d" timestamp="7170" endstamp="7200" type="ActivateBroadcast" day="4" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="975bc357-97df-41ef-a368-07136c0cbdb3" timestamp="7200" endstamp="7560" type="ActivateBroadcast" day="5" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
@@ -4970,7 +4970,7 @@
           <LineEntry ID="2a9c919a-8031-44d1-aae3-b5957f55ab50" r="255" g="192" b="0">This is Triple-N. </LineEntry>
           <LineEntry ID="69369396-a312-4e57-8875-ffcf8e3e4c5b" r="255" g="192" b="0">We've got live pictures from inside the event line</LineEntry>
           <LineEntry ID="0a6d0e67-4fa1-48bd-849b-4fc6ea19de48" r="255" g="192" b="0" codes="BOR-1">Kirsty? Are you there?</LineEntry>
-          <LineEntry ID="bc12607c-4c10-4b12-8873-079503e43a7a" r="128" g="128" b="255">I am John. I can't say how, but we've been allowed access.</LineEntry>
+          <LineEntry ID="bc12607c-4c10-4b12-8873-079503e43a7a" r="128" g="128" b="255">I am Joan. I can't say how, but we've been allowed access.</LineEntry>
           <LineEntry ID="6484dbdf-76db-487a-85a9-ad5060c88c9a" r="128" g="128" b="255" codes="BOR-1">We're through the Event line. This is an exclusive.</LineEntry>
           <LineEntry ID="48ceb1a4-4bf1-4370-a0d0-3d0a5e66e121" r="128" g="128" b="255" codes="BOR-1">Once upon a time people pumped gas here.</LineEntry>
           <LineEntry ID="85297159-9ca5-42a2-8f6b-737b63a29100" r="128" g="128" b="255">Now it's eerie. It's quiet. It's desolate.</LineEntry>

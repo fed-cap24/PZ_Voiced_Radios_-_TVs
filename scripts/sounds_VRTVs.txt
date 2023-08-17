@@ -1585,4 +1585,56 @@ module Base
 			reverbFactor = 0,
 		}
 	}
+
+	sound 09cd526a-1c51-44ac-ae41-061ce691795f
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/09cd526a-1c51-44ac-ae41-061ce691795f.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 0b59941d-efe6-402c-980a-a090ee7a8762
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/0b59941d-efe6-402c-980a-a090ee7a8762.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 67372b5b-bb03-4484-93e2-2d8451c797a9
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/67372b5b-bb03-4484-93e2-2d8451c797a9.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound f695c8be-7910-413d-828d-8a0ab95e16af
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/f695c8be-7910-413d-828d-8a0ab95e16af.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
 }
