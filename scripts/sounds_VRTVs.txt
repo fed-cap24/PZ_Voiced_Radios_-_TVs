@@ -1637,4 +1637,17 @@ module Base
 			reverbFactor = 0,
 		}
 	}
+
+	sound 975bc357-97df-41ef-a368-07136c0cbdb3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/975bc357-97df-41ef-a368-07136c0cbdb3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
 }
