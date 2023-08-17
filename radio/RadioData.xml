@@ -4740,106 +4740,106 @@
         </BroadcastEntry>
         <BroadcastEntry ID="56d5b7d5-82c2-4a43-8858-d43156e90cf6" timestamp="4290" endstamp="4320" type="ActivateBroadcast" day="2" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="23d2b1d2-9889-4886-a30a-9d7319cd92d6" timestamp="4320" endstamp="4680" type="ActivateBroadcast" day="3" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="4a51a9fa-04dd-45d7-beca-2fb536400d9b" r="255" g="192" b="0" codes="BOR-1">This is Triple-N. </LineEntry>
-          <LineEntry ID="3ba7c735-ea63-400d-903b-3e20b0a841c4" r="255" g="192" b="0" codes="BOR-1">Throughout the night panic has turned to chaos.</LineEntry>
-          <LineEntry ID="4d11b999-7127-4ac4-bae3-4abd8b66f3ef" r="255" g="192" b="0" codes="BOR-1">Civil disturbance in: New York, Miami, Detroit and downtown LA.</LineEntry>
-          <LineEntry ID="a33017c3-d635-4aa3-bb7d-957ce2eee5b8" r="255" g="192" b="0" codes="BOR-1">Our reporter Mark Spedding is in New York.</LineEntry>
-          <LineEntry ID="5264213a-bdea-49e7-8226-ea1c3f921659" r="0" g="176" b="80">An angry crowd at City Hall. A wall of police officers.</LineEntry>
-          <LineEntry ID="d932f6ab-4a82-4f8d-a25e-4f65058fb5c3" r="0" g="176" b="80">Then: an attempted dispersal of protesters, leading to reported fatalities.</LineEntry>
-          <LineEntry ID="7e16d331-8c12-44f1-813a-68481770210b" r="0" g="176" b="80" codes="BOR-1">The NYPD are using water cannons, but NNN can also reveal we've seen...</LineEntry>
-          <LineEntry ID="2030fb11-69a3-4600-9876-c900885c8994" r="0" g="176" b="80">... military servicemen within police ranks. </LineEntry>
-          <LineEntry ID="bad9c865-e08c-4ade-93c4-b0481a9ef82d" r="0" g="176" b="80" codes="BOR-1">Could this show the rumors of a curfew are coming true?</LineEntry>
-          <LineEntry ID="0566d003-7035-472b-905d-6e5aa081cfca" r="0" g="176" b="80">This feels like an endgame, Joan.</LineEntry>
-          <LineEntry ID="9db43a2c-2a3c-49db-bf72-3bdd35b9edd0" r="0" g="176" b="80" codes="BOR-1">Back to the studio.</LineEntry>
-          <LineEntry ID="36ea61ac-bd77-4cc6-a50f-877db48c04ef" r="255" g="192" b="0">Thank you Mark. Stay safe out there.</LineEntry>
-          <LineEntry ID="7bada737-fea3-4ed9-a882-0c03147c789a" r="255" g="192" b="0" codes="BOR-1">Now we turn to the Knox Event itself.</LineEntry>
-          <LineEntry ID="2efc541d-9d17-4a2f-996e-8f894ead49d3" r="255" g="192" b="0" codes="BOR-1">Yesterday saw the Exclusion Zone radius widened.</LineEntry>
-          <LineEntry ID="e878c068-7085-48a6-922b-7ffd3baae276" r="255" g="192" b="0">Camps of refugees and bystanders have been removed. </LineEntry>
-          <LineEntry ID="d74e4a9a-4476-4770-b217-c5992bdd63fd" r="255" g="192" b="0">Some forcibly.</LineEntry>
-          <LineEntry ID="c2225e87-cafc-4a07-8884-ef2b960ee79c" r="255" g="192" b="0" codes="BOR-1">We'll have updates as they happen...</LineEntry>
-          <LineEntry ID="73b5330e-80b7-439e-9441-20364bb1aaca" r="255" g="192" b="0">... on Triple-N.</LineEntry>
+          <LineEntry ID="4a51a9fa-04dd-45d7-beca-2fb536400d9b" r="255" g="192" b="0" codes="BOR-1,GUID:4a51a9fa-04dd-45d7-beca-2fb536400d9b">${t:3.00}This is Triple-N. </LineEntry>
+          <LineEntry ID="3ba7c735-ea63-400d-903b-3e20b0a841c4" r="255" g="192" b="0" codes="BOR-1">${t:2.54}Throughout the night panic has turned to chaos.</LineEntry>
+          <LineEntry ID="4d11b999-7127-4ac4-bae3-4abd8b66f3ef" r="255" g="192" b="0" codes="BOR-1">${t:3.94}Civil disturbance in: New York, Miami, Detroit and downtown LA.</LineEntry>
+          <LineEntry ID="a33017c3-d635-4aa3-bb7d-957ce2eee5b8" r="255" g="192" b="0" codes="BOR-1">${t:2.54}Our reporter Mark Spedding is in New York.</LineEntry>
+          <LineEntry ID="5264213a-bdea-49e7-8226-ea1c3f921659" r="0" g="176" b="80">${t:4.92}An angry crowd at City Hall. A wall of police officers.</LineEntry>
+          <LineEntry ID="d932f6ab-4a82-4f8d-a25e-4f65058fb5c3" r="0" g="176" b="80">${t:4.99}Then: an attempted dispersal of protesters, leading to reported fatalities.</LineEntry>
+          <LineEntry ID="7e16d331-8c12-44f1-813a-68481770210b" r="0" g="176" b="80" codes="BOR-1">${t:4.99}The NYPD are using water cannons, but NNN can also reveal we've seen...</LineEntry>
+          <LineEntry ID="2030fb11-69a3-4600-9876-c900885c8994" r="0" g="176" b="80">${t:3.81}... military servicemen within police ranks. </LineEntry>
+          <LineEntry ID="bad9c865-e08c-4ade-93c4-b0481a9ef82d" r="0" g="176" b="80" codes="BOR-1">${t:3.36}Could this show the rumors of a curfew are coming true?</LineEntry>
+          <LineEntry ID="0566d003-7035-472b-905d-6e5aa081cfca" r="0" g="176" b="80">${t:2.05}This feels like an endgame, Joan.</LineEntry>
+          <LineEntry ID="9db43a2c-2a3c-49db-bf72-3bdd35b9edd0" r="0" g="176" b="80" codes="BOR-1">${t:1.47}Back to the studio.</LineEntry>
+          <LineEntry ID="36ea61ac-bd77-4cc6-a50f-877db48c04ef" r="255" g="192" b="0">${t:2.67}Thank you Mark. Stay safe out there.</LineEntry>
+          <LineEntry ID="7bada737-fea3-4ed9-a882-0c03147c789a" r="255" g="192" b="0" codes="BOR-1">${t:2.38}Now we turn to the Knox Event itself.</LineEntry>
+          <LineEntry ID="2efc541d-9d17-4a2f-996e-8f894ead49d3" r="255" g="192" b="0" codes="BOR-1">${t:2.93}Yesterday saw the Exclusion Zone radius widened.</LineEntry>
+          <LineEntry ID="e878c068-7085-48a6-922b-7ffd3baae276" r="255" g="192" b="0">${t:3.16}Camps of refugees and bystanders have been removed. </LineEntry>
+          <LineEntry ID="d74e4a9a-4476-4770-b217-c5992bdd63fd" r="255" g="192" b="0">${t:1.43}Some forcibly.</LineEntry>
+          <LineEntry ID="c2225e87-cafc-4a07-8884-ef2b960ee79c" r="255" g="192" b="0" codes="BOR-1">${t:2.02}We'll have updates as they happen...</LineEntry>
+          <LineEntry ID="73b5330e-80b7-439e-9441-20364bb1aaca" r="255" g="192" b="0">${t:4.82}... on Triple-N.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="bc844f94-9e0e-4057-9bb9-2b34158444a7" timestamp="4680" endstamp="5040" type="ActivateBroadcast" day="3" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="48691095-afbb-42f2-9476-8a9d322bc75c" r="255" g="192" b="0">Good morning, we're coming to you directly from the White House briefing room.</LineEntry>
-          <LineEntry ID="d46f5bfe-2643-4f0e-bced-33e40946bab4" r="255" g="192" b="0">This is Triple-N.</LineEntry>
-          <LineEntry ID="0ec75f15-ffe4-4195-bf85-b1c4b2dbaa42" r="255" g="192" b="0">The President has just announced a curfew in New York, Miami and LA with more to follow. </LineEntry>
-          <LineEntry ID="7442994d-33ee-4d7e-9dd5-f2af6faeb4bc" r="255" g="192" b="0">Reports are coming in of military convoys moving from bases and into the heart of major cities.</LineEntry>
-          <LineEntry ID="7c96ee1c-473b-45cc-9e40-153a1a2f5b57" r="255" g="192" b="0">This is the President's statement in full:</LineEntry>
-          <LineEntry ID="f85e28ec-43e0-4c8a-9e77-96cc06ea830d" r="0" g="176" b="240" codes="BOR-1">It is time to face facts. It is time to settle down.</LineEntry>
-          <LineEntry ID="99d9e638-6d60-4243-b99b-757db8850ee2" r="0" g="176" b="240">We only ask for your responsible actions as an American citizen.</LineEntry>
-          <LineEntry ID="e20c72b3-70ef-41dd-9c98-58c9212cf51c" r="0" g="176" b="240" codes="BOR-1">I, personally, take responsibility for the perceived lack of communication. </LineEntry>
-          <LineEntry ID="0cd0d411-44ba-44d1-bb34-526e8662c975" r="0" g="176" b="240">And for the rumormongering that has grown around the so-called 'Knox Event'.</LineEntry>
-          <LineEntry ID="d139eb51-1ca0-4a89-9c1f-a47a3ebf7db4" r="0" g="176" b="240" codes="BOR-1">At this time we have no reason to believe residents of Kentucky will not recover.</LineEntry>
-          <LineEntry ID="f7bb2585-e2a7-4dd9-b039-19e8f0e5ccc6" r="0" g="176" b="240">However, as the picture clears, and more information is made available...</LineEntry>
-          <LineEntry ID="0f8a75ec-edce-4971-bfe5-cb2133d26cd2" r="0" g="176" b="240" codes="BOR-1">... its likelihood is starting to recede.</LineEntry>
-          <LineEntry ID="58acb8ed-d4b1-4c25-9891-0a5e5e307b80" r="0" g="176" b="240" codes="BOR-1">We have been hesitant to discuss specifics, yes, but with reason.</LineEntry>
-          <LineEntry ID="18ba7089-f3e7-4f53-9fac-23c83d4e75e4" r="0" g="176" b="240" codes="BOR-1">The Knox Event IS contained, but its panic and confusion are not.</LineEntry>
-          <LineEntry ID="b2e98c3e-ff15-449d-9d86-06feba724c8c" r="0" g="176" b="240" codes="BOR-1">We wanted to establish facts, but public alarm has not provided enough time.</LineEntry>
-          <LineEntry ID="9dd3bb65-b6e8-4256-8c87-59beb1691148" r="0" g="176" b="240">From 6pm tonight there will be curfews in some of our biggest cities.</LineEntry>
-          <LineEntry ID="325c2c04-40b9-4c6d-b922-a51070fde221" r="0" g="176" b="240" codes="BOR-1">This is for your protection. Please do not leave your house.</LineEntry>
-          <LineEntry ID="3af65bf6-8466-461c-8a99-927d60d66165" r="0" g="176" b="240">Please have faith in both our military and our emergency services.</LineEntry>
-          <LineEntry ID="1f7fa064-15f4-4796-9ad2-e835ae78ff67" r="0" g="176" b="240" codes="BOR-1">I ask our journalistic community to report responsibly.</LineEntry>
-          <LineEntry ID="0ebdb617-fe1a-48d8-a7b2-3d0bd76e284c" r="0" g="176" b="240">We are examining all potentialities.</LineEntry>
-          <LineEntry ID="d0bbee7d-760e-4b55-a1ae-d89899090938" r="0" g="176" b="240" codes="BOR-1">I will update you whenever we have new information. </LineEntry>
-          <LineEntry ID="0f507462-4e36-4e25-ba58-8c14f380a570" r="255" g="192" b="0">We'll be updating you throughout the day...</LineEntry>
-          <LineEntry ID="505f9b32-dc52-4045-baf5-bace7e323842" r="255" g="192" b="0" codes="BOR-1">... on Triple-N.</LineEntry>
+          <LineEntry ID="48691095-afbb-42f2-9476-8a9d322bc75c" r="255" g="192" b="0" codes="GUID:48691095-afbb-42f2-9476-8a9d322bc75c">${t:4.99}Good morning, we're coming to you directly from the White House briefing room.</LineEntry>
+          <LineEntry ID="d46f5bfe-2643-4f0e-bced-33e40946bab4" r="255" g="192" b="0">${t:2.46}This is Triple-N.</LineEntry>
+          <LineEntry ID="0ec75f15-ffe4-4195-bf85-b1c4b2dbaa42" r="255" g="192" b="0">${t:4.99}The President has just announced a curfew in New York, Miami and LA with more to follow. </LineEntry>
+          <LineEntry ID="7442994d-33ee-4d7e-9dd5-f2af6faeb4bc" r="255" g="192" b="0">${t:4.99}Reports are coming in of military convoys moving from bases and into the heart of major cities.</LineEntry>
+          <LineEntry ID="7c96ee1c-473b-45cc-9e40-153a1a2f5b57" r="255" g="192" b="0">${t:2.36}This is the President's statement in full:</LineEntry>
+          <LineEntry ID="f85e28ec-43e0-4c8a-9e77-96cc06ea830d" r="0" g="176" b="240" codes="BOR-1">${t:4.90}It is time to face facts. It is time to settle down.</LineEntry>
+          <LineEntry ID="99d9e638-6d60-4243-b99b-757db8850ee2" r="0" g="176" b="240">${t:3.99}We only ask for your responsible actions as an American citizen.</LineEntry>
+          <LineEntry ID="e20c72b3-70ef-41dd-9c98-58c9212cf51c" r="0" g="176" b="240" codes="BOR-1">${t:4.58}I, personally, take responsibility for the perceived lack of communication. </LineEntry>
+          <LineEntry ID="0cd0d411-44ba-44d1-bb34-526e8662c975" r="0" g="176" b="240">${t:4.77}And for the rumormongering that has grown around the so-called 'Knox Event'.</LineEntry>
+          <LineEntry ID="d139eb51-1ca0-4a89-9c1f-a47a3ebf7db4" r="0" g="176" b="240" codes="BOR-1">${t:4.49}At this time we have no reason to believe residents of Kentucky will not recover.</LineEntry>
+          <LineEntry ID="f7bb2585-e2a7-4dd9-b039-19e8f0e5ccc6" r="0" g="176" b="240">${t:4.22}However, as the picture clears, and more information is made available...</LineEntry>
+          <LineEntry ID="0f8a75ec-edce-4971-bfe5-cb2133d26cd2" r="0" g="176" b="240" codes="BOR-1">${t:3.00}... its likelihood is starting to recede.</LineEntry>
+          <LineEntry ID="58acb8ed-d4b1-4c25-9891-0a5e5e307b80" r="0" g="176" b="240" codes="BOR-1">${t:3.95}We have been hesitant to discuss specifics, yes, but with reason.</LineEntry>
+          <LineEntry ID="18ba7089-f3e7-4f53-9fac-23c83d4e75e4" r="0" g="176" b="240" codes="BOR-1">${t:4.99}The Knox Event IS contained, but its panic and confusion are not.</LineEntry>
+          <LineEntry ID="b2e98c3e-ff15-449d-9d86-06feba724c8c" r="0" g="176" b="240" codes="BOR-1">${t:4.99}We wanted to establish facts, but public alarm has not provided enough time.</LineEntry>
+          <LineEntry ID="9dd3bb65-b6e8-4256-8c87-59beb1691148" r="0" g="176" b="240">${t:4.67}From 6pm tonight there will be curfews in some of our biggest cities.</LineEntry>
+          <LineEntry ID="325c2c04-40b9-4c6d-b922-a51070fde221" r="0" g="176" b="240" codes="BOR-1">${t:2.81}This is for your protection. Please do not leave your house.</LineEntry>
+          <LineEntry ID="3af65bf6-8466-461c-8a99-927d60d66165" r="0" g="176" b="240">${t:3.36}Please have faith in both our military and our emergency services.</LineEntry>
+          <LineEntry ID="1f7fa064-15f4-4796-9ad2-e835ae78ff67" r="0" g="176" b="240" codes="BOR-1">${t:3.13}I ask our journalistic community to report responsibly.</LineEntry>
+          <LineEntry ID="0ebdb617-fe1a-48d8-a7b2-3d0bd76e284c" r="0" g="176" b="240">${t:2.22}We are examining all potentialities.</LineEntry>
+          <LineEntry ID="d0bbee7d-760e-4b55-a1ae-d89899090938" r="0" g="176" b="240" codes="BOR-1">${t:2.77}I will update you whenever we have new information. </LineEntry>
+          <LineEntry ID="0f507462-4e36-4e25-ba58-8c14f380a570" r="255" g="192" b="0">${t:2.18}We'll be updating you throughout the day...</LineEntry>
+          <LineEntry ID="505f9b32-dc52-4045-baf5-bace7e323842" r="255" g="192" b="0" codes="BOR-1">${t:4.99}... on Triple-N.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="08e09293-cecb-491d-a819-6382eacc7c1f" timestamp="5040" endstamp="5400" type="ActivateBroadcast" day="3" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="816c8782-4811-49f6-9f56-1bff16cce8b0" r="255" g="192" b="0" codes="BOR-1">This is Triple-N. </LineEntry>
-          <LineEntry ID="219a5fd3-49af-4167-9a84-7f05ee363984" r="255" g="192" b="0" codes="BOR-1">Tonight from 6pm a curfew has been announced in major cities across the nation.</LineEntry>
-          <LineEntry ID="4afa783d-b04f-4294-98b4-f03d2c8251fb" r="255" g="192" b="0" codes="BOR-1">New York, Miami, Los Angeles and more to come.</LineEntry>
-          <LineEntry ID="6c1fe212-f69a-4b63-b49a-25d8111fc3ae" r="255" g="192" b="0">These pictures show military forces setting up shop in the heart of our cities.</LineEntry>
-          <LineEntry ID="8fd0fcd6-9f90-4c82-8ea6-b3ad7a76ab9b" r="255" g="192" b="0" codes="BOR-1">Troops in Times Square. Tanks on Miami Beach.</LineEntry>
-          <LineEntry ID="44917f13-b19a-4a96-85f1-10dabb2198b2" r="255" g="192" b="0">To find out how this will impact on you...</LineEntry>
-          <LineEntry ID="83bd850a-2b6e-4c21-970e-8de8213ded57" r="255" g="192" b="0" codes="BOR-1">... please change to your regional Triple-N station.</LineEntry>
-          <LineEntry ID="685085d6-befc-4e62-87e3-f88bfd3ed481" r="255" g="192" b="0">This morning the President had this to say:</LineEntry>
-          <LineEntry ID="b2855d61-dc04-4e5d-85c3-1305ba44dac0" r="0" g="176" b="240">It is time to face facts. It is time to settle down.</LineEntry>
-          <LineEntry ID="d7a9b818-b844-4bde-adb7-42a7d61e063d" r="0" g="176" b="240" codes="BOR-1">We only ask for your responsible actions as an American citizen.</LineEntry>
-          <LineEntry ID="62e01314-1a29-4574-aa0d-8703b9e0957f" r="0" g="176" b="240" codes="BOR-1">I, personally, take responsibility for the perceived lack of communication. </LineEntry>
-          <LineEntry ID="fef25a9b-dfdb-49d1-a3c7-65435da2ec67" r="0" g="176" b="240">And for the rumormongering that has grown around the so-called 'Knox Event'.</LineEntry>
-          <LineEntry ID="7add9b70-aa2a-4ef7-8764-208ed981f5a2" r="0" g="176" b="240" codes="BOR-1">At this time we have no reason to believe residents of Kentucky will not recover.</LineEntry>
-          <LineEntry ID="bfa3ad38-85d9-4f00-ac6e-51f4ae1e5de2" r="0" g="176" b="240" codes="BOR-1">However, as the picture clears, and more information is made available...</LineEntry>
-          <LineEntry ID="9c21ae60-abed-436d-8408-f356db0fd10a" r="0" g="176" b="240">... its likelihood is starting to recede.</LineEntry>
-          <LineEntry ID="6a0ecd5a-66e8-472c-bfc7-4e756ee0c481" r="0" g="176" b="240" codes="BOR-1">We have been hesitant to discuss specifics, yes, but with reason.</LineEntry>
-          <LineEntry ID="df241095-e783-40cc-9836-4c09246b717f" r="0" g="176" b="240" codes="BOR-1">The Knox Event IS contained, but its panic and confusion are not.</LineEntry>
-          <LineEntry ID="197ca5de-6900-4b8d-b812-4cfd4abdec2a" r="0" g="176" b="240" codes="BOR-1">We wanted to establish facts, but public alarm has not provided enough time.</LineEntry>
-          <LineEntry ID="b0db0cfd-2eb5-4b3d-a244-dc4ecfadba84" r="0" g="176" b="240" codes="BOR-1">From 6pm tonight there will be curfews in some of our biggest cities.</LineEntry>
-          <LineEntry ID="087b2b87-c73d-4753-b9e8-23bd103dfc9d" r="0" g="176" b="240">This is for your protection. Please do not leave your house.</LineEntry>
-          <LineEntry ID="ee744e48-02f9-48aa-a695-deb674d54e56" r="0" g="176" b="240" codes="BOR-1">Please have faith in both our military and our emergency services.</LineEntry>
-          <LineEntry ID="378ff537-97bf-4266-b404-00cfa6a0f599" r="0" g="176" b="240" codes="BOR-1">I ask our journalistic community to report responsibly.</LineEntry>
-          <LineEntry ID="c1992a6d-2f21-49c4-b3e8-7654045f41da" r="0" g="176" b="240" codes="BOR-1">We are examining all potentialities.</LineEntry>
-          <LineEntry ID="d32c00ea-55f2-44dc-9ae7-9812f0efb02a" r="0" g="176" b="240" codes="BOR-1">I will update you whenever we have new information. </LineEntry>
-          <LineEntry ID="7a20cb48-6c81-4b03-87be-ed8e7860559c" r="255" g="192" b="0">We'll be updating you throughout the day...</LineEntry>
-          <LineEntry ID="b8a82c95-13dd-48cb-822a-616aee61478f" r="255" g="192" b="0">... on Triple-N.</LineEntry>
-          <LineEntry ID="50409413-06ac-4741-a09f-d35df3e65da8" r="0" g="176" b="240">The curfew begins at 6pm EST. Please stay in your houses.</LineEntry>
-          <LineEntry ID="bd3c295a-ec4a-4c5d-85ee-8c3ec44a2f6d" r="0" g="176" b="240">Please tune in to local programming for curfew information.</LineEntry>
+          <LineEntry ID="816c8782-4811-49f6-9f56-1bff16cce8b0" r="255" g="192" b="0" codes="BOR-1,GUID:816c8782-4811-49f6-9f56-1bff16cce8b0">${t:4.35}This is Triple-N. </LineEntry>
+          <LineEntry ID="219a5fd3-49af-4167-9a84-7f05ee363984" r="255" g="192" b="0" codes="BOR-1">${t:4.83}Tonight from 6pm a curfew has been announced in major cities across the nation.</LineEntry>
+          <LineEntry ID="4afa783d-b04f-4294-98b4-f03d2c8251fb" r="255" g="192" b="0" codes="BOR-1">${t:3.58}New York, Miami, Los Angeles and more to come.</LineEntry>
+          <LineEntry ID="6c1fe212-f69a-4b63-b49a-25d8111fc3ae" r="255" g="192" b="0">${t:4.11}These pictures show military forces setting up shop in the heart of our cities.</LineEntry>
+          <LineEntry ID="8fd0fcd6-9f90-4c82-8ea6-b3ad7a76ab9b" r="255" g="192" b="0" codes="BOR-1">${t:3.34}Troops in Times Square. Tanks on Miami Beach.</LineEntry>
+          <LineEntry ID="44917f13-b19a-4a96-85f1-10dabb2198b2" r="255" g="192" b="0">${t:2.17}To find out how this will impact on you...</LineEntry>
+          <LineEntry ID="83bd850a-2b6e-4c21-970e-8de8213ded57" r="255" g="192" b="0" codes="BOR-1">${t:2.90}... please change to your regional Triple-N station.</LineEntry>
+          <LineEntry ID="685085d6-befc-4e62-87e3-f88bfd3ed481" r="255" g="192" b="0">${t:3.28}This morning the President had this to say:</LineEntry>
+          <LineEntry ID="b2855d61-dc04-4e5d-85c3-1305ba44dac0" r="0" g="176" b="240">${t:4.14}It is time to face facts. It is time to settle down.</LineEntry>
+          <LineEntry ID="d7a9b818-b844-4bde-adb7-42a7d61e063d" r="0" g="176" b="240" codes="BOR-1">${t:4.26}We only ask for your responsible actions as an American citizen.</LineEntry>
+          <LineEntry ID="62e01314-1a29-4574-aa0d-8703b9e0957f" r="0" g="176" b="240" codes="BOR-1">${t:4.74}I, personally, take responsibility for the perceived lack of communication. </LineEntry>
+          <LineEntry ID="fef25a9b-dfdb-49d1-a3c7-65435da2ec67" r="0" g="176" b="240">${t:4.50}And for the rumormongering that has grown around the so-called 'Knox Event'.</LineEntry>
+          <LineEntry ID="7add9b70-aa2a-4ef7-8764-208ed981f5a2" r="0" g="176" b="240" codes="BOR-1">${t:4.77}At this time we have no reason to believe residents of Kentucky will not recover.</LineEntry>
+          <LineEntry ID="bfa3ad38-85d9-4f00-ac6e-51f4ae1e5de2" r="0" g="176" b="240" codes="BOR-1">${t:4.29}However, as the picture clears, and more information is made available...</LineEntry>
+          <LineEntry ID="9c21ae60-abed-436d-8408-f356db0fd10a" r="0" g="176" b="240">${t:2.98}... its likelihood is starting to recede.</LineEntry>
+          <LineEntry ID="6a0ecd5a-66e8-472c-bfc7-4e756ee0c481" r="0" g="176" b="240" codes="BOR-1">${t:4.00}We have been hesitant to discuss specifics, yes, but with reason.</LineEntry>
+          <LineEntry ID="df241095-e783-40cc-9836-4c09246b717f" r="0" g="176" b="240" codes="BOR-1">${t:4.77}The Knox Event IS contained, but its panic and confusion are not.</LineEntry>
+          <LineEntry ID="197ca5de-6900-4b8d-b812-4cfd4abdec2a" r="0" g="176" b="240" codes="BOR-1">${t:4.99}We wanted to establish facts, but public alarm has not provided enough time.</LineEntry>
+          <LineEntry ID="b0db0cfd-2eb5-4b3d-a244-dc4ecfadba84" r="0" g="176" b="240" codes="BOR-1">${t:4.79}From 6pm tonight there will be curfews in some of our biggest cities.</LineEntry>
+          <LineEntry ID="087b2b87-c73d-4753-b9e8-23bd103dfc9d" r="0" g="176" b="240">${t:2.74}This is for your protection. Please do not leave your house.</LineEntry>
+          <LineEntry ID="ee744e48-02f9-48aa-a695-deb674d54e56" r="0" g="176" b="240" codes="BOR-1">${t:3.40}Please have faith in both our military and our emergency services.</LineEntry>
+          <LineEntry ID="378ff537-97bf-4266-b404-00cfa6a0f599" r="0" g="176" b="240" codes="BOR-1">${t:3.28}I ask our journalistic community to report responsibly.</LineEntry>
+          <LineEntry ID="c1992a6d-2f21-49c4-b3e8-7654045f41da" r="0" g="176" b="240" codes="BOR-1">${t:2.09}We are examining all potentialities.</LineEntry>
+          <LineEntry ID="d32c00ea-55f2-44dc-9ae7-9812f0efb02a" r="0" g="176" b="240" codes="BOR-1">${t:2.80}I will update you whenever we have new information. </LineEntry>
+          <LineEntry ID="7a20cb48-6c81-4b03-87be-ed8e7860559c" r="255" g="192" b="0">${t:2.03}We'll be updating you throughout the day...</LineEntry>
+          <LineEntry ID="b8a82c95-13dd-48cb-822a-616aee61478f" r="255" g="192" b="0">${t:1.31}... on Triple-N.</LineEntry>
+          <LineEntry ID="50409413-06ac-4741-a09f-d35df3e65da8" r="0" g="176" b="240">${t:4.05}The curfew begins at 6pm EST. Please stay in your houses.</LineEntry>
+          <LineEntry ID="bd3c295a-ec4a-4c5d-85ee-8c3ec44a2f6d" r="0" g="176" b="240">${t:4.99}Please tune in to local programming for curfew information.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="8d4696ce-5e33-48c5-b6e6-68aff75c73dd" timestamp="5400" endstamp="5730" type="ActivateBroadcast" day="3" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="79ec1e1f-1228-48f4-99be-933f3be9f286" r="0" g="176" b="240" codes="BOR-1">Judge Matt Hass - on Triple-N!</LineEntry>
-          <LineEntry ID="3d391eff-5f9d-4d28-8c51-63a1a463ac9a" r="0" g="176" b="240">The voice of reason!</LineEntry>
-          <LineEntry ID="0dff74f2-02db-4829-9a9f-15cab7b6e157" r="0" g="176" b="80">Yes, I saw the pictures. We got the fax.</LineEntry>
-          <LineEntry ID="da14d0d0-b5e4-493d-bc55-4424e50cd975" r="0" g="176" b="80">Horrifying pictures handed to Triple-N reveal brutality inside the Exclusion Zone</LineEntry>
-          <LineEntry ID="a2bcad79-06f3-4aab-b8c2-d92addb9a6dd" r="0" g="176" b="80" codes="BOR-1">We can't show the image, but at least one person suffering from the infection... </LineEntry>
-          <LineEntry ID="5bf76dbb-1b70-4092-90ad-51f6ade0e427" r="0" g="176" b="80" codes="BOR-1">... has attacked another. Viciously. </LineEntry>
-          <LineEntry ID="244f1e09-6c32-4f66-8e35-d4a4b1db4cae" r="0" g="176" b="80" codes="BOR-1">Orally.</LineEntry>
-          <LineEntry ID="63133013-f61a-490f-9427-e98a33f054c7" r="0" g="176" b="80" codes="BOR-1">While sustaining terrible wounds himself.</LineEntry>
-          <LineEntry ID="c99cd365-ac9d-463d-be67-2901750c1595" r="0" g="176" b="80" codes="BOR-1">We at Triple-N stand here thinking the same as you.</LineEntry>
-          <LineEntry ID="9e1c1d3d-5f8a-4944-9931-2f1676ad94e2" r="0" g="176" b="80">Why weren't we told?</LineEntry>
-          <LineEntry ID="76d0f2a2-bc9d-4cc7-9df4-eb7acc79f481" r="0" g="176" b="80">I thought it might be doctored. </LineEntry>
-          <LineEntry ID="daf74eb4-1ba2-4cca-afee-41817716cef2" r="0" g="176" b="80">Then a guy brought us a copy of the original.</LineEntry>
-          <LineEntry ID="9b3ee357-d638-4644-83e1-87343c26b483" r="0" g="176" b="80">What you're seeing is an... edited version.</LineEntry>
-          <LineEntry ID="b5dc8496-dd29-432e-9e82-388cefa7edd8" r="0" g="176" b="80" codes="BOR-1">So what do I think?</LineEntry>
-          <LineEntry ID="bf2087f5-787a-4bd0-8a39-d0a35a253c6a" r="0" g="176" b="80">Horrified, and sad.</LineEntry>
-          <LineEntry ID="b252da04-3041-44cd-b452-6ae1af0d3562" r="0" g="176" b="80">Sad we weren't told.</LineEntry>
-          <LineEntry ID="c6e669a1-b281-422f-b70c-1872fd89a799" r="0" g="176" b="80" codes="BOR-1">Sad that this happened to good people.</LineEntry>
-          <LineEntry ID="0e183722-e3d2-4ae7-9cc8-9b73fec5dd33" r="0" g="176" b="80">We should have been told this was happening.</LineEntry>
-          <LineEntry ID="edc18dcd-92b5-402e-952d-9ad5a802cc5a" r="0" g="176" b="80">One fact remains: this Event was stopped in its tracks.</LineEntry>
-          <LineEntry ID="dadbc3c9-c813-4ef9-ae74-4682c0b45670" r="0" g="176" b="80" codes="BOR-1">You may not agree with the Army's decisions...</LineEntry>
-          <LineEntry ID="ab2c907e-ac53-4edb-a86a-070548d0cd28" r="0" g="176" b="80" codes="BOR-1">... but their actions speak for themselves.</LineEntry>
-          <LineEntry ID="68251271-c7ec-41f8-b3ef-263a11bdf7a9" r="0" g="176" b="240" codes="BOR-1">That was Judge Matt Hass. Good evening, you're on...</LineEntry>
-          <LineEntry ID="1397af0b-4d05-45d1-a803-c7d144547b3f" r="0" g="176" b="240" codes="BOR-1">... Triple-N.</LineEntry>
-          <LineEntry ID="bfbfb911-c287-4cc3-8ae2-e4a07574af95" r="0" g="176" b="240" codes="BOR-1">The curfew begins at 6pm EST. Please stay in your houses.</LineEntry>
-          <LineEntry ID="612c490a-86af-4e4f-9712-7e2aa1729d6d" r="0" g="176" b="240">Please tune in to local programming for curfew information.</LineEntry>
+          <LineEntry ID="79ec1e1f-1228-48f4-99be-933f3be9f286" r="0" g="176" b="240" codes="BOR-1,GUID:79ec1e1f-1228-48f4-99be-933f3be9f286">${t:3.11}Judge Matt Hass - on Triple-N!</LineEntry>
+          <LineEntry ID="3d391eff-5f9d-4d28-8c51-63a1a463ac9a" r="0" g="176" b="240">${t:0.87}The voice of reason!</LineEntry>
+          <LineEntry ID="0dff74f2-02db-4829-9a9f-15cab7b6e157" r="0" g="176" b="80">${t:3.27}Yes, I saw the pictures. We got the fax.</LineEntry>
+          <LineEntry ID="da14d0d0-b5e4-493d-bc55-4424e50cd975" r="0" g="176" b="80">${t:4.99}Horrifying pictures handed to Triple-N reveal brutality inside the Exclusion Zone</LineEntry>
+          <LineEntry ID="a2bcad79-06f3-4aab-b8c2-d92addb9a6dd" r="0" g="176" b="80" codes="BOR-1">${t:4.79}We can't show the image, but at least one person suffering from the infection... </LineEntry>
+          <LineEntry ID="5bf76dbb-1b70-4092-90ad-51f6ade0e427" r="0" g="176" b="80" codes="BOR-1">${t:1.89}... has attacked another. Viciously. </LineEntry>
+          <LineEntry ID="244f1e09-6c32-4f66-8e35-d4a4b1db4cae" r="0" g="176" b="80" codes="BOR-1">${t:1.38}Orally.</LineEntry>
+          <LineEntry ID="63133013-f61a-490f-9427-e98a33f054c7" r="0" g="176" b="80" codes="BOR-1">${t:3.03}While sustaining terrible wounds himself.</LineEntry>
+          <LineEntry ID="c99cd365-ac9d-463d-be67-2901750c1595" r="0" g="176" b="80" codes="BOR-1">${t:3.11}We at Triple-N stand here thinking the same as you.</LineEntry>
+          <LineEntry ID="9e1c1d3d-5f8a-4944-9931-2f1676ad94e2" r="0" g="176" b="80">${t:1.77}Why weren't we told?</LineEntry>
+          <LineEntry ID="76d0f2a2-bc9d-4cc7-9df4-eb7acc79f481" r="0" g="176" b="80">${t:2.09}I thought it might be doctored. </LineEntry>
+          <LineEntry ID="daf74eb4-1ba2-4cca-afee-41817716cef2" r="0" g="176" b="80">${t:2.76}Then a guy brought us a copy of the original.</LineEntry>
+          <LineEntry ID="9b3ee357-d638-4644-83e1-87343c26b483" r="0" g="176" b="80">${t:3.98}What you're seeing is an... edited version.</LineEntry>
+          <LineEntry ID="b5dc8496-dd29-432e-9e82-388cefa7edd8" r="0" g="176" b="80" codes="BOR-1">${t:2.40}So what do I think?</LineEntry>
+          <LineEntry ID="bf2087f5-787a-4bd0-8a39-d0a35a253c6a" r="0" g="176" b="80">${t:1.58}Horrified, and sad.</LineEntry>
+          <LineEntry ID="b252da04-3041-44cd-b452-6ae1af0d3562" r="0" g="176" b="80">${t:1.38}Sad we weren't told.</LineEntry>
+          <LineEntry ID="c6e669a1-b281-422f-b70c-1872fd89a799" r="0" g="176" b="80" codes="BOR-1">${t:2.33}Sad that this happened to good people.</LineEntry>
+          <LineEntry ID="0e183722-e3d2-4ae7-9cc8-9b73fec5dd33" r="0" g="176" b="80">${t:2.33}We should have been told this was happening.</LineEntry>
+          <LineEntry ID="edc18dcd-92b5-402e-952d-9ad5a802cc5a" r="0" g="176" b="80">${t:3.70}One fact remains: this Event was stopped in its tracks.</LineEntry>
+          <LineEntry ID="dadbc3c9-c813-4ef9-ae74-4682c0b45670" r="0" g="176" b="80" codes="BOR-1">${t:2.40}You may not agree with the Army's decisions...</LineEntry>
+          <LineEntry ID="ab2c907e-ac53-4edb-a86a-070548d0cd28" r="0" g="176" b="80" codes="BOR-1">${t:2.01}... but their actions speak for themselves.</LineEntry>
+          <LineEntry ID="68251271-c7ec-41f8-b3ef-263a11bdf7a9" r="0" g="176" b="240" codes="BOR-1">${t:2.56}That was Judge Matt Hass. Good evening, you're on...</LineEntry>
+          <LineEntry ID="1397af0b-4d05-45d1-a803-c7d144547b3f" r="0" g="176" b="240" codes="BOR-1">${t:1.26}... Triple-N.</LineEntry>
+          <LineEntry ID="bfbfb911-c287-4cc3-8ae2-e4a07574af95" r="0" g="176" b="240" codes="BOR-1">${t:3.94}The curfew begins at 6pm EST. Please stay in your houses.</LineEntry>
+          <LineEntry ID="612c490a-86af-4e4f-9712-7e2aa1729d6d" r="0" g="176" b="240">${t:4.99}Please tune in to local programming for curfew information.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="7e6bf8fc-89f7-4460-95c2-a8a4ca00a4e4" timestamp="5730" endstamp="5760" type="ActivateBroadcast" day="3" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="0b59941d-efe6-402c-980a-a090ee7a8762" timestamp="5760" endstamp="6120" type="ActivateBroadcast" day="4" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
