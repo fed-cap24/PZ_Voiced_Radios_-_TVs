@@ -1715,4 +1715,108 @@ module Base
 			reverbFactor = 0,
 		}
 	}
+
+	sound 8032bc01-fbf3-47c7-9df1-8fbb1593b962
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/8032bc01-fbf3-47c7-9df1-8fbb1593b962.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound cd6a4d65-3546-4d4a-9e72-ace75809c84b
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/cd6a4d65-3546-4d4a-9e72-ace75809c84b.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 3f325606-4ef7-4a26-bad8-181e1e97390d
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/3f325606-4ef7-4a26-bad8-181e1e97390d.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 554e98f3-402a-44fa-9793-ffe2671f65ba
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/554e98f3-402a-44fa-9793-ffe2671f65ba.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 66fca3c0-604a-4125-964f-810594103e8d
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/66fca3c0-604a-4125-964f-810594103e8d.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 7d7c338e-5b3d-4b4c-936a-d282c1911d00
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/7d7c338e-5b3d-4b4c-936a-d282c1911d00.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 8393fead-7cdb-4044-bf9d-fbe10ae920a8
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/8393fead-7cdb-4044-bf9d-fbe10ae920a8.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound ee85e32e-10b1-4c95-bac7-b6896b6ca73c
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Triple-N/ee85e32e-10b1-4c95-bac7-b6896b6ca73c.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
 }
