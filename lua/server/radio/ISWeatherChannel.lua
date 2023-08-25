@@ -46,15 +46,15 @@ local activity = {
 };
 
 local zones = {
-    { name = "south", sectors = { 2, 5, 8, 9 } },
-    { name = "south-west", sectors = { 1, 3, 6, 7 } },
-    { name = "north-west", sectors = { 10, 14, 15, 18 } },
-    { name = "central", sectors = { 11, 12, 13, 19 } },
-    { name = "north", sectors = { 17, 4, 16, 23 } },
-    { name = "north-east", sectors = { 21, 25, 29, 31 } },
-    { name = "west", sectors = { 22, 24, 28, 32 } },
-    { name = "east", sectors = { 27, 30, 33, 36 } },
-    { name = "south-east", sectors = { 20, 26, 34, 35 } },
+    { name = "south", sectors = { 2, 5, 8, 9 } , code="AEBS_zone_name_s"},
+    { name = "south-west", sectors = { 1, 3, 6, 7 } , code="AEBS_zone_name_sw"},
+    { name = "north-west", sectors = { 10, 14, 15, 18 } , code="AEBS_zone_name_nw"},
+    { name = "central", sectors = { 11, 12, 13, 19 } , code="AEBS_zone_name_c"},
+    { name = "north", sectors = { 17, 4, 16, 23 } , code="AEBS_zone_name_n"},
+    { name = "north-east", sectors = { 21, 25, 29, 31 } , code="AEBS_zone_name_ne"},
+    { name = "west", sectors = { 22, 24, 28, 32 } , code="AEBS_zone_name_w"},
+    { name = "east", sectors = { 27, 30, 33, 36 } , code="AEBS_zone_name_e"},
+    { name = "south-east", sectors = { 20, 26, 34, 35 } , code="AEBS_zone_name_se"},
 }
 
 function WeatherChannel.Init()
@@ -177,10 +177,10 @@ function WeatherChannel.AddForecasting(_c, _bc, _hour)
     --if _hour<19 then
         -- forecast today and tomorrow
         local forecast = forecaster:getForecast();
-        WeatherChannel.AddForecast(_c, _bc, forecast, getRadioText("AEBS_Pre_today"), _hour<12);
+        WeatherChannel.AddForecast(_c, _bc, forecast, getRadioText("AEBS_Pre_today"), _hour<12,"AEBS_Pre_today");
 
         local forecast = forecaster:getForecast(1);
-        WeatherChannel.AddForecast(_c, _bc, forecast, getRadioText("AEBS_Pre_tomorrow"), true);
+        WeatherChannel.AddForecast(_c, _bc, forecast, getRadioText("AEBS_Pre_tomorrow"), true,"AEBS_Pre_tomorrow");
 
         WeatherChannel.AddExtremesForecasting(_c, _bc, 2);
     --[[
@@ -199,8 +199,8 @@ end
 
 --Here it Sets up the forecast string, Be careful, GUID: should have + signs, for multiple Clips.
 
-function WeatherChannel.AddForecast(_c, _bc, _forecast, _prefix, _doFog)
-    local fx = _prefix.."+";
+function WeatherChannel.AddForecast(_c, _bc, _forecast, _prefix, _doFog,_prefixCode)
+    local fx = _prefixCode.."+";
     local s = _prefix;
     aux_s, aux_fx = WeatherChannel.GetForecastString(1, _forecast);
     fx = fx .. aux_fx
@@ -272,11 +272,13 @@ function WeatherChannel.GetForecastString(_type, _forecast)
         --c = roundstring(ClimateManager.ToKph(c)).." KpH";
         local wind_speed_code = "";
         if getCore():getOptionDisplayAsCelsius() then
-            c = roundstring(ClimateManager.ToKph(c)).." KpH";
-            wind_speed_code = roundstring(ClimateManager.ToKph(c)).."_KpH"
+            local aux = roundstring(ClimateManager.ToKph(c));
+            c = aux.." KpH";
+            wind_speed_code = aux.."_KpH";
         else
-            c = roundstring(ClimateManager.ToMph(c)).." MpH";
-            wind_speed_code = roundstring(ClimateManager.ToMph(c)).."_MpH"
+            local aux = roundstring(ClimateManager.ToMph(c));
+            c = aux.." MpH";
+            wind_speed_code = aux.."_MpH";
         end
         local d = _forecast:getMeanWindAngleString();
         local dnew = getRadioText("AEBS_zone_name_"..d:lower());
@@ -479,7 +481,7 @@ function WeatherChannel.GetRandomString(_c, _bc, _doItThreshold, _forceRand)
     if rand<500 then
         local zone = zones[ZombRand(1,#zones)];
         s = string.format(getRadioText("AEBS_random_0"), zone.name, zone.sectors[1], zone.sectors[2], zone.sectors[3], zone.sectors[4]);
-        fx = "AEBS_random_0_1+"..zone.code.."+AEBS_random_0_2+VoicedNumber_"..tostring(zone.sectors[1]).."+VoicedNumber_"..tostring(zone.sectors[2]).."+VoicedNumber_"..tostring(zone.sectors[3]).."+AEBS_random_0_3+VoicedNumber_"....tostring(zone.sectors[4]);
+        fx = "AEBS_random_0_1+"..zone.code.."+AEBS_random_0_2+VoicedNumber_"..tostring(zone.sectors[1]).."+VoicedNumber_"..tostring(zone.sectors[2]).."+VoicedNumber_"..tostring(zone.sectors[3]).."+AEBS_random_0_3+VoicedNumber_"..tostring(zone.sectors[4]);
     elseif rand<1000 then
         local i=ZombRand(1,36);
         s = string.format(getRadioText("AEBS_random_1"), i );
@@ -541,17 +543,17 @@ function WeatherChannel.TestAll(_gametime, _bc)
     local forecaster = clim:getClimateForecaster();
 
     local c = { r=1.0, g=1.0, b=1.0 };
-    _bc:AddRadioLine( RadioLine.new(getRadioText("AEBS_Intro"), c.r, c.g, c.b) );
+    _bc:AddRadioLine( RadioLine.new(getRadioText("AEBS_Intro"), c.r, c.g, c.b,"GUID:AEBS_Intro") );
     WeatherChannel.AddPowerNotice(c, _bc, true);
 
     local forecast = forecaster:getForecast();
-    WeatherChannel.AddForecast(c, _bc, forecast, getRadioText("AEBS_Pre_today"), true);
+    WeatherChannel.AddForecast(c, _bc, forecast, getRadioText("AEBS_Pre_today"), true, "AEBS_Pre_today");
 
     local forecast = forecaster:getForecast(1);
-    WeatherChannel.AddForecast(c, _bc, forecast, getRadioText("AEBS_Pre_tomorrow"), true);
+    WeatherChannel.AddForecast(c, _bc, forecast, getRadioText("AEBS_Pre_tomorrow"), true, "AEBS_Pre_tomorrow");
 
     local forecast = forecaster:getForecast(2);
-    WeatherChannel.AddForecast(c, _bc, forecast, getRadioText("AEBS_Pre_dayafter"), true);
+    WeatherChannel.AddForecast(c, _bc, forecast, getRadioText("AEBS_Pre_dayafter"), true, "AEBS_Pre_dayafter");
 
     WeatherChannel.AddExtremesForecasting(c, _bc, 3, 20);
 
@@ -571,7 +573,7 @@ function WeatherChannel.TestAll(_gametime, _bc)
     WeatherChannel.GetRandomString(c, _bc, 100, 9009);
     WeatherChannel.GetRandomString(c, _bc, 100, 9010);
 
-    _bc:AddRadioLine( RadioLine.new(getRadioText("AEBS_Choppah"), c.r, c.g, c.b) );
+    _bc:AddRadioLine( RadioLine.new(getRadioText("AEBS_Choppah"), c.r, c.g, c.b,"GUID:AEBS_Choppah") );
     WeatherChannel.AddFuzz(c, _bc, 6);
 end
 
