@@ -150,11 +150,11 @@ function WeatherChannel.AddFuzz(_c, _bc, _chance)
     local rand = ZombRand(1,_chance or 12);
 
     if rand==1 or rand==2 then
-        _bc:AddRadioLine( RadioLine.new("<bzzt>", _c.r, _c.g, _c.b) );
+        _bc:AddRadioLine( RadioLine.new("<bzzt>", _c.r, _c.g, _c.b,"GUID:AEBS_buzz_1") );
     elseif rand==3 or rand==4 then
-        _bc:AddRadioLine( RadioLine.new("<fzzt>", _c.r, _c.g, _c.b) );
+        _bc:AddRadioLine( RadioLine.new("<fzzt>", _c.r, _c.g, _c.b,"GUID:AEBS_buzz_1") );
     elseif rand==5 or rand==6 then
-        _bc:AddRadioLine( RadioLine.new("<wzzt>", _c.r, _c.g, _c.b) );
+        _bc:AddRadioLine( RadioLine.new("<wzzt>", _c.r, _c.g, _c.b,"GUID:AEBS_buzz_2") );
     end
 end
 
@@ -485,7 +485,7 @@ function WeatherChannel.GetRandomString(_c, _bc, _doItThreshold, _forceRand)
     elseif rand<1000 then
         local i=ZombRand(1,36);
         s = string.format(getRadioText("AEBS_random_1"), i );
-        fx = "AEBS_random_1_1+VoicedNumber_"..tostring(i).."+AEBS_random_1_2";
+        fx = "AEBS_random_1+VoicedNumber_"..tostring(i).."+AEBS_buzz_2";
     elseif rand<1500 then
         local i = ZombRand(1,1000);
         s = string.format(getRadioText("AEBS_random_2"), i );
@@ -497,7 +497,7 @@ function WeatherChannel.GetRandomString(_c, _bc, _doItThreshold, _forceRand)
         if act_num >= 3 then
             act_num = act_num + 1; --Activity number 3 is disabled
         end
-        fx = "AEBS_rand_pre_"..tostring(act_num).."+AEBS_random_3+VoicedNumber_"..tostring(sect); 
+        fx = "AEBS_rand_pre_"..tostring(act_num).."+AEBS_random_3+VoicedNumber_"..tostring(sect).."+AEBS_buzz_2"; 
     --elseif rand==9000 then
     --    s = getRadioText("AEBS_random_4");
     elseif rand>=9000 and rand<9002 then
