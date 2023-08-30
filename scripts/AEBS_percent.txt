@@ -1,0 +1,1302 @@
+module Base
+{
+	sound VoicedPercent_1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_4
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_4.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_5
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_5.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_6
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_6.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_7
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_7.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_8
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_8.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_9
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_9.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_10
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_10.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_11
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_11.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_12
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_12.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_13
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_13.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_14
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_14.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_15
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_15.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_16
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_16.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_17
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_17.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_18
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_18.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_19
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_19.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_20
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_20.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_21
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_21.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_22
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_22.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_23
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_23.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_24
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_24.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_25
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_25.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_26
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_26.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_27
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_27.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_28
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_28.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_29
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_29.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_30
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_30.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_31
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_31.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_32
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_32.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_33
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_33.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_34
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_34.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_35
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_35.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_36
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_36.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_37
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_37.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_38
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_38.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_39
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_39.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_40
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_40.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_41
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_41.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_42
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_42.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_43
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_43.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_44
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_44.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_45
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_45.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_46
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_46.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_47
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_47.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_48
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_48.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_49
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_49.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_50
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_50.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_51
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_51.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_52
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_52.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_53
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_53.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_54
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_54.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_55
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_55.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_56
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_56.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_57
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_57.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_58
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_58.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_59
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_59.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_60
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_60.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_61
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_61.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_62
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_62.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_63
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_63.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_64
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_64.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_65
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_65.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_66
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_66.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_67
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_67.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_68
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_68.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_69
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_69.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_70
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_70.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_71
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_71.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_72
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_72.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_73
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_73.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_74
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_74.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_75
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_75.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_76
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_76.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_77
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_77.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_78
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_78.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_79
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_79.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_80
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_80.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_81
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_81.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_82
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_82.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_83
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_83.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_84
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_84.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_85
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_85.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_86
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_86.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_87
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_87.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_88
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_88.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_89
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_89.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_90
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_90.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_91
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_91.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_92
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_92.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_93
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_93.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_94
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_94.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_95
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_95.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_96
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_96.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_97
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_97.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_98
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_98.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_99
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_99.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound VoicedPercent_100
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/Percent/VoicedPercent_100.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+}

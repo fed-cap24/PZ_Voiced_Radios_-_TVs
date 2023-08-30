@@ -1,0 +1,1081 @@
+module Base
+{
+	sound AEBS_buzz_1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_buzz_1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_buzz_2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_buzz_2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_Choppah
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_Choppah.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_clouds_0
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_clouds_0.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_clouds_1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_clouds_1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_clouds_2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_clouds_2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_clouds_3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_clouds_3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_clouds_4
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_clouds_4.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_fog_0
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_fog_0.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_fog_1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_fog_1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_fog_2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_fog_2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_Intro
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_Intro.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_Power_1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_Power_1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_Power_2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_Power_2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_Power_3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_Power_3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_Pre_dayafter
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_Pre_dayafter.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_Pre_today
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_Pre_today.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_Pre_tomorrow
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_Pre_tomorrow.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_random_0_1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_random_0_1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_random_0_2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_random_0_2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_random_0_3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_random_0_3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_random_1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_random_1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_random_2_1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_random_2_1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_random_2_2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_random_2_2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_random_3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_random_3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_rand_pre_0
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_rand_pre_0.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_rand_pre_1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_rand_pre_1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_rand_pre_10
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_rand_pre_10.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_rand_pre_11
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_rand_pre_11.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_rand_pre_12
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_rand_pre_12.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_rand_pre_2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_rand_pre_2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_rand_pre_4
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_rand_pre_4.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_rand_pre_5
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_rand_pre_5.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_rand_pre_6
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_rand_pre_6.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_rand_pre_7
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_rand_pre_7.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_rand_pre_8
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_rand_pre_8.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_rand_pre_9
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_rand_pre_9.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_segment_afternoon
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_segment_afternoon.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_segment_early_morning
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_segment_early_morning.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_segment_evening
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_segment_evening.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_segment_morning
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_segment_morning.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_segment_night
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_segment_night.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_temperature_1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_temperature_1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_temperature_2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_temperature_2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_temperature_3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_temperature_3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_temperature_4
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_temperature_4.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_0_a
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_0_a.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_0_b
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_0_b.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_0_c
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_0_c.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_and_a
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_and_a.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_blizzard
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_blizzard.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_blizzard_C
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_blizzard_C.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_heavy_rain
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_heavy_rain.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_light_moderate
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_light_moderate.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_predicted
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_predicted.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_snowfall
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_snowfall.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_storm
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_storm.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_storm_C
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_storm_C.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_tropical
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_tropical.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_tropical_C
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_tropical_C.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_warning_1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_warning_1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_warning_2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_warning_2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_weather_warning_3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_weather_warning_3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_wind_0_1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_wind_0_1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_wind_0_2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_wind_0_2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_wind_0_3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_wind_0_3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_wind_1
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_wind_1.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_wind_2
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_wind_2.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_wind_3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_wind_3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_wind_4
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_wind_4.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_zone_name_c
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_zone_name_c.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_zone_name_e
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_zone_name_e.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_zone_name_n
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_zone_name_n.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_zone_name_ne
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_zone_name_ne.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_zone_name_nw
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_zone_name_nw.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_zone_name_s
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_zone_name_s.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_zone_name_se
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_zone_name_se.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_zone_name_sw
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_zone_name_sw.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_zone_name_w
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_zone_name_w.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_F
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_F.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_C
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_C.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_MpH
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_MpH.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_KpH
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_KpH.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+}
