@@ -121,8 +121,9 @@ end
 function WeatherChannel.FillBroadcast(_gametime, _bc)
     local hour = _gametime:getHour();
     local c = { r=1.0, g=1.0, b=1.0 };
-
-    _bc:AddRadioLine( RadioLine.new(comp(getRadioText("AEBS_Intro")), c.r, c.g, c.b,"GUID:AEBS_Intro") ); --TODO Should store the radio line and set it's time.
+    local _rl =  RadioLine.new(comp(getRadioText("AEBS_Intro")), c.r, c.g, c.b,"GUID:AEBS_Intro"); -- Time:4.70
+    _rl:setAirTime(4.70);
+    _bc:AddRadioLine(_rl);
 
     WeatherChannel.AddFuzz(c, _bc);
 
@@ -140,7 +141,9 @@ function WeatherChannel.FillBroadcast(_gametime, _bc)
 
     if getGameTime():getNightsSurvived() == getGameTime():getHelicopterDay1() then
         WeatherChannel.AddFuzz(c, _bc, 6);
-        _bc:AddRadioLine( RadioLine.new(comp(getRadioText("AEBS_Choppah")), c.r, c.g, c.b,"GUID:AEBS_Choppah") );--TODO Should store the radio line and set it's time.
+        _rl = RadioLine.new(comp(getRadioText("AEBS_Choppah")), c.r, c.g, c.b,"GUID:AEBS_Choppah"); -- Time:1.50
+        _rl:setAirTime(1.50);
+        _bc:AddRadioLine(_rl);
     end
 
     WeatherChannel.AddFuzz(c, _bc);
@@ -150,23 +153,35 @@ function WeatherChannel.AddFuzz(_c, _bc, _chance)
     local rand = ZombRand(1,_chance or 12);
 
     if rand==1 or rand==2 then
-        _bc:AddRadioLine( RadioLine.new("<bzzt>", _c.r, _c.g, _c.b,"GUID:AEBS_buzz_1") );
+        local _rl = RadioLine.new("<bzzt>", _c.r, _c.g, _c.b,"GUID:AEBS_buzz_1");
+        _rl:setAirTime(1.90);
+        _bc:AddRadioLine(_rl);
     elseif rand==3 or rand==4 then
-        _bc:AddRadioLine( RadioLine.new("<fzzt>", _c.r, _c.g, _c.b,"GUID:AEBS_buzz_1") );
+        local _rl = RadioLine.new("<fzzt>", _c.r, _c.g, _c.b,"GUID:AEBS_buzz_1");
+        _rl:setAirTime(1.90);
+        _bc:AddRadioLine(_rl);
     elseif rand==5 or rand==6 then
-        _bc:AddRadioLine( RadioLine.new("<wzzt>", _c.r, _c.g, _c.b,"GUID:AEBS_buzz_2") );
+        local _rl = RadioLine.new("<wzzt>", _c.r, _c.g, _c.b,"GUID:AEBS_buzz_2");
+        _rl:setAirTime(1.15);
+        _bc:AddRadioLine(_rl);
     end
 end
 
 function WeatherChannel.AddPowerNotice(_c, _bc, _force)
     if _force or (getGameTime():getNightsSurvived() == getSandboxOptions():getElecShutModifier()-2) then
-        _bc:AddRadioLine( RadioLine.new(comp(getRadioText("AEBS_Power_1")), _c.r, _c.g, _c.b,"GUID:AEBS_Power_1") ); --TODO Should store the radio line and set it's time.
+        local _rl = RadioLine.new(comp(getRadioText("AEBS_Power_1")), _c.r, _c.g, _c.b,"GUID:AEBS_Power_1");
+        _rl:setAirTime(3.50);
+        _bc:AddRadioLine(_rl);
     end
     if _force or (getGameTime():getNightsSurvived() == getSandboxOptions():getElecShutModifier()-1) then
-        _bc:AddRadioLine( RadioLine.new(comp(getRadioText("AEBS_Power_2")), _c.r, _c.g, _c.b,"GUID:AEBS_Power_2") ); --TODO Should store the radio line and set it's time.
+        local _rl = RadioLine.new(comp(getRadioText("AEBS_Power_2")), _c.r, _c.g, _c.b,"GUID:AEBS_Power_2");
+        _rl:setAirTime(4.69);
+        _bc:AddRadioLine(_rl);
     end
     if _force or (getGameTime():getNightsSurvived() >= getSandboxOptions():getElecShutModifier()) then
-        _bc:AddRadioLine( RadioLine.new(comp(getRadioText("AEBS_Power_3")), _c.r, _c.g, _c.b,"GUID:AEBS_Power_3") ); --TODO Should store the radio line and set it's time.
+        local _rl = RadioLine.new(comp(getRadioText("AEBS_Power_3")), _c.r, _c.g, _c.b,"GUID:AEBS_Power_3");
+        _rl:setAirTime(2.17);
+        _bc:AddRadioLine(_rl);
     end
 end
 
@@ -205,24 +220,35 @@ function WeatherChannel.AddForecast(_c, _bc, _forecast, _prefix, _doFog,_prefixC
     aux_s, aux_fx = WeatherChannel.GetForecastString(1, _forecast);
     fx = fx .. aux_fx
     s = s .. aux_s
-    _bc:AddRadioLine( RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx) );
+    local _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); -- Aproximate time: 13.82 + _prefixTime = 14.92
+    _rl:setAirTime(14.92);
+    _bc:AddRadioLine( _rl ); 
+    
 
     s , fx= WeatherChannel.GetForecastString(2, _forecast);
-    _bc:AddRadioLine( RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx) );
+    _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); -- Aproximate time: 9.15
+    _rl:setAirTime(9.15);
+    _bc:AddRadioLine(_rl);
 
     if _doFog and _forecast:isHasFog() then
         s , fx= WeatherChannel.GetForecastString(3, _forecast);
-        _bc:AddRadioLine( RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx) );
+        _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); -- Aproximate time: 0.90
+        _rl:setAirTime(0.90);
+        _bc:AddRadioLine(_rl);
     end
 
     if _forecast:isWeatherStarts() then
         -- a new weather period starts
         s , fx= WeatherChannel.GetForecastString(4, _forecast);
-        _bc:AddRadioLine( RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx) );
+        _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); -- Aproximate time: 7.25
+        _rl:setAirTime(7.25);
+        _bc:AddRadioLine(_rl);
     elseif _forecast:getWeatherOverlap() then
         -- a already started weather period overlaps this day
         s , fx= WeatherChannel.GetForecastString(5, _forecast);
-        _bc:AddRadioLine( RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx) );
+        _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); -- Aproximate time: 7.25
+        _rl:setAirTime(7.25);
+        _bc:AddRadioLine(_rl);
     end
 end
 
@@ -234,7 +260,31 @@ function WeatherChannel.GetForecastString(_type, _forecast)
         local a,b,c = v:getTotalMean(), v:getTotalMin(), v:getTotalMax();
         local d = roundstring100(_forecast:getHumidity():getTotalMean()*100);
         s = string.format(" "..getRadioText("AEBS_temperature"), Temperature.getTemperatureString(a), Temperature.getTemperatureString(b), Temperature.getTemperatureString(c), d);
-        fx = string.format("AEBS_temperature_1+VoicedTemp_%s+AEBS_temperature_2+VoicedTemp_%s+AEBS_temperature_3+VoicedTemp_%s+AEBS_temperature_4+VoicedPercent_%s",Temperature.getTemperatureString(a), Temperature.getTemperatureString(b), Temperature.getTemperatureString(c), d);
+
+        local input = string.format("%s",Temperature.getTemperatureString(a))
+
+        local aux = {};
+        for value in input:gmatch("%S+") do
+            table.insert(aux, value);
+        end
+        aux[2] = string.sub(aux[2], 2);
+        local temp_a = "VoicedFloat_"..aux[1].."+AEBS_"..aux[2];
+        input = string.format("%s",Temperature.getTemperatureString(b))
+        aux = {};
+        for value in input:gmatch("%S+") do
+            table.insert(aux, value)
+        end
+        aux[2] = string.sub(aux[2], 2);
+        local temp_b = "VoicedFloat_"..aux[1].."+AEBS_"..aux[2];
+        input = string.format("%s",Temperature.getTemperatureString(c))
+        aux = {};
+        for value in input:gmatch("%S+") do
+            table.insert(aux, value);
+        end
+        aux[2] = string.sub(aux[2], 2);
+        local temp_c = "VoicedFloat_"..aux[1].."+AEBS_"..aux[2];
+
+        fx = string.format("AEBS_temperature_1+%s+AEBS_temperature_2+%s+AEBS_temperature_3+%s+AEBS_temperature_4+VoicedPercent_%s",temp_a, temp_b, temp_c, d); -- Aproximate time: 0.99+1.9+1.20+0.63+1.9+1.20+0.77+1.9+1.20+0.73+1.4 = 13.82
         --[[
         elseif _type==2 then
             local v = _forecast:getWindPower();
@@ -274,11 +324,11 @@ function WeatherChannel.GetForecastString(_type, _forecast)
         if getCore():getOptionDisplayAsCelsius() then
             local aux = roundstring(ClimateManager.ToKph(c));
             c = aux.." KpH";
-            wind_speed_code = aux.."_KpH";
+            wind_speed_code = "VoicedFloat_"..aux.."+AEBS_KpH";
         else
             local aux = roundstring(ClimateManager.ToMph(c));
             c = aux.." MpH";
-            wind_speed_code = aux.."_MpH";
+            wind_speed_code = "VoicedFloat_"..aux.."+AEBS_MpH";
         end
         local d = _forecast:getMeanWindAngleString();
         local dnew = getRadioText("AEBS_zone_name_"..d:lower());
@@ -326,7 +376,7 @@ function WeatherChannel.GetForecastString(_type, _forecast)
         end
 
         s = string.format(getRadioText("AEBS_wind_0"), w, d, c, e);
-        fx = string.format("%s+AEBS_wind_0_1+%sAEBS_wind_0_2+%s+AEBS_wind_0_3+%s",wind_strength_code,wind_dir_code,wind_speed_code,clouds_code);
+        fx = string.format("%s+AEBS_wind_0_1+%sAEBS_wind_0_2+%s+AEBS_wind_0_3+%s",wind_strength_code,wind_dir_code,wind_speed_code,clouds_code); --Expected time: 0.8+0.7+0.75+0.9+1.5+1.20+0.6+2.7 = 9.15
         --s = string.format("Wind speed mean %s, min %s, max %s, average direction %s... %s", a, b, c, d, e);
     elseif _type==3 then
         local v = _forecast:getFogStrength();
@@ -461,7 +511,9 @@ function WeatherChannel.AddExtremesForecasting(_c, _bc, offset, _len)
 
             local s = string.format(getRadioText("AEBS_weather_warning"), type, tostring(i));
             local fx = "AEBS_weather_warning_1+"..weather_code.."+AEBS_weather_warning_2+VoicedNumber_"..tostring(i).."+AEBS_weather_warning_3"
-            _bc:AddRadioLine( RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx) );
+            local _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); --Too lazy to calculate: 9 seconds
+            _rl:setAirTime(9.00);
+            _bc:AddRadioLine(  );
             return;
         end
     end
@@ -533,7 +585,9 @@ function WeatherChannel.GetRandomString(_c, _bc, _doItThreshold, _forceRand)
         --local radio = getZomboidRadio();
         --s = radio:scrambleString(s, 20, false, nil);
         local c = {r=0.5,g=0.5,b=0.5};
-        _bc:AddRadioLine( RadioLine.new(s, c.r, c.g, c.b,"GUID:"..fx) );
+        local _rl = RadioLine.new(s, c.r, c.g, c.b,"GUID:"..fx); --Aproximate time: 7 (didn't calculate, I'm lazy)
+        _rl:setAirTime(7.00);
+        _bc:AddRadioLine(_rl);
     end
 end
 
@@ -543,7 +597,9 @@ function WeatherChannel.TestAll(_gametime, _bc)
     local forecaster = clim:getClimateForecaster();
 
     local c = { r=1.0, g=1.0, b=1.0 };
-    _bc:AddRadioLine( RadioLine.new(getRadioText("AEBS_Intro"), c.r, c.g, c.b,"GUID:AEBS_Intro") );
+    local _rl =  RadioLine.new(comp(getRadioText("AEBS_Intro")), c.r, c.g, c.b,"GUID:AEBS_Intro");
+    _rl:setAirTime(4.70);
+    _bc:AddRadioLine(_rl);
     WeatherChannel.AddPowerNotice(c, _bc, true);
 
     local forecast = forecaster:getForecast();
@@ -573,7 +629,9 @@ function WeatherChannel.TestAll(_gametime, _bc)
     WeatherChannel.GetRandomString(c, _bc, 100, 9009);
     WeatherChannel.GetRandomString(c, _bc, 100, 9010);
 
-    _bc:AddRadioLine( RadioLine.new(getRadioText("AEBS_Choppah"), c.r, c.g, c.b,"GUID:AEBS_Choppah") );
+    _rl = RadioLine.new(comp(getRadioText("AEBS_Choppah")), c.r, c.g, c.b,"GUID:AEBS_Choppah");
+    _rl:setAirTime(1.50);
+    _bc:AddRadioLine(_rl);
     WeatherChannel.AddFuzz(c, _bc, 6);
 end
 

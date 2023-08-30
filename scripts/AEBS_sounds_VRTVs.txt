@@ -1026,4 +1026,56 @@ module Base
 			reverbFactor = 0,
 		}
 	}
+
+	sound AEBS_F
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_F.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_C
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_C.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_MpH
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_MpH.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound AEBS_KpH
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/AEBS/AEBS_KpH.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
 }
