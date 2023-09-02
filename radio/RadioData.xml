@@ -6425,31 +6425,31 @@
           <LineEntry ID="da30d9a5-9fed-4116-af1d-67d22a60c36e" r="128" g="128" b="255">${t:3.27}See you tomorrow!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="ab66813c-ccd7-4865-94ab-7ca527777ba9" timestamp="360" endstamp="690" type="ActivateBroadcast" day="0" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="d363f154-086a-44c8-bf79-db09bfa3299c" r="0" g="176" b="80" codes="GUID:d363f154-086a-44c8-bf79-db09bfa3299c">${t:1.62}Y'all are watching Woodcraft! </LineEntry>
-          <LineEntry ID="207759c5-e89e-421e-bc89-61170ee4ba03" r="0" g="176" b="80">${t:2.12}Your one stop shop for home improvement!</LineEntry>
-          <LineEntry ID="013188e0-3d64-43aa-863c-d481f4da6fd2" r="0" g="176" b="80" codes="BOR-1">${t:1.28}Today we're building a...</LineEntry>
-          <LineEntry ID="fb3483d5-474b-479b-850e-6505697572d5" r="0" g="176" b="80">${t:0.97}A bookcase.</LineEntry>
-          <LineEntry ID="03439fed-ba2e-4af7-a2b7-b567a080ee62" r="0" g="176" b="80">${t:1.93}You'll need five planks and four nails.</LineEntry>
-          <LineEntry ID="2053ae50-7ea3-4885-adfe-36094265cdd5" r="0" g="176" b="80">${t:1.80}Take your hammer like so... and...</LineEntry>
-          <LineEntry ID="e31ef0c9-c3c5-4ed6-9202-96c5864638d9" r="0" g="0" b="0" codes="BOR-1">${t:0.93}*bang* *bang*</LineEntry>
-          <LineEntry ID="797d7ddd-c394-4c5f-b68a-c1c77b406d68" r="0" g="176" b="80">${t:2.17}Okay so we're talking to men today, apparently.</LineEntry>
-          <LineEntry ID="e40ea507-7a4d-47b2-a5f8-82153f6cf70f" r="0" g="176" b="80">${t:2.09}Focus-testing. You got to love it, huh?</LineEntry>
-          <LineEntry ID="7e28da39-6029-40a6-bff0-f99591bad1d9" r="0" g="176" b="80" codes="BOR-1">${t:2.32}Anyway, men like bars. They like a beer.</LineEntry>
-          <LineEntry ID="f14f0a3c-e1ef-4b4e-aad3-361115ec3df0" r="0" g="176" b="80" codes="BOR-1">${t:0.68}&lt;sigh&gt;</LineEntry>
-          <LineEntry ID="b9ef2d99-0b7a-40bb-9b39-c9d37d5a25f9" r="0" g="176" b="80">${t:1.33}Would you... dude...</LineEntry>
-          <LineEntry ID="f8fed2e0-734d-4c3c-99b3-d5661e118762" r="0" g="176" b="80" codes="BOR-1">${t:1.80}Like to build a bar in your own home?</LineEntry>
-          <LineEntry ID="8c7e4b2d-9a89-4552-aecd-e8587fca9757" r="0" g="176" b="80">${t:2.77}They say you really would. So... for the corners.</LineEntry>
-          <LineEntry ID="9265f510-b857-4813-afac-f4a1b9083ec8" r="0" g="176" b="80" codes="BOR-1">${t:2.77}Four planks, four nails and some nimble fingers.</LineEntry>
-          <LineEntry ID="36bb6888-40ce-4fe9-86f9-b6e33eb515bf" r="0" g="0" b="0">${t:0.93}*bang* *bang*</LineEntry>
-          <LineEntry ID="01b17da1-87cc-4365-bc9b-696368c9a0ed" r="0" g="176" b="80" codes="BOR-1">${t:1.38}Yee-hah. There y'all are.</LineEntry>
-          <LineEntry ID="fda5440a-1e04-4c18-abe9-91d1bc967213" r="0" g="176" b="80">${t:1.85}And for the middle? The bar element?</LineEntry>
-          <LineEntry ID="8445073f-d3fc-48dd-9ec7-051a0b7fc2c5" r="0" g="176" b="80">${t:2.22}Same again: four planks, four nails.</LineEntry>
-          <LineEntry ID="a8ab3ff6-81aa-42fc-aa4b-15d9c8214200" r="0" g="0" b="0">${t:0.93}*bang* *bang*</LineEntry>
-          <LineEntry ID="3b0db071-d900-434e-8f58-896dc2f2df49" r="0" g="176" b="80">${t:2.22}Put it all together and... you're good and ready.</LineEntry>
-          <LineEntry ID="38303a59-da0b-434e-9ed3-791755304faa" r="0" g="176" b="80">${t:1.10}Well, I need a drink.</LineEntry>
-          <LineEntry ID="61a8d178-0a4b-48ef-bbb8-f8d0cb7c295f" r="0" g="176" b="80">${t:1.99}Here's to the new era of Woodcraft.</LineEntry>
-          <LineEntry ID="c666c0c4-c7fc-4706-b660-10025c9472dd" r="0" g="176" b="80">${t:0.86}Till next time.</LineEntry>
-          <LineEntry ID="00c08fac-3e3e-4be4-adfa-e74671a5f5ac" r="0" g="176" b="240" codes="BOR-1">${t:3.00}[img=music] Wood... craft! [img=music]</LineEntry>
+          <LineEntry ID="d363f154-086a-44c8-bf79-db09bfa3299c" r="0" g="176" b="80" codes="GUID:d363f154-086a-44c8-bf79-db09bfa3299c">${t:2.01}Y'all are watching Woodcraft! </LineEntry>
+          <LineEntry ID="207759c5-e89e-421e-bc89-61170ee4ba03" r="0" g="176" b="80">${t:2.66}Your one stop shop for home improvement!</LineEntry>
+          <LineEntry ID="013188e0-3d64-43aa-863c-d481f4da6fd2" r="0" g="176" b="80" codes="BOR-1">${t:2.38}Today we're building a...</LineEntry>
+          <LineEntry ID="fb3483d5-474b-479b-850e-6505697572d5" r="0" g="176" b="80">${t:1.61}A bookcase.</LineEntry>
+          <LineEntry ID="03439fed-ba2e-4af7-a2b7-b567a080ee62" r="0" g="176" b="80">${t:3.01}You'll need five planks and four nails.</LineEntry>
+          <LineEntry ID="2053ae50-7ea3-4885-adfe-36094265cdd5" r="0" g="176" b="80">${t:2.60}Take your hammer like so... and...</LineEntry>
+          <LineEntry ID="e31ef0c9-c3c5-4ed6-9202-96c5864638d9" r="0" g="0" b="0" codes="BOR-1">${t:1.21}*bang* *bang*</LineEntry>
+          <LineEntry ID="797d7ddd-c394-4c5f-b68a-c1c77b406d68" r="0" g="176" b="80">${t:3.73}Okay so we're talking to men today, apparently.</LineEntry>
+          <LineEntry ID="e40ea507-7a4d-47b2-a5f8-82153f6cf70f" r="0" g="176" b="80">${t:3.37}Focus-testing. You got to love it, huh?</LineEntry>
+          <LineEntry ID="7e28da39-6029-40a6-bff0-f99591bad1d9" r="0" g="176" b="80" codes="BOR-1">${t:3.88}Anyway, men like bars. They like a beer.</LineEntry>
+          <LineEntry ID="f14f0a3c-e1ef-4b4e-aad3-361115ec3df0" r="0" g="176" b="80" codes="BOR-1">${t:1.99}&lt;sigh&gt;</LineEntry>
+          <LineEntry ID="b9ef2d99-0b7a-40bb-9b39-c9d37d5a25f9" r="0" g="176" b="80">${t:1.60}Would you... dude...</LineEntry>
+          <LineEntry ID="f8fed2e0-734d-4c3c-99b3-d5661e118762" r="0" g="176" b="80" codes="BOR-1">${t:2.85}Like to build a bar in your own home?</LineEntry>
+          <LineEntry ID="8c7e4b2d-9a89-4552-aecd-e8587fca9757" r="0" g="176" b="80">${t:3.72}They say you really would. So... for the corners.</LineEntry>
+          <LineEntry ID="9265f510-b857-4813-afac-f4a1b9083ec8" r="0" g="176" b="80" codes="BOR-1">${t:3.96}Four planks, four nails and some nimble fingers.</LineEntry>
+          <LineEntry ID="36bb6888-40ce-4fe9-86f9-b6e33eb515bf" r="0" g="0" b="0">${t:0.66}*bang* *bang*</LineEntry>
+          <LineEntry ID="01b17da1-87cc-4365-bc9b-696368c9a0ed" r="0" g="176" b="80" codes="BOR-1">${t:2.50}Yee-hah. There y'all are.</LineEntry>
+          <LineEntry ID="fda5440a-1e04-4c18-abe9-91d1bc967213" r="0" g="176" b="80">${t:2.90}And for the middle? The bar element?</LineEntry>
+          <LineEntry ID="8445073f-d3fc-48dd-9ec7-051a0b7fc2c5" r="0" g="176" b="80">${t:3.48}Same again: four planks, four nails.</LineEntry>
+          <LineEntry ID="a8ab3ff6-81aa-42fc-aa4b-15d9c8214200" r="0" g="0" b="0">${t:0.89}*bang* *bang*</LineEntry>
+          <LineEntry ID="3b0db071-d900-434e-8f58-896dc2f2df49" r="0" g="176" b="80">${t:3.68}Put it all together and... you're good and ready.</LineEntry>
+          <LineEntry ID="38303a59-da0b-434e-9ed3-791755304faa" r="0" g="176" b="80">${t:4.00}Well, I need a drink.</LineEntry>
+          <LineEntry ID="61a8d178-0a4b-48ef-bbb8-f8d0cb7c295f" r="0" g="176" b="80">${t:3.84}Here's to the new era of Woodcraft.</LineEntry>
+          <LineEntry ID="c666c0c4-c7fc-4706-b660-10025c9472dd" r="0" g="176" b="80">${t:1.62}Till next time.</LineEntry>
+          <LineEntry ID="00c08fac-3e3e-4be4-adfa-e74671a5f5ac" r="0" g="176" b="240" codes="BOR-1">${t:4.99}[img=music] Wood... craft! [img=music]</LineEntry>
         </BroadcastEntry>
       </ScriptEntry>
       <ScriptEntry ID="6dbd64e6-64a4-49b2-aa47-839f4cc898ab" name="main" startdelay="0" timestampmode="Static" loopmin="1" loopmax="1">
@@ -6494,24 +6494,24 @@
           <LineEntry ID="67f2417d-cba8-4e2d-8870-0f31b0124a17" r="128" g="128" b="255">${t:1.10}See y'all tomorrow!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="aece616a-4883-4e09-bd35-39aed89fe655" timestamp="720" endstamp="1080" type="ActivateBroadcast" day="0" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="d3e99611-97b3-4ac2-bc8a-cf9641b470c8" r="0" g="176" b="80" codes="GUID:d3e99611-97b3-4ac2-bc8a-cf9641b470c8">${t:1.40}Y'all are watching Woodcraft!</LineEntry>
-          <LineEntry ID="41bdcd7f-ae3c-40c6-862a-59a16be6759d" r="0" g="176" b="80">${t:2.32}Your one stop shop for home improvement!</LineEntry>
-          <LineEntry ID="255e366a-1954-44ce-bed3-c43b4501c1cf" r="0" g="176" b="80">${t:1.76}We're startin' with the basics.</LineEntry>
-          <LineEntry ID="451e2b1b-1aab-4bd9-9f0f-3d01735c135a" r="0" g="176" b="80">${t:1.88}The kinda stuff they teach at kindergarten.</LineEntry>
-          <LineEntry ID="251f9986-ddf1-48d0-b68a-6e81b7ac38f6" r="0" g="176" b="80">${t:2.40}You like floors? I like floors.</LineEntry>
-          <LineEntry ID="6a59acba-6882-4435-a24b-81b91436d05e" r="0" g="176" b="80" codes="CRP+1">${t:1.88}Take a plank and a nail like this...</LineEntry>
-          <LineEntry ID="e9399ff8-a997-4d2a-81de-ef4d7f84082e" r="0" g="176" b="80" codes="CRP+1">${t:1.24}Take your hammer and...</LineEntry>
-          <LineEntry ID="fff45565-ab4b-4845-b1ba-1511a6776813" r="0" g="0" b="0" codes="CRP+1">${t:1.16}*bang* *bang*</LineEntry>
-          <LineEntry ID="75a03f86-d185-4049-b9e0-3221ecae6ed3" r="0" g="176" b="80">${t:1.60}Looks kinda nice like that huh?</LineEntry>
-          <LineEntry ID="c02e2445-1ee7-472d-9078-79238bc28866" r="0" g="0" b="0" codes="CRP+1">${t:1.16}*bang* *bang*</LineEntry>
-          <LineEntry ID="595f10b5-8241-486f-99f4-7c89fd98df45" r="0" g="176" b="80">${t:1.76}Know what else is good for practice?</LineEntry>
-          <LineEntry ID="b5f4b0a1-dd7e-4cd6-8e26-3597a36c6776" r="0" g="176" b="80" codes="CRP+1">${t:2.12}A sign. Write whatever you like.</LineEntry>
-          <LineEntry ID="99923b85-f0f5-4f51-be33-6286b53492f2" r="0" g="176" b="80">${t:1.00}Hunk at work, maybe?</LineEntry>
-          <LineEntry ID="9b70a46d-2f20-44ed-a8e1-ab0205c3bfc3" r="0" g="0" b="0" codes="CRP+1">${t:1.00}*bang* *bang*</LineEntry>
-          <LineEntry ID="9e26c82c-df8b-488f-985f-038acf75f50d" r="0" g="176" b="80">${t:2.44}Like that ladies? Leadin' y'all straight to me!</LineEntry>
-          <LineEntry ID="ca76da05-81b3-4f8b-af61-17be8dc204db" r="0" g="176" b="80">${t:1.92}Tomorrow we're takin' off the training wheels.</LineEntry>
-          <LineEntry ID="396b76b9-9cc4-45b2-b44e-477d7368ba22" r="0" g="176" b="80">${t:2.60}Door frames here we come!</LineEntry>
-          <LineEntry ID="f911cb42-799d-4d13-bf1f-57d58a170547" r="0" g="176" b="240">[img=music] Wood... craft! [img=music]</LineEntry>
+          <LineEntry ID="d3e99611-97b3-4ac2-bc8a-cf9641b470c8" r="0" g="176" b="80" codes="GUID:d3e99611-97b3-4ac2-bc8a-cf9641b470c8">${t:1.96}Y'all are watching Woodcraft!</LineEntry>
+          <LineEntry ID="41bdcd7f-ae3c-40c6-862a-59a16be6759d" r="0" g="176" b="80">${t:2.64}Your one stop shop for home improvement!</LineEntry>
+          <LineEntry ID="255e366a-1954-44ce-bed3-c43b4501c1cf" r="0" g="176" b="80">${t:1.72}We're startin' with the basics.</LineEntry>
+          <LineEntry ID="451e2b1b-1aab-4bd9-9f0f-3d01735c135a" r="0" g="176" b="80">${t:2.39}The kinda stuff they teach at kindergarten.</LineEntry>
+          <LineEntry ID="251f9986-ddf1-48d0-b68a-6e81b7ac38f6" r="0" g="176" b="80">${t:2.45}You like floors? I like floors.</LineEntry>
+          <LineEntry ID="6a59acba-6882-4435-a24b-81b91436d05e" r="0" g="176" b="80" codes="CRP+1">${t:3.01}Take a plank and a nail like this...</LineEntry>
+          <LineEntry ID="e9399ff8-a997-4d2a-81de-ef4d7f84082e" r="0" g="176" b="80" codes="CRP+1">${t:1.65}Take your hammer and...</LineEntry>
+          <LineEntry ID="fff45565-ab4b-4845-b1ba-1511a6776813" r="0" g="0" b="0" codes="CRP+1">${t:1.50}*bang* *bang*</LineEntry>
+          <LineEntry ID="75a03f86-d185-4049-b9e0-3221ecae6ed3" r="0" g="176" b="80">${t:1.51}Looks kinda nice like that huh?</LineEntry>
+          <LineEntry ID="c02e2445-1ee7-472d-9078-79238bc28866" r="0" g="0" b="0" codes="CRP+1">${t:1.05}*bang* *bang*</LineEntry>
+          <LineEntry ID="595f10b5-8241-486f-99f4-7c89fd98df45" r="0" g="176" b="80">${t:1.62}Know what else is good for practice?</LineEntry>
+          <LineEntry ID="b5f4b0a1-dd7e-4cd6-8e26-3597a36c6776" r="0" g="176" b="80" codes="CRP+1">${t:2.77}A sign. Write whatever you like.</LineEntry>
+          <LineEntry ID="99923b85-f0f5-4f51-be33-6286b53492f2" r="0" g="176" b="80">${t:1.38}Hunk at work, maybe?</LineEntry>
+          <LineEntry ID="9b70a46d-2f20-44ed-a8e1-ab0205c3bfc3" r="0" g="0" b="0" codes="CRP+1">${t:1.05}*bang* *bang*</LineEntry>
+          <LineEntry ID="9e26c82c-df8b-488f-985f-038acf75f50d" r="0" g="176" b="80">${t:3.45}Like that ladies? Leadin' y'all straight to me!</LineEntry>
+          <LineEntry ID="ca76da05-81b3-4f8b-af61-17be8dc204db" r="0" g="176" b="80">${t:2.45}Tomorrow we're takin' off the training wheels.</LineEntry>
+          <LineEntry ID="396b76b9-9cc4-45b2-b44e-477d7368ba22" r="0" g="176" b="80">${t:1.94}Door frames here we come!</LineEntry>
+          <LineEntry ID="f911cb42-799d-4d13-bf1f-57d58a170547" r="0" g="176" b="240">${t:4.99}[img=music] Wood... craft! [img=music]</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="4e3d8faf-8e30-4f80-9eac-a7fcb32b3900" timestamp="1080" endstamp="1410" type="ActivateBroadcast" day="0" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="d3fc88d4-5e1e-4d80-9665-59ac5e4fbf86" r="255" g="192" b="0" codes="GUID:d3fc88d4-5e1e-4d80-9665-59ac5e4fbf86">${t:1.93}Welcome to Exposure Survival guys.</LineEntry>
@@ -6559,27 +6559,27 @@
           <LineEntry ID="80365889-9ba0-4056-8cb4-fa76f41d3b92" r="128" g="128" b="255" codes="BOR-1">${t:1.15}See y'all tomorrow.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="0f2c6233-c94b-4cfc-933a-64a20d41c803" timestamp="2160" endstamp="2520" type="ActivateBroadcast" day="1" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="22e69c69-0f13-4d40-8a46-3059a88dfe2c" r="0" g="176" b="80" codes="BOR-1,GUID:22e69c69-0f13-4d40-8a46-3059a88dfe2c">${t:1.67}Y'all are watching Woodcraft!</LineEntry>
-          <LineEntry ID="86e009f5-8dff-4bb9-b95c-b67985a68c14" r="0" g="176" b="80">${t:2.32}Your one stop shop for home improvement!</LineEntry>
-          <LineEntry ID="7d4527c5-3fa0-4bb9-8551-3af3c01a190a" r="0" g="176" b="80">${t:1.91}Intermediate carpentry! Yeehah!</LineEntry>
-          <LineEntry ID="f39b90b5-3046-47bd-a98e-2f77f08d6e06" r="0" g="176" b="80">${t:1.91}Sick of seein' your fella's face ladies?</LineEntry>
-          <LineEntry ID="c6179b8f-0c9e-43fc-9fe5-ece0cc6442ec" r="0" g="176" b="80" codes="CRP+1">${t:1.91}You need a wall in there: a big one.</LineEntry>
-          <LineEntry ID="7e755ce2-145c-411c-8d8c-4c3022454141" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.93}Three nails, three planks... take that hammer and...</LineEntry>
-          <LineEntry ID="706b022f-c38d-4cc5-8cd2-13219302d362" r="0" g="0" b="0" codes="BOR-1">${t:0.93}*bang* *bang*</LineEntry>
-          <LineEntry ID="69360d15-e3aa-4b61-8fe0-ff7c79bd271e" r="0" g="176" b="80" codes="BOR-1">${t:1.67}That there's a piece of wall.</LineEntry>
-          <LineEntry ID="1b3090b7-2c5f-488a-bcb8-4ee536f59520" r="0" g="176" b="80">${t:0.65}Neat huh?</LineEntry>
-          <LineEntry ID="8c37a3d8-bcdc-4194-843c-2d7421ce765d" r="0" g="176" b="80" codes="BOR-1">${t:2.04}Now doors and windows? That's the end game!</LineEntry>
-          <LineEntry ID="335f9116-b23e-4c3b-862d-88ebb14a667b" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.69}There's one thing you can do for them right now mind...</LineEntry>
-          <LineEntry ID="c6acc4d4-3b99-47b9-890c-93fa920aa0f8" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:1.91}And that's find 'em a place to hang.</LineEntry>
-          <LineEntry ID="89f9ee40-99fb-466e-8cb0-81169bf0f161" r="0" g="176" b="80">${t:2.93}Window frames, door frames... all the same to me.</LineEntry>
-          <LineEntry ID="552b3b91-dbb7-4ec9-ad6d-9b87ef272a82" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:1.91}Four planks and nails! Let's go!</LineEntry>
-          <LineEntry ID="67220c28-d352-4ff3-ba7a-3316f168ad71" r="0" g="0" b="0" codes="CRP+1,BOR-1">${t:0.93}*bang* *bang*</LineEntry>
-          <LineEntry ID="93c8a004-5612-443c-ac66-be1be4a309fa" r="0" g="176" b="80" codes="BOR-1">${t:1.33}There you go ladies!</LineEntry>
-          <LineEntry ID="7d09882f-c3c7-4c91-8679-26b8ff456db8" r="0" g="176" b="80" codes="BOR-1">${t:2.17}Most fun I had recently with ma shirt on!</LineEntry>
-          <LineEntry ID="fd350e46-62ba-4e34-9f83-4a9e7292b509" r="0" g="176" b="80" codes="BOR-1">${t:2.32}Next time - intermediary part 2!</LineEntry>
-          <LineEntry ID="8eb056c0-e42d-4df2-a28c-3a0432b258ec" r="0" g="176" b="80">${t:2.87}We find somewhere you can rest that sweet be-hind!</LineEntry>
-          <LineEntry ID="54467c55-8b17-4861-9560-6fa3b6802f7d" r="0" g="176" b="80" codes="BOR-1">${t:1.33}Chairs! Don't miss it!</LineEntry>
-          <LineEntry ID="4a52a841-1f50-40f6-8ede-dbc1863ad3c7" r="0" g="176" b="240">${t:3.00}[img=music] Wood... craft! [img=music]</LineEntry>
+          <LineEntry ID="22e69c69-0f13-4d40-8a46-3059a88dfe2c" r="0" g="176" b="80" codes="BOR-1,GUID:22e69c69-0f13-4d40-8a46-3059a88dfe2c">${t:1.62}Y'all are watching Woodcraft!</LineEntry>
+          <LineEntry ID="86e009f5-8dff-4bb9-b95c-b67985a68c14" r="0" g="176" b="80">${t:2.61}Your one stop shop for home improvement!</LineEntry>
+          <LineEntry ID="7d4527c5-3fa0-4bb9-8551-3af3c01a190a" r="0" g="176" b="80">${t:3.11}Intermediate carpentry! Yeehah!</LineEntry>
+          <LineEntry ID="f39b90b5-3046-47bd-a98e-2f77f08d6e06" r="0" g="176" b="80">${t:2.90}Sick of seein' your fella's face ladies?</LineEntry>
+          <LineEntry ID="c6179b8f-0c9e-43fc-9fe5-ece0cc6442ec" r="0" g="176" b="80" codes="CRP+1">${t:3.33}You need a wall in there: a big one.</LineEntry>
+          <LineEntry ID="7e755ce2-145c-411c-8d8c-4c3022454141" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:3.78}Three nails, three planks... take that hammer and...</LineEntry>
+          <LineEntry ID="706b022f-c38d-4cc5-8cd2-13219302d362" r="0" g="0" b="0" codes="BOR-1">${t:1.44}*bang* *bang*</LineEntry>
+          <LineEntry ID="69360d15-e3aa-4b61-8fe0-ff7c79bd271e" r="0" g="176" b="80" codes="BOR-1">${t:2.09}That there's a piece of wall.</LineEntry>
+          <LineEntry ID="1b3090b7-2c5f-488a-bcb8-4ee536f59520" r="0" g="176" b="80">${t:1.62}Neat huh?</LineEntry>
+          <LineEntry ID="8c37a3d8-bcdc-4194-843c-2d7421ce765d" r="0" g="176" b="80" codes="BOR-1">${t:3.35}Now doors and windows? That's the end game!</LineEntry>
+          <LineEntry ID="335f9116-b23e-4c3b-862d-88ebb14a667b" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.64}There's one thing you can do for them right now mind...</LineEntry>
+          <LineEntry ID="c6acc4d4-3b99-47b9-890c-93fa920aa0f8" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.08}And that's find 'em a place to hang.</LineEntry>
+          <LineEntry ID="89f9ee40-99fb-466e-8cb0-81169bf0f161" r="0" g="176" b="80">${t:3.79}Window frames, door frames... all the same to me.</LineEntry>
+          <LineEntry ID="552b3b91-dbb7-4ec9-ad6d-9b87ef272a82" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.61}Four planks and nails! Let's go!</LineEntry>
+          <LineEntry ID="67220c28-d352-4ff3-ba7a-3316f168ad71" r="0" g="0" b="0" codes="CRP+1,BOR-1">${t:1.44}*bang* *bang*</LineEntry>
+          <LineEntry ID="93c8a004-5612-443c-ac66-be1be4a309fa" r="0" g="176" b="80" codes="BOR-1">${t:1.45}There you go ladies!</LineEntry>
+          <LineEntry ID="7d09882f-c3c7-4c91-8679-26b8ff456db8" r="0" g="176" b="80" codes="BOR-1">${t:2.90}Most fun I had recently with ma shirt on!</LineEntry>
+          <LineEntry ID="fd350e46-62ba-4e34-9f83-4a9e7292b509" r="0" g="176" b="80" codes="BOR-1">${t:2.70}Next time - intermediary part 2!</LineEntry>
+          <LineEntry ID="8eb056c0-e42d-4df2-a28c-3a0432b258ec" r="0" g="176" b="80">${t:3.38}We find someplace where you can rest that sweet be-hind!</LineEntry>
+          <LineEntry ID="54467c55-8b17-4861-9560-6fa3b6802f7d" r="0" g="176" b="80" codes="BOR-1">${t:2.15}Chairs! Don't miss it!</LineEntry>
+          <LineEntry ID="4a52a841-1f50-40f6-8ede-dbc1863ad3c7" r="0" g="176" b="240">${t:4.99}[img=music] Wood... craft! [img=music]</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="42301cfa-ead1-4c3f-81db-b7369279aa4c" timestamp="2520" endstamp="2850" type="ActivateBroadcast" day="1" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="6a14722c-9476-41bb-8728-5cd6deade24c" r="255" g="192" b="0" codes="GUID:6a14722c-9476-41bb-8728-5cd6deade24c">${t:1.93}Welcome back to Exposure Survival guys.</LineEntry>
@@ -6630,33 +6630,33 @@
           <LineEntry ID="ed67dc7a-5b21-4d6f-aea9-5c211fe3db1a" r="128" g="128" b="255" codes="BOR-1">${t:2.04}Can't wait to hand this out to the team here!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="c8da05a5-8df9-4969-af46-65f415a0d321" timestamp="3600" endstamp="3960" type="ActivateBroadcast" day="2" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="3005733e-5814-4a7d-91d7-3d6fcc33d7c8" r="0" g="176" b="80" codes="GUID:3005733e-5814-4a7d-91d7-3d6fcc33d7c8">${t:1.52}Y'all are watching Woodcraft!</LineEntry>
-          <LineEntry ID="246e9a0c-a8ee-4bd0-8293-0cc5e5d1b2b9" r="0" g="176" b="80">${t:2.09}Your one stop shop for home improvement!</LineEntry>
-          <LineEntry ID="2485b2e7-e0c6-4e47-9f5c-e1d542df2ce6" r="0" g="176" b="80" codes="BOR-1">${t:2.27}We're at intermediary level still and...</LineEntry>
-          <LineEntry ID="092c918c-09ce-4b61-b8bb-50a5a3ca6bda" r="0" g="176" b="80">${t:2.27}... sorry ladies but the shirt is STILL on.</LineEntry>
-          <LineEntry ID="eee34a0a-aae7-4d86-b291-be57da8d33d0" r="0" g="176" b="80" codes="BOR-1">${t:2.17}Hey, daytime TV y'all. Not my call.</LineEntry>
-          <LineEntry ID="aff6f93b-c6f0-46bf-9307-074baa74871c" r="0" g="176" b="80">${t:2.53}Wore these pants nice and tight though. Huh?</LineEntry>
-          <LineEntry ID="f5aa61a4-98a5-41f7-9534-888179e2443b" r="0" g="176" b="80" codes="BOR-1">${t:2.12}Hey! Pay attention! Today: it's chairs!</LineEntry>
-          <LineEntry ID="c05dbebd-9cdd-45fa-accb-46fba79f8f24" r="0" g="176" b="80">${t:0.91}What do we need? </LineEntry>
-          <LineEntry ID="04658bc8-0750-4ada-9fd5-bd8570f5aca0" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.32}Five planks! Four nails! Yeehah!</LineEntry>
-          <LineEntry ID="6ea42196-9f3f-4e45-beff-1bd82beb745f" r="0" g="0" b="0" codes="CRP+1,BOR-1">${t:0.93}*bang* *bang*</LineEntry>
-          <LineEntry ID="0dc9767e-75eb-43aa-8b31-e1542f8281e3" r="0" g="176" b="80" codes="BOR-1">${t:1.70}Ladies! Can you be-hi-lieve it?</LineEntry>
-          <LineEntry ID="1125fee2-3248-48d7-9ee6-78291961e7db" r="0" g="176" b="80" codes="CRP+1">${t:1.49}Now hows about some shelves?</LineEntry>
-          <LineEntry ID="9d5cd69e-419b-48fa-a3ae-4ef6532e5a04" r="0" g="176" b="80">${t:2.22}Someplace for your jewelleries, your precious stuff?</LineEntry>
-          <LineEntry ID="99a0d48a-9801-4767-a473-4ea84aa19281" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:1.75}TWO PLANKS! FOUR NAILS! GO!</LineEntry>
-          <LineEntry ID="21c8fa99-1605-4776-b409-35079499934f" r="0" g="0" b="0" codes="CRP+1,BOR-1">${t:0.93}*bang* *bang*</LineEntry>
-          <LineEntry ID="02b74df5-8d7a-4c55-92c0-4600764079f3" r="0" g="176" b="80">${t:0.84}Just gotta...</LineEntry>
-          <LineEntry ID="2b551b1e-98f6-46f6-8f23-a048a4e62e25" r="0" g="0" b="0" codes="CRP+1">${t:0.50}*bang*</LineEntry>
-          <LineEntry ID="dc272301-3518-4431-86fe-5d203e627b26" r="0" g="176" b="80">${t:0.65}That's it.</LineEntry>
-          <LineEntry ID="d52fc6d7-e763-4ec2-8e9e-fd45d1e9742b" r="0" g="176" b="80" codes="BOR-1">${t:2.40}Oh hey, sick of folk seeing you sunbathin'?</LineEntry>
-          <LineEntry ID="e3303d6e-fb75-45a2-a9ab-58cba3908982" r="0" g="176" b="80" codes="BOR-1">${t:1.93}I was. Get it all the time.</LineEntry>
-          <LineEntry ID="ec1e5e78-08a5-4e94-b90f-05ae71217fd4" r="0" g="176" b="80" codes="BOR-1">${t:1.44}So I built me a fence.</LineEntry>
-          <LineEntry ID="889b6171-8199-4cfe-b01e-65e82d78e429" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.82}I was all: two planks, three nails, bang, bang.</LineEntry>
-          <LineEntry ID="5199193d-34cd-4d8d-aa82-9ca0bafab450" r="0" g="176" b="80" codes="CRP+1">${t:1.02}And here she is!</LineEntry>
-          <LineEntry ID="1e08f4fb-668d-4718-85e4-3641ddcace7b" r="0" g="176" b="80" codes="BOR-1">${t:1.67}So if you'll excuse me, I'll just...</LineEntry>
-          <LineEntry ID="2bae7e91-3251-4028-accd-f17eeda48982" r="0" g="176" b="80" codes="BOR-1">${t:1.57}Get comfy with my shirt off...</LineEntry>
-          <LineEntry ID="2537f8f1-4442-4bc7-9e0f-ffca93347f4f" r="0" g="176" b="80" codes="BOR-1">${t:1.91}Next time on Woodcraft? Doors! </LineEntry>
-          <LineEntry ID="fbc35c77-7a87-4917-befe-3141bfec8a0a" r="0" g="176" b="80" codes="BOR-1">${t:1.20}Can I hear a yee-hah?</LineEntry>
+          <LineEntry ID="3005733e-5814-4a7d-91d7-3d6fcc33d7c8" r="0" g="176" b="80" codes="GUID:3005733e-5814-4a7d-91d7-3d6fcc33d7c8">${t:1.94}Y'all are watching Woodcraft!</LineEntry>
+          <LineEntry ID="246e9a0c-a8ee-4bd0-8293-0cc5e5d1b2b9" r="0" g="176" b="80">${t:2.73}Your one stop shop for home improvement!</LineEntry>
+          <LineEntry ID="2485b2e7-e0c6-4e47-9f5c-e1d542df2ce6" r="0" g="176" b="80" codes="BOR-1">${t:2.65}We're at intermediary level still and...</LineEntry>
+          <LineEntry ID="092c918c-09ce-4b61-b8bb-50a5a3ca6bda" r="0" g="176" b="80">${t:3.72}... sorry ladies but the shirt is STILL on.</LineEntry>
+          <LineEntry ID="eee34a0a-aae7-4d86-b291-be57da8d33d0" r="0" g="176" b="80" codes="BOR-1">${t:3.68}Hey, daytime TV y'all. Not my call.</LineEntry>
+          <LineEntry ID="aff6f93b-c6f0-46bf-9307-074baa74871c" r="0" g="176" b="80">${t:3.27}Wore these pants nice and tight though. Huh?</LineEntry>
+          <LineEntry ID="f5aa61a4-98a5-41f7-9534-888179e2443b" r="0" g="176" b="80" codes="BOR-1">${t:4.71}Hey! Pay attention! Today: it's chairs!</LineEntry>
+          <LineEntry ID="c05dbebd-9cdd-45fa-accb-46fba79f8f24" r="0" g="176" b="80">${t:1.20}What do we need? </LineEntry>
+          <LineEntry ID="04658bc8-0750-4ada-9fd5-bd8570f5aca0" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:3.18}Five planks! Four nails! Yeehah!</LineEntry>
+          <LineEntry ID="6ea42196-9f3f-4e45-beff-1bd82beb745f" r="0" g="0" b="0" codes="CRP+1,BOR-1">${t:1.12}*bang* *bang*</LineEntry>
+          <LineEntry ID="0dc9767e-75eb-43aa-8b31-e1542f8281e3" r="0" g="176" b="80" codes="BOR-1">${t:3.72}Ladies! Can you be-hi-lieve it?</LineEntry>
+          <LineEntry ID="1125fee2-3248-48d7-9ee6-78291961e7db" r="0" g="176" b="80" codes="CRP+1">${t:2.77}Now hows about some shelves?</LineEntry>
+          <LineEntry ID="9d5cd69e-419b-48fa-a3ae-4ef6532e5a04" r="0" g="176" b="80">${t:3.06}Someplace for your jewelleries, your precious stuff?</LineEntry>
+          <LineEntry ID="99a0d48a-9801-4767-a473-4ea84aa19281" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.90}TWO PLANKS! FOUR NAILS! GO!</LineEntry>
+          <LineEntry ID="21c8fa99-1605-4776-b409-35079499934f" r="0" g="0" b="0" codes="CRP+1,BOR-1">${t:1.03}*bang* *bang*</LineEntry>
+          <LineEntry ID="02b74df5-8d7a-4c55-92c0-4600764079f3" r="0" g="176" b="80">${t:0.91}Just gotta...</LineEntry>
+          <LineEntry ID="2b551b1e-98f6-46f6-8f23-a048a4e62e25" r="0" g="0" b="0" codes="CRP+1">${t:0.64}*bang*</LineEntry>
+          <LineEntry ID="dc272301-3518-4431-86fe-5d203e627b26" r="0" g="176" b="80">${t:1.33}That's it.</LineEntry>
+          <LineEntry ID="d52fc6d7-e763-4ec2-8e9e-fd45d1e9742b" r="0" g="176" b="80" codes="BOR-1">${t:3.47}Oh hey, sick of folk seeing you sunbathin'?</LineEntry>
+          <LineEntry ID="e3303d6e-fb75-45a2-a9ab-58cba3908982" r="0" g="176" b="80" codes="BOR-1">${t:2.47}I was. Get it all the time.</LineEntry>
+          <LineEntry ID="ec1e5e78-08a5-4e94-b90f-05ae71217fd4" r="0" g="176" b="80" codes="BOR-1">${t:2.47}So I built me a fence.</LineEntry>
+          <LineEntry ID="889b6171-8199-4cfe-b01e-65e82d78e429" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:3.68}I was all: two planks, three nails, bang, bang.</LineEntry>
+          <LineEntry ID="5199193d-34cd-4d8d-aa82-9ca0bafab450" r="0" g="176" b="80" codes="CRP+1">${t:2.19}And here she is!</LineEntry>
+          <LineEntry ID="1e08f4fb-668d-4718-85e4-3641ddcace7b" r="0" g="176" b="80" codes="BOR-1">${t:2.96}So if you'll excuse me, I'll just...</LineEntry>
+          <LineEntry ID="2bae7e91-3251-4028-accd-f17eeda48982" r="0" g="176" b="80" codes="BOR-1">${t:2.99}Get comfy with my shirt off...</LineEntry>
+          <LineEntry ID="2537f8f1-4442-4bc7-9e0f-ffca93347f4f" r="0" g="176" b="80" codes="BOR-1">${t:3.06}Next time on Woodcraft? Doors! </LineEntry>
+          <LineEntry ID="fbc35c77-7a87-4917-befe-3141bfec8a0a" r="0" g="176" b="80" codes="BOR-1">${t:3.34}Can I hear a yee-hah?</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="e7f7c2e2-ec25-4098-99be-f9f423a2e79a" timestamp="3960" endstamp="4290" type="ActivateBroadcast" day="2" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="d571f119-39bb-44ae-94a1-3adc24d7ffc6" r="255" g="192" b="0" codes="GUID:d571f119-39bb-44ae-94a1-3adc24d7ffc6">${t:2.17}Welcome back to Exposure Survival guys.</LineEntry>
@@ -6705,27 +6705,27 @@
           <LineEntry ID="c43d17b7-a0d1-4d43-bf58-0a5498612f42" r="128" g="128" b="255">${t:1.33}Now you have a great day!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="8d8676b0-4498-47ad-830a-01c584b46eb7" timestamp="5040" endstamp="5400" type="ActivateBroadcast" day="3" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="d012a8c7-c83f-407b-85fb-8e40791ef185" r="0" g="176" b="80" codes="GUID:d012a8c7-c83f-407b-85fb-8e40791ef185">${t:1.57}Y'all are watching Woodcraft!</LineEntry>
-          <LineEntry ID="e360e1e0-3660-4e49-947b-0696ccc3a112" r="0" g="176" b="80" codes="BOR-1">${t:1.99}Your one stop shop for home improvement!</LineEntry>
-          <LineEntry ID="a79671d6-18b7-43cf-8336-bcb536ef8b14" r="0" g="176" b="80">${t:2.51}Well hey! Y'all just caught me working out!</LineEntry>
-          <LineEntry ID="81d34fa9-da8a-4f76-9504-6e37a7031f3a" r="0" g="176" b="80">${t:1.62}Got a real sweat going on here!</LineEntry>
-          <LineEntry ID="77198ade-b8ba-4402-8c08-d7470ec02c83" r="0" g="176" b="80">${t:1.70}Next time I'll shut the door...</LineEntry>
-          <LineEntry ID="b11ab71f-fae1-4431-9bec-aca3a845e6de" r="0" g="176" b="80">${t:1.38}But hey! There's no door!</LineEntry>
-          <LineEntry ID="63a8324f-70ab-441b-bec5-5c6bcd77f953" r="0" g="176" b="80" codes="BOR-1">${t:2.12}Guess this happened to just the right guy!</LineEntry>
-          <LineEntry ID="3a5ce5d4-5c27-4284-ad1c-b1735bde470a" r="0" g="176" b="80" codes="BOR-1">${t:1.20}You know the drill!</LineEntry>
-          <LineEntry ID="dbaceec5-1ead-424d-809b-61a681de22c8" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.59}Four planks! Four nails! One knob! Two hinges!</LineEntry>
-          <LineEntry ID="65223764-0362-47b7-a14f-e6ed7b9e7cf4" r="0" g="176" b="80" codes="CRP+1">${t:0.97}BANG! BANG!</LineEntry>
-          <LineEntry ID="0ad43a79-d776-4618-bad8-ae467c734653" r="0" g="0" b="0" codes="CRP+1,BOR-1">${t:0.93}*bang* *bang*</LineEntry>
-          <LineEntry ID="e52b4b27-a591-459b-9eb9-10b154f77e0c" r="0" g="176" b="80" codes="BOR-1">${t:2.22}Now I don't read books, but some folk do.</LineEntry>
-          <LineEntry ID="d1ed5fe1-bdfe-4da1-90de-5029931e1c60" r="0" g="176" b="80" codes="BOR-1">${t:2.95}Books need cases, so next up: a bookcase.</LineEntry>
-          <LineEntry ID="d3cbcede-e847-453b-ae04-beeaadf6c833" r="0" g="176" b="80">${t:2.93}Something that'd look mighty fine next to the bed of a lady.</LineEntry>
-          <LineEntry ID="b603ccd1-dc28-4789-8a98-541feb8f9716" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.95}A clever readin' lady, with three planks and four nails.</LineEntry>
-          <LineEntry ID="482afc5c-22c0-4282-a974-eb48af9ae4ee" r="0" g="0" b="0" codes="CRP+1">${t:0.93}*bang* *bang*</LineEntry>
-          <LineEntry ID="604aefc7-1277-4521-a86f-f7c44a434ca2" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:1.38}Now that's my best yet!</LineEntry>
-          <LineEntry ID="8f9b54e2-0c16-4c5c-92c1-4180f4df63e8" r="0" g="176" b="80">${t:2.69}I'll put it here next to my four plank, four nail table.</LineEntry>
-          <LineEntry ID="5efb8e88-e84c-4939-a464-62d522519757" r="0" g="176" b="80">${t:1.38}Next time? Beds!</LineEntry>
-          <LineEntry ID="1006b8b3-c428-4b98-bdb5-bb575549b919" r="0" g="176" b="80" codes="BOR-1">${t:1.80}Bang bang ladies, and yee-hah!</LineEntry>
-          <LineEntry ID="4ad08200-0e48-4481-a1c1-9d7bc856368a" r="0" g="176" b="240" codes="BOR-1">${t:3.00}[img=music] Wood... craft! [img=music]</LineEntry>
+          <LineEntry ID="d012a8c7-c83f-407b-85fb-8e40791ef185" r="0" g="176" b="80" codes="GUID:d012a8c7-c83f-407b-85fb-8e40791ef185">${t:1.39}Y'all are watching Woodcraft!</LineEntry>
+          <LineEntry ID="e360e1e0-3660-4e49-947b-0696ccc3a112" r="0" g="176" b="80" codes="BOR-1">${t:2.58}Your one stop shop for home improvement!</LineEntry>
+          <LineEntry ID="a79671d6-18b7-43cf-8336-bcb536ef8b14" r="0" g="176" b="80">${t:3.12}Well hey! Y'all just caught me working out!</LineEntry>
+          <LineEntry ID="81d34fa9-da8a-4f76-9504-6e37a7031f3a" r="0" g="176" b="80">${t:2.41}Got a real sweat going on here!</LineEntry>
+          <LineEntry ID="77198ade-b8ba-4402-8c08-d7470ec02c83" r="0" g="176" b="80">${t:2.28}Next time I'll shut the door...</LineEntry>
+          <LineEntry ID="b11ab71f-fae1-4431-9bec-aca3a845e6de" r="0" g="176" b="80">${t:2.58}But hey! There's no door!</LineEntry>
+          <LineEntry ID="63a8324f-70ab-441b-bec5-5c6bcd77f953" r="0" g="176" b="80" codes="BOR-1">${t:2.98}Guess this happened to just the right guy!</LineEntry>
+          <LineEntry ID="3a5ce5d4-5c27-4284-ad1c-b1735bde470a" r="0" g="176" b="80" codes="BOR-1">${t:1.53}You know the drill!</LineEntry>
+          <LineEntry ID="dbaceec5-1ead-424d-809b-61a681de22c8" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:4.27}Four planks! Four nails! One knob! Two hinges!</LineEntry>
+          <LineEntry ID="65223764-0362-47b7-a14f-e6ed7b9e7cf4" r="0" g="176" b="80" codes="CRP+1">${t:1.63}BANG! BANG!</LineEntry>
+          <LineEntry ID="0ad43a79-d776-4618-bad8-ae467c734653" r="0" g="0" b="0" codes="CRP+1,BOR-1">${t:1.26}*bang* *bang*</LineEntry>
+          <LineEntry ID="e52b4b27-a591-459b-9eb9-10b154f77e0c" r="0" g="176" b="80" codes="BOR-1">${t:3.66}Now I don't read books, but some folk do.</LineEntry>
+          <LineEntry ID="d1ed5fe1-bdfe-4da1-90de-5029931e1c60" r="0" g="176" b="80" codes="BOR-1">${t:3.50}Books need cases, so next up: a bookcase.</LineEntry>
+          <LineEntry ID="d3cbcede-e847-453b-ae04-beeaadf6c833" r="0" g="176" b="80">${t:3.60}Something that'd look mighty fine next to the bed of a lady.</LineEntry>
+          <LineEntry ID="b603ccd1-dc28-4789-8a98-541feb8f9716" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:3.90}A clever readin' lady, with three planks and four nails.</LineEntry>
+          <LineEntry ID="482afc5c-22c0-4282-a974-eb48af9ae4ee" r="0" g="0" b="0" codes="CRP+1">${t:1.29}*bang* *bang*</LineEntry>
+          <LineEntry ID="604aefc7-1277-4521-a86f-f7c44a434ca2" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.14}Now that's my best yet!</LineEntry>
+          <LineEntry ID="8f9b54e2-0c16-4c5c-92c1-4180f4df63e8" r="0" g="176" b="80">${t:3.60}I'll put it here next to my four plank, four nail table.</LineEntry>
+          <LineEntry ID="5efb8e88-e84c-4939-a464-62d522519757" r="0" g="176" b="80">${t:2.27}Next time? Beds!</LineEntry>
+          <LineEntry ID="1006b8b3-c428-4b98-bdb5-bb575549b919" r="0" g="176" b="80" codes="BOR-1">${t:3.16}Bang bang ladies, and yee-hah!</LineEntry>
+          <LineEntry ID="4ad08200-0e48-4481-a1c1-9d7bc856368a" r="0" g="176" b="240" codes="BOR-1">${t:4.99}[img=music] Wood... craft! [img=music]</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="cae4e722-4ef4-4553-b926-542341ad9192" timestamp="5400" endstamp="5730" type="ActivateBroadcast" day="3" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="046f3a29-112e-48d5-a4ce-8182bfcabf0a" r="255" g="192" b="0" codes="BOR-1,GUID:046f3a29-112e-48d5-a4ce-8182bfcabf0a">${t:1.93}Welcome back to Exposure Survival.</LineEntry>
@@ -6782,30 +6782,30 @@
           <LineEntry ID="5abcfcda-7c0b-4532-811e-59aafe63a983" r="128" g="128" b="255" codes="BOR-1">${t:1.49}See you tomorrow everyone!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="f1b5054b-6152-418f-993c-ad477bdbd0ce" timestamp="6480" endstamp="6840" type="ActivateBroadcast" day="4" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="b57d2625-7eda-4510-ace0-1e052ae5a6bd" r="0" g="176" b="80" codes="GUID:b57d2625-7eda-4510-ace0-1e052ae5a6bd">${t:1.33}Y'all are watching Woodcraft!</LineEntry>
-          <LineEntry ID="591de001-f76b-452e-b9ae-8657ce99a51a" r="0" g="176" b="80" codes="BOR-1">${t:1.85}Your one stop shop for home improvement!</LineEntry>
-          <LineEntry ID="f29576b6-134f-407b-b586-fde1aa1bc770" r="0" g="176" b="80" codes="BOR-1">${t:2.32}We're there! Advanced Carpentry! Yee-hah!</LineEntry>
-          <LineEntry ID="f154a2c3-cd16-439c-87e0-aa84548abc76" r="0" g="176" b="80">${t:1.49}Now I broke my bed last week.</LineEntry>
-          <LineEntry ID="ced05294-7426-4a29-ad90-48572f61bbb2" r="0" g="176" b="80" codes="BOR-1">${t:2.51}I'll spare you the details, as y'all would blush.</LineEntry>
-          <LineEntry ID="21934aeb-45d9-4cd4-8ce2-32a81e09329f" r="0" g="176" b="80">${t:3.58}I needed a new place to rest my head, and I needed it quick.</LineEntry>
-          <LineEntry ID="c785d9dc-d0e2-4f1c-a1a5-5f901dd1684a" r="0" g="176" b="80">${t:1.70}So what did I do? I'll show you!</LineEntry>
-          <LineEntry ID="3d5543af-17fa-4e30-a3c9-e6432f6ada90" r="0" g="176" b="80" codes="BOR-1">${t:2.27}Let's build a bed ladies! Let's do it now!</LineEntry>
-          <LineEntry ID="85fcaac6-eff7-407f-8c0c-3f615b7f42c5" r="0" g="176" b="80" codes="CRP+1">${t:2.32}Six planks! Four nails! One mattress!</LineEntry>
-          <LineEntry ID="7c465766-f93d-4cf9-9345-93c087861712" r="0" g="176" b="80" codes="CRP+1">${t:1.85}Bang! Bang! Yee-hah!</LineEntry>
-          <LineEntry ID="34c40cc3-6f42-453f-b993-6a4198abb4b4" r="0" g="0" b="0" codes="CRP+1">${t:0.93}*bang*</LineEntry>
-          <LineEntry ID="fb743edb-7220-4b3e-811e-5c22499b9c50" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:0.73}Yee-hah!</LineEntry>
-          <LineEntry ID="d8fbbdda-a7a9-4f4d-88aa-0435ee812d02" r="0" g="0" b="0" codes="CRP+1,BOR-1">${t:0.50}*bang*</LineEntry>
-          <LineEntry ID="89e23f3e-6738-491d-9afc-2810a9d6b0c2" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.09}And there she is, but the test drive can wait.</LineEntry>
-          <LineEntry ID="0071b9ec-3368-4614-9721-b89c7eea9616" r="0" g="176" b="80" codes="BOR-1">${t:1.52}We done the exciting stuff...</LineEntry>
-          <LineEntry ID="a60ec996-4b18-4d0f-ae18-9f40e2bfb11b" r="0" g="176" b="80" codes="BOR-1">${t:2.59}...but I've also gotta show you how to make a Large Table.</LineEntry>
-          <LineEntry ID="2976889b-47fb-4075-af81-550319e886f4" r="0" g="176" b="80" codes="BOR-1">${t:1.80}It's no bed, and that's for sure.</LineEntry>
-          <LineEntry ID="cd8b48e9-a663-40c3-9a89-28ee467fcb62" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:1.75}Take six planks and four nails.</LineEntry>
-          <LineEntry ID="0e833477-6eff-4e52-862f-cfeaf6845a20" r="0" g="0" b="0" codes="CRP+1,BOR-1">${t:0.93}*bang* *bang*</LineEntry>
-          <LineEntry ID="7637a703-c2f6-4481-9ddf-6e1c937e28ed" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:0.84}Neat, huh?</LineEntry>
-          <LineEntry ID="72bfe800-8f23-4f45-9556-0396734fb084" r="0" g="176" b="80">${t:1.99}Next time: I'm taking y'all upstairs.</LineEntry>
-          <LineEntry ID="9167df6f-9e2c-45cf-a7f8-65614776d17e" r="0" g="176" b="80">${t:0.78}On stairs!</LineEntry>
-          <LineEntry ID="b92962a6-4166-4a4c-b2da-1cf77fad2103" r="0" g="176" b="80">${t:1.10}Till next time!</LineEntry>
-          <LineEntry ID="41aa949c-7418-48ec-83fe-18b5a725ddd3" r="0" g="176" b="240">${t:3.00}[img=music] Wood... craft! [img=music]</LineEntry>
+          <LineEntry ID="b57d2625-7eda-4510-ace0-1e052ae5a6bd" r="0" g="176" b="80" codes="GUID:b57d2625-7eda-4510-ace0-1e052ae5a6bd">${t:1.93}Y'all are watching Woodcraft!</LineEntry>
+          <LineEntry ID="591de001-f76b-452e-b9ae-8657ce99a51a" r="0" g="176" b="80" codes="BOR-1">${t:3.14}Your one stop shop for home improvement!</LineEntry>
+          <LineEntry ID="f29576b6-134f-407b-b586-fde1aa1bc770" r="0" g="176" b="80" codes="BOR-1">${t:4.92}We're there! Advanced Carpentry! Yee-hah!</LineEntry>
+          <LineEntry ID="f154a2c3-cd16-439c-87e0-aa84548abc76" r="0" g="176" b="80">${t:3.22}Now I broke my bed last week.</LineEntry>
+          <LineEntry ID="ced05294-7426-4a29-ad90-48572f61bbb2" r="0" g="176" b="80" codes="BOR-1">${t:4.32}I'll spare you the details, as y'all would blush.</LineEntry>
+          <LineEntry ID="21934aeb-45d9-4cd4-8ce2-32a81e09329f" r="0" g="176" b="80">${t:4.05}I needed a new place to rest my head, and I needed it quick.</LineEntry>
+          <LineEntry ID="c785d9dc-d0e2-4f1c-a1a5-5f901dd1684a" r="0" g="176" b="80">${t:2.64}So what did I do? I'll show you!</LineEntry>
+          <LineEntry ID="3d5543af-17fa-4e30-a3c9-e6432f6ada90" r="0" g="176" b="80" codes="BOR-1">${t:3.56}Let's build a bed ladies! Let's do it now!</LineEntry>
+          <LineEntry ID="85fcaac6-eff7-407f-8c0c-3f615b7f42c5" r="0" g="176" b="80" codes="CRP+1">${t:3.45}Six planks! Four nails! One mattress!</LineEntry>
+          <LineEntry ID="7c465766-f93d-4cf9-9345-93c087861712" r="0" g="176" b="80" codes="CRP+1">${t:2.80}Bang! Bang! Yee-hah!</LineEntry>
+          <LineEntry ID="34c40cc3-6f42-453f-b993-6a4198abb4b4" r="0" g="0" b="0" codes="CRP+1">${t:0.76}*bang*</LineEntry>
+          <LineEntry ID="fb743edb-7220-4b3e-811e-5c22499b9c50" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:1.17}Yee-hah!</LineEntry>
+          <LineEntry ID="d8fbbdda-a7a9-4f4d-88aa-0435ee812d02" r="0" g="0" b="0" codes="CRP+1,BOR-1">${t:0.64}*bang*</LineEntry>
+          <LineEntry ID="89e23f3e-6738-491d-9afc-2810a9d6b0c2" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:3.33}And there she is, but the test drive can wait.</LineEntry>
+          <LineEntry ID="0071b9ec-3368-4614-9721-b89c7eea9616" r="0" g="176" b="80" codes="BOR-1">${t:2.73}We done the exciting stuff...</LineEntry>
+          <LineEntry ID="a60ec996-4b18-4d0f-ae18-9f40e2bfb11b" r="0" g="176" b="80" codes="BOR-1">${t:3.06}...but I've also gotta show you how to make a Large Table.</LineEntry>
+          <LineEntry ID="2976889b-47fb-4075-af81-550319e886f4" r="0" g="176" b="80" codes="BOR-1">${t:2.16}It's no bed, and that's for sure.</LineEntry>
+          <LineEntry ID="cd8b48e9-a663-40c3-9a89-28ee467fcb62" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.58}Take six planks and four nails.</LineEntry>
+          <LineEntry ID="0e833477-6eff-4e52-862f-cfeaf6845a20" r="0" g="0" b="0" codes="CRP+1,BOR-1">${t:1.28}*bang* *bang*</LineEntry>
+          <LineEntry ID="7637a703-c2f6-4481-9ddf-6e1c937e28ed" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:1.33}Neat, huh?</LineEntry>
+          <LineEntry ID="72bfe800-8f23-4f45-9556-0396734fb084" r="0" g="176" b="80">${t:3.37}Next time: I'm taking y'all upstairs.</LineEntry>
+          <LineEntry ID="9167df6f-9e2c-45cf-a7f8-65614776d17e" r="0" g="176" b="80">${t:2.12}On stairs!</LineEntry>
+          <LineEntry ID="b92962a6-4166-4a4c-b2da-1cf77fad2103" r="0" g="176" b="80">${t:1.47}Till next time!</LineEntry>
+          <LineEntry ID="41aa949c-7418-48ec-83fe-18b5a725ddd3" r="0" g="176" b="240">${t:4.99}[img=music] Wood... craft! [img=music]</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="3166434a-ce11-4df5-acb6-4a023bb45c67" timestamp="6840" endstamp="7170" type="ActivateBroadcast" day="4" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="c2d0fac9-c1c4-4e23-b23b-ff9e51104a48" r="255" g="192" b="0" codes="BOR-1,GUID:c2d0fac9-c1c4-4e23-b23b-ff9e51104a48">${t:1.70}Hey, I'm back with nature and I'm Dean.</LineEntry>
@@ -6851,28 +6851,28 @@
           <LineEntry ID="6ab76e90-d7bc-4ee8-a833-26e4139e3355" r="128" g="128" b="255">${t:3.08}See you tomorrow!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="6c8629da-1997-4087-ad9d-f4908e7a8b39" timestamp="7920" endstamp="8280" type="ActivateBroadcast" day="5" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="ccc4d28c-3b1e-4827-b73b-135c5831c536" r="0" g="176" b="80" codes="BOR-1,GUID:ccc4d28c-3b1e-4827-b73b-135c5831c536">${t:1.91}Y'all are watching Woodcraft!</LineEntry>
-          <LineEntry ID="63cc1bab-2e6e-4a64-8ee5-2180928172ae" r="0" g="176" b="80">${t:1.99}Your one stop shop for home improvement!</LineEntry>
-          <LineEntry ID="9668d72c-1d0c-4d0f-8dae-70f0eb10e98d" r="0" g="176" b="80" codes="BOR-1">${t:2.46}This show is real special: it's for the ladies.</LineEntry>
-          <LineEntry ID="349efa40-ae15-46c6-96bb-3f4114d61309" r="0" g="176" b="80">${t:2.09}In my experience ladies LOVE stairs!</LineEntry>
-          <LineEntry ID="2b54a98e-1358-49e9-8033-3661b2e7d0f2" r="0" g="176" b="80">${t:1.99}They're smilin' when they go up them...</LineEntry>
-          <LineEntry ID="3735f9c6-7588-4492-a061-8a3383c2c0bf" r="0" g="176" b="80" codes="BOR-1">${t:3.00}...and they're smilin' more when they come back down.</LineEntry>
-          <LineEntry ID="30d58dce-0ab8-442a-a3f5-b74b6d100c1d" r="0" g="176" b="80">${t:1.80}Yeehah! So what do we need?</LineEntry>
-          <LineEntry ID="781b56bf-9b2e-455e-9b03-6540c5542ae8" r="0" g="176" b="80" codes="CRP+1">${t:3.89}Eight planks! Eight nails and an A-D-Vanced knowledge of Car-pen-try!</LineEntry>
-          <LineEntry ID="a9a49ccc-fe06-494d-893b-fe9222b4b422" r="0" g="0" b="0" codes="CRP+1,BOR-1">${t:0.93}*bang* *bang*</LineEntry>
-          <LineEntry ID="4b1e5f36-dbc8-4ac9-afdf-987190dbba41" r="0" g="176" b="80" codes="CRP+1">${t:1.70}Gonna need some more over...Here...</LineEntry>
-          <LineEntry ID="d651fbb5-0659-4f6a-992f-9069b190b445" r="0" g="0" b="0" codes="CRP+1">${t:0.93}*bang* *bang*</LineEntry>
-          <LineEntry ID="b050eeb9-5e91-4c89-a023-e97a0677354e" r="0" g="176" b="80" codes="BOR-1">${t:2.22}What goes good at the top of a flight of stairs?</LineEntry>
-          <LineEntry ID="71137512-25bd-4173-886f-2479778cc093" r="0" g="176" b="80">${t:2.95}A table with a drawer in it, right? That make you yee-hah?</LineEntry>
-          <LineEntry ID="b5edf317-8dc9-42da-b5d4-23c2284bfa69" r="0" g="176" b="80">${t:1.57}Makes me yee-hah anyways.</LineEntry>
-          <LineEntry ID="5132bbcf-64d0-422d-a26e-3c6ca11bc4eb" r="0" g="176" b="80">${t:1.80}A lady could keep her valuables in it.</LineEntry>
-          <LineEntry ID="1bad3260-46d1-4047-8574-6ce13254a8eb" r="0" g="176" b="80" codes="BOR-1">${t:1.80}Maybe a bible, maybe a gun.</LineEntry>
-          <LineEntry ID="224cfa55-b945-4883-b436-8bdda1b74b67" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:1.49}Five planks! Four nails! Go!</LineEntry>
-          <LineEntry ID="10427118-9edd-441c-b3dd-30c45e7f127e" r="0" g="0" b="0" codes="CRP+1">${t:0.93}*bang* *bang*</LineEntry>
-          <LineEntry ID="9a3212d2-64ea-4338-a2e1-554c3dad3782" r="0" g="176" b="80">${t:1.62}That's enough for this week, huh?</LineEntry>
-          <LineEntry ID="68fcd60c-72c0-402e-bfa8-4fcb2c09af36" r="0" g="176" b="80">${t:2.12}If you're wantin' more - I'll be upstairs.</LineEntry>
-          <LineEntry ID="b5e50eac-a583-480c-9bc2-4f42b9d31f54" r="0" g="176" b="80">${t:0.97}Till next time!</LineEntry>
-          <LineEntry ID="f9371a01-c5c7-4f96-97b6-35b10c9b907d" r="0" g="176" b="240" codes="BOR-1">${t:3.00}[img=music] Wood... craft! [img=music]</LineEntry>
+          <LineEntry ID="ccc4d28c-3b1e-4827-b73b-135c5831c536" r="0" g="176" b="80" codes="BOR-1,GUID:ccc4d28c-3b1e-4827-b73b-135c5831c536">${t:2.00}Y'all are watching Woodcraft!</LineEntry>
+          <LineEntry ID="63cc1bab-2e6e-4a64-8ee5-2180928172ae" r="0" g="176" b="80">${t:3.35}Your one stop shop for home improvement!</LineEntry>
+          <LineEntry ID="9668d72c-1d0c-4d0f-8dae-70f0eb10e98d" r="0" g="176" b="80" codes="BOR-1">${t:4.20}This show is real special: it's for the ladies.</LineEntry>
+          <LineEntry ID="349efa40-ae15-46c6-96bb-3f4114d61309" r="0" g="176" b="80">${t:3.47}In my experience ladies LOVE stairs!</LineEntry>
+          <LineEntry ID="2b54a98e-1358-49e9-8033-3661b2e7d0f2" r="0" g="176" b="80">${t:2.49}They're smilin' when they go up them...</LineEntry>
+          <LineEntry ID="3735f9c6-7588-4492-a061-8a3383c2c0bf" r="0" g="176" b="80" codes="BOR-1">${t:2.98}...and they're smilin' more when they come back down.</LineEntry>
+          <LineEntry ID="30d58dce-0ab8-442a-a3f5-b74b6d100c1d" r="0" g="176" b="80">${t:4.94}Yeehah! So what do we need?</LineEntry>
+          <LineEntry ID="781b56bf-9b2e-455e-9b03-6540c5542ae8" r="0" g="176" b="80" codes="CRP+1">${t:4.99}Eight planks! Eight nails and an A-D-Vanced knowledge of Car-pen-try!</LineEntry>
+          <LineEntry ID="a9a49ccc-fe06-494d-893b-fe9222b4b422" r="0" g="0" b="0" codes="CRP+1,BOR-1">${t:4.17}*bang* *bang*</LineEntry>
+          <LineEntry ID="4b1e5f36-dbc8-4ac9-afdf-987190dbba41" r="0" g="176" b="80" codes="CRP+1">${t:3.16}Gonna need some more over...Here...</LineEntry>
+          <LineEntry ID="d651fbb5-0659-4f6a-992f-9069b190b445" r="0" g="0" b="0" codes="CRP+1">${t:0.91}*bang* *bang*</LineEntry>
+          <LineEntry ID="b050eeb9-5e91-4c89-a023-e97a0677354e" r="0" g="176" b="80" codes="BOR-1">${t:2.99}What goes good at the top of a flight of stairs?</LineEntry>
+          <LineEntry ID="71137512-25bd-4173-886f-2479778cc093" r="0" g="176" b="80">${t:4.69}A table with a drawer in it, right? That make you yee-hah?</LineEntry>
+          <LineEntry ID="b5edf317-8dc9-42da-b5d4-23c2284bfa69" r="0" g="176" b="80">${t:2.80}Makes me yee-hah anyways.</LineEntry>
+          <LineEntry ID="5132bbcf-64d0-422d-a26e-3c6ca11bc4eb" r="0" g="176" b="80">${t:2.60}A lady could keep her valuables in it.</LineEntry>
+          <LineEntry ID="1bad3260-46d1-4047-8574-6ce13254a8eb" r="0" g="176" b="80" codes="BOR-1">${t:2.76}Maybe a bible, maybe a gun.</LineEntry>
+          <LineEntry ID="224cfa55-b945-4883-b436-8bdda1b74b67" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.93}Five planks! Four nails! Go!</LineEntry>
+          <LineEntry ID="10427118-9edd-441c-b3dd-30c45e7f127e" r="0" g="0" b="0" codes="CRP+1">${t:1.13}*bang* *bang*</LineEntry>
+          <LineEntry ID="9a3212d2-64ea-4338-a2e1-554c3dad3782" r="0" g="176" b="80">${t:3.26}That's enough for this week, huh?</LineEntry>
+          <LineEntry ID="68fcd60c-72c0-402e-bfa8-4fcb2c09af36" r="0" g="176" b="80">${t:3.75}If you're wantin' more - I'll be upstairs.</LineEntry>
+          <LineEntry ID="b5e50eac-a583-480c-9bc2-4f42b9d31f54" r="0" g="176" b="80">${t:1.50}Till next time!</LineEntry>
+          <LineEntry ID="f9371a01-c5c7-4f96-97b6-35b10c9b907d" r="0" g="176" b="240" codes="BOR-1">${t:4.99}[img=music] Wood... craft! [img=music]</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="40dacfdc-3473-40e8-8276-eb5faf42dea3" timestamp="8280" endstamp="8610" type="ActivateBroadcast" day="5" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="2f29b7e4-f698-4339-aeb0-653303d4a031" r="255" g="192" b="0" codes="GUID:2f29b7e4-f698-4339-aeb0-653303d4a031">${t:2.46}Hey, it's me. Dean - back with some nature.</LineEntry>
@@ -6931,31 +6931,31 @@
           <LineEntry ID="2bd6201f-fc2e-423e-a0b9-b15989088e35" r="128" g="128" b="255" codes="BOR-1">${t:3.27}See you tomorrow!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="35a2653b-10db-423a-8dfa-fb0e31a01200" timestamp="9360" endstamp="9720" type="ActivateBroadcast" day="6" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="0b8cf902-318c-42bb-9e70-691b7a60fad9" r="0" g="176" b="80" codes="GUID:0b8cf902-318c-42bb-9e70-691b7a60fad9">${t:1.62}Y'all are watching Woodcraft!</LineEntry>
-          <LineEntry ID="4f6e7a99-33a0-46a3-afbd-146387bc1e1d" r="0" g="176" b="80">${t:2.12}Your one stop shop for home improvement!</LineEntry>
-          <LineEntry ID="ea1fb79e-ecf6-4600-8d3d-487de224a556" r="0" g="176" b="80">${t:1.28}Today we're building a...</LineEntry>
-          <LineEntry ID="2d4e29a7-3a6c-471c-8b60-d6d745a17b55" r="0" g="176" b="80" codes="BOR-1">${t:0.97}A bookcase.</LineEntry>
-          <LineEntry ID="01d941c2-cd78-49f2-8866-f426ca2bf1c1" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:1.93}You'll need five planks and four nails.</LineEntry>
-          <LineEntry ID="f25399a6-32be-4e01-9655-0d2b4609ec22" r="0" g="176" b="80" codes="CRP+1">${t:1.80}Take your hammer like so... and...</LineEntry>
-          <LineEntry ID="78a75717-51e9-4e87-9e3d-80f8b9095dc4" r="0" g="0" b="0" codes="CRP+1">${t:0.93}*bang* *bang*</LineEntry>
-          <LineEntry ID="16148d00-7b8d-404e-b9e0-124dd2b3327c" r="0" g="176" b="80" codes="BOR-1">${t:2.17}Okay so we're talking to men today, apparently.</LineEntry>
-          <LineEntry ID="e9d27efc-d1ec-4462-b09e-2416564d6d9a" r="0" g="176" b="80" codes="BOR-1">${t:2.09}Focus-testing. You gotta love it, huh?</LineEntry>
-          <LineEntry ID="ea8c5d71-ad24-4333-bbc5-e9f9fe48db05" r="0" g="176" b="80" codes="BOR-1">${t:2.32}Anyway, men like bars. They like a beer.</LineEntry>
-          <LineEntry ID="58af2262-0143-4108-a530-d4269c64e749" r="0" g="176" b="80">${t:0.68}&lt;sigh&gt;</LineEntry>
-          <LineEntry ID="7a236e82-6aa1-48bd-9366-cceabef4d2c4" r="0" g="176" b="80">${t:1.33}Would you... dude...</LineEntry>
-          <LineEntry ID="4674b7aa-0ca6-4578-a6a0-9b2400ba1e55" r="0" g="176" b="80">${t:1.80}Like to build a bar in your own home?</LineEntry>
-          <LineEntry ID="608533bd-d6f2-4755-8c8f-0f11b747b842" r="0" g="176" b="80">${t:2.77}They say you really would. So... for the corners.</LineEntry>
-          <LineEntry ID="560af865-adb2-40e8-84a1-c4a8a7d83087" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.77}Four planks, four nails and some nimble fingers.</LineEntry>
-          <LineEntry ID="56fb43dc-1783-4f60-97c5-b3488e0ead80" r="0" g="0" b="0" codes="CRP+1">${t:0.93}*bang* *bang*</LineEntry>
-          <LineEntry ID="b2de109b-13b1-4782-943b-7887c30471c5" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:1.38}Yee-hah. There y'all are.</LineEntry>
-          <LineEntry ID="8b715ea7-2786-43a1-a9c0-bb8c581cb19f" r="0" g="176" b="80">${t:1.85}And for the middle? The bar element?</LineEntry>
-          <LineEntry ID="f53a852c-9dc8-4d0a-b246-dff68eeb3a33" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.22}Same again: four planks, four nails.</LineEntry>
-          <LineEntry ID="81e9b239-0e3a-4ad3-a3ec-1b0768cf5692" r="0" g="0" b="0" codes="CRP+1,BOR-1">${t:0.93}*bang* *bang*</LineEntry>
-          <LineEntry ID="a4ce2bc7-42b1-4b62-8b03-92d395eee84b" r="0" g="176" b="80" codes="CRP+1">${t:2.22}Put it all together and... you're good and ready.</LineEntry>
-          <LineEntry ID="815b2a59-b2fd-4f5a-9ccc-58f0126999c9" r="0" g="176" b="80" codes="BOR-1">${t:1.10}Well, I need a drink.</LineEntry>
-          <LineEntry ID="d7d2d69a-9d24-43a7-923a-6f7f5dcc2d31" r="0" g="176" b="80" codes="BOR-1">${t:1.99}Here's to the new era of Woodcraft.</LineEntry>
-          <LineEntry ID="b943b739-7d5f-49b6-8ef9-736680be69e0" r="0" g="176" b="80" codes="BOR-1">${t:0.86}Till next time.</LineEntry>
-          <LineEntry ID="dc94af8e-e791-4a0a-821a-ab7d41b1b81f" r="0" g="176" b="240" codes="BOR-1">${t:3.00}[img=music] Wood... craft! [img=music]</LineEntry>
+          <LineEntry ID="0b8cf902-318c-42bb-9e70-691b7a60fad9" r="0" g="176" b="80" codes="GUID:0b8cf902-318c-42bb-9e70-691b7a60fad9">${t:2.01}Y'all are watching Woodcraft!</LineEntry>
+          <LineEntry ID="4f6e7a99-33a0-46a3-afbd-146387bc1e1d" r="0" g="176" b="80">${t:2.66}Your one stop shop for home improvement!</LineEntry>
+          <LineEntry ID="ea1fb79e-ecf6-4600-8d3d-487de224a556" r="0" g="176" b="80">${t:2.38}Today we're building a...</LineEntry>
+          <LineEntry ID="2d4e29a7-3a6c-471c-8b60-d6d745a17b55" r="0" g="176" b="80" codes="BOR-1">${t:1.61}A bookcase.</LineEntry>
+          <LineEntry ID="01d941c2-cd78-49f2-8866-f426ca2bf1c1" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:3.01}You'll need five planks and four nails.</LineEntry>
+          <LineEntry ID="f25399a6-32be-4e01-9655-0d2b4609ec22" r="0" g="176" b="80" codes="CRP+1">${t:2.60}Take your hammer like so... and...</LineEntry>
+          <LineEntry ID="78a75717-51e9-4e87-9e3d-80f8b9095dc4" r="0" g="0" b="0" codes="CRP+1">${t:1.21}*bang* *bang*</LineEntry>
+          <LineEntry ID="16148d00-7b8d-404e-b9e0-124dd2b3327c" r="0" g="176" b="80" codes="BOR-1">${t:3.73}Okay so we're talking to men today, apparently.</LineEntry>
+          <LineEntry ID="e9d27efc-d1ec-4462-b09e-2416564d6d9a" r="0" g="176" b="80" codes="BOR-1">${t:3.37}Focus-testing. You gotta love it, huh?</LineEntry>
+          <LineEntry ID="ea8c5d71-ad24-4333-bbc5-e9f9fe48db05" r="0" g="176" b="80" codes="BOR-1">${t:3.88}Anyway, men like bars. They like a beer.</LineEntry>
+          <LineEntry ID="58af2262-0143-4108-a530-d4269c64e749" r="0" g="176" b="80">${t:1.99}&lt;sigh&gt;</LineEntry>
+          <LineEntry ID="7a236e82-6aa1-48bd-9366-cceabef4d2c4" r="0" g="176" b="80">${t:1.60}Would you... dude...</LineEntry>
+          <LineEntry ID="4674b7aa-0ca6-4578-a6a0-9b2400ba1e55" r="0" g="176" b="80">${t:2.85}Like to build a bar in your own home?</LineEntry>
+          <LineEntry ID="608533bd-d6f2-4755-8c8f-0f11b747b842" r="0" g="176" b="80">${t:3.72}They say you really would. So... for the corners.</LineEntry>
+          <LineEntry ID="560af865-adb2-40e8-84a1-c4a8a7d83087" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:3.96}Four planks, four nails and some nimble fingers.</LineEntry>
+          <LineEntry ID="56fb43dc-1783-4f60-97c5-b3488e0ead80" r="0" g="0" b="0" codes="CRP+1">${t:0.66}*bang* *bang*</LineEntry>
+          <LineEntry ID="b2de109b-13b1-4782-943b-7887c30471c5" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:2.50}Yee-hah. There y'all are.</LineEntry>
+          <LineEntry ID="8b715ea7-2786-43a1-a9c0-bb8c581cb19f" r="0" g="176" b="80">${t:2.90}And for the middle? The bar element?</LineEntry>
+          <LineEntry ID="f53a852c-9dc8-4d0a-b246-dff68eeb3a33" r="0" g="176" b="80" codes="CRP+1,BOR-1">${t:3.48}Same again: four planks, four nails.</LineEntry>
+          <LineEntry ID="81e9b239-0e3a-4ad3-a3ec-1b0768cf5692" r="0" g="0" b="0" codes="CRP+1,BOR-1">${t:0.89}*bang* *bang*</LineEntry>
+          <LineEntry ID="a4ce2bc7-42b1-4b62-8b03-92d395eee84b" r="0" g="176" b="80" codes="CRP+1">${t:3.68}Put it all together and... you're good and ready.</LineEntry>
+          <LineEntry ID="815b2a59-b2fd-4f5a-9ccc-58f0126999c9" r="0" g="176" b="80" codes="BOR-1">${t:4.00}Well, I need a drink.</LineEntry>
+          <LineEntry ID="d7d2d69a-9d24-43a7-923a-6f7f5dcc2d31" r="0" g="176" b="80" codes="BOR-1">${t:3.84}Here's to the new era of Woodcraft.</LineEntry>
+          <LineEntry ID="b943b739-7d5f-49b6-8ef9-736680be69e0" r="0" g="176" b="80" codes="BOR-1">${t:1.62}Till next time.</LineEntry>
+          <LineEntry ID="dc94af8e-e791-4a0a-821a-ab7d41b1b81f" r="0" g="176" b="240" codes="BOR-1">${t:4.99}[img=music] Wood... craft! [img=music]</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="c20ef080-6050-4a1c-8428-277f61010dcf" timestamp="9720" endstamp="10050" type="ActivateBroadcast" day="6" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="4ec7eb7a-8b00-4fa2-95de-6286ba8cb83e" r="255" g="192" b="0" codes="GUID:4ec7eb7a-8b00-4fa2-95de-6286ba8cb83e">${t:2.17}It's Dean - back with Exposure Survival!</LineEntry>

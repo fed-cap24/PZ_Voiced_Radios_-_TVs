@@ -1819,4 +1819,17 @@ module Base
 			reverbFactor = 0,
 		}
 	}
+
+	sound ab66813c-ccd7-4865-94ab-7ca527777ba9
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/ab66813c-ccd7-4865-94ab-7ca527777ba9.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
 }
