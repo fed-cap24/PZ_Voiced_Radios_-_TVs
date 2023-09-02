@@ -993,7 +993,7 @@
           <LineEntry ID="ef38b59c-d54b-453e-996f-ff6e86ae205a" r="255" g="0" b="0" codes="BOR-1">${t:1.27}THE INFECTION IS CONTAINED.</LineEntry>
           <LineEntry ID="3a5594ca-7177-4217-aefd-ec5a6a4b03f1" r="0" g="176" b="80" codes="BOR-1">${t:1.49}Jackie! We're being moved back! Can you hear me?</LineEntry>
           <LineEntry ID="ae1c33e7-bd2e-4418-a69c-84e3b60cba6f" r="255" g="0" b="0">${t:1.83}MA'AM! STAND DOWN! MA'AM! MOVE BACK!</LineEntry>
-          <LineEntry ID="33ad4434-4506-423d-adb8-6d9f8615860b" r="255" g="0" b="0">${t:1}THERE IS NO NEED FOR PANIC!</LineEntry>
+          <LineEntry ID="33ad4434-4506-423d-adb8-6d9f8615860b" r="255" g="0" b="0">${t:1.00}THERE IS NO NEED FOR PANIC!</LineEntry>
           <LineEntry ID="5e12fb29-6bfe-41f3-a578-9f1336a8a5b1" r="255" g="0" b="0" codes="BOR-1">${t:1.31}THE KNOX EVENT IS CONTAINED</LineEntry>
           <LineEntry ID="167470ae-0c7f-40f5-8609-ca739576621e" r="255" g="0" b="0" codes="BOR-1">${t:1.38}IT HAS ALWAYS BEEN CONTAINED</LineEntry>
           <LineEntry ID="c316989b-f583-4752-a45c-fd98b99939cb" r="0" g="0" b="0">${t:3.03}&lt;bzzt&gt;</LineEntry>
