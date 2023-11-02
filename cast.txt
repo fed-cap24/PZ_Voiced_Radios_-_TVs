@@ -1,6 +1,8 @@
 Life and Living TV:
 	Director: Fed_Cap
-	Actors: ElevenLabs
+	Actors: WoodCraft Host: Atikar
+		WoodCraft Jingle: RebelRex
+		ElevenLabs
 
 LBMW - Kentucky Radio
 	Director: Fed_Cap
@@ -9,3 +11,10 @@ LBMW - Kentucky Radio
 KnoxTalk Radio
 	Director: Fed_Cap
 	Actors: ElevenLabs
+
+Adverts:
+	Pizza Whirled: riptank
+	Churn R' Us, Fossoil: That Weasel
+	Greene's Grocery: Wawa Goat
+	Spiffo Movie: Adaminium
+	ValuInsurance: Brady/Charlie

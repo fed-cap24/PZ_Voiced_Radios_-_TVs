@@ -1832,4 +1832,95 @@ module Base
 			reverbFactor = 0,
 		}
 	}
+
+	sound 1c755859-73e9-486e-9f70-d0ba0d739db8
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/1c755859-73e9-486e-9f70-d0ba0d739db8.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 2630a9b6-1c95-4c65-b5b2-250f7f4e3ec0
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/2630a9b6-1c95-4c65-b5b2-250f7f4e3ec0.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 30efa603-f5e5-4349-8900-cc61bd7f7980
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/30efa603-f5e5-4349-8900-cc61bd7f7980.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 8dd0884d-707d-471b-8685-3d8e88c4e1f3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/8dd0884d-707d-471b-8685-3d8e88c4e1f3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 9fd4b9b7-0f0c-41e4-9c0c-f3afd39dff0c
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/9fd4b9b7-0f0c-41e4-9c0c-f3afd39dff0c.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound bbe7a62d-5e61-40f3-9c0e-220c0b8f4782
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/bbe7a62d-5e61-40f3-9c0e-220c0b8f4782.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 0a0fc868-3286-40a6-bc9f-146fb68407ee
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/0a0fc868-3286-40a6-bc9f-146fb68407ee.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
 }

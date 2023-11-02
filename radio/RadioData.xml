@@ -40,23 +40,23 @@
     <ScriptEntry ID="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" name="Tv" startdelay="0" timestampmode="Static" loopmin="1" loopmax="1">
       <ExitOptions />
       <BroadcastEntry ID="2630a9b6-1c95-4c65-b5b2-250f7f4e3ec0" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="b0ee632b-789e-4e4f-a2b0-b09374856a62" r="255" g="192" b="0">Where in the Pizza Whirled are we today?</LineEntry>
-        <LineEntry ID="e026c08a-32a1-4548-8cd0-b4a22830bae8" r="0" g="176" b="80">Hello there old boy! Pip pip!</LineEntry>
-        <LineEntry ID="d4927b4f-393c-4461-8aae-81308f2de8c1" r="255" g="192" b="0">England! With the Olde English Renaissance Pizza!</LineEntry>
-        <LineEntry ID="5063ee85-cb64-4eeb-877b-5063069ca6ad" r="255" g="192" b="0">Cheddar cheese, black pudding, egg and bacon...</LineEntry>
-        <LineEntry ID="79f9a4c1-3828-4076-b099-20edfae888f3" r="255" g="192" b="0">... lovingly layered on a thick Pizza Whirled Crust!</LineEntry>
-        <LineEntry ID="d33b5e45-70ea-41e4-8701-3c1127d10128" r="255" g="192" b="0">What do you make of that, pal?</LineEntry>
-        <LineEntry ID="f50686a6-f502-484b-9631-d92736853438" r="0" g="176" b="80">Jolly fantastic!</LineEntry>
-        <LineEntry ID="c546dce2-5e65-49a0-a1f0-63f9bbd4998d" r="255" g="192" b="0">I'll say!</LineEntry>
+        <LineEntry ID="b0ee632b-789e-4e4f-a2b0-b09374856a62" r="255" g="192" b="0" codes="GUID:b0ee632b-789e-4e4f-a2b0-b09374856a62">${t:2.37}Where in the Pizza Whirled are we today?</LineEntry>
+        <LineEntry ID="e026c08a-32a1-4548-8cd0-b4a22830bae8" r="0" g="176" b="80">${t:2.80}Hello there old boy! Pip pip!</LineEntry>
+        <LineEntry ID="d4927b4f-393c-4461-8aae-81308f2de8c1" r="255" g="192" b="0">${t:3.66}England! With the Olde English Renaissance Pizza!</LineEntry>
+        <LineEntry ID="5063ee85-cb64-4eeb-877b-5063069ca6ad" r="255" g="192" b="0">${t:3.22}Cheddar cheese, black pudding, egg and bacon...</LineEntry>
+        <LineEntry ID="79f9a4c1-3828-4076-b099-20edfae888f3" r="255" g="192" b="0">${t:2.95}... lovingly layered on a thick Pizza Whirled Crust!</LineEntry>
+        <LineEntry ID="d33b5e45-70ea-41e4-8701-3c1127d10128" r="255" g="192" b="0">${t:1.76}What do you make of that, pal?</LineEntry>
+        <LineEntry ID="f50686a6-f502-484b-9631-d92736853438" r="0" g="176" b="80">${t:2.27}Jolly fantastic!</LineEntry>
+        <LineEntry ID="c546dce2-5e65-49a0-a1f0-63f9bbd4998d" r="255" g="192" b="0">${t:1.03}I'll say!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="9fd4b9b7-0f0c-41e4-9c0c-f3afd39dff0c" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="9ebb8ef9-d841-475b-968f-51a1dfdab27f" r="128" g="128" b="255">Tough day? </LineEntry>
-        <LineEntry ID="9568e6d6-1596-4cc0-9ab9-a1227ed38d37" r="128" g="128" b="255">Boss giving you grief?</LineEntry>
-        <LineEntry ID="b971466d-9ba3-48ce-8e7b-213054431257" r="128" g="128" b="255">Kids driving you crazy?</LineEntry>
-        <LineEntry ID="00de17d5-e2bf-466f-ab62-21a932942789" r="128" g="128" b="255">Finding yourself ambushed by folk you don't know?</LineEntry>
-        <LineEntry ID="88017a9c-b69f-404a-9f1f-8983b88a6257" r="128" g="128" b="255">We have an answer!</LineEntry>
-        <LineEntry ID="33d845cc-9440-4a98-aa8b-26d44c441835" r="128" g="128" b="255">The new Churn R' Us Deluxe Chocolate Cone!</LineEntry>
-        <LineEntry ID="2248c033-d107-4cbf-894b-db2392e64577" r="128" g="128" b="255">Come visit today! </LineEntry>
+        <LineEntry ID="9ebb8ef9-d841-475b-968f-51a1dfdab27f" r="128" g="128" b="255" codes="GUID:9ebb8ef9-d841-475b-968f-51a1dfdab27f">${t:1.20}Tough day? </LineEntry>
+        <LineEntry ID="9568e6d6-1596-4cc0-9ab9-a1227ed38d37" r="128" g="128" b="255">${t:1.62}Boss giving you grief?</LineEntry>
+        <LineEntry ID="b971466d-9ba3-48ce-8e7b-213054431257" r="128" g="128" b="255">${t:2.28}Kids driving you crazy?</LineEntry>
+        <LineEntry ID="00de17d5-e2bf-466f-ab62-21a932942789" r="128" g="128" b="255">${t:2.88}Finding yourself ambushed by folk you don't know?</LineEntry>
+        <LineEntry ID="88017a9c-b69f-404a-9f1f-8983b88a6257" r="128" g="128" b="255">${t:1.22}We have an answer!</LineEntry>
+        <LineEntry ID="33d845cc-9440-4a98-aa8b-26d44c441835" r="128" g="128" b="255">${t:2.85}The new Churn R' Us Deluxe Chocolate Cone!</LineEntry>
+        <LineEntry ID="2248c033-d107-4cbf-894b-db2392e64577" r="128" g="128" b="255">${t:1.45}Come visit today! </LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="992aa12a-9004-43f8-9e23-5a66068a6179" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="9c0e616f-7795-4505-a20e-2f1b78727255" r="128" g="128" b="255">The Caramel Flan Latte! </LineEntry>
@@ -79,37 +79,37 @@
         <LineEntry ID="32ab464d-4658-42d4-9573-7fa34371cabe" r="128" g="128" b="255">[img=music] Grab, grab, grab a can of... POP! [img=music]</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="8dd0884d-707d-471b-8685-3d8e88c4e1f3" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="10b37535-6dc8-43bf-be6b-ec6bc5b92bbc" r="255" g="192" b="0">Hi my name's Frank Greene, and I run Greene's Grocery.</LineEntry>
-        <LineEntry ID="142e4ada-1fae-4abe-974f-885dc6aa8964" r="255" g="192" b="0">These days, Greene's is kind of a big deal.</LineEntry>
-        <LineEntry ID="8b165e71-7aa0-418a-98bf-68be55c55c69" r="255" g="192" b="0">But we haven't forgotten where we came from.</LineEntry>
-        <LineEntry ID="70bccb45-b779-47c8-a181-ba8a4f90deb9" r="255" g="192" b="0">When my father set up shop all that time ago?</LineEntry>
-        <LineEntry ID="0e5f772f-3e66-4de3-bc8d-4846f4a15d72" r="255" g="192" b="0">He believed in family, in quality and in America.</LineEntry>
-        <LineEntry ID="b3aed9a0-651d-46cc-9059-755291db682c" r="255" g="192" b="0">I'm the same. How about you guys?</LineEntry>
-        <LineEntry ID="6579e7b5-cc89-4dd3-b8a6-721187c316e8" r="255" g="0" b="0">"We're all the same!"</LineEntry>
-        <LineEntry ID="63bf9c40-bda3-4247-b308-932f949abf79" r="255" g="192" b="0">Greene's Grocery: You're part of the family.</LineEntry>
+        <LineEntry ID="10b37535-6dc8-43bf-be6b-ec6bc5b92bbc" r="255" g="192" b="0" codes="GUID:10b37535-6dc8-43bf-be6b-ec6bc5b92bbc">${t:3.67}Hi my name's Frank Greene, and I run Greene's Grocery.</LineEntry>
+        <LineEntry ID="142e4ada-1fae-4abe-974f-885dc6aa8964" r="255" g="192" b="0">${t:2.66}These days, Greene's is kind of a big deal.</LineEntry>
+        <LineEntry ID="8b165e71-7aa0-418a-98bf-68be55c55c69" r="255" g="192" b="0">${t:2.16}But we haven't forgotten where we came from.</LineEntry>
+        <LineEntry ID="70bccb45-b779-47c8-a181-ba8a4f90deb9" r="255" g="192" b="0">${t:2.60}When my father set up shop all that time ago?</LineEntry>
+        <LineEntry ID="0e5f772f-3e66-4de3-bc8d-4846f4a15d72" r="255" g="192" b="0">${t:2.71}He believed in family, in quality and in America.</LineEntry>
+        <LineEntry ID="b3aed9a0-651d-46cc-9059-755291db682c" r="255" g="192" b="0">${t:1.96}I'm the same. How about you guys?</LineEntry>
+        <LineEntry ID="6579e7b5-cc89-4dd3-b8a6-721187c316e8" r="255" g="0" b="0">${t:1.51}"We're all the same!"</LineEntry>
+        <LineEntry ID="63bf9c40-bda3-4247-b308-932f949abf79" r="255" g="192" b="0">${t:2.37}Greene's Grocery: You're part of the family.</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="30efa603-f5e5-4349-8900-cc61bd7f7980" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="8cebc40e-3c73-4641-b171-d84856c530f5" r="255" g="192" b="0">It's an uncertain world.</LineEntry>
-        <LineEntry ID="8a53eb2e-5940-4eef-a35e-a20011244b9e" r="255" g="192" b="0">You need people to rely on.&#160;</LineEntry>
-        <LineEntry ID="93ab9c85-17a9-4094-adce-4e09d0584a7e" r="255" g="192" b="0">People to trust.</LineEntry>
-        <LineEntry ID="f194e606-ffe3-4b8d-b42d-ef43eb15fa5a" r="255" g="192" b="0">At Fossoil we understand that.</LineEntry>
-        <LineEntry ID="e22a11be-41c4-439f-bac1-52dc3cce813c" r="255" g="192" b="0">We've cleaned up the Gulf of Alaska.</LineEntry>
-        <LineEntry ID="ab5fb82a-3422-4146-98e2-6b7c111fc8db" r="255" g="192" b="0">We've cleaned up our act.</LineEntry>
-        <LineEntry ID="683b0898-4615-43d4-a6b1-44de28a6f366" r="255" g="192" b="0">And our gas prices are as low as they can go.</LineEntry>
-        <LineEntry ID="78af54c5-9409-4788-ae76-52f152afc516" r="255" g="192" b="0">Let's move on together.</LineEntry>
-        <LineEntry ID="450a1caa-8afa-4ec2-9d66-14734995bf49" r="255" g="192" b="0">Let's see others do the same.</LineEntry>
+        <LineEntry ID="8cebc40e-3c73-4641-b171-d84856c530f5" r="255" g="192" b="0" codes="GUID:8cebc40e-3c73-4641-b171-d84856c530f5">${t:1.54}It's an uncertain world.</LineEntry>
+        <LineEntry ID="8a53eb2e-5940-4eef-a35e-a20011244b9e" r="255" g="192" b="0">${t:1.88}You need people to rely on.&#160;</LineEntry>
+        <LineEntry ID="93ab9c85-17a9-4094-adce-4e09d0584a7e" r="255" g="192" b="0">${t:1.54}People to trust.</LineEntry>
+        <LineEntry ID="f194e606-ffe3-4b8d-b42d-ef43eb15fa5a" r="255" g="192" b="0">${t:2.28}At Fossoil we understand that.</LineEntry>
+        <LineEntry ID="e22a11be-41c4-439f-bac1-52dc3cce813c" r="255" g="192" b="0">${t:2.13}We've cleaned up the Gulf of Alaska.</LineEntry>
+        <LineEntry ID="ab5fb82a-3422-4146-98e2-6b7c111fc8db" r="255" g="192" b="0">${t:1.44}We've cleaned up our act.</LineEntry>
+        <LineEntry ID="683b0898-4615-43d4-a6b1-44de28a6f366" r="255" g="192" b="0">${t:3.66}And our gas prices are as low as they can go.</LineEntry>
+        <LineEntry ID="78af54c5-9409-4788-ae76-52f152afc516" r="255" g="192" b="0">${t:1.51}Let's move on together.</LineEntry>
+        <LineEntry ID="450a1caa-8afa-4ec2-9d66-14734995bf49" r="255" g="192" b="0">${t:2.12}Let's see others do the same.</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="bbe7a62d-5e61-40f3-9c0e-220c0b8f4782" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="44bcf1a1-a0d5-4697-b799-8df576421cd1" r="128" g="128" b="255">Deep in the Magical Woodland.</LineEntry>
-        <LineEntry ID="b80ccb80-ccd3-48d8-aa8f-d03c94c9179b" r="128" g="128" b="255">Further than anyone has gone before.</LineEntry>
-        <LineEntry ID="6e703116-4991-46aa-8cab-7021859ebeb0" r="128" g="128" b="255">There was a Raccoon.</LineEntry>
-        <LineEntry ID="a8c1deda-6ba3-4917-8e00-e620b9aa9647" r="128" g="128" b="255">A Raccoon with a mission.</LineEntry>
-        <LineEntry ID="03ee593a-41f9-465b-92c4-26c7ec4a061f" r="128" g="128" b="255">A Raccoon who would change everything.</LineEntry>
-        <LineEntry ID="128680a6-135b-4f8f-9c08-cc8d4e714b1c" r="128" g="128" b="255">He would show the world how to laugh.</LineEntry>
-        <LineEntry ID="21c71f80-d164-47bb-870e-d70d4710eff9" r="128" g="128" b="255">He would show the world how to love.</LineEntry>
-        <LineEntry ID="b6837ef9-87d8-42ac-905a-6746be4d299f" r="128" g="128" b="255">The Age of Spiffo had begun.</LineEntry>
-        <LineEntry ID="dc290c19-ec66-4820-902f-eca8696e9a01" r="128" g="128" b="255">PAWS: The Movie. Rated G.</LineEntry>
-        <LineEntry ID="63e34e92-148f-47a3-a7f2-5344199aade4" r="128" g="128" b="255">Out now in theaters!</LineEntry>
+        <LineEntry ID="44bcf1a1-a0d5-4697-b799-8df576421cd1" r="128" g="128" b="255" codes="GUID:44bcf1a1-a0d5-4697-b799-8df576421cd1">${t:3.24}Deep in the Magical Woodland.</LineEntry>
+        <LineEntry ID="b80ccb80-ccd3-48d8-aa8f-d03c94c9179b" r="128" g="128" b="255">${t:3.54}Further than anyone has gone before.</LineEntry>
+        <LineEntry ID="6e703116-4991-46aa-8cab-7021859ebeb0" r="128" g="128" b="255">${t:2.25}There was a Raccoon.</LineEntry>
+        <LineEntry ID="a8c1deda-6ba3-4917-8e00-e620b9aa9647" r="128" g="128" b="255">${t:2.06}A Raccoon with a mission.</LineEntry>
+        <LineEntry ID="03ee593a-41f9-465b-92c4-26c7ec4a061f" r="128" g="128" b="255">${t:2.68}A Raccoon who would change everything.</LineEntry>
+        <LineEntry ID="128680a6-135b-4f8f-9c08-cc8d4e714b1c" r="128" g="128" b="255">${t:2.50}He would show the world how to laugh.</LineEntry>
+        <LineEntry ID="21c71f80-d164-47bb-870e-d70d4710eff9" r="128" g="128" b="255">${t:2.65}He would show the world how to love.</LineEntry>
+        <LineEntry ID="b6837ef9-87d8-42ac-905a-6746be4d299f" r="128" g="128" b="255">${t:3.05}The Age of Spiffo had begun.</LineEntry>
+        <LineEntry ID="dc290c19-ec66-4820-902f-eca8696e9a01" r="128" g="128" b="255">${t:3.08}PAWS: The Movie. Rated G.</LineEntry>
+        <LineEntry ID="63e34e92-148f-47a3-a7f2-5344199aade4" r="128" g="128" b="255">${t:1.99}Out now in theaters!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="72da949a-c198-4b08-a2ac-148917019063" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="74353cef-98ed-4aac-b450-eac04be503d8" r="255" g="192" b="0">That is BEAUTIFUL!</LineEntry>
@@ -121,14 +121,14 @@
         <LineEntry ID="303606ff-d1d3-42f9-91c1-60a31c840835" r="128" g="128" b="255">Fashionabelle!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="1c755859-73e9-486e-9f70-d0ba0d739db8" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="506d117a-4c3b-4e16-81c9-551232e77666" r="0" g="176" b="80">In today's busy cut and thrust world...</LineEntry>
-        <LineEntry ID="ec7f8625-825b-4453-a2be-787fcb553fc9" r="0" g="176" b="80">...accidents happen.</LineEntry>
-        <LineEntry ID="75815e07-09e7-48f9-89a4-fcf82e12b549" r="0" g="176" b="80">Right as rain today, sick tomorrow....</LineEntry>
-        <LineEntry ID="45831fc2-f69e-40bd-bf79-a33e3098ba23" r="0" g="176" b="80">... but anxious always.</LineEntry>
-        <LineEntry ID="de92d49e-0213-494e-89cf-b9f998db3302" r="0" g="176" b="80">You need a safety net. </LineEntry>
-        <LineEntry ID="23cd8d14-0392-40d5-83e5-80a727565c51" r="0" g="176" b="80">You need reassurance.</LineEntry>
-        <LineEntry ID="460e7fad-8175-4501-9050-bfa919721fee" r="0" g="176" b="80">Today, my friend, you need ValuInsurance.</LineEntry>
-        <LineEntry ID="968ca2e3-f96d-4c42-a5a2-d35572a5d351" r="0" g="176" b="80">Medical care to look after all of your tomorrows.</LineEntry>
+        <LineEntry ID="506d117a-4c3b-4e16-81c9-551232e77666" r="0" g="176" b="80" codes="GUID:506d117a-4c3b-4e16-81c9-551232e77666">${t:3.29}In today's busy cut and thrust world...</LineEntry>
+        <LineEntry ID="ec7f8625-825b-4453-a2be-787fcb553fc9" r="0" g="176" b="80">${t:1.67}...accidents happen.</LineEntry>
+        <LineEntry ID="75815e07-09e7-48f9-89a4-fcf82e12b549" r="0" g="176" b="80">${t:2.86}Right as rain today, sick tomorrow....</LineEntry>
+        <LineEntry ID="45831fc2-f69e-40bd-bf79-a33e3098ba23" r="0" g="176" b="80">${t:1.94}... but anxious always.</LineEntry>
+        <LineEntry ID="de92d49e-0213-494e-89cf-b9f998db3302" r="0" g="176" b="80">${t:1.81}You need a safety net. </LineEntry>
+        <LineEntry ID="23cd8d14-0392-40d5-83e5-80a727565c51" r="0" g="176" b="80">${t:1.79}You need reassurance.</LineEntry>
+        <LineEntry ID="460e7fad-8175-4501-9050-bfa919721fee" r="0" g="176" b="80">${t:3.58}Today, my friend, you need ValuInsurance.</LineEntry>
+        <LineEntry ID="968ca2e3-f96d-4c42-a5a2-d35572a5d351" r="0" g="176" b="80">${t:3.45}Medical care to look after all of your tomorrows.</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="6727dd62-7a28-4d41-bd39-ffd1aa27a54f" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="7583e5a4-31cc-4155-aabb-3f4f913e5745" r="128" g="128" b="255">[img=music] I love Wok and Rolls! [img=music]</LineEntry>
@@ -367,16 +367,16 @@
         <LineEntry ID="2bba8250-c647-4fcd-a722-de25939bf987" r="0" g="176" b="80">Making amends. Working together.</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="0a0fc868-3286-40a6-bc9f-146fb68407ee" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="44c25b21-cffb-4cc0-9b3a-6caae95b62c2" r="128" g="128" b="255">Deep in the Magical Woodland.</LineEntry>
-        <LineEntry ID="608ea38e-e15b-42fe-b9d2-adf18954fb48" r="128" g="128" b="255">Further then anyone has gone before.</LineEntry>
-        <LineEntry ID="06aef50f-7894-4189-a9e9-1567416b846d" r="128" g="128" b="255">There was a Raccoon.</LineEntry>
-        <LineEntry ID="84183d55-4f0c-443d-9f89-54ae821582b7" r="128" g="128" b="255">A Raccoon with a mission.</LineEntry>
-        <LineEntry ID="e160f9ec-7aab-4c22-a17c-b85734343162" r="128" g="128" b="255">A Raccoon who would change everything.</LineEntry>
-        <LineEntry ID="b79691a4-e93e-47d1-b7e0-6c860fb6867c" r="128" g="128" b="255">He would show the world how to laugh.</LineEntry>
-        <LineEntry ID="3857ce69-e1ff-4c8b-84e0-3d37e27227fb" r="128" g="128" b="255">He would show the world how to love.</LineEntry>
-        <LineEntry ID="6a661281-0dc1-43c1-bf20-f31e83d75331" r="128" g="128" b="255">The Age of Spiffo had begun.</LineEntry>
-        <LineEntry ID="b13ce217-d71d-4927-a317-cd25b7993be3" r="128" g="128" b="255">PAWS: The Movie. Rated G.</LineEntry>
-        <LineEntry ID="e6f1b691-1cf7-4070-9d5f-3b4801ccccb1" r="128" g="128" b="255">Out now in theaters!</LineEntry>
+        <LineEntry ID="44c25b21-cffb-4cc0-9b3a-6caae95b62c2" r="128" g="128" b="255" codes="GUID:44c25b21-cffb-4cc0-9b3a-6caae95b62c2">${t:3.24}Deep in the Magical Woodland.</LineEntry>
+        <LineEntry ID="608ea38e-e15b-42fe-b9d2-adf18954fb48" r="128" g="128" b="255">${t:3.54}Further then anyone has gone before.</LineEntry>
+        <LineEntry ID="06aef50f-7894-4189-a9e9-1567416b846d" r="128" g="128" b="255">${t:2.25}There was a Raccoon.</LineEntry>
+        <LineEntry ID="84183d55-4f0c-443d-9f89-54ae821582b7" r="128" g="128" b="255">${t:2.06}A Raccoon with a mission.</LineEntry>
+        <LineEntry ID="e160f9ec-7aab-4c22-a17c-b85734343162" r="128" g="128" b="255">${t:2.68}A Raccoon who would change everything.</LineEntry>
+        <LineEntry ID="b79691a4-e93e-47d1-b7e0-6c860fb6867c" r="128" g="128" b="255">${t:2.50}He would show the world how to laugh.</LineEntry>
+        <LineEntry ID="3857ce69-e1ff-4c8b-84e0-3d37e27227fb" r="128" g="128" b="255">${t:2.65}He would show the world how to love.</LineEntry>
+        <LineEntry ID="6a661281-0dc1-43c1-bf20-f31e83d75331" r="128" g="128" b="255">${t:3.05}The Age of Spiffo had begun.</LineEntry>
+        <LineEntry ID="b13ce217-d71d-4927-a317-cd25b7993be3" r="128" g="128" b="255">${t:3.08}PAWS: The Movie. Rated G.</LineEntry>
+        <LineEntry ID="e6f1b691-1cf7-4070-9d5f-3b4801ccccb1" r="128" g="128" b="255">${t:1.99}Out now in theaters!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="d06756e5-5d68-4e46-9396-9fdec462cf24" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="8107c324-642a-4301-bcd3-051dc2d48d2f" r="128" g="128" b="255">The Caramel Flan Latte! </LineEntry>
