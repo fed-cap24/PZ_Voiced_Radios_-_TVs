@@ -513,7 +513,7 @@ function WeatherChannel.AddExtremesForecasting(_c, _bc, offset, _len)
             local fx = "AEBS_weather_warning_1+"..weather_code.."+AEBS_weather_warning_2+VoicedNumber_"..tostring(i).."+AEBS_weather_warning_3"
             local _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); --Too lazy to calculate: 9 seconds
             _rl:setAirTime(9.00);
-            _bc:AddRadioLine(  );
+            _bc:AddRadioLine( _rl );
             return;
         end
     end
