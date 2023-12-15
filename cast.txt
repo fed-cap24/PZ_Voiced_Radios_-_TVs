@@ -2,6 +2,7 @@ Life and Living TV:
 	Director: Fed_Cap
 	Actors: WoodCraft Host: Atikar
 		WoodCraft Jingle: RebelRex
+		Salesman: Goosesalesman of Hamburg
 		ElevenLabs
 
 LBMW - Kentucky Radio
@@ -18,3 +19,4 @@ Adverts:
 	Greene's Grocery: Wawa Goat
 	Spiffo Movie: Adaminium
 	ValuInsurance: Brady/Charlie
+	Dr Cox, Ivanov Clubs, Tooks Bear: Goosesalesman of Hamburg
