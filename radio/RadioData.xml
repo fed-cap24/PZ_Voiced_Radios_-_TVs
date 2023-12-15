@@ -177,35 +177,35 @@
         <LineEntry ID="fc434162-3415-4d37-aadc-86817edd12e7" r="128" g="128" b="255">... your store.</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="61be5b65-e9f2-491f-8514-f838f0468f7a" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="ce2f8a16-5c34-45ab-a0fc-42a45bae457d" r="0" g="176" b="80" codes="GUID:ce2f8a16-5c34-45ab-a0fc-42a45bae457d">${t:3.37}I'm Doctor Cox, and I'm here to talk to YOU about bladder control.</LineEntry>
-        <LineEntry ID="801d25ef-6679-4523-8dc4-b6177c93b2cc" r="0" g="176" b="80">${t:3.58}Now I've been helping families for forty long years, but I have NEVER...</LineEntry>
-        <LineEntry ID="0adb338b-5983-4d9b-b177-8e3f176bb4f8" r="0" g="176" b="80">${t:2.53}... come across a treatment like Incontileve.</LineEntry>
-        <LineEntry ID="699cae6b-2d3f-406d-93e6-e698fa733128" r="0" g="176" b="80">${t:3.24}Everywhere I go, good friends say 'Thank you Doctor Cox'.</LineEntry>
-        <LineEntry ID="3bbc6875-ac2d-44bf-b44e-6458d0d2ac99" r="0" g="176" b="80">${t:3.43}Thanks for asking family doctors to recommend: Incontileve.</LineEntry>
-        <LineEntry ID="5ffe8b0d-c78a-42fc-9893-2f3d8591c3c5" r="255" g="0" b="0">${t:2.95}Product may cause swelling of the urinary tract....</LineEntry>
-        <LineEntry ID="ae59e892-8cb9-49f3-b882-fb6b0e24861b" r="255" g="0" b="0">${t:2.40}...headaches, nausea and sudden irritation.</LineEntry>
-        <LineEntry ID="9321a6af-16e3-426a-96a9-2a0d5c3274a0" r="0" g="176" b="80">${t:1.25}Ask your doctor today!</LineEntry>
+        <LineEntry ID="ce2f8a16-5c34-45ab-a0fc-42a45bae457d" r="0" g="176" b="80" codes="GUID:ce2f8a16-5c34-45ab-a0fc-42a45bae457d">${t:4.15}I'm Doctor Cox, I'm here to talk to YOU about bladder control.</LineEntry>
+        <LineEntry ID="801d25ef-6679-4523-8dc4-b6177c93b2cc" r="0" g="176" b="80">${t:4.53}Now I've been helping families for forty long years, but I have NEVER...</LineEntry>
+        <LineEntry ID="0adb338b-5983-4d9b-b177-8e3f176bb4f8" r="0" g="176" b="80">${t:2.98}... come across a treatment like Incontileve.</LineEntry>
+        <LineEntry ID="699cae6b-2d3f-406d-93e6-e698fa733128" r="0" g="176" b="80">${t:4.10}Everywhere I go, good friends say 'Thank you Doctor Cox'.</LineEntry>
+        <LineEntry ID="3bbc6875-ac2d-44bf-b44e-6458d0d2ac99" r="0" g="176" b="80">${t:4.26}Thanks for asking family doctors to recommend: Incontileve.</LineEntry>
+        <LineEntry ID="5ffe8b0d-c78a-42fc-9893-2f3d8591c3c5" r="255" g="0" b="0">${t:1.67}Product may cause swelling of the urinary tract....</LineEntry>
+        <LineEntry ID="ae59e892-8cb9-49f3-b882-fb6b0e24861b" r="255" g="0" b="0">${t:1.44}...headaches, nausea and sudden irritation.</LineEntry>
+        <LineEntry ID="9321a6af-16e3-426a-96a9-2a0d5c3274a0" r="0" g="176" b="80">${t:1.70}Ask your doctor today!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="0257a3f2-c642-4cdf-b58f-396bb408a872" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="ae154554-69fc-4e7d-85a2-9f4a9379d7d8" r="128" g="128" b="255" codes="GUID:ae154554-69fc-4e7d-85a2-9f4a9379d7d8">${t:2.40}Now I'd like you to meet my good friend Tooks Bear.</LineEntry>
-        <LineEntry ID="59e55b17-1c44-47e3-85b5-dedd97cc1546" r="128" g="128" b="255">${t:4.00}Tooks Bear is the friendliest, smiliest, bounciest bear in town.</LineEntry>
-        <LineEntry ID="bcdae841-72d3-45f6-84e3-0734c4308f53" r="128" g="128" b="255">${t:2.09}You know why you'll like him the most?</LineEntry>
-        <LineEntry ID="ed0c0f57-0c3f-42dd-adf9-32e5c4e6cf31" r="128" g="128" b="255">${t:4.13}He's only $49.99 plus postage and packing.</LineEntry>
-        <LineEntry ID="cda93c5a-d471-4b05-b093-c05e228e9c34" r="128" g="128" b="255">${t:3.11}All I have to do is press this little button on his paw and...</LineEntry>
-        <LineEntry ID="0b529010-9da0-472f-a28d-3503859b308e" r="255" g="0" b="0">${t:2.12}"I'm Tooks Bear! Let's go on an adventure!"</LineEntry>
-        <LineEntry ID="af296a0e-f561-4f4e-9fff-ae8a65900803" r="128" g="128" b="255">${t:4.70}We sure will Tooks! For $49.99 who'd resist?</LineEntry>
+        <LineEntry ID="ae154554-69fc-4e7d-85a2-9f4a9379d7d8" r="0" g="176" b="240" codes="GUID:ae154554-69fc-4e7d-85a2-9f4a9379d7d8">${t:3.68}Now I'd like you to meet my good friend Tooks Bear.</LineEntry>
+        <LineEntry ID="59e55b17-1c44-47e3-85b5-dedd97cc1546" r="0" g="176" b="240">${t:4.60}Tooks Bear is the friendliest, smiliest, bounciest bear in town.</LineEntry>
+        <LineEntry ID="bcdae841-72d3-45f6-84e3-0734c4308f53" r="0" g="176" b="240">${t:2.38}You know why you'll like him the most?</LineEntry>
+        <LineEntry ID="ed0c0f57-0c3f-42dd-adf9-32e5c4e6cf31" r="0" g="176" b="240">${t:3.91}He's only $49.99 plus postage and packing.</LineEntry>
+        <LineEntry ID="cda93c5a-d471-4b05-b093-c05e228e9c34" r="0" g="176" b="240">${t:4.20}All I have to do is press this little button on his paw and...</LineEntry>
+        <LineEntry ID="0b529010-9da0-472f-a28d-3503859b308e" r="255" g="0" b="0">${t:4.90}"I'm Tooks Bear! Let's go on an adventure!"</LineEntry>
+        <LineEntry ID="af296a0e-f561-4f4e-9fff-ae8a65900803" r="0" g="176" b="240">${t:4.99}We sure will Tooks! For $49.99 who'd resist? Call now!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="a0c41ef2-4ad7-49a5-8ae9-61eb6a443625" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="a6503de3-c61e-4e13-9b4d-58448ed39dbb" r="255" g="192" b="0">I don't know about you, but when I golf with my buddies...</LineEntry>
-        <LineEntry ID="332a41ff-1a9b-4fb1-ae30-30f8139762eb" r="255" g="192" b="0">There's always this special moment.</LineEntry>
-        <LineEntry ID="3dacb4c2-e68e-4c5c-a28a-c918c8940eed" r="255" g="192" b="0">You get your clubs out the trunk, your friend does the same...</LineEntry>
-        <LineEntry ID="5a01afc1-f44c-46e7-840e-58334c6f8e84" r="255" g="192" b="0">And you compare - right?</LineEntry>
-        <LineEntry ID="4cdf77ef-06fe-4def-842b-5f502acbb605" r="255" g="192" b="0">Until I bought a set of Ivanov clubs, that was a mental battle I always lost.</LineEntry>
-        <LineEntry ID="c0fc17ca-3caa-479d-95df-2788d9f86bc2" r="255" g="192" b="0">To get the best, you've gotta look for the best.</LineEntry>
-        <LineEntry ID="57a4b78c-a2a4-4270-9c41-baca5e1bd0d0" r="255" g="192" b="0">So it's your lucky day.</LineEntry>
-        <LineEntry ID="746e4073-b6a8-4373-9c1d-1d18d8f23dbf" r="255" g="192" b="0">Today I'm here to show you: the best.</LineEntry>
-        <LineEntry ID="58f5153f-a082-4da1-b279-019dcd9165d9" r="255" g="192" b="0">Let's find out why golfing the Ivanov way is... </LineEntry>
-        <LineEntry ID="66311a67-bf76-46a7-ab5b-9a5c4fb81dee" r="255" g="192" b="0">...pitch perfect.</LineEntry>
+        <LineEntry ID="a6503de3-c61e-4e13-9b4d-58448ed39dbb" r="255" g="192" b="0" codes="GUID:a6503de3-c61e-4e13-9b4d-58448ed39dbb">${t:3.62}I don't know about you, but when I golf with my buddies...</LineEntry>
+        <LineEntry ID="332a41ff-1a9b-4fb1-ae30-30f8139762eb" r="255" g="192" b="0">${t:2.34}There's always this special moment.</LineEntry>
+        <LineEntry ID="3dacb4c2-e68e-4c5c-a28a-c918c8940eed" r="255" g="192" b="0">${t:3.46}You get your clubs out the trunk, your friend does the same...</LineEntry>
+        <LineEntry ID="5a01afc1-f44c-46e7-840e-58334c6f8e84" r="255" g="192" b="0">${t:2.27}And you compare - right?</LineEntry>
+        <LineEntry ID="4cdf77ef-06fe-4def-842b-5f502acbb605" r="255" g="192" b="0">${t:4.99}Until I brought a set of Ivanov clubs, that was a mental battle I always lost.</LineEntry>
+        <LineEntry ID="c0fc17ca-3caa-479d-95df-2788d9f86bc2" r="255" g="192" b="0">${t:4.20}To get the best, you've gotta look the best.</LineEntry>
+        <LineEntry ID="57a4b78c-a2a4-4270-9c41-baca5e1bd0d0" r="255" g="192" b="0">${t:1.81}So it's your lucky day.</LineEntry>
+        <LineEntry ID="746e4073-b6a8-4373-9c1d-1d18d8f23dbf" r="255" g="192" b="0">${t:3.15}Today I'm here to show you: the best.</LineEntry>
+        <LineEntry ID="58f5153f-a082-4da1-b279-019dcd9165d9" r="255" g="192" b="0">${t:3.84}Let's find out why golfing the Ivanov way is... </LineEntry>
+        <LineEntry ID="66311a67-bf76-46a7-ab5b-9a5c4fb81dee" r="255" g="192" b="0">${t:2.03}...pitch perfect.</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="647be756-9b0b-4a5f-8517-8694a0cf7a1e" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="68b1fee8-5fd9-4166-a9ff-43331eae097d" r="128" g="128" b="255">I am a cow.</LineEntry>
@@ -6531,14 +6531,14 @@
         </BroadcastEntry>
         <BroadcastEntry ID="85953087-0ebe-4cce-9b49-857d583af344" timestamp="1410" endstamp="1440" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="20965910-b900-456e-af67-d917b846f112" timestamp="1440" endstamp="1800" type="ActivateBroadcast" day="1" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="8a4818a5-c75d-478f-ab01-f383f0c89a59" r="0" g="176" b="80" codes="GUID:8a4818a5-c75d-478f-ab01-f383f0c89a59">${t:2.51}Do we have an amazing product today for you!</LineEntry>
-          <LineEntry ID="0ac71379-2faa-4f59-9a8e-4cf39cd55657" r="0" g="176" b="80" codes="BOR-1">${t:2.53}This looks like any normal Kitchen Knife, am I right?</LineEntry>
-          <LineEntry ID="67442fcf-a525-4ccd-bb34-6dd678de2bdc" r="0" g="176" b="80">${t:2.74}Well - if you thought I was right, I was wrong.</LineEntry>
-          <LineEntry ID="b698aecf-c505-4dcb-a178-600335d7b24d" r="0" g="176" b="80" codes="BOR-1">${t:1.52}This is a Kitchen Knife by Kitten.</LineEntry>
-          <LineEntry ID="a87ba511-d5d3-44ec-9028-83d959beb72e" r="0" g="176" b="80" codes="BOR-1">${t:2.40}Kitten Knives are strong, sturdy and sharp.</LineEntry>
-          <LineEntry ID="dcd30d29-2d1b-4cb7-a9e1-e7b3c385aae2" r="0" g="176" b="80" codes="BOR-1">${t:2.32}Look at this handle, I mean just look at the handle.</LineEntry>
-          <LineEntry ID="929fe83e-cbfe-48a0-bd02-e07b8ea3fdcf" r="0" g="176" b="80">${t:1.70}Chopping. Slicing. Dicing. </LineEntry>
-          <LineEntry ID="20a5303d-1e14-4266-a5d1-51d2d19ba303" r="0" g="176" b="80">${t:3.08}All a joy.</LineEntry>
+          <LineEntry ID="8a4818a5-c75d-478f-ab01-f383f0c89a59" r="0" g="176" b="240" codes="GUID:8a4818a5-c75d-478f-ab01-f383f0c89a59">${t:2.87}Do we have an amazing product for you today!</LineEntry>
+          <LineEntry ID="0ac71379-2faa-4f59-9a8e-4cf39cd55657" r="0" g="176" b="240" codes="BOR-1">${t:3.50}This looks like any normal Kitchen Knife, am I right?</LineEntry>
+          <LineEntry ID="67442fcf-a525-4ccd-bb34-6dd678de2bdc" r="0" g="176" b="240">${t:3.53}Well - if you thought I was right, I was wrong.</LineEntry>
+          <LineEntry ID="b698aecf-c505-4dcb-a178-600335d7b24d" r="0" g="176" b="240" codes="BOR-1">${t:2.60}This is a Kitchen Knife by Kitten.</LineEntry>
+          <LineEntry ID="a87ba511-d5d3-44ec-9028-83d959beb72e" r="0" g="176" b="240" codes="BOR-1">${t:3.54}Kitten Knives are strong, sturdy and sharp.</LineEntry>
+          <LineEntry ID="dcd30d29-2d1b-4cb7-a9e1-e7b3c385aae2" r="0" g="176" b="240" codes="BOR-1">${t:3.54}Look at this handle, I mean just look at the handle.</LineEntry>
+          <LineEntry ID="929fe83e-cbfe-48a0-bd02-e07b8ea3fdcf" r="0" g="176" b="240">${t:2.64}Chopping. Slicing. Dicing. </LineEntry>
+          <LineEntry ID="20a5303d-1e14-4266-a5d1-51d2d19ba303" r="0" g="176" b="240">${t:1.51}All a joy.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="87fd2783-9fe4-4605-becf-5875a5616f28" timestamp="1800" endstamp="2160" type="ActivateBroadcast" day="1" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="a33fe7e9-d933-4e6b-9d6f-58479b671e8d" r="0" g="176" b="240" codes="BOR-1,GUID:a33fe7e9-d933-4e6b-9d6f-58479b671e8d">${t:1.70}Hey! You're with the Cook Show!</LineEntry>
@@ -6602,15 +6602,15 @@
         </BroadcastEntry>
         <BroadcastEntry ID="72449092-ea4c-403c-8048-fdc336749d90" timestamp="2850" endstamp="2880" type="ActivateBroadcast" day="1" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="29f94658-1439-4dce-b764-828960ae641a" timestamp="2880" endstamp="3240" type="ActivateBroadcast" day="2" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="7dbf5632-2364-4d52-a068-699e196fd66f" r="0" g="176" b="80" codes="BOR-1,GUID:7dbf5632-2364-4d52-a068-699e196fd66f">${t:3.37}I'm Doctor Cox, and I'm here to talk to YOU about bladder control.</LineEntry>
-          <LineEntry ID="80d55ec6-8a00-40d7-bb24-fcc4dfecfbc2" r="0" g="176" b="80">${t:3.58}Now I've been helping families for forty long years, but I have NEVER...</LineEntry>
-          <LineEntry ID="e3e517dd-45b7-427a-927a-7177148489ec" r="0" g="176" b="80">${t:2.53}... come across a treatment like Incontileve.</LineEntry>
-          <LineEntry ID="effacd4e-16a1-4fd3-a0d4-c7bb7d26ea11" r="0" g="176" b="80" codes="BOR-1">${t:3.24}Everywhere I go, good friends say 'Thank you Doctor Cox'.</LineEntry>
-          <LineEntry ID="fa20ce59-7949-4d1a-8afa-e2e58e77d70a" r="0" g="176" b="80" codes="BOR-1">${t:2.46}Thanks for asking family doctors to recommend: </LineEntry>
-          <LineEntry ID="f065b2ee-813d-4323-903f-59b4a7d42f97" r="0" g="176" b="80" codes="BOR-1">${t:0.97}Incontileve.</LineEntry>
-          <LineEntry ID="5b8cef90-2cfe-4138-9a03-4d5f2e0cbf52" r="255" g="0" b="0">${t:2.95}Product may cause swelling of the urinary tract....</LineEntry>
-          <LineEntry ID="a8665b42-1528-4e6a-b717-04d71f809655" r="255" g="0" b="0">${t:2.40}...headaches, nausea and sudden irritation.</LineEntry>
-          <LineEntry ID="281289a5-de51-4005-9cd6-c279c762cc34" r="0" g="176" b="240">${t:1.25}Ask your doctor today.</LineEntry>
+          <LineEntry ID="7dbf5632-2364-4d52-a068-699e196fd66f" r="0" g="176" b="80" codes="BOR-1,GUID:7dbf5632-2364-4d52-a068-699e196fd66f">${t:4.15}I'm Doctor Cox, I'm here to talk to YOU about bladder control.</LineEntry>
+          <LineEntry ID="80d55ec6-8a00-40d7-bb24-fcc4dfecfbc2" r="0" g="176" b="80">${t:4.53}Now I've been helping families for forty long years, but I have NEVER...</LineEntry>
+          <LineEntry ID="e3e517dd-45b7-427a-927a-7177148489ec" r="0" g="176" b="80">${t:2.98}... come across a treatment like Incontileve.</LineEntry>
+          <LineEntry ID="effacd4e-16a1-4fd3-a0d4-c7bb7d26ea11" r="0" g="176" b="80" codes="BOR-1">${t:4.10}Everywhere I go, good friends say 'Thank you Doctor Cox'.</LineEntry>
+          <LineEntry ID="fa20ce59-7949-4d1a-8afa-e2e58e77d70a" r="0" g="176" b="80" codes="BOR-1">${t:2.79}Thanks for asking family doctors to recommend: </LineEntry>
+          <LineEntry ID="f065b2ee-813d-4323-903f-59b4a7d42f97" r="0" g="176" b="80" codes="BOR-1">${t:1.47}Incontileve.</LineEntry>
+          <LineEntry ID="5b8cef90-2cfe-4138-9a03-4d5f2e0cbf52" r="255" g="0" b="0">${t:1.67}Product may cause swelling of the urinary tract....</LineEntry>
+          <LineEntry ID="a8665b42-1528-4e6a-b717-04d71f809655" r="255" g="0" b="0">${t:1.44}...headaches, nausea and sudden irritation.</LineEntry>
+          <LineEntry ID="281289a5-de51-4005-9cd6-c279c762cc34" r="0" g="176" b="240">${t:1.70}Ask your doctor today.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="a24b3295-6241-401c-a7d2-0c1bf0bba426" timestamp="3240" endstamp="3600" type="ActivateBroadcast" day="2" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="672ede0c-8674-4e82-aa34-d5f4e6405588" r="0" g="176" b="240" codes="BOR-1,GUID:672ede0c-8674-4e82-aa34-d5f4e6405588">${t:1.85}Hey! You're with the Cook Show!</LineEntry>
@@ -6678,14 +6678,14 @@
         </BroadcastEntry>
         <BroadcastEntry ID="d7e9c145-d228-437f-9ea4-5ea3718ea6fd" timestamp="4290" endstamp="4320" type="ActivateBroadcast" day="2" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="ad968fc8-cdfb-4c50-9341-45d3c6e687e1" timestamp="4320" endstamp="4680" type="ActivateBroadcast" day="3" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="5b256688-3ca3-4cb6-aa83-142fe98b55cc" r="128" g="128" b="255" codes="GUID:5b256688-3ca3-4cb6-aa83-142fe98b55cc">${t:2.40}Now I'd like you to meet my good friend Tooks Bear.</LineEntry>
-          <LineEntry ID="a711f59c-bcd6-43b2-a3e8-7b5e7f5f37f3" r="128" g="128" b="255">${t:4.00}Tooks Bear is the friendliest, smiliest, bounciest bear in town.</LineEntry>
-          <LineEntry ID="4009cbdb-f9db-4741-9258-de17df18b90e" r="128" g="128" b="255">${t:2.09}You know why you'll like him the most?</LineEntry>
-          <LineEntry ID="361268c6-0b75-4d1c-be51-020f7808e2b4" r="128" g="128" b="255" codes="BOR-1">${t:4.13}He's only $49.99 plus postage and packing.</LineEntry>
-          <LineEntry ID="fb798ae7-afae-43f2-9e14-a85f50c465c0" r="128" g="128" b="255">${t:3.11}All I have to do is press this little button on his paw and...</LineEntry>
-          <LineEntry ID="c1e3f233-80a0-4254-83b3-cde19a4e0cfe" r="255" g="0" b="0" codes="STS-1,BOR-1">${t:2.12}I'm Tooks Bear! Let's go on an adventure!</LineEntry>
-          <LineEntry ID="3b595ea3-ed30-4eda-affc-5c3c91d6f24a" r="128" g="128" b="255" codes="BOR-1">${t:1.28}We sure will Tooks! </LineEntry>
-          <LineEntry ID="ade87393-e60f-4677-a43a-8ed67a311547" r="128" g="128" b="255">${t:3.42}For $49.99 who'd resist? Call now!</LineEntry>
+          <LineEntry ID="5b256688-3ca3-4cb6-aa83-142fe98b55cc" r="0" g="176" b="240" codes="GUID:5b256688-3ca3-4cb6-aa83-142fe98b55cc">${t:3.68}Now I'd like you to meet my good friend Tooks Bear.</LineEntry>
+          <LineEntry ID="a711f59c-bcd6-43b2-a3e8-7b5e7f5f37f3" r="0" g="176" b="240">${t:4.60}Tooks Bear is the friendliest, smiliest, bounciest bear in town.</LineEntry>
+          <LineEntry ID="4009cbdb-f9db-4741-9258-de17df18b90e" r="0" g="176" b="240">${t:2.38}You know why you'll like him the most?</LineEntry>
+          <LineEntry ID="361268c6-0b75-4d1c-be51-020f7808e2b4" r="0" g="176" b="240" codes="BOR-1">${t:3.91}He's only $49.99 plus postage and packing.</LineEntry>
+          <LineEntry ID="fb798ae7-afae-43f2-9e14-a85f50c465c0" r="0" g="176" b="240">${t:4.20}All I have to do is press this little button on his paw and...</LineEntry>
+          <LineEntry ID="c1e3f233-80a0-4254-83b3-cde19a4e0cfe" r="255" g="0" b="0" codes="STS-1,BOR-1">${t:3.90}I'm Tooks Bear! Let's go on an adventure!</LineEntry>
+          <LineEntry ID="3b595ea3-ed30-4eda-affc-5c3c91d6f24a" r="0" g="176" b="240" codes="BOR-1">${t:2.21}We sure will Tooks! </LineEntry>
+          <LineEntry ID="ade87393-e60f-4677-a43a-8ed67a311547" r="0" g="176" b="240">${t:4.35}For $49.99 who'd resist? Call now!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="d969e014-5392-469d-9981-1e93d12ccfac" timestamp="4680" endstamp="5040" type="ActivateBroadcast" day="3" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="d6b66326-3d9f-4b04-89f5-dcbaf6a1c733" r="0" g="176" b="240" codes="GUID:d6b66326-3d9f-4b04-89f5-dcbaf6a1c733">${t:1.52}You're back with the Cook Show!</LineEntry>
@@ -6746,16 +6746,16 @@
         </BroadcastEntry>
         <BroadcastEntry ID="1edf22ed-39c0-43ca-87bf-bf5c72951ea0" timestamp="5730" endstamp="5760" type="ActivateBroadcast" day="3" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="30ef07c1-2690-4e51-b421-a70ea3edf322" timestamp="5760" endstamp="6120" type="ActivateBroadcast" day="4" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="0f8761f8-ef67-4c7d-9e75-b82a51364a1b" r="255" g="192" b="0" codes="BOR-1,GUID:0f8761f8-ef67-4c7d-9e75-b82a51364a1b">${t:2.53}I don't know about you, but when I golf with my buddies...</LineEntry>
-          <LineEntry ID="1350a861-3fd3-4edb-802c-7c89edace34a" r="255" g="192" b="0" codes="BOR-1">${t:1.70}There's always this special moment.</LineEntry>
-          <LineEntry ID="4fbeaf13-594d-497c-9053-220a42155fd3" r="255" g="192" b="0" codes="BOR-1">${t:3.19}You get your clubs out the trunk, your friend does the same...</LineEntry>
-          <LineEntry ID="346a331b-4e6f-4f4e-a007-9c8e93f26b9e" r="255" g="192" b="0" codes="BOR-1">${t:1.49}And you compare - right?</LineEntry>
-          <LineEntry ID="5e8f3d06-83da-4973-90e6-1d3e61ec2e29" r="255" g="192" b="0" codes="BOR-1">${t:4.31}Until I bought a set of Ivanov clubs, that was a mental battle I always lost.</LineEntry>
-          <LineEntry ID="d8da066a-f263-47c7-9760-a7ddca3c25e2" r="255" g="192" b="0" codes="BOR-1">${t:2.46}To get the best, you've gotta look for the best.</LineEntry>
-          <LineEntry ID="86899d85-3c9f-4101-a7b5-d27e5c7ee333" r="255" g="192" b="0">${t:1.20}So it's your lucky day.</LineEntry>
-          <LineEntry ID="adb5614a-278c-418c-bc85-c7a55256cd94" r="255" g="192" b="0">${t:1.80}Today I'm here to show you: the best.</LineEntry>
-          <LineEntry ID="7dec0e8f-f65e-4bcb-b8b2-4ed49615e3b2" r="255" g="192" b="0" codes="BOR-1">${t:2.95}Let's find out why golfing the Ivanov way is... </LineEntry>
-          <LineEntry ID="fb3befc0-b918-4990-82e4-787586b594be" r="255" g="192" b="0" codes="BOR-1">${t:1.25}...pitch perfect.</LineEntry>
+          <LineEntry ID="0f8761f8-ef67-4c7d-9e75-b82a51364a1b" r="255" g="192" b="0" codes="BOR-1,GUID:0f8761f8-ef67-4c7d-9e75-b82a51364a1b">${t:3.62}I don't know about you, but when I golf with my buddies...</LineEntry>
+          <LineEntry ID="1350a861-3fd3-4edb-802c-7c89edace34a" r="255" g="192" b="0" codes="BOR-1">${t:2.34}There's always this special moment.</LineEntry>
+          <LineEntry ID="4fbeaf13-594d-497c-9053-220a42155fd3" r="255" g="192" b="0" codes="BOR-1">${t:3.46}You get your clubs out the trunk, your friend does the same...</LineEntry>
+          <LineEntry ID="346a331b-4e6f-4f4e-a007-9c8e93f26b9e" r="255" g="192" b="0" codes="BOR-1">${t:2.27}And you compare - right?</LineEntry>
+          <LineEntry ID="5e8f3d06-83da-4973-90e6-1d3e61ec2e29" r="255" g="192" b="0" codes="BOR-1">${t:4.99}Until I brought a set of Ivanov clubs, that was a mental battle I always lost.</LineEntry>
+          <LineEntry ID="d8da066a-f263-47c7-9760-a7ddca3c25e2" r="255" g="192" b="0" codes="BOR-1">${t:4.20}To get the best, you've gotta look the best.</LineEntry>
+          <LineEntry ID="86899d85-3c9f-4101-a7b5-d27e5c7ee333" r="255" g="192" b="0">${t:1.81}So it's your lucky day.</LineEntry>
+          <LineEntry ID="adb5614a-278c-418c-bc85-c7a55256cd94" r="255" g="192" b="0">${t:3.15}Today I'm here to show you: the best.</LineEntry>
+          <LineEntry ID="7dec0e8f-f65e-4bcb-b8b2-4ed49615e3b2" r="255" g="192" b="0" codes="BOR-1">${t:3.84}Let's find out why golfing the Ivanov way is... </LineEntry>
+          <LineEntry ID="fb3befc0-b918-4990-82e4-787586b594be" r="255" g="192" b="0" codes="BOR-1">${t:2.03}...pitch perfect.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="48af015e-a0fa-4d24-b0fd-006d107d9069" timestamp="6120" endstamp="6480" type="ActivateBroadcast" day="4" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="c1e5ae2c-31d8-4f9f-a89c-b19249c8a4b1" r="0" g="176" b="240" codes="GUID:c1e5ae2c-31d8-4f9f-a89c-b19249c8a4b1">${t:2.35}Hey there. Welcome back to the Cook Show!</LineEntry>
@@ -6976,19 +6976,19 @@
         </BroadcastEntry>
         <BroadcastEntry ID="432f5bb3-8547-4fac-b2db-37d408aa61fd" timestamp="10050" endstamp="10080" type="ActivateBroadcast" day="6" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="3cc3f408-8a6e-49be-a46a-cb360026de7b" timestamp="10080" endstamp="10440" type="ActivateBroadcast" day="7" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="989baf87-0f8b-4d53-9724-1c0bb92728e2" r="128" g="128" b="255" codes="BOR-1,GUID:989baf87-0f8b-4d53-9724-1c0bb92728e2">${t:2.67}This house used feel dark and lonely, but...</LineEntry>
-          <LineEntry ID="6786ac9b-85ba-4299-b029-132131447ad4" r="128" g="128" b="255" codes="BOR-1">${t:4.13}...with Connall and Coble overhead lights - life is illuminated.</LineEntry>
-          <LineEntry ID="3350eb97-b888-45f4-972e-14e9b179d146" r="0" g="176" b="80">${t:1.52}I'll see you later honey!</LineEntry>
-          <LineEntry ID="94480020-c1de-47c8-931a-914c95174563" r="128" g="128" b="255" codes="BOR-1">${t:2.59}Bye sweetie. Back at seven for pot roast!</LineEntry>
-          <LineEntry ID="fb7a7fbb-f202-4c63-bab8-95b6e8e37126" r="0" g="176" b="80">${t:1.91}Sure thing! Hey isn't it bright in here?</LineEntry>
-          <LineEntry ID="191551c3-4be4-43ca-9d75-296a138aa1ec" r="128" g="128" b="255">${t:1.10}It sure is. </LineEntry>
-          <LineEntry ID="079742d1-2bb2-4854-b1d2-3a65da20401a" r="128" g="128" b="255">${t:2.53}Connall and Coble overhead lighting can do magic.</LineEntry>
-          <LineEntry ID="4666e4b7-d2d7-416d-b4dc-afd6b0d5f117" r="0" g="176" b="80" codes="BOR-1">${t:1.10}Enjoy your day!</LineEntry>
-          <LineEntry ID="9b4ce616-8e66-4b0f-823f-ff23c01cdeb4" r="128" g="128" b="255">${t:2.35}Now he's gone - I'll let you into a secret.</LineEntry>
-          <LineEntry ID="8e4b219c-1ad4-4179-b730-53902d9f97a0" r="128" g="128" b="255" codes="BOR-1">${t:3.19}Order today and you can bring life back into your home... </LineEntry>
-          <LineEntry ID="aedd5570-53cd-423a-b9fa-e841138c6b3a" r="128" g="128" b="255" codes="BOR-1">${t:1.67}... with 10% off every order.</LineEntry>
-          <LineEntry ID="7fe11ef5-bbaf-4209-833f-18c550345415" r="128" g="128" b="255">${t:1.07}Be like me. </LineEntry>
-          <LineEntry ID="6c1b23db-580e-462d-b7ac-2f3e98380f1b" r="128" g="128" b="255" codes="BOR-1">${t:2.32}My life is illuminated, with Connall and Coble!</LineEntry>
+          <LineEntry ID="989baf87-0f8b-4d53-9724-1c0bb92728e2" r="0" g="176" b="240" codes="BOR-1,GUID:989baf87-0f8b-4d53-9724-1c0bb92728e2">${t:3.75}This house used feel dark and lonely, but...</LineEntry>
+          <LineEntry ID="6786ac9b-85ba-4299-b029-132131447ad4" r="0" g="176" b="240" codes="BOR-1">${t:4.99}...with Connall and Coble overhead lights - life is illuminated.</LineEntry>
+          <LineEntry ID="3350eb97-b888-45f4-972e-14e9b179d146" r="0" g="176" b="80">${t:1.67}I'll see you later honey!</LineEntry>
+          <LineEntry ID="94480020-c1de-47c8-931a-914c95174563" r="0" g="176" b="240" codes="BOR-1">${t:3.07}Bye sweetie. Back at seven for pot roast!</LineEntry>
+          <LineEntry ID="fb7a7fbb-f202-4c63-bab8-95b6e8e37126" r="0" g="176" b="80">${t:3.41}Sure thing! Hey isn't it bright in here?</LineEntry>
+          <LineEntry ID="191551c3-4be4-43ca-9d75-296a138aa1ec" r="0" g="176" b="240">${t:1.37}It sure is. </LineEntry>
+          <LineEntry ID="079742d1-2bb2-4854-b1d2-3a65da20401a" r="0" g="176" b="240">${t:3.06}Connall and Coble overhead lighting can do magic.</LineEntry>
+          <LineEntry ID="4666e4b7-d2d7-416d-b4dc-afd6b0d5f117" r="0" g="176" b="80" codes="BOR-1">${t:1.25}Enjoy your day!</LineEntry>
+          <LineEntry ID="9b4ce616-8e66-4b0f-823f-ff23c01cdeb4" r="0" g="176" b="240">${t:3.24}Now she's gone - I'll let you into a secret.</LineEntry>
+          <LineEntry ID="8e4b219c-1ad4-4179-b730-53902d9f97a0" r="0" g="176" b="240" codes="BOR-1">${t:3.78}Order today and you can bring life back into your home... </LineEntry>
+          <LineEntry ID="aedd5570-53cd-423a-b9fa-e841138c6b3a" r="0" g="176" b="240" codes="BOR-1">${t:2.57}... with 10% off every order.</LineEntry>
+          <LineEntry ID="7fe11ef5-bbaf-4209-833f-18c550345415" r="0" g="176" b="240">${t:1.16}Be like me. </LineEntry>
+          <LineEntry ID="6c1b23db-580e-462d-b7ac-2f3e98380f1b" r="0" g="176" b="240" codes="BOR-1">${t:3.83}My life is illuminated, with Connall and Coble!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="7cb6038a-1f23-440a-ad95-68d01a657885" timestamp="10440" endstamp="10800" type="ActivateBroadcast" day="7" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="84247087-4754-4a2d-a638-3abe0a01e077" r="0" g="176" b="240" codes="BOR-1,GUID:84247087-4754-4a2d-a638-3abe0a01e077">${t:1.91}Welcome back to the Cook Show folks.</LineEntry>
@@ -7012,14 +7012,14 @@
           <LineEntry ID="fccf356e-3258-4dc8-8487-13e67f47b017" r="128" g="128" b="255">${t:1.10}See y'all tomorrow!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="7275f2e9-a764-4637-8cf1-60b96362a846" timestamp="10800" endstamp="11160" type="ActivateBroadcast" day="7" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="2ab5a897-895d-4423-a9d5-1f6e438f0e6c" r="128" g="128" b="255" codes="BOR-1,GUID:2ab5a897-895d-4423-a9d5-1f6e438f0e6c">${t:2.40}Now I'd like you to meet my good friend Tooks Bear.</LineEntry>
-          <LineEntry ID="bc3013be-1459-4378-b644-a3883aacf69b" r="128" g="128" b="255" codes="BOR-1">${t:4.00}Tooks Bear is the friendliest, smiliest, bounciest bear in town.</LineEntry>
-          <LineEntry ID="9a0f28bb-0bc8-4b51-992b-ab49a668b29b" r="128" g="128" b="255" codes="BOR-1">${t:2.09}You know why you'll like him the most?</LineEntry>
-          <LineEntry ID="563315c3-a07f-46ce-9258-7869b62d943a" r="128" g="128" b="255">${t:4.13}He's only $49.99 plus postage and packing.</LineEntry>
-          <LineEntry ID="94289e96-d140-4a37-94f1-71b1a41f3a45" r="128" g="128" b="255" codes="BOR-1">${t:3.11}All I have to do is press this little button on his paw and...</LineEntry>
-          <LineEntry ID="8bd2774a-14e4-425e-b954-acc7bdffaadf" r="255" g="0" b="0" codes="STS-1,BOR-1">${t:2.12}I'm Tooks Bear! Let's go on an adventure!</LineEntry>
-          <LineEntry ID="cb3d3d17-0ed5-47f6-a0e8-709e8aa0276c" r="128" g="128" b="255">${t:1.28}We sure will Tooks! </LineEntry>
-          <LineEntry ID="63535008-4dee-4a39-a7c6-bdbe895dead1" r="128" g="128" b="255" codes="BOR-1">${t:3.42}For $49.99 who'd resist? Call now!</LineEntry>
+          <LineEntry ID="2ab5a897-895d-4423-a9d5-1f6e438f0e6c" r="0" g="176" b="240" codes="BOR-1,GUID:2ab5a897-895d-4423-a9d5-1f6e438f0e6c">${t:3.68}Now I'd like you to meet my good friend Tooks Bear.</LineEntry>
+          <LineEntry ID="bc3013be-1459-4378-b644-a3883aacf69b" r="0" g="176" b="240" codes="BOR-1">${t:4.60}Tooks Bear is the friendliest, smiliest, bounciest bear in town.</LineEntry>
+          <LineEntry ID="9a0f28bb-0bc8-4b51-992b-ab49a668b29b" r="0" g="176" b="240" codes="BOR-1">${t:2.38}You know why you'll like him the most?</LineEntry>
+          <LineEntry ID="563315c3-a07f-46ce-9258-7869b62d943a" r="0" g="176" b="240">${t:3.91}He's only $49.99 plus postage and packing.</LineEntry>
+          <LineEntry ID="94289e96-d140-4a37-94f1-71b1a41f3a45" r="0" g="176" b="240" codes="BOR-1">${t:4.20}All I have to do is press this little button on his paw and...</LineEntry>
+          <LineEntry ID="8bd2774a-14e4-425e-b954-acc7bdffaadf" r="255" g="0" b="0" codes="STS-1,BOR-1">${t:3.90}I'm Tooks Bear! Let's go on an adventure!</LineEntry>
+          <LineEntry ID="cb3d3d17-0ed5-47f6-a0e8-709e8aa0276c" r="0" g="176" b="240">${t:2.21}We sure will Tooks! </LineEntry>
+          <LineEntry ID="63535008-4dee-4a39-a7c6-bdbe895dead1" r="0" g="176" b="240" codes="BOR-1">${t:4.35}For $49.99 who'd resist? Call now!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="7a1469c5-0f2f-48e4-b8e6-df2ead207b53" timestamp="11160" endstamp="11490" type="ActivateBroadcast" day="7" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="bab7d4c7-baa0-40e2-82cd-83af7ccb6a5f" r="255" g="192" b="0" codes="BOR-1,GUID:bab7d4c7-baa0-40e2-82cd-83af7ccb6a5f">${t:2.46}Dean right here: welcoming YOU back to Nature.</LineEntry>
@@ -7042,14 +7042,14 @@
         </BroadcastEntry>
         <BroadcastEntry ID="5508c554-fe80-4433-936d-0f91c4e86b22" timestamp="11490" endstamp="11520" type="ActivateBroadcast" day="7" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="affd476c-4b21-4085-9f52-c80a9931f7a3" timestamp="11520" endstamp="11880" type="ActivateBroadcast" day="8" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="4e401837-abac-4d60-8bb5-4cb17a2468f8" r="128" g="128" b="255" codes="BOR-1,GUID:4e401837-abac-4d60-8bb5-4cb17a2468f8">${t:2.40}Now I'd like you to meet my good friend Tooks Bear.</LineEntry>
-          <LineEntry ID="cab694ca-f6ac-463e-bdae-11420107c56f" r="128" g="128" b="255" codes="BOR-1">${t:4.00}Tooks Bear is the friendliest, smiliest, bounciest bear in town.</LineEntry>
-          <LineEntry ID="4cd0fc24-7a2b-49a5-aa12-56c5be381ba5" r="128" g="128" b="255" codes="BOR-1">${t:2.09}You know why you'll like him the most?</LineEntry>
-          <LineEntry ID="769088db-f2bd-4bd0-a476-6f81bb7a09e1" r="128" g="128" b="255">${t:4.13}He's only $49.99 plus postage and packing.</LineEntry>
-          <LineEntry ID="d3cf2ac5-e17e-49cc-b4d3-48c7d8f3d91e" r="128" g="128" b="255">${t:3.11}All I have to do is press this little button on his paw and...</LineEntry>
-          <LineEntry ID="f85572ac-b2a7-4d73-a99e-700ab67f6a92" r="255" g="0" b="0" codes="STS-1">${t:2.12}I'm Tooks Bear! Let's go on an adventure!</LineEntry>
-          <LineEntry ID="47bd0445-cddb-469a-9cb8-3e04002e16d4" r="128" g="128" b="255" codes="BOR-1">${t:1.28}We sure will Tooks! </LineEntry>
-          <LineEntry ID="8cff9b21-6136-4685-beda-5ebe0b2c28c2" r="128" g="128" b="255">${t:3.42}For $49.99 who'd resist? Call now!</LineEntry>
+          <LineEntry ID="4e401837-abac-4d60-8bb5-4cb17a2468f8" r="0" g="176" b="240" codes="BOR-1,GUID:4e401837-abac-4d60-8bb5-4cb17a2468f8">${t:3.68}Now I'd like you to meet my good friend Tooks Bear.</LineEntry>
+          <LineEntry ID="cab694ca-f6ac-463e-bdae-11420107c56f" r="0" g="176" b="240" codes="BOR-1">${t:4.60}Tooks Bear is the friendliest, smiliest, bounciest bear in town.</LineEntry>
+          <LineEntry ID="4cd0fc24-7a2b-49a5-aa12-56c5be381ba5" r="0" g="176" b="240" codes="BOR-1">${t:2.38}You know why you'll like him the most?</LineEntry>
+          <LineEntry ID="769088db-f2bd-4bd0-a476-6f81bb7a09e1" r="0" g="176" b="240">${t:3.91}He's only $49.99 plus postage and packing.</LineEntry>
+          <LineEntry ID="d3cf2ac5-e17e-49cc-b4d3-48c7d8f3d91e" r="0" g="176" b="240">${t:4.20}All I have to do is press this little button on his paw and...</LineEntry>
+          <LineEntry ID="f85572ac-b2a7-4d73-a99e-700ab67f6a92" r="255" g="0" b="0" codes="STS-1">${t:3.90}I'm Tooks Bear! Let's go on an adventure!</LineEntry>
+          <LineEntry ID="47bd0445-cddb-469a-9cb8-3e04002e16d4" r="0" g="176" b="240" codes="BOR-1">${t:2.21}We sure will Tooks! </LineEntry>
+          <LineEntry ID="8cff9b21-6136-4685-beda-5ebe0b2c28c2" r="0" g="176" b="240">${t:4.35}For $49.99 who'd resist? Call now!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="a06dd29c-78cf-4a0b-bba9-600a517bf4a4" timestamp="11880" endstamp="12240" type="ActivateBroadcast" day="8" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="889e63b4-cbd1-40e3-b02a-7e3f9a2b5be4" r="0" g="176" b="240" codes="GUID:889e63b4-cbd1-40e3-b02a-7e3f9a2b5be4">${t:1.70}Hey! You're with the Cook Show!</LineEntry>
@@ -7070,36 +7070,36 @@
           <LineEntry ID="24f72017-e00f-4741-a59d-7c808b5e076f" r="128" g="128" b="255" codes="BOR-1">${t:1.15}See y'all tomorrow.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="5594486c-3204-4b7a-89e6-d2d83e937307" timestamp="12240" endstamp="12600" type="ActivateBroadcast" day="8" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="ba8d029d-7652-479e-a625-ceef52238fc8" r="0" g="176" b="80" codes="BOR-1,GUID:ba8d029d-7652-479e-a625-ceef52238fc8">${t:3.37}I'm Doctor Cox, and I'm here to talk to YOU about bladder control.</LineEntry>
-          <LineEntry ID="3f12b3c5-1999-4cff-b138-b64395b775a9" r="0" g="176" b="80">${t:3.58}Now I've been helping families for forty long years, but I have NEVER...</LineEntry>
-          <LineEntry ID="a658177d-5923-4fe0-ad93-b145d3570566" r="0" g="176" b="80" codes="BOR-1">${t:2.53}... come across a treatment like Incontileve.</LineEntry>
-          <LineEntry ID="1405de3b-968b-4b7a-9808-d6b3a3f145eb" r="0" g="176" b="80" codes="BOR-1">${t:3.24}Everywhere I go, good friends say 'Thank you Doctor Cox'.</LineEntry>
-          <LineEntry ID="658e6fd5-1446-4ee4-99b6-af06fd5a79d3" r="0" g="176" b="80" codes="BOR-1">${t:2.46}Thanks for asking family doctors to recommend: </LineEntry>
-          <LineEntry ID="8ddcea9b-fafa-4c9b-ac54-d40197c71e3d" r="0" g="176" b="80">${t:0.97}Incontileve.</LineEntry>
-          <LineEntry ID="05e47acb-ed1b-4952-8d1d-39f86222571f" r="255" g="0" b="0" codes="BOR-1">${t:2.95}Product may cause swelling of the urinary tract....</LineEntry>
-          <LineEntry ID="29b3f361-3bbd-47c4-84a8-d1a8c7393425" r="255" g="0" b="0" codes="BOR-1">${t:2.40}...headaches, nausea and sudden irritation.</LineEntry>
-          <LineEntry ID="1b0af038-cb8d-43d2-9b2b-42d4ffc4cb60" r="0" g="176" b="240" codes="BOR-1">${t:1.25}Ask your doctor today.</LineEntry>
+          <LineEntry ID="ba8d029d-7652-479e-a625-ceef52238fc8" r="0" g="176" b="80" codes="BOR-1,GUID:ba8d029d-7652-479e-a625-ceef52238fc8">${t:4.15}I'm Doctor Cox, I'm here to talk to YOU about bladder control.</LineEntry>
+          <LineEntry ID="3f12b3c5-1999-4cff-b138-b64395b775a9" r="0" g="176" b="80">${t:4.53}Now I've been helping families for forty long years, but I have NEVER...</LineEntry>
+          <LineEntry ID="a658177d-5923-4fe0-ad93-b145d3570566" r="0" g="176" b="80" codes="BOR-1">${t:2.98}... come across a treatment like Incontileve.</LineEntry>
+          <LineEntry ID="1405de3b-968b-4b7a-9808-d6b3a3f145eb" r="0" g="176" b="80" codes="BOR-1">${t:4.10}Everywhere I go, good friends say 'Thank you Doctor Cox'.</LineEntry>
+          <LineEntry ID="658e6fd5-1446-4ee4-99b6-af06fd5a79d3" r="0" g="176" b="80" codes="BOR-1">${t:2.79}Thanks for asking family doctors to recommend: </LineEntry>
+          <LineEntry ID="8ddcea9b-fafa-4c9b-ac54-d40197c71e3d" r="0" g="176" b="80">${t:1.47}Incontileve.</LineEntry>
+          <LineEntry ID="05e47acb-ed1b-4952-8d1d-39f86222571f" r="255" g="0" b="0" codes="BOR-1">${t:1.67}Product may cause swelling of the urinary tract....</LineEntry>
+          <LineEntry ID="29b3f361-3bbd-47c4-84a8-d1a8c7393425" r="255" g="0" b="0" codes="BOR-1">${t:1.44}...headaches, nausea and sudden irritation.</LineEntry>
+          <LineEntry ID="1b0af038-cb8d-43d2-9b2b-42d4ffc4cb60" r="0" g="176" b="240" codes="BOR-1">${t:1.70}Ask your doctor today.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="2a49f04a-e6fb-4ecb-b4ab-0c1c3d9d2f42" timestamp="12600" endstamp="12930" type="ActivateBroadcast" day="8" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="4f9bea9e-e515-40af-924d-c520b9fafc32" r="128" g="128" b="255" codes="BOR-1,GUID:4f9bea9e-e515-40af-924d-c520b9fafc32">${t:2.40}Now I'd like you to meet my good friend Tooks Bear.</LineEntry>
-          <LineEntry ID="70a39c78-af59-4a52-9c89-705e12366c7d" r="128" g="128" b="255">${t:4.00}Tooks Bear is the friendliest, smiliest, bounciest bear in town.</LineEntry>
-          <LineEntry ID="f1c3d9ae-54c1-4feb-a345-b3dce9aa282a" r="128" g="128" b="255">${t:2.09}You know why you'll like him the most?</LineEntry>
-          <LineEntry ID="d2cc036a-8166-4464-9b38-e52bd6f5f8f9" r="128" g="128" b="255" codes="BOR-1">${t:4.13}He's only $49.99 plus postage and packing.</LineEntry>
-          <LineEntry ID="364b8495-89f8-444e-a631-cc8bec7b0958" r="128" g="128" b="255" codes="BOR-1">${t:3.11}All I have to do is press this little button on his paw and...</LineEntry>
-          <LineEntry ID="61fd0014-a687-42ba-bc70-4079d737bc45" r="255" g="0" b="0" codes="STS-1,BOR-1">${t:2.12}I'm Tooks Bear! Let's go on an adventure!</LineEntry>
-          <LineEntry ID="8160946e-b06c-4d42-809c-0d46ab706ebb" r="128" g="128" b="255" codes="BOR-1">${t:1.28}We sure will Tooks! </LineEntry>
-          <LineEntry ID="79e03757-5818-4669-a4ee-c9b6697fa08e" r="128" g="128" b="255" codes="BOR-1">${t:3.42}For $49.99 who'd resist? Call now!</LineEntry>
+          <LineEntry ID="4f9bea9e-e515-40af-924d-c520b9fafc32" r="0" g="176" b="240" codes="BOR-1,GUID:4f9bea9e-e515-40af-924d-c520b9fafc32">${t:3.68}Now I'd like you to meet my good friend Tooks Bear.</LineEntry>
+          <LineEntry ID="70a39c78-af59-4a52-9c89-705e12366c7d" r="0" g="176" b="240">${t:4.60}Tooks Bear is the friendliest, smiliest, bounciest bear in town.</LineEntry>
+          <LineEntry ID="f1c3d9ae-54c1-4feb-a345-b3dce9aa282a" r="0" g="176" b="240">${t:2.38}You know why you'll like him the most?</LineEntry>
+          <LineEntry ID="d2cc036a-8166-4464-9b38-e52bd6f5f8f9" r="0" g="176" b="240" codes="BOR-1">${t:3.91}He's only $49.99 plus postage and packing.</LineEntry>
+          <LineEntry ID="364b8495-89f8-444e-a631-cc8bec7b0958" r="0" g="176" b="240" codes="BOR-1">${t:4.20}All I have to do is press this little button on his paw and...</LineEntry>
+          <LineEntry ID="61fd0014-a687-42ba-bc70-4079d737bc45" r="255" g="0" b="0" codes="STS-1,BOR-1">${t:3.90}I'm Tooks Bear! Let's go on an adventure!</LineEntry>
+          <LineEntry ID="8160946e-b06c-4d42-809c-0d46ab706ebb" r="0" g="176" b="240" codes="BOR-1">${t:2.21}We sure will Tooks! </LineEntry>
+          <LineEntry ID="79e03757-5818-4669-a4ee-c9b6697fa08e" r="0" g="176" b="240" codes="BOR-1">${t:4.35}For $49.99 who'd resist? Call now!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="843021a4-f9a2-48a2-8210-82507ce3e72f" timestamp="12930" endstamp="12960" type="ActivateBroadcast" day="8" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="3082b454-e62e-462a-a19e-a93a44cb24cb" timestamp="12960" endstamp="13320" type="ActivateBroadcast" day="9" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="70c756c9-d5cd-49db-844a-770131de490f" r="128" g="128" b="255" codes="GUID:70c756c9-d5cd-49db-844a-770131de490f">${t:2.40}Now I'd like you to meet my good friend Tooks Bear.</LineEntry>
-          <LineEntry ID="70879812-dc8d-4128-bbc2-c19a3df94968" r="128" g="128" b="255" codes="BOR-1">${t:4.00}Tooks Bear is the friendliest, smiliest, bounciest bear in town.</LineEntry>
-          <LineEntry ID="4b5a9d55-4d2e-4c4e-966d-9347c2f82486" r="128" g="128" b="255" codes="BOR-1">${t:2.09}You know why you'll like him the most?</LineEntry>
-          <LineEntry ID="b0545115-62f0-4576-8a50-c3cec2917ebc" r="128" g="128" b="255">${t:4.13}He's only $49.99 plus postage and packing.</LineEntry>
-          <LineEntry ID="4f332f63-3961-4841-8f2c-74c633610030" r="128" g="128" b="255">${t:3.11}All I have to do is press this little button on his paw and...</LineEntry>
-          <LineEntry ID="296ec504-6ecd-40ef-bdf8-4fd316f8d1e6" r="255" g="0" b="0" codes="STS-1">${t:2.12}I'm Tooks Bear! Let's go on an adventure!</LineEntry>
-          <LineEntry ID="c627a8c1-a69b-430d-8475-248bdeabbe2b" r="128" g="128" b="255" codes="BOR-1">${t:1.28}We sure will Tooks! </LineEntry>
-          <LineEntry ID="f0cfc5ab-135e-40cd-86ac-50b53a654b16" r="128" g="128" b="255" codes="BOR-1">${t:3.42}For $49.99 who'd resist? Call now!</LineEntry>
+          <LineEntry ID="70c756c9-d5cd-49db-844a-770131de490f" r="0" g="176" b="240" codes="GUID:70c756c9-d5cd-49db-844a-770131de490f">${t:3.68}Now I'd like you to meet my good friend Tooks Bear.</LineEntry>
+          <LineEntry ID="70879812-dc8d-4128-bbc2-c19a3df94968" r="0" g="176" b="240" codes="BOR-1">${t:4.60}Tooks Bear is the friendliest, smiliest, bounciest bear in town.</LineEntry>
+          <LineEntry ID="4b5a9d55-4d2e-4c4e-966d-9347c2f82486" r="0" g="176" b="240" codes="BOR-1">${t:2.38}You know why you'll like him the most?</LineEntry>
+          <LineEntry ID="b0545115-62f0-4576-8a50-c3cec2917ebc" r="0" g="176" b="240">${t:3.91}He's only $49.99 plus postage and packing.</LineEntry>
+          <LineEntry ID="4f332f63-3961-4841-8f2c-74c633610030" r="0" g="176" b="240">${t:4.20}All I have to do is press this little button on his paw and...</LineEntry>
+          <LineEntry ID="296ec504-6ecd-40ef-bdf8-4fd316f8d1e6" r="255" g="0" b="0" codes="STS-1">${t:3.90}I'm Tooks Bear! Let's go on an adventure!</LineEntry>
+          <LineEntry ID="c627a8c1-a69b-430d-8475-248bdeabbe2b" r="0" g="176" b="240" codes="BOR-1">${t:2.21}We sure will Tooks! </LineEntry>
+          <LineEntry ID="f0cfc5ab-135e-40cd-86ac-50b53a654b16" r="0" g="176" b="240" codes="BOR-1">${t:4.35}For $49.99 who'd resist? Call now!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="f6a29037-e70a-4745-8efc-0a58e4b086e9" timestamp="13320" endstamp="13680" type="ActivateBroadcast" day="9" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="85b904e0-14e3-4daf-b354-33a7eb31df83" r="0" g="176" b="240" codes="GUID:85b904e0-14e3-4daf-b354-33a7eb31df83">${t:2.27}How you doing? You're on the Cook Show!</LineEntry>
@@ -8706,14 +8706,14 @@
         </BroadcastEntry>
         <BroadcastEntry ID="bf6f6d13-5add-41c9-a20e-740efd413ea4" timestamp="7170" endstamp="7200" type="ActivateBroadcast" day="4" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="845fa24b-0c92-4db7-a6ac-f15bf08f1d8e" timestamp="7200" endstamp="7560" type="ActivateBroadcast" day="5" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="21e712fa-dc5e-4775-abd4-7abee11dab2f" r="0" g="176" b="80" codes="STS-1">Do we have an amazing product today for you!</LineEntry>
-          <LineEntry ID="9698fc19-26d3-4346-bd48-7edf4e06ae97" r="0" g="176" b="80">This looks like any normal Kitchen Knife, am I right?</LineEntry>
-          <LineEntry ID="ff051a15-d39f-4b2e-bcc1-dabd4c170ee4" r="0" g="176" b="80">Well - if you thought I was right, I was wrong.</LineEntry>
-          <LineEntry ID="07fbaede-6052-4a1b-a82f-fab4b867db05" r="0" g="176" b="80" codes="STS-1,UHP-1">This is a Kitchen Knife by Kitten.</LineEntry>
-          <LineEntry ID="6265c90f-c477-446f-9b91-40cd2675ed09" r="0" g="176" b="80">Kitten Knives are strong, sturdy and sharp.</LineEntry>
-          <LineEntry ID="4805fe82-20a8-4c8b-a641-b515b5d2ed1f" r="0" g="176" b="80" codes="UHP-1">Look at this handle, I mean just look at the handle.</LineEntry>
-          <LineEntry ID="bf3dc42b-e23f-4288-b9ea-bfbfabefcd1c" r="0" g="176" b="80">Chopping. Slicing. Dicing. </LineEntry>
-          <LineEntry ID="31f6065b-634e-4358-8722-bfba600f0ff5" r="0" g="176" b="80" codes="BOR-1,UHP-1">All a joy.</LineEntry>
+          <LineEntry ID="21e712fa-dc5e-4775-abd4-7abee11dab2f" r="0" g="176" b="240" codes="STS-1,GUID:21e712fa-dc5e-4775-abd4-7abee11dab2f">${t:2.87}Do we have an amazing product for you today!</LineEntry>
+          <LineEntry ID="9698fc19-26d3-4346-bd48-7edf4e06ae97" r="0" g="176" b="240">${t:3.50}This looks like any normal Kitchen Knife, am I right?</LineEntry>
+          <LineEntry ID="ff051a15-d39f-4b2e-bcc1-dabd4c170ee4" r="0" g="176" b="240">${t:3.53}Well - if you thought I was right, I was wrong.</LineEntry>
+          <LineEntry ID="07fbaede-6052-4a1b-a82f-fab4b867db05" r="0" g="176" b="240" codes="STS-1,UHP-1">${t:2.60}This is a Kitchen Knife by Kitten.</LineEntry>
+          <LineEntry ID="6265c90f-c477-446f-9b91-40cd2675ed09" r="0" g="176" b="240">${t:3.54}Kitten Knives are strong, sturdy and sharp.</LineEntry>
+          <LineEntry ID="4805fe82-20a8-4c8b-a641-b515b5d2ed1f" r="0" g="176" b="240" codes="UHP-1">${t:3.54}Look at this handle, I mean just look at the handle.</LineEntry>
+          <LineEntry ID="bf3dc42b-e23f-4288-b9ea-bfbfabefcd1c" r="0" g="176" b="240">${t:2.64}Chopping. Slicing. Dicing. </LineEntry>
+          <LineEntry ID="31f6065b-634e-4358-8722-bfba600f0ff5" r="0" g="176" b="240" codes="BOR-1,UHP-1">${t:1.51}All a joy.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="d3bde9de-3bc4-4916-a31a-968e7abaa816" timestamp="7560" endstamp="7920" type="ActivateBroadcast" day="5" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="4e572cf7-8d99-4045-a720-434a852253ed" r="0" g="176" b="240">[img=music] Hug Bunnies! [img=music]</LineEntry>

@@ -1923,4 +1923,121 @@ module Base
 			reverbFactor = 0,
 		}
 	}
+
+	sound 2a49f04a-e6fb-4ecb-b4ab-0c1c3d9d2f42
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/2a49f04a-e6fb-4ecb-b4ab-0c1c3d9d2f42.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 3082b454-e62e-462a-a19e-a93a44cb24cb
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/3082b454-e62e-462a-a19e-a93a44cb24cb.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 5594486c-3204-4b7a-89e6-d2d83e937307
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/5594486c-3204-4b7a-89e6-d2d83e937307.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 7275f2e9-a764-4637-8cf1-60b96362a846
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/7275f2e9-a764-4637-8cf1-60b96362a846.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound affd476c-4b21-4085-9f52-c80a9931f7a3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/affd476c-4b21-4085-9f52-c80a9931f7a3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 61be5b65-e9f2-491f-8514-f838f0468f7a
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/61be5b65-e9f2-491f-8514-f838f0468f7a.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound a0c41ef2-4ad7-49a5-8ae9-61eb6a443625
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/a0c41ef2-4ad7-49a5-8ae9-61eb6a443625.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 0257a3f2-c642-4cdf-b58f-396bb408a872
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/0257a3f2-c642-4cdf-b58f-396bb408a872.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 845fa24b-0c92-4db7-a6ac-f15bf08f1d8e
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/PawsTV/845fa24b-0c92-4db7-a6ac-f15bf08f1d8e.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
 }
