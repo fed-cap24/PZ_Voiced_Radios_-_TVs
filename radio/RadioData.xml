@@ -59,24 +59,24 @@
         <LineEntry ID="2248c033-d107-4cbf-894b-db2392e64577" r="128" g="128" b="255">${t:1.45}Come visit today! </LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="992aa12a-9004-43f8-9e23-5a66068a6179" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="9c0e616f-7795-4505-a20e-2f1b78727255" r="128" g="128" b="255">The Caramel Flan Latte! </LineEntry>
-        <LineEntry ID="c4c2b01d-48a1-44f6-a31e-feac6e8460b4" r="128" g="128" b="255">Brand new at Seahorse Coffee!</LineEntry>
-        <LineEntry ID="6b56c351-c23c-44ea-8a36-38cb0f25b0f3" r="128" g="128" b="255">Refreshing! Filling! </LineEntry>
-        <LineEntry ID="43c39d76-044a-4703-ac56-5201919b7850" r="128" g="128" b="255">The pick-me-up you're craving!</LineEntry>
-        <LineEntry ID="72a6f9f9-bd94-492a-bf8d-e0caacb73610" r="128" g="128" b="255">There's no better way to start the day!</LineEntry>
-        <LineEntry ID="976670d7-c82c-4844-bb70-d8971efd13e7" r="0" g="176" b="80">"Welcome to Seahorse Coffee! What can I get you today?"</LineEntry>
-        <LineEntry ID="127147cd-f820-4060-8556-3a0f16e81c98" r="128" g="128" b="255">"One Caramel Flan Latte!"</LineEntry>
-        <LineEntry ID="33e32af2-1f24-4138-8e3d-51fb0dbe1034" r="0" g="176" b="80">"Coming right up!"</LineEntry>
+        <LineEntry ID="9c0e616f-7795-4505-a20e-2f1b78727255" r="128" g="128" b="255" codes="GUID:9c0e616f-7795-4505-a20e-2f1b78727255">${t:2.44}The Caramel Flan Latte! </LineEntry>
+        <LineEntry ID="c4c2b01d-48a1-44f6-a31e-feac6e8460b4" r="128" g="128" b="255">${t:2.19}Brand new at Seahorse Coffee!</LineEntry>
+        <LineEntry ID="6b56c351-c23c-44ea-8a36-38cb0f25b0f3" r="128" g="128" b="255">${t:2.01}Refreshing! Filling! </LineEntry>
+        <LineEntry ID="43c39d76-044a-4703-ac56-5201919b7850" r="128" g="128" b="255">${t:2.16}The pick-me-up you're craving!</LineEntry>
+        <LineEntry ID="72a6f9f9-bd94-492a-bf8d-e0caacb73610" r="128" g="128" b="255">${t:2.56}There's no better way to start the day!</LineEntry>
+        <LineEntry ID="976670d7-c82c-4844-bb70-d8971efd13e7" r="0" g="176" b="80">${t:4.05}"Welcome to Seahorse Coffee! What can I get you today?"</LineEntry>
+        <LineEntry ID="127147cd-f820-4060-8556-3a0f16e81c98" r="128" g="128" b="255">${t:2.76}"One Caramel Flan Latte!"</LineEntry>
+        <LineEntry ID="33e32af2-1f24-4138-8e3d-51fb0dbe1034" r="0" g="176" b="80">${t:1.86}"Coming right up!"</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="626375a3-2d3d-4335-b274-25a4cd28ebc3" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="04ed02bc-38b6-4384-8de8-fc5b20003ed9" r="128" g="128" b="255">[img=music] Never let the music stop! [img=music]</LineEntry>
-        <LineEntry ID="684663bd-96d5-421c-ac90-e21e71d82c22" r="128" g="128" b="255">[img=music] Grab, grab, grab a can of... POP! [img=music]</LineEntry>
-        <LineEntry ID="e24f218b-bf2f-4ccd-b1e4-3dc8fc1627ff" r="255" g="192" b="0">Have you tried new Orange-Lite Pop?</LineEntry>
-        <LineEntry ID="ba52b3b4-5f8c-4e4d-a904-f7ec4dbcc576" r="255" g="192" b="0">The ice-cold, all-American taste of pure refreshment!</LineEntry>
-        <LineEntry ID="928f427a-9673-4988-9816-40604bb90522" r="255" g="192" b="0">Quench your thirst! </LineEntry>
-        <LineEntry ID="65f6abe8-782b-4e4e-a032-35028e951ab9" r="255" g="192" b="0">Energize your being!</LineEntry>
-        <LineEntry ID="1f8dcf8d-87a1-41f1-a88c-bb2214739eb1" r="128" g="128" b="255">[img=music] Never let the music stop! [img=music]</LineEntry>
-        <LineEntry ID="32ab464d-4658-42d4-9573-7fa34371cabe" r="128" g="128" b="255">[img=music] Grab, grab, grab a can of... POP! [img=music]</LineEntry>
+        <LineEntry ID="04ed02bc-38b6-4384-8de8-fc5b20003ed9" r="128" g="128" b="255" codes="GUID:04ed02bc-38b6-4384-8de8-fc5b20003ed9">${t:1.92}[img=music] Never let the music stop! [img=music]</LineEntry>
+        <LineEntry ID="684663bd-96d5-421c-ac90-e21e71d82c22" r="128" g="128" b="255">${t:2.25}[img=music] Grab, grab, grab a can of... POP! [img=music]</LineEntry>
+        <LineEntry ID="e24f218b-bf2f-4ccd-b1e4-3dc8fc1627ff" r="255" g="192" b="0">${t:2.50}Have you tried new Orange-Lite Pop?</LineEntry>
+        <LineEntry ID="ba52b3b4-5f8c-4e4d-a904-f7ec4dbcc576" r="255" g="192" b="0">${t:4.00}The ice-cold, all-American taste of pure refreshment!</LineEntry>
+        <LineEntry ID="928f427a-9673-4988-9816-40604bb90522" r="255" g="192" b="0">${t:1.66}Quench your thirst! </LineEntry>
+        <LineEntry ID="65f6abe8-782b-4e4e-a032-35028e951ab9" r="255" g="192" b="0">${t:2.40}Energize your being!</LineEntry>
+        <LineEntry ID="1f8dcf8d-87a1-41f1-a88c-bb2214739eb1" r="128" g="128" b="255">${t:1.91}[img=music] Never let the music stop! [img=music]</LineEntry>
+        <LineEntry ID="32ab464d-4658-42d4-9573-7fa34371cabe" r="128" g="128" b="255">${t:2.07}[img=music] Grab, grab, grab a can of... POP! [img=music]</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="8dd0884d-707d-471b-8685-3d8e88c4e1f3" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="10b37535-6dc8-43bf-be6b-ec6bc5b92bbc" r="255" g="192" b="0" codes="GUID:10b37535-6dc8-43bf-be6b-ec6bc5b92bbc">${t:3.67}Hi my name's Frank Greene, and I run Greene's Grocery.</LineEntry>
@@ -131,13 +131,13 @@
         <LineEntry ID="968ca2e3-f96d-4c42-a5a2-d35572a5d351" r="0" g="176" b="80">${t:3.45}Medical care to look after all of your tomorrows.</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="6727dd62-7a28-4d41-bd39-ffd1aa27a54f" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="7583e5a4-31cc-4155-aabb-3f4f913e5745" r="128" g="128" b="255">[img=music] I love Wok and Rolls! [img=music]</LineEntry>
-        <LineEntry ID="502fdc28-b9e3-46c7-8be8-b0f17fff3537" r="128" g="128" b="255">[img=music] It's the new style of Chinese Restaurant, baby! [img=music]</LineEntry>
-        <LineEntry ID="9b89ff36-a7a8-42be-beb2-f60590e2a4fa" r="128" g="128" b="255">[img=music] I love Wok and Rolls! [img=music]</LineEntry>
-        <LineEntry ID="f69ede64-4083-4cb7-b82e-ca8f29cfac93" r="128" g="128" b="255">[img=music] So why doncha come and chow down with me! [img=music]</LineEntry>
-        <LineEntry ID="efe9afbe-e3f6-4c28-a548-7964536bedf4" r="0" g="176" b="80">Our award winning breakfast menu is BACK through public demand!</LineEntry>
-        <LineEntry ID="671135b0-8cb2-4d1e-bf18-be82f7b08e3d" r="0" g="176" b="240">Come visit 'I *heart* Wok and Rolls' today!</LineEntry>
-        <LineEntry ID="19baec04-2f87-4e26-baa8-10524a01e2d2" r="128" g="128" b="255">[img=music] I love Wok and Rolls! [img=music]</LineEntry>
+        <LineEntry ID="7583e5a4-31cc-4155-aabb-3f4f913e5745" r="128" g="128" b="255" codes="GUID:7583e5a4-31cc-4155-aabb-3f4f913e5745">${t:4.18}[img=music] I love Wok and Rolls! [img=music]</LineEntry>
+        <LineEntry ID="502fdc28-b9e3-46c7-8be8-b0f17fff3537" r="128" g="128" b="255">${t:2.69}[img=music] It's the new style of Chinese Restaurant, baby! [img=music]</LineEntry>
+        <LineEntry ID="9b89ff36-a7a8-42be-beb2-f60590e2a4fa" r="128" g="128" b="255">${t:2.74}[img=music] I love Wok and Rolls! [img=music]</LineEntry>
+        <LineEntry ID="f69ede64-4083-4cb7-b82e-ca8f29cfac93" r="128" g="128" b="255">${t:3.00}[img=music] So why doncha come and chow down with me! [img=music]</LineEntry>
+        <LineEntry ID="efe9afbe-e3f6-4c28-a548-7964536bedf4" r="0" g="176" b="80">${t:3.84}Our award winning breakfast menu is BACK through public demand!</LineEntry>
+        <LineEntry ID="671135b0-8cb2-4d1e-bf18-be82f7b08e3d" r="0" g="176" b="240">${t:2.92}Come visit 'I *heart* Wok and Rolls' today!</LineEntry>
+        <LineEntry ID="19baec04-2f87-4e26-baa8-10524a01e2d2" r="128" g="128" b="255">${t:3.51}[img=music] I love Wok and Rolls! [img=music]</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="d7000646-97bb-4513-9abc-4f5accd6e4b8" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="92a9cdd6-b50e-400f-906b-9579fdd18294" r="0" g="176" b="80">Earth. Air. Wind. Fire.</LineEntry>
@@ -338,23 +338,23 @@
         <LineEntry ID="2885a9cf-878c-4f67-a6ca-3a417c0666d7" r="0" g="176" b="80">Arriba!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="224617bf-78c4-4d6e-bd38-92f93f006bce" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="4d92e83a-731d-4c1f-a7d0-251dd233a001" r="128" g="128" b="255">[img=music] Never let the music stop! [img=music]</LineEntry>
-        <LineEntry ID="5307392b-5607-45a6-b440-45fa17e7f80e" r="128" g="128" b="255">[img=music] Grab, grab, grab a can of... POP! [img=music]</LineEntry>
-        <LineEntry ID="c740358d-6b25-4a02-8210-5ccd47edd410" r="255" g="192" b="0">Have you tried new Orange-Lite Pop?</LineEntry>
-        <LineEntry ID="bb4a6264-925b-46f6-a5a3-6646d158c47f" r="255" g="192" b="0">The ice-cold, all-American taste of pure refreshment!</LineEntry>
-        <LineEntry ID="cb877dfd-fb1a-4236-8a68-3754dd1f5bd1" r="255" g="192" b="0">Quench your thirst! </LineEntry>
-        <LineEntry ID="f0ec2ac5-7de1-49ef-81e7-5c7b96244882" r="255" g="192" b="0">Energize your being!</LineEntry>
-        <LineEntry ID="c2f542b2-ab1b-4ed6-860b-78007568e0fb" r="128" g="128" b="255">[img=music] Never let the music stop! [img=music]</LineEntry>
-        <LineEntry ID="3a2ad5a4-8f66-4343-ad1a-5fc27f789f06" r="128" g="128" b="255">[img=music] Grab, grab, grab a can of... POP! [img=music]</LineEntry>
+        <LineEntry ID="4d92e83a-731d-4c1f-a7d0-251dd233a001" r="128" g="128" b="255" codes="GUID:4d92e83a-731d-4c1f-a7d0-251dd233a001">${t:1.92}[img=music] Never let the music stop! [img=music]</LineEntry>
+        <LineEntry ID="5307392b-5607-45a6-b440-45fa17e7f80e" r="128" g="128" b="255">${t:2.25}[img=music] Grab, grab, grab a can of... POP! [img=music]</LineEntry>
+        <LineEntry ID="c740358d-6b25-4a02-8210-5ccd47edd410" r="255" g="192" b="0">${t:2.50}Have you tried new Orange-Lite Pop?</LineEntry>
+        <LineEntry ID="bb4a6264-925b-46f6-a5a3-6646d158c47f" r="255" g="192" b="0">${t:4.00}The ice-cold, all-American taste of pure refreshment!</LineEntry>
+        <LineEntry ID="cb877dfd-fb1a-4236-8a68-3754dd1f5bd1" r="255" g="192" b="0">${t:1.66}Quench your thirst! </LineEntry>
+        <LineEntry ID="f0ec2ac5-7de1-49ef-81e7-5c7b96244882" r="255" g="192" b="0">${t:2.40}Energize your being!</LineEntry>
+        <LineEntry ID="c2f542b2-ab1b-4ed6-860b-78007568e0fb" r="128" g="128" b="255">${t:1.91}[img=music] Never let the music stop! [img=music]</LineEntry>
+        <LineEntry ID="3a2ad5a4-8f66-4343-ad1a-5fc27f789f06" r="128" g="128" b="255">${t:2.07}[img=music] Grab, grab, grab a can of... POP! [img=music]</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="bc2fafc8-4ba6-47c7-b06e-c9ce68248800" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="1c66029d-089b-4a63-b91e-41722e57a7d6" r="128" g="128" b="255">[img=music] I love Wok and Rolls! [img=music]</LineEntry>
-        <LineEntry ID="2a084794-8430-4908-81c2-24be3964a746" r="128" g="128" b="255">[img=music] It's the new style of Chinese Restaurant, baby! [img=music]</LineEntry>
-        <LineEntry ID="5626cb04-b7f0-4d99-a83d-94bab434bd2f" r="128" g="128" b="255">[img=music] I love Wok and Rolls! [img=music]</LineEntry>
-        <LineEntry ID="b603bf12-bbb8-4237-ae4a-48fcc3f217aa" r="128" g="128" b="255">[img=music] So why doncha come and chow down with me! [img=music]</LineEntry>
-        <LineEntry ID="29cb4cf7-63f7-4b71-96ef-01c6d9897b02" r="0" g="176" b="80">Our award winning breakfast menu is BACK through public demand!</LineEntry>
-        <LineEntry ID="4752d74e-f5f1-444a-bd42-280a764c5aa7" r="0" g="176" b="240">Come visit 'I *heart* Wok and Rolls' today!</LineEntry>
-        <LineEntry ID="8d18fef6-4b15-438f-af17-9eaa4abd41f4" r="128" g="128" b="255">[img=music] I love Wok and Rolls! [img=music]</LineEntry>
+        <LineEntry ID="1c66029d-089b-4a63-b91e-41722e57a7d6" r="128" g="128" b="255" codes="GUID:1c66029d-089b-4a63-b91e-41722e57a7d6">${t:4.18}[img=music] I love Wok and Rolls! [img=music]</LineEntry>
+        <LineEntry ID="2a084794-8430-4908-81c2-24be3964a746" r="128" g="128" b="255">${t:2.69}[img=music] It's the new style of Chinese Restaurant, baby! [img=music]</LineEntry>
+        <LineEntry ID="5626cb04-b7f0-4d99-a83d-94bab434bd2f" r="128" g="128" b="255">${t:2.74}[img=music] I love Wok and Rolls! [img=music]</LineEntry>
+        <LineEntry ID="b603bf12-bbb8-4237-ae4a-48fcc3f217aa" r="128" g="128" b="255">${t:3.00}[img=music] So why doncha come and chow down with me! [img=music]</LineEntry>
+        <LineEntry ID="29cb4cf7-63f7-4b71-96ef-01c6d9897b02" r="0" g="176" b="80">${t:3.84}Our award winning breakfast menu is BACK through public demand!</LineEntry>
+        <LineEntry ID="4752d74e-f5f1-444a-bd42-280a764c5aa7" r="0" g="176" b="240">${t:2.92}Come visit 'I *heart* Wok and Rolls' today!</LineEntry>
+        <LineEntry ID="8d18fef6-4b15-438f-af17-9eaa4abd41f4" r="128" g="128" b="255">${t:3.51}[img=music] I love Wok and Rolls! [img=music]</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="12e5535b-ffc5-471b-a075-35150463d116" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="c2548cbd-2d91-42b8-ac10-7ab406729cc1" r="128" g="128" b="255">My name's Valerie Pontin, and I work for Gas to Go!</LineEntry>
@@ -379,14 +379,14 @@
         <LineEntry ID="e6f1b691-1cf7-4070-9d5f-3b4801ccccb1" r="128" g="128" b="255">${t:1.99}Out now in theaters!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="d06756e5-5d68-4e46-9396-9fdec462cf24" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="8107c324-642a-4301-bcd3-051dc2d48d2f" r="128" g="128" b="255">The Caramel Flan Latte! </LineEntry>
-        <LineEntry ID="92aa341b-4dad-409e-8d93-b736e2cedd01" r="128" g="128" b="255">Brand new at Seahorse Coffee!</LineEntry>
-        <LineEntry ID="cb82dfa2-2f74-4dad-bfbd-ad8cfa7713f2" r="128" g="128" b="255">Refreshing! Filling! </LineEntry>
-        <LineEntry ID="0921a09c-0375-48bd-bf60-2a85bb19c9db" r="128" g="128" b="255">The pick-me-up you're craving!</LineEntry>
-        <LineEntry ID="7789a7be-b6fc-4608-bab8-ba39aede1b25" r="128" g="128" b="255">There's no better way to start the day!</LineEntry>
-        <LineEntry ID="df124242-5470-43e2-a03a-6220485ff11d" r="0" g="176" b="80">"Welcome to Seahorse Coffee! What can I get you today?"</LineEntry>
-        <LineEntry ID="c16474f0-3a6b-444f-adba-92385d21d045" r="128" g="128" b="255">"One Caramel Flan Latte!"</LineEntry>
-        <LineEntry ID="744aea76-502e-4857-b4ba-6ca627c377b2" r="0" g="176" b="80">"Coming right up!"</LineEntry>
+        <LineEntry ID="8107c324-642a-4301-bcd3-051dc2d48d2f" r="128" g="128" b="255" codes="GUID:8107c324-642a-4301-bcd3-051dc2d48d2f">${t:2.44}The Caramel Flan Latte! </LineEntry>
+        <LineEntry ID="92aa341b-4dad-409e-8d93-b736e2cedd01" r="128" g="128" b="255">${t:2.19}Brand new at Seahorse Coffee!</LineEntry>
+        <LineEntry ID="cb82dfa2-2f74-4dad-bfbd-ad8cfa7713f2" r="128" g="128" b="255">${t:2.01}Refreshing! Filling! </LineEntry>
+        <LineEntry ID="0921a09c-0375-48bd-bf60-2a85bb19c9db" r="128" g="128" b="255">${t:2.16}The pick-me-up you're craving!</LineEntry>
+        <LineEntry ID="7789a7be-b6fc-4608-bab8-ba39aede1b25" r="128" g="128" b="255">${t:2.56}There's no better way to start the day!</LineEntry>
+        <LineEntry ID="df124242-5470-43e2-a03a-6220485ff11d" r="0" g="176" b="80">${t:4.05}"Welcome to Seahorse Coffee! What can I get you today?"</LineEntry>
+        <LineEntry ID="c16474f0-3a6b-444f-adba-92385d21d045" r="128" g="128" b="255">${t:2.76}"One Caramel Flan Latte!"</LineEntry>
+        <LineEntry ID="744aea76-502e-4857-b4ba-6ca627c377b2" r="0" g="176" b="80">${t:1.86}"Coming right up!"</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="9f02b419-8961-4eba-939a-44d1d28256bd" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="1324709a-daa5-4171-a569-eed4641f3254" r="128" g="128" b="255">I'm a cow!</LineEntry>
