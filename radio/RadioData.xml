@@ -136,7 +136,7 @@
         <LineEntry ID="9b89ff36-a7a8-42be-beb2-f60590e2a4fa" r="128" g="128" b="255">[img=music] I love Wok and Rolls! [img=music]</LineEntry>
         <LineEntry ID="f69ede64-4083-4cb7-b82e-ca8f29cfac93" r="128" g="128" b="255">[img=music] So why doncha come and chow down with me! [img=music]</LineEntry>
         <LineEntry ID="efe9afbe-e3f6-4c28-a548-7964536bedf4" r="0" g="176" b="80">Our award winning breakfast menu is BACK through public demand!</LineEntry>
-        <LineEntry ID="671135b0-8cb2-4d1e-bf18-be82f7b08e3d" r="0" g="176" b="80">Come visit 'I *heart* Wok and Rolls' today!</LineEntry>
+        <LineEntry ID="671135b0-8cb2-4d1e-bf18-be82f7b08e3d" r="0" g="176" b="240">Come visit 'I *heart* Wok and Rolls' today!</LineEntry>
         <LineEntry ID="19baec04-2f87-4e26-baa8-10524a01e2d2" r="128" g="128" b="255">[img=music] I love Wok and Rolls! [img=music]</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="d7000646-97bb-4513-9abc-4f5accd6e4b8" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
@@ -353,7 +353,7 @@
         <LineEntry ID="5626cb04-b7f0-4d99-a83d-94bab434bd2f" r="128" g="128" b="255">[img=music] I love Wok and Rolls! [img=music]</LineEntry>
         <LineEntry ID="b603bf12-bbb8-4237-ae4a-48fcc3f217aa" r="128" g="128" b="255">[img=music] So why doncha come and chow down with me! [img=music]</LineEntry>
         <LineEntry ID="29cb4cf7-63f7-4b71-96ef-01c6d9897b02" r="0" g="176" b="80">Our award winning breakfast menu is BACK through public demand!</LineEntry>
-        <LineEntry ID="4752d74e-f5f1-444a-bd42-280a764c5aa7" r="0" g="176" b="80">Come visit 'I *heart* Wok and Rolls' today!</LineEntry>
+        <LineEntry ID="4752d74e-f5f1-444a-bd42-280a764c5aa7" r="0" g="176" b="240">Come visit 'I *heart* Wok and Rolls' today!</LineEntry>
         <LineEntry ID="8d18fef6-4b15-438f-af17-9eaa4abd41f4" r="128" g="128" b="255">[img=music] I love Wok and Rolls! [img=music]</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="12e5535b-ffc5-471b-a075-35150463d116" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
