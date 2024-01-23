@@ -108,7 +108,8 @@ function RadioBroadCast:AddRadioLine(_rl)
                 -- Set the tag and air time if a match is found
                 _rl = RadioLine.new(comp(text), _rl:getR(), _rl:getG(), _rl:getB(), data.tag)
                 _rl:setAirTime(data.airTime)
-            break
+                break
+            end
         end
     end
 
