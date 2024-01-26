@@ -121,8 +121,8 @@ end
 function WeatherChannel.FillBroadcast(_gametime, _bc)
     local hour = _gametime:getHour();
     local c = { r=1.0, g=1.0, b=1.0 };
-    local _rl =  RadioLine.new(comp(getRadioText("AEBS_Intro")), c.r, c.g, c.b,"GUID:AEBS_Intro"); -- Time:4.70
-    _rl:setAirTime(4.70);
+    local _rl =  RadioLine.new(comp(getRadioText("AEBS_Intro")), c.r, c.g, c.b,"GUID:AEBS_Intro"); -- Time:3.68
+    _rl:setAirTime(3.68);
     _bc:AddRadioLine(_rl);
 
     WeatherChannel.AddFuzz(c, _bc);
@@ -141,8 +141,8 @@ function WeatherChannel.FillBroadcast(_gametime, _bc)
 
     if getGameTime():getNightsSurvived() == getGameTime():getHelicopterDay1() then
         WeatherChannel.AddFuzz(c, _bc, 6);
-        _rl = RadioLine.new(comp(getRadioText("AEBS_Choppah")), c.r, c.g, c.b,"GUID:AEBS_Choppah"); -- Time:1.50
-        _rl:setAirTime(1.50);
+        _rl = RadioLine.new(comp(getRadioText("AEBS_Choppah")), c.r, c.g, c.b,"GUID:AEBS_Choppah"); -- Time:1.96
+        _rl:setAirTime(1.96);
         _bc:AddRadioLine(_rl);
     end
 
@@ -154,15 +154,15 @@ function WeatherChannel.AddFuzz(_c, _bc, _chance)
 
     if rand==1 or rand==2 then
         local _rl = RadioLine.new("<bzzt>", _c.r, _c.g, _c.b,"GUID:AEBS_buzz_1");
-        _rl:setAirTime(1.90);
+        _rl:setAirTime(1.97);
         _bc:AddRadioLine(_rl);
     elseif rand==3 or rand==4 then
         local _rl = RadioLine.new("<fzzt>", _c.r, _c.g, _c.b,"GUID:AEBS_buzz_1");
-        _rl:setAirTime(1.90);
+        _rl:setAirTime(1.97);
         _bc:AddRadioLine(_rl);
     elseif rand==5 or rand==6 then
         local _rl = RadioLine.new("<wzzt>", _c.r, _c.g, _c.b,"GUID:AEBS_buzz_2");
-        _rl:setAirTime(1.15);
+        _rl:setAirTime(1.26);
         _bc:AddRadioLine(_rl);
     end
 end
@@ -170,17 +170,17 @@ end
 function WeatherChannel.AddPowerNotice(_c, _bc, _force)
     if _force or (getGameTime():getNightsSurvived() == getSandboxOptions():getElecShutModifier()-2) then
         local _rl = RadioLine.new(comp(getRadioText("AEBS_Power_1")), _c.r, _c.g, _c.b,"GUID:AEBS_Power_1");
-        _rl:setAirTime(3.50);
+        _rl:setAirTime(6.80);
         _bc:AddRadioLine(_rl);
     end
     if _force or (getGameTime():getNightsSurvived() == getSandboxOptions():getElecShutModifier()-1) then
         local _rl = RadioLine.new(comp(getRadioText("AEBS_Power_2")), _c.r, _c.g, _c.b,"GUID:AEBS_Power_2");
-        _rl:setAirTime(4.69);
+        _rl:setAirTime(18.48);
         _bc:AddRadioLine(_rl);
     end
     if _force or (getGameTime():getNightsSurvived() >= getSandboxOptions():getElecShutModifier()) then
         local _rl = RadioLine.new(comp(getRadioText("AEBS_Power_3")), _c.r, _c.g, _c.b,"GUID:AEBS_Power_3");
-        _rl:setAirTime(2.17);
+        _rl:setAirTime(20.81);
         _bc:AddRadioLine(_rl);
     end
 end
@@ -220,34 +220,34 @@ function WeatherChannel.AddForecast(_c, _bc, _forecast, _prefix, _doFog,_prefixC
     aux_s, aux_fx = WeatherChannel.GetForecastString(1, _forecast);
     fx = fx .. aux_fx
     s = s .. aux_s
-    local _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); -- Aproximate time: 13.82 + _prefixTime = 14.92
-    _rl:setAirTime(14.92);
+    local _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); -- Aproximate time: 16.75
+    _rl:setAirTime(16.75);
     _bc:AddRadioLine( _rl ); 
     
 
     s , fx= WeatherChannel.GetForecastString(2, _forecast);
-    _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); -- Aproximate time: 9.15
-    _rl:setAirTime(9.15);
+    _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); -- Aproximate time: 11.38
+    _rl:setAirTime(11.38);
     _bc:AddRadioLine(_rl);
 
     if _doFog and _forecast:isHasFog() then
         s , fx= WeatherChannel.GetForecastString(3, _forecast);
-        _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); -- Aproximate time: 0.90
-        _rl:setAirTime(0.90);
+        _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); -- Aproximate time: 1.91
+        _rl:setAirTime(1.91);
         _bc:AddRadioLine(_rl);
     end
 
     if _forecast:isWeatherStarts() then
         -- a new weather period starts
         s , fx= WeatherChannel.GetForecastString(4, _forecast);
-        _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); -- Aproximate time: 7.25
-        _rl:setAirTime(7.25);
+        _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); -- Aproximate time: 10.00
+        _rl:setAirTime(10.00);
         _bc:AddRadioLine(_rl);
     elseif _forecast:getWeatherOverlap() then
         -- a already started weather period overlaps this day
         s , fx= WeatherChannel.GetForecastString(5, _forecast);
-        _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); -- Aproximate time: 7.25
-        _rl:setAirTime(7.25);
+        _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); -- Aproximate time: 10.00
+        _rl:setAirTime(10.00);
         _bc:AddRadioLine(_rl);
     end
 end
@@ -511,8 +511,8 @@ function WeatherChannel.AddExtremesForecasting(_c, _bc, offset, _len)
 
             local s = string.format(getRadioText("AEBS_weather_warning"), type, tostring(i));
             local fx = "AEBS_weather_warning_1+"..weather_code.."+AEBS_weather_warning_2+VoicedNumber_"..tostring(i).."+AEBS_weather_warning_3"
-            local _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); --Too lazy to calculate: 9 seconds
-            _rl:setAirTime(9.00);
+            local _rl = RadioLine.new(comp(s), _c.r, _c.g, _c.b,"GUID:"..fx); --Too lazy to calculate: 10.00 seconds
+            _rl:setAirTime(10.00);
             _bc:AddRadioLine( _rl );
             return;
         end
@@ -630,7 +630,7 @@ function WeatherChannel.TestAll(_gametime, _bc)
     WeatherChannel.GetRandomString(c, _bc, 100, 9010);
 
     _rl = RadioLine.new(comp(getRadioText("AEBS_Choppah")), c.r, c.g, c.b,"GUID:AEBS_Choppah");
-    _rl:setAirTime(1.50);
+    _rl:setAirTime(1.96);
     _bc:AddRadioLine(_rl);
     WeatherChannel.AddFuzz(c, _bc, 6);
 end
