@@ -18,8 +18,8 @@ Triple N
 	Actors: ElevenLabs
 
 Automated Emergency Broadcast System
-	Director: Fed_Cap
-	Actors: pyttsx3
+	Director: Burkanx
+	Actors: ElevenLabs
 
 Adverts:
 	Pizza Whirled: riptank
