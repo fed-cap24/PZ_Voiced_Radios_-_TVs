@@ -2118,4 +2118,108 @@ module Base
 			reverbFactor = 0,
 		}
 	}
+
+	sound 4e5ea817-c2dd-4cf0-8fda-72b8b6d3bf20
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/4e5ea817-c2dd-4cf0-8fda-72b8b6d3bf20.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 7a81bdbd-e395-4374-9ec6-fce227569b90
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/7a81bdbd-e395-4374-9ec6-fce227569b90.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 82006690-4733-4725-8d5d-d4b6a37036f4
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/82006690-4733-4725-8d5d-d4b6a37036f4.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound bf540c47-4aa6-47d6-97c4-2a78a8ae5f7f
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/bf540c47-4aa6-47d6-97c4-2a78a8ae5f7f.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 3f4b01a9-a596-4445-9adb-128e95e1ed3e
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/3f4b01a9-a596-4445-9adb-128e95e1ed3e.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 465ef67d-21a8-4c22-a6f4-257eea64e8a3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/465ef67d-21a8-4c22-a6f4-257eea64e8a3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 7cb6038a-1f23-440a-ad95-68d01a657885
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/7cb6038a-1f23-440a-ad95-68d01a657885.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound a06dd29c-78cf-4a0b-bba9-600a517bf4a4
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Life_and_Living_TV/a06dd29c-78cf-4a0b-bba9-600a517bf4a4.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
 }
