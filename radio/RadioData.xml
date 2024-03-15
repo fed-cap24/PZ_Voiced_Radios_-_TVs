@@ -231,28 +231,28 @@
         <LineEntry ID="a3043512-7926-433b-a48f-a50c2ff1153d" r="0" g="176" b="240">[img=music] Pile o' Crepe! Pile o' Crepe! [img=music]</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="7a81bdbd-e395-4374-9ec6-fce227569b90" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="232678f5-afae-48ae-bc50-4fd6365d46ea" r="0" g="176" b="80" codes="GUID:232678f5-afae-48ae-bc50-4fd6365d46ea">${t:4.39}In 1992 Governor Cal Fairweather made a promise.</LineEntry>
-        <LineEntry ID="3953a537-ac4a-4f1b-8149-7f249efcc3d6" r="0" g="176" b="80">${t:2.40}A promise he broke in two.</LineEntry>
-        <LineEntry ID="94f35b50-9a0a-4694-812f-69f14ff8ee2c" r="0" g="176" b="80">${t:2.00}He said he'd invest.</LineEntry>
-        <LineEntry ID="49989462-59f1-4055-9729-cc49f3f2d278" r="0" g="176" b="80">${t:1.88}He said he'd clean up.</LineEntry>
-        <LineEntry ID="0132d42e-11fd-46fc-9e99-f0e2f56d3ca1" r="0" g="176" b="80">${t:4.04}He said the toxins discovered in our fields and forests would be eradicated.</LineEntry>
-        <LineEntry ID="fecea364-517e-4faa-a049-8c644d6d5ab5" r="0" g="176" b="80">${t:1.73}He failed.</LineEntry>
-        <LineEntry ID="1b857646-694c-4118-a609-18061f26f5ad" r="0" g="176" b="80">${t:3.08}Vote Mahoney this Fall. Vote for Change.</LineEntry>
-        <LineEntry ID="845f8b39-5e62-4cb3-a735-8ebeb16ef64e" r="0" g="176" b="240">${t:4.19}This has been an endorsed message by the Democrat party.</LineEntry>
+        <LineEntry ID="232678f5-afae-48ae-bc50-4fd6365d46ea" r="0" g="176" b="80">In 1992 Governor Cal Fairweather made a promise.</LineEntry>
+        <LineEntry ID="3953a537-ac4a-4f1b-8149-7f249efcc3d6" r="0" g="176" b="80">A promise he broke in two.</LineEntry>
+        <LineEntry ID="94f35b50-9a0a-4694-812f-69f14ff8ee2c" r="0" g="176" b="80">He said he'd invest.</LineEntry>
+        <LineEntry ID="49989462-59f1-4055-9729-cc49f3f2d278" r="0" g="176" b="80">He said he'd clean up.</LineEntry>
+        <LineEntry ID="0132d42e-11fd-46fc-9e99-f0e2f56d3ca1" r="0" g="176" b="80">He said the toxins discovered in our fields and forests would be eradicated.</LineEntry>
+        <LineEntry ID="fecea364-517e-4faa-a049-8c644d6d5ab5" r="0" g="176" b="80">He failed.</LineEntry>
+        <LineEntry ID="1b857646-694c-4118-a609-18061f26f5ad" r="0" g="176" b="80">Vote Mahoney this Fall. Vote for Change.</LineEntry>
+        <LineEntry ID="845f8b39-5e62-4cb3-a735-8ebeb16ef64e" r="0" g="176" b="240">This has been an endorsed message by the Democrat party.</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="4e5ea817-c2dd-4cf0-8fda-72b8b6d3bf20" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="d36a71fa-7326-45b4-b612-89339a4cf107" r="255" g="192" b="0" codes="GUID:d36a71fa-7326-45b4-b612-89339a4cf107">${t:4.94}I'm Cal Fairweather, and I am the voice of progress.</LineEntry>
-        <LineEntry ID="b49fd1c6-05de-4796-ab14-729a79766718" r="255" g="192" b="0">${t:2.95}I hunt. I shoot. I fish.</LineEntry>
-        <LineEntry ID="fd96d057-a5ad-4524-b100-39b0e212e3c0" r="255" g="192" b="0">${t:2.34}I see nature all around.</LineEntry>
-        <LineEntry ID="4b3510c4-0552-4264-9243-966b1dff21a1" r="255" g="192" b="0">${t:3.42}And it's clean, it's clear, it's as God intended.</LineEntry>
-        <LineEntry ID="1862b563-9ecb-4b0f-8d05-e080839f6b33" r="255" g="192" b="0">${t:3.40}We've spent our time testing the land around us.</LineEntry>
-        <LineEntry ID="b8859fbd-5cee-44cf-b7ed-c543bb279b25" r="255" g="192" b="0">${t:3.21}Making sure the military testing thirty long years ago...</LineEntry>
-        <LineEntry ID="4612313a-b37d-4cc8-990f-dd88ff504734" r="255" g="192" b="0">${t:1.18}... to protect our country...</LineEntry>
-        <LineEntry ID="12329694-5ad6-485d-9edd-638d73cdafe1" r="255" g="192" b="0">${t:2.47}... was as safe as we always thought it was.</LineEntry>
-        <LineEntry ID="bbfcd9c3-6b39-4b24-8bef-5697a0b58201" r="255" g="192" b="0">${t:1.29}Know what?</LineEntry>
-        <LineEntry ID="39250f8e-7664-4b82-81cc-1a63393a31ab" r="255" g="192" b="0">${t:3.50}Kentucky's as safe a place to live as it is beautiful.</LineEntry>
-        <LineEntry ID="3250505b-4574-4395-a73e-c7dcf9670956" r="255" g="192" b="0">${t:3.19}Vote for Cal Fairweather. Vote for progress.</LineEntry>
-        <LineEntry ID="92d1d873-d94f-4e94-8c50-a55a7ea88d00" r="0" g="176" b="240">${t:4.20}This has been an endorsed message by the Republican party.</LineEntry>
+        <LineEntry ID="d36a71fa-7326-45b4-b612-89339a4cf107" r="255" g="192" b="0">I'm Cal Fairweather, and I am the voice of progress.</LineEntry>
+        <LineEntry ID="b49fd1c6-05de-4796-ab14-729a79766718" r="255" g="192" b="0">I hunt. I shoot. I fish.</LineEntry>
+        <LineEntry ID="fd96d057-a5ad-4524-b100-39b0e212e3c0" r="255" g="192" b="0">I see nature all around.</LineEntry>
+        <LineEntry ID="4b3510c4-0552-4264-9243-966b1dff21a1" r="255" g="192" b="0">And it's clean, it's clear, it's as God intended.</LineEntry>
+        <LineEntry ID="1862b563-9ecb-4b0f-8d05-e080839f6b33" r="255" g="192" b="0">We've spent our time testing the land around us.</LineEntry>
+        <LineEntry ID="b8859fbd-5cee-44cf-b7ed-c543bb279b25" r="255" g="192" b="0">Making sure the military testing thirty long years ago...</LineEntry>
+        <LineEntry ID="4612313a-b37d-4cc8-990f-dd88ff504734" r="255" g="192" b="0">... to protect our country...</LineEntry>
+        <LineEntry ID="12329694-5ad6-485d-9edd-638d73cdafe1" r="255" g="192" b="0">... was as safe as we always thought it was.</LineEntry>
+        <LineEntry ID="bbfcd9c3-6b39-4b24-8bef-5697a0b58201" r="255" g="192" b="0">Know what?</LineEntry>
+        <LineEntry ID="39250f8e-7664-4b82-81cc-1a63393a31ab" r="255" g="192" b="0">Kentucky's as safe a place to live as it is beautiful.</LineEntry>
+        <LineEntry ID="3250505b-4574-4395-a73e-c7dcf9670956" r="255" g="192" b="0">Vote for Cal Fairweather. Vote for progress.</LineEntry>
+        <LineEntry ID="92d1d873-d94f-4e94-8c50-a55a7ea88d00" r="0" g="176" b="240">This has been an endorsed message by the Republican party.</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="30b3bc40-702b-4e85-b6f6-d6b18b21c2b3" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="f22811aa-5c8c-4ce4-8f58-f3ddc7224168" r="0" g="176" b="240">[img=music] Jolly good. Jolly good. Jolly good-good-GOOD! [img=music]</LineEntry>
@@ -412,28 +412,28 @@
         <LineEntry ID="1ca7b489-f5f3-401b-bdb2-4e35b992f562" r="0" g="176" b="240">[img=music] Pile o' Crepe! Pile o' Crepe! [img=music]</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="bf540c47-4aa6-47d6-97c4-2a78a8ae5f7f" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="be134e2a-36ea-4a55-bcf4-ef05ac756773" r="0" g="176" b="80" codes="GUID:be134e2a-36ea-4a55-bcf4-ef05ac756773">${t:4.39}In 1992 Governor Cal Fairweather made a promise.</LineEntry>
-        <LineEntry ID="ec452dbf-9337-4313-91aa-1a168d654ae0" r="0" g="176" b="80">${t:2.40}A promise he broke in two.</LineEntry>
-        <LineEntry ID="878fd1c4-0494-4392-8a2b-c33b2c972301" r="0" g="176" b="80">${t:2.00}He said he'd invest.</LineEntry>
-        <LineEntry ID="d522cc77-ddeb-46df-b8ae-8beaedd798da" r="0" g="176" b="80">${t:1.88}He said he'd clean up.</LineEntry>
-        <LineEntry ID="96b4a08c-8008-41ee-a384-2bd4bc362b70" r="0" g="176" b="80">${t:4.04}He said the toxins discovered in our fields and forests would be eradicated.</LineEntry>
-        <LineEntry ID="79485af4-8791-454f-89e0-3286507e67a1" r="0" g="176" b="80">${t:1.73}He failed.</LineEntry>
-        <LineEntry ID="6fd136cb-45e1-43c5-9a7a-12ed474cd0c7" r="0" g="176" b="80">${t:3.08}Vote Mahoney this Fall. Vote for Change.</LineEntry>
-        <LineEntry ID="f5376fdf-b653-4e31-b9de-bfadc7225ee4" r="0" g="176" b="240">${t:4.19}This has been an endorsed message by the Democrat party.</LineEntry>
+        <LineEntry ID="be134e2a-36ea-4a55-bcf4-ef05ac756773" r="0" g="176" b="80">In 1992 Governor Cal Fairweather made a promise.</LineEntry>
+        <LineEntry ID="ec452dbf-9337-4313-91aa-1a168d654ae0" r="0" g="176" b="80">A promise he broke in two.</LineEntry>
+        <LineEntry ID="878fd1c4-0494-4392-8a2b-c33b2c972301" r="0" g="176" b="80">He said he'd invest.</LineEntry>
+        <LineEntry ID="d522cc77-ddeb-46df-b8ae-8beaedd798da" r="0" g="176" b="80">He said he'd clean up.</LineEntry>
+        <LineEntry ID="96b4a08c-8008-41ee-a384-2bd4bc362b70" r="0" g="176" b="80">He said the toxins discovered in our fields and forests would be eradicated.</LineEntry>
+        <LineEntry ID="79485af4-8791-454f-89e0-3286507e67a1" r="0" g="176" b="80">He failed.</LineEntry>
+        <LineEntry ID="6fd136cb-45e1-43c5-9a7a-12ed474cd0c7" r="0" g="176" b="80">Vote Mahoney this Fall. Vote for Change.</LineEntry>
+        <LineEntry ID="f5376fdf-b653-4e31-b9de-bfadc7225ee4" r="0" g="176" b="240">This has been an endorsed message by the Democrat party.</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="82006690-4733-4725-8d5d-d4b6a37036f4" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="8852f3ae-e3a1-449c-a4e9-b4a5857d726a" r="255" g="192" b="0" codes="GUID:8852f3ae-e3a1-449c-a4e9-b4a5857d726a">${t:4.94}I'm Cal Fairweather, and I am the voice of progess.</LineEntry>
-        <LineEntry ID="20a37ded-3305-490e-97d1-35ee6afecf01" r="255" g="192" b="0">${t:2.95}I hunt. I shoot. I fish.</LineEntry>
-        <LineEntry ID="9a7bdb16-544d-4439-aefa-dbd8d4c735c3" r="255" g="192" b="0">${t:2.34}I see nature all around.</LineEntry>
-        <LineEntry ID="965babd9-6d05-413d-9be1-4d648ff4c3df" r="255" g="192" b="0">${t:3.42}And it's clean, it's clear, it's as God intended.</LineEntry>
-        <LineEntry ID="da5f764e-5c6c-4c9c-9904-f6eafae21d1e" r="255" g="192" b="0">${t:3.40}We've spent our time testing the land around us.</LineEntry>
-        <LineEntry ID="cf36713a-bcce-4a27-8f83-e0d1cab7ffbf" r="255" g="192" b="0">${t:3.21}Making sure the military testing thirty long years ago...</LineEntry>
-        <LineEntry ID="b32ab2c2-bb68-49bb-a549-3722bb2b484e" r="255" g="192" b="0">${t:1.18}... to protect our country...</LineEntry>
-        <LineEntry ID="3b51a239-5375-453f-9c46-bf7e58d3ffad" r="255" g="192" b="0">${t:2.47}... was as safe as we always thought it was.</LineEntry>
-        <LineEntry ID="0b357b1a-1b82-47a2-87cf-57ad2aaa29e6" r="255" g="192" b="0">${t:1.29}Know what?</LineEntry>
-        <LineEntry ID="5176d727-8034-404a-83cc-f6a9c559caa5" r="255" g="192" b="0">${t:3.50}Kentucky's as safe a place to live as it is beautiful.</LineEntry>
-        <LineEntry ID="ee6da7fb-c589-4f60-8203-b58dceec5dff" r="255" g="192" b="0">${t:3.19}Vote for Cal Fairweather. Vote for progress.</LineEntry>
-        <LineEntry ID="0ff3f718-ecef-416e-a924-26a2af304763" r="0" g="176" b="240">${t:4.20}This has been an endorsed message by the Republican party.</LineEntry>
+        <LineEntry ID="8852f3ae-e3a1-449c-a4e9-b4a5857d726a" r="255" g="192" b="0">I'm Cal Fairweather, and I am the voice of progess.</LineEntry>
+        <LineEntry ID="20a37ded-3305-490e-97d1-35ee6afecf01" r="255" g="192" b="0">I hunt. I shoot. I fish.</LineEntry>
+        <LineEntry ID="9a7bdb16-544d-4439-aefa-dbd8d4c735c3" r="255" g="192" b="0">I see nature all around.</LineEntry>
+        <LineEntry ID="965babd9-6d05-413d-9be1-4d648ff4c3df" r="255" g="192" b="0">And it's clean, it's clear, it's as God intended.</LineEntry>
+        <LineEntry ID="da5f764e-5c6c-4c9c-9904-f6eafae21d1e" r="255" g="192" b="0">We've spent our time testing the land around us.</LineEntry>
+        <LineEntry ID="cf36713a-bcce-4a27-8f83-e0d1cab7ffbf" r="255" g="192" b="0">Making sure the military testing thirty long years ago...</LineEntry>
+        <LineEntry ID="b32ab2c2-bb68-49bb-a549-3722bb2b484e" r="255" g="192" b="0">... to protect our country...</LineEntry>
+        <LineEntry ID="3b51a239-5375-453f-9c46-bf7e58d3ffad" r="255" g="192" b="0">... was as safe as we always thought it was.</LineEntry>
+        <LineEntry ID="0b357b1a-1b82-47a2-87cf-57ad2aaa29e6" r="255" g="192" b="0">Know what?</LineEntry>
+        <LineEntry ID="5176d727-8034-404a-83cc-f6a9c559caa5" r="255" g="192" b="0">Kentucky's as safe a place to live as it is beautiful.</LineEntry>
+        <LineEntry ID="ee6da7fb-c589-4f60-8203-b58dceec5dff" r="255" g="192" b="0">Vote for Cal Fairweather. Vote for progress.</LineEntry>
+        <LineEntry ID="0ff3f718-ecef-416e-a924-26a2af304763" r="0" g="176" b="240">This has been an endorsed message by the Republican party.</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="c28bddd3-8707-4a8c-8406-27470899767f" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="ebedc0e9-9c19-4f4e-860c-9ceaf81f3529" r="0" g="176" b="80">I'm Howie Zitron, and I represent YOU.</LineEntry>
@@ -2588,28 +2588,28 @@
       <ScriptEntry ID="8098c13b-8183-494d-b1a4-cf000851f9db" name="init_infection" startdelay="0" timestampmode="Static" loopmin="1" loopmax="1">
         <ExitOptions />
         <BroadcastEntry ID="a843a3ea-0635-4f54-9425-91e22f3c2aa4" timestamp="0" endstamp="360" type="ActivateBroadcast" day="0" advertCat="8a4c8f31-269c-4c35-876c-8db6edf08ead" isSegment="false">
-          <LineEntry ID="39bba3f5-2032-4dba-ae2f-8ca5110fd3a1" r="0" g="176" b="80" codes="BOR-1,GUID:39bba3f5-2032-4dba-ae2f-8ca5110fd3a1">${t:4.39}In 1992 Governor Cal Fairweather made a promise.</LineEntry>
-          <LineEntry ID="e151429f-86de-43cb-bd53-7332ce7e4ea8" r="0" g="176" b="80" codes="BOR-1">${t:2.40}A promise he broke in two.</LineEntry>
-          <LineEntry ID="0a6c0a1d-4140-4618-89d2-23ba63bc0a83" r="0" g="176" b="80">${t:2.00}He said he'd invest.</LineEntry>
-          <LineEntry ID="ab0e6c89-a1c9-44bf-a651-7a12bfa093b6" r="0" g="176" b="80">${t:1.88}He said he'd clean up.</LineEntry>
-          <LineEntry ID="bc444ef7-f29f-474c-b253-070d77bbde71" r="0" g="176" b="80" codes="STS-1">${t:4.04}He said the toxins discovered in our fields and forests would be eradicated.</LineEntry>
-          <LineEntry ID="231f2d90-b63a-4ae5-a914-6295fbbb2386" r="0" g="176" b="80" codes="STS-1">${t:1.73}He failed.</LineEntry>
-          <LineEntry ID="d3fd8448-8233-4ac9-b292-4e8fd10dc4e2" r="0" g="176" b="80" codes="BOR-1">${t:3.08}Vote Mahoney this Fall. Vote for Change.</LineEntry>
-          <LineEntry ID="bcf407a7-4fc2-4748-83f2-3eb03e175b4f" r="0" g="176" b="240" codes="STS-1,BOR-1">${t:4.19}This has been an endorsed message by the Democrat party.</LineEntry>
+          <LineEntry ID="39bba3f5-2032-4dba-ae2f-8ca5110fd3a1" r="0" g="176" b="80" codes="BOR-1,GUID:39bba3f5-2032-4dba-ae2f-8ca5110fd3a1">${t:3.60}In 1992 Governor Cal Fairweather made a promise.</LineEntry>
+          <LineEntry ID="e151429f-86de-43cb-bd53-7332ce7e4ea8" r="0" g="176" b="80" codes="BOR-1">${t:1.57}A promise he broke in two.</LineEntry>
+          <LineEntry ID="0a6c0a1d-4140-4618-89d2-23ba63bc0a83" r="0" g="176" b="80">${t:1.33}He said he'd invest.</LineEntry>
+          <LineEntry ID="ab0e6c89-a1c9-44bf-a651-7a12bfa093b6" r="0" g="176" b="80">${t:1.25}He said he'd clean up.</LineEntry>
+          <LineEntry ID="bc444ef7-f29f-474c-b253-070d77bbde71" r="0" g="176" b="80" codes="STS-1">${t:4.26}He said the toxins discovered in our fields and forests would be eradicated.</LineEntry>
+          <LineEntry ID="231f2d90-b63a-4ae5-a914-6295fbbb2386" r="0" g="176" b="80" codes="STS-1">${t:1.02}He failed.</LineEntry>
+          <LineEntry ID="d3fd8448-8233-4ac9-b292-4e8fd10dc4e2" r="0" g="176" b="80" codes="BOR-1">${t:2.40}Vote Mahoney this Fall. Vote for Change.</LineEntry>
+          <LineEntry ID="bcf407a7-4fc2-4748-83f2-3eb03e175b4f" r="0" g="176" b="240" codes="STS-1,BOR-1">${t:2.82}This has been an endorsed message by the Democrat party.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="884f99cd-fd75-4448-9108-b0d13d20d7a8" timestamp="360" endstamp="690" type="ActivateBroadcast" day="0" advertCat="8a4c8f31-269c-4c35-876c-8db6edf08ead" isSegment="false">
-          <LineEntry ID="0d17759b-3e11-4880-a67c-19807370892c" r="255" g="192" b="0" codes="GUID:0d17759b-3e11-4880-a67c-19807370892c">${t:4.94}I'm Cal Fairweather, and I am the voice of progress.</LineEntry>
-          <LineEntry ID="d8c0d3c1-3105-46f6-8337-a21cb55cf45a" r="255" g="192" b="0">${t:2.95}I hunt. I shoot. I fish.</LineEntry>
-          <LineEntry ID="fdbec377-f5c3-463a-84dd-75421aa40d6a" r="255" g="192" b="0">${t:2.34}I see nature all around.</LineEntry>
-          <LineEntry ID="b9bcf2d1-baa7-4525-a5a5-71f28e5ac33e" r="255" g="192" b="0">${t:3.42}And it's clean, it's clear, it's as God intended.</LineEntry>
-          <LineEntry ID="88592912-4893-430f-a030-b1dd7b5d5f87" r="255" g="192" b="0">${t:3.40}We've spent our time testing the land around us.</LineEntry>
-          <LineEntry ID="a6628683-7b23-4869-9a07-2535c5b5de42" r="255" g="192" b="0">${t:3.21}Making sure the military testing thirty long years ago...</LineEntry>
-          <LineEntry ID="11493ccc-61b9-427e-bd5e-9c99a68f1d26" r="255" g="192" b="0" codes="STS-1,BOR-1">${t:1.18}... to protect our country...</LineEntry>
-          <LineEntry ID="42bc8fe2-2a38-4be3-81ca-24c2ab5eaf76" r="255" g="192" b="0" codes="BOR-1">${t:2.47}... was as safe as we always thought it was.</LineEntry>
-          <LineEntry ID="bbc455a4-cf91-4cc5-b190-de6275e55588" r="255" g="192" b="0" codes="BOR-1">${t:1.29}Know what?</LineEntry>
-          <LineEntry ID="66d1b740-e9be-4ba8-bf4e-1504cd994c68" r="255" g="192" b="0" codes="BOR-1">${t:3.50}Kentucky's as safe a place to live as it is beautiful.</LineEntry>
-          <LineEntry ID="a804f26e-6935-4ff2-903b-cbd8a7fa3b99" r="255" g="192" b="0" codes="STS-1,BOR-1">${t:3.19}Vote for Cal Fairweather. Vote for progress.</LineEntry>
-          <LineEntry ID="997d8cc8-bb37-40fa-ba59-18c1bef07a93" r="0" g="176" b="240">${t:4.20}This has been an endorsed message by the Republican party.</LineEntry>
+          <LineEntry ID="0d17759b-3e11-4880-a67c-19807370892c" r="255" g="192" b="0" codes="GUID:0d17759b-3e11-4880-a67c-19807370892c">${t:3.71}I'm Cal Fairweather, and I am the voice of progress.</LineEntry>
+          <LineEntry ID="d8c0d3c1-3105-46f6-8337-a21cb55cf45a" r="255" g="192" b="0">${t:1.70}I hunt. I shoot. I fish.</LineEntry>
+          <LineEntry ID="fdbec377-f5c3-463a-84dd-75421aa40d6a" r="255" g="192" b="0">${t:1.33}I see nature all around.</LineEntry>
+          <LineEntry ID="b9bcf2d1-baa7-4525-a5a5-71f28e5ac33e" r="255" g="192" b="0">${t:2.51}And it's clean, it's clear, it's as God intended.</LineEntry>
+          <LineEntry ID="88592912-4893-430f-a030-b1dd7b5d5f87" r="255" g="192" b="0">${t:2.69}We've spent our time testing the land around us.</LineEntry>
+          <LineEntry ID="a6628683-7b23-4869-9a07-2535c5b5de42" r="255" g="192" b="0">${t:2.95}Making sure the military testing thirty long years ago...</LineEntry>
+          <LineEntry ID="11493ccc-61b9-427e-bd5e-9c99a68f1d26" r="255" g="192" b="0" codes="STS-1,BOR-1">${t:1.38}... to protect our country...</LineEntry>
+          <LineEntry ID="42bc8fe2-2a38-4be3-81ca-24c2ab5eaf76" r="255" g="192" b="0" codes="BOR-1">${t:2.17}... was as safe as we always thought it was.</LineEntry>
+          <LineEntry ID="bbc455a4-cf91-4cc5-b190-de6275e55588" r="255" g="192" b="0" codes="BOR-1">${t:0.91}Know what?</LineEntry>
+          <LineEntry ID="66d1b740-e9be-4ba8-bf4e-1504cd994c68" r="255" g="192" b="0" codes="BOR-1">${t:2.77}Kentucky's as safe a place to live as it is beautiful.</LineEntry>
+          <LineEntry ID="a804f26e-6935-4ff2-903b-cbd8a7fa3b99" r="255" g="192" b="0" codes="STS-1,BOR-1">${t:2.87}Vote for Cal Fairweather. Vote for progress.</LineEntry>
+          <LineEntry ID="997d8cc8-bb37-40fa-ba59-18c1bef07a93" r="0" g="176" b="240">${t:3.00}This has been an endorsed message by the Republican party.</LineEntry>
         </BroadcastEntry>
       </ScriptEntry>
       <ScriptEntry ID="fc1531ac-eeda-47d9-b287-bbcf831f3aaa" name="main" startdelay="0" timestampmode="Static" loopmin="1" loopmax="1">
@@ -6408,21 +6408,21 @@
       <ScriptEntry ID="1a30dbb7-5908-4ed7-8817-a7f5ac0100b6" name="init_infection" startdelay="0" timestampmode="Static" loopmin="1" loopmax="1">
         <ExitOptions />
         <BroadcastEntry ID="acfa95f5-420e-42f0-83e2-2e28c3624390" timestamp="0" endstamp="360" type="ActivateBroadcast" day="0" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="f17f9259-0ab3-4928-9390-09e068ffc18f" r="0" g="176" b="240" codes="GUID:f17f9259-0ab3-4928-9390-09e068ffc18f">${t:4.98}How you doing? Welcome back to the Cook show!</LineEntry>
-          <LineEntry ID="28f9b202-f015-43e5-a6bb-84e9822bcd25" r="0" g="176" b="240">${t:4.89}Brought to you by Kitten Knives - Fine American Cookware.</LineEntry>
-          <LineEntry ID="50f68741-dfdb-4c53-96f1-720b66080a17" r="128" g="128" b="255">${t:3.30}Let's quit fooling around! </LineEntry>
-          <LineEntry ID="e33fd4a1-9667-4e67-825e-0ba5cf43c568" r="128" g="128" b="255">${t:2.54}You know why we're here...</LineEntry>
-          <LineEntry ID="cb326038-5384-469a-b8d3-e9163dcce967" r="128" g="128" b="255" codes="BOR-1">${t:1.86}Cake!</LineEntry>
-          <LineEntry ID="f035ab6e-45c4-4572-919c-7b7b31210b6d" r="128" g="128" b="255">${t:4.37}First you need a batter - take a bowl and mix in...</LineEntry>
-          <LineEntry ID="5bd3ba61-8cbb-46fc-8056-f3ac787a35aa" r="128" g="128" b="255" codes="BOR-1">${t:4.68}Flour! Butter! Sugar! Egg! Yeast! Milk!</LineEntry>
-          <LineEntry ID="c48a1eee-caca-405d-b38f-a17fc423d263" r="128" g="128" b="255">${t:1.68}You get all that? </LineEntry>
-          <LineEntry ID="6af0f0e1-0e8f-4f2e-bc9d-e0ce36f04955" r="128" g="128" b="255">${t:4.00}Flour! Butter! Sugar! Egg! Yeast! Milk!</LineEntry>
-          <LineEntry ID="7bca042a-b269-416f-97d3-813d82f48323" r="128" g="128" b="255">${t:4.62}Add it all into a Baking Pan and... add some flavor.</LineEntry>
-          <LineEntry ID="3824fb45-d8d5-4463-ad1c-83f74824d660" r="128" g="128" b="255" codes="BOR-1">${t:3.91}Today I'm using banana, berries... </LineEntry>
-          <LineEntry ID="a0bdfc7c-bc61-4dc1-9829-e8aef411b8b9" r="128" g="128" b="255" codes="BOR-1">${t:2.60}And a squeeze of lemon.</LineEntry>
-          <LineEntry ID="5e29b81b-d45c-4fec-9a60-0e857843d364" r="128" g="128" b="255" codes="BOR-1">${t:4.28}Then into the oven, and leave to get delicious!</LineEntry>
-          <LineEntry ID="85f20595-35a8-46be-a89b-83701bfa4db0" r="128" g="128" b="255" codes="BOR-1">${t:3.39}Can't beat that smell, huh?</LineEntry>
-          <LineEntry ID="da30d9a5-9fed-4116-af1d-67d22a60c36e" r="128" g="128" b="255">${t:2.38}See you tomorrow!</LineEntry>
+          <LineEntry ID="f17f9259-0ab3-4928-9390-09e068ffc18f" r="0" g="176" b="240" codes="GUID:f17f9259-0ab3-4928-9390-09e068ffc18f">${t:2.53}How you doing? Welcome back to the Cook show!</LineEntry>
+          <LineEntry ID="28f9b202-f015-43e5-a6bb-84e9822bcd25" r="0" g="176" b="240">${t:3.24}Brought to you by Kitten Knives - Fine American Cookware.</LineEntry>
+          <LineEntry ID="50f68741-dfdb-4c53-96f1-720b66080a17" r="128" g="128" b="255">${t:1.44}Let's quit fooling around! </LineEntry>
+          <LineEntry ID="e33fd4a1-9667-4e67-825e-0ba5cf43c568" r="128" g="128" b="255">${t:1.20}You know why we're here...</LineEntry>
+          <LineEntry ID="cb326038-5384-469a-b8d3-e9163dcce967" r="128" g="128" b="255" codes="BOR-1">${t:0.68}Cake!</LineEntry>
+          <LineEntry ID="f035ab6e-45c4-4572-919c-7b7b31210b6d" r="128" g="128" b="255">${t:2.69}First you need a batter - take a bowl and mix in...</LineEntry>
+          <LineEntry ID="5bd3ba61-8cbb-46fc-8056-f3ac787a35aa" r="128" g="128" b="255" codes="BOR-1">${t:2.32}Flour! Butter! Sugar! Egg! Yeast! Milk!</LineEntry>
+          <LineEntry ID="c48a1eee-caca-405d-b38f-a17fc423d263" r="128" g="128" b="255">${t:0.97}You get all that? </LineEntry>
+          <LineEntry ID="6af0f0e1-0e8f-4f2e-bc9d-e0ce36f04955" r="128" g="128" b="255">${t:2.35}Flour! Butter! Sugar! Egg! Yeast! Milk!</LineEntry>
+          <LineEntry ID="7bca042a-b269-416f-97d3-813d82f48323" r="128" g="128" b="255">${t:2.77}Add it all into a Baking Pan and... add some flavor.</LineEntry>
+          <LineEntry ID="3824fb45-d8d5-4463-ad1c-83f74824d660" r="128" g="128" b="255" codes="BOR-1">${t:1.75}Today I'm using banana, berries... </LineEntry>
+          <LineEntry ID="a0bdfc7c-bc61-4dc1-9829-e8aef411b8b9" r="128" g="128" b="255" codes="BOR-1">${t:1.28}And a squeeze of lemon.</LineEntry>
+          <LineEntry ID="5e29b81b-d45c-4fec-9a60-0e857843d364" r="128" g="128" b="255" codes="BOR-1">${t:2.51}Then into the oven, and leave to get delicious!</LineEntry>
+          <LineEntry ID="85f20595-35a8-46be-a89b-83701bfa4db0" r="128" g="128" b="255" codes="BOR-1">${t:1.57}Can't beat that smell, huh?</LineEntry>
+          <LineEntry ID="da30d9a5-9fed-4116-af1d-67d22a60c36e" r="128" g="128" b="255">${t:3.27}See you tomorrow!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="ab66813c-ccd7-4865-94ab-7ca527777ba9" timestamp="360" endstamp="690" type="ActivateBroadcast" day="0" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="d363f154-086a-44c8-bf79-db09bfa3299c" r="0" g="176" b="80" codes="GUID:d363f154-086a-44c8-bf79-db09bfa3299c">${t:2.01}Y'all are watching Woodcraft! </LineEntry>
@@ -6455,43 +6455,43 @@
       <ScriptEntry ID="6dbd64e6-64a4-49b2-aa47-839f4cc898ab" name="main" startdelay="0" timestampmode="Static" loopmin="1" loopmax="1">
         <ExitOptions />
         <BroadcastEntry ID="465ef67d-21a8-4c22-a6f4-257eea64e8a3" timestamp="0" endstamp="360" type="ActivateBroadcast" day="0" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="1ccbd6ed-40a5-4659-b6bf-2f35f0915dde" r="255" g="192" b="0" codes="GUID:1ccbd6ed-40a5-4659-b6bf-2f35f0915dde">${t:2.98}Welcome back to Exposure Survival guys.</LineEntry>
-          <LineEntry ID="4d751882-f643-42b4-a1d7-ba2fddc434f8" r="255" g="192" b="0">${t:3.46}I'm Dean and I'm goin' back to nature.</LineEntry>
-          <LineEntry ID="4a3ec703-ece6-47e6-8004-0453558b03d4" r="255" g="192" b="0">${t:3.33}Okay so here's the deal.</LineEntry>
-          <LineEntry ID="f6056be4-2d46-4024-8f12-a4a3aba823ee" r="255" g="192" b="0">${t:2.02}You're a long way from home.</LineEntry>
-          <LineEntry ID="86c4eae6-91fb-4ba4-a503-543d41d608a4" r="255" g="192" b="0">${t:4.08}You're hungry, you're lost, you're alone.</LineEntry>
-          <LineEntry ID="87be4172-cfa1-45a2-8aa8-c37444ad2df4" r="255" g="192" b="0">${t:4.99}Life isn't all... Coke Floats and laughing it up.</LineEntry>
-          <LineEntry ID="c1ee98c8-e7d0-46aa-84f6-e9c2341f39fa" r="255" g="192" b="0" codes="FIS+1">${t:3.01}Find a river that's jumping with fish.</LineEntry>
-          <LineEntry ID="afb4e491-aec5-4607-a6ef-ffb4f7977006" r="255" g="192" b="0" codes="FIS+1">${t:2.08}Then build a rod.</LineEntry>
-          <LineEntry ID="0340d3b8-402d-45bd-b498-67fc6719d4c9" r="255" g="192" b="0" codes="FIS+1">${t:4.99}Take a stick or a branch, tie up some twine... </LineEntry>
-          <LineEntry ID="e2a87468-49a6-4ed7-86a9-d8f2ec26fee5" r="255" g="192" b="0" codes="FIS+1">${t:3.47}Like this...</LineEntry>
-          <LineEntry ID="8bea8acf-6f00-4a38-8f62-dc96dd73e3f4" r="255" g="192" b="0" codes="FIS+1">${t:3.01}And use a paperclip on the end to snag those fish.</LineEntry>
-          <LineEntry ID="b5466d25-25f2-4450-8a5f-69cc5895b5ed" r="255" g="192" b="0">${t:2.08}Now if you're a smart-arse, you're saying:</LineEntry>
-          <LineEntry ID="a23769e9-1aa8-4afd-8a13-01401eca0917" r="255" g="192" b="0">${t:3.17} "Hey Dean, where'd the paperclip come from?"</LineEntry>
-          <LineEntry ID="eff1b184-fc08-4c16-b51a-7a46a3b8a8a1" r="255" g="192" b="0" codes="FIS+1">${t:4.13}I always carry a paperclip guys, and so should you. </LineEntry>
-          <LineEntry ID="0da8d741-ccc6-4b08-90ec-3c60002425af" r="255" g="192" b="0">${t:3.46}It's the first thing they teach in the Army.</LineEntry>
-          <LineEntry ID="9b777b3d-0369-4b1c-ae28-dec646df769e" r="255" g="192" b="0">${t:4.99}Until next time guys.</LineEntry>
+          <LineEntry ID="1ccbd6ed-40a5-4659-b6bf-2f35f0915dde" r="255" g="192" b="0" codes="GUID:1ccbd6ed-40a5-4659-b6bf-2f35f0915dde">${t:2.17}Welcome back to Exposure Survival guys.</LineEntry>
+          <LineEntry ID="4d751882-f643-42b4-a1d7-ba2fddc434f8" r="255" g="192" b="0">${t:1.99}I'm Dean and I'm goin' back to nature.</LineEntry>
+          <LineEntry ID="4a3ec703-ece6-47e6-8004-0453558b03d4" r="255" g="192" b="0">${t:1.52}Okay so here's the deal.</LineEntry>
+          <LineEntry ID="f6056be4-2d46-4024-8f12-a4a3aba823ee" r="255" g="192" b="0">${t:1.33}You're a long way from home.</LineEntry>
+          <LineEntry ID="86c4eae6-91fb-4ba4-a503-543d41d608a4" r="255" g="192" b="0">${t:2.12}You're hungry, you're lost, you're alone.</LineEntry>
+          <LineEntry ID="87be4172-cfa1-45a2-8aa8-c37444ad2df4" r="255" g="192" b="0">${t:2.32}Life isn't all... Coke Floats and laughing it up.</LineEntry>
+          <LineEntry ID="c1ee98c8-e7d0-46aa-84f6-e9c2341f39fa" r="255" g="192" b="0" codes="FIS+1">${t:2.04}Find a river that's jumping with fish.</LineEntry>
+          <LineEntry ID="afb4e491-aec5-4607-a6ef-ffb4f7977006" r="255" g="192" b="0" codes="FIS+1">${t:1.15}Then build a rod.</LineEntry>
+          <LineEntry ID="0340d3b8-402d-45bd-b498-67fc6719d4c9" r="255" g="192" b="0" codes="FIS+1">${t:2.51}Take a stick or a branch, tie up some twine... </LineEntry>
+          <LineEntry ID="e2a87468-49a6-4ed7-86a9-d8f2ec26fee5" r="255" g="192" b="0" codes="FIS+1">${t:2.27}Like this...</LineEntry>
+          <LineEntry ID="8bea8acf-6f00-4a38-8f62-dc96dd73e3f4" r="255" g="192" b="0" codes="FIS+1">${t:2.51}And use a paperclip on the end to snag those fish.</LineEntry>
+          <LineEntry ID="b5466d25-25f2-4450-8a5f-69cc5895b5ed" r="255" g="192" b="0">${t:2.12}Now if you're a smart-arse, you're saying:</LineEntry>
+          <LineEntry ID="a23769e9-1aa8-4afd-8a13-01401eca0917" r="255" g="192" b="0">${t:2.40} "Hey Dean, where'd the paperclip come from?"</LineEntry>
+          <LineEntry ID="eff1b184-fc08-4c16-b51a-7a46a3b8a8a1" r="255" g="192" b="0" codes="FIS+1">${t:2.40}I always carry a paperclip guys, and so should you. </LineEntry>
+          <LineEntry ID="0da8d741-ccc6-4b08-90ec-3c60002425af" r="255" g="192" b="0">${t:2.07}It's the first thing they teach in the Army.</LineEntry>
+          <LineEntry ID="9b777b3d-0369-4b1c-ae28-dec646df769e" r="255" g="192" b="0">${t:2.68}Until next time guys.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="75d511c5-cb3f-41cc-81c9-b47df52957ae" timestamp="360" endstamp="720" type="ActivateBroadcast" day="0" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="7dea7ccd-9896-4937-bcff-d0fe9bf97b99" r="0" g="176" b="240" codes="GUID:7dea7ccd-9896-4937-bcff-d0fe9bf97b99">${t:4.81}Welcome back to the Cook Show folks.</LineEntry>
-          <LineEntry ID="cbc81305-9643-4602-8686-425aaae53aed" r="0" g="176" b="240">${t:4.85}Brought to you by Kitten Knives - Fine American Cookware</LineEntry>
-          <LineEntry ID="01d55321-a94c-4b63-b442-4951a6535df0" r="128" g="128" b="255">${t:4.70}Today's the day for a nourishing Chicken and Noodle soup.</LineEntry>
-          <LineEntry ID="18f2d508-0c09-41d7-9c2a-7660a3a311bd" r="128" g="128" b="255">${t:4.99}I don't know about you, but a good Chicken soup? </LineEntry>
-          <LineEntry ID="686820ce-1ff5-495b-a146-deaca79b41fa" r="128" g="128" b="255">${t:2.84}It solves everything.</LineEntry>
-          <LineEntry ID="16102657-fb87-419d-ae7e-bd6d9b975625" r="128" g="128" b="255">${t:2.58}Nourishing, mood-lifting... </LineEntry>
-          <LineEntry ID="ba88efb8-6046-4b62-ba0b-a85346f7d459" r="128" g="128" b="255">${t:2.58}The smell of home, y'know?</LineEntry>
-          <LineEntry ID="b31bcd26-273a-42e4-be83-0f6dbc362e6a" r="128" g="128" b="255" codes="COO+1">${t:3.80}To start, you need some cooked chicken.</LineEntry>
-          <LineEntry ID="08ad0333-2e95-4a1e-846e-fd5155b26712" r="128" g="128" b="255" codes="COO+1">${t:3.87}Broil, fry, bake - your choice.</LineEntry>
-          <LineEntry ID="ce21bffc-3873-45a2-a161-e534d548138a" r="128" g="128" b="255" codes="COO+1">${t:3.21}Then get yourself a pot of water.</LineEntry>
-          <LineEntry ID="0fc5302f-8b25-48d5-8525-4fdcbada5d5d" r="128" g="128" b="255" codes="COO+1">${t:3.56}Add it in, bring to the boil and add... </LineEntry>
-          <LineEntry ID="303298cd-2ea0-4568-ab6d-6852e93dc253" r="128" g="128" b="255" codes="COO+1">${t:3.21}Bell Pepper, Onion, Potato...</LineEntry>
-          <LineEntry ID="7045520e-d6a1-40e3-a166-cad0e00ed5de" r="128" g="128" b="255" codes="COO+1">${t:3.95}Don't matter if anything's getting stale.</LineEntry>
-          <LineEntry ID="6929e73c-f6d7-46db-b08c-014af1ca9299" r="128" g="128" b="255">${t:2.86} Soup fixes everything.</LineEntry>
-          <LineEntry ID="c13613c6-ced4-4d1b-b565-f5c385f99875" r="128" g="128" b="255" codes="COO+1">${t:4.38}Then don't forget those dry ramen noodles and...</LineEntry>
-          <LineEntry ID="48b062d1-e3e9-4a8e-b54c-6288289e552b" r="128" g="128" b="255" codes="COO+1">${t:3.09}A few twists of pepper.</LineEntry>
-          <LineEntry ID="533c0a62-b452-48d6-bb6a-2b3a0b66585d" r="128" g="128" b="255" codes="COO+1">${t:2.90}Bam! Chicken and Noodle soup. </LineEntry>
-          <LineEntry ID="a5f5d607-9e38-4853-9842-f860c85355a9" r="128" g="128" b="255">${t:3.29}Guaranteed to lighten a rainy day.</LineEntry>
-          <LineEntry ID="67f2417d-cba8-4e2d-8870-0f31b0124a17" r="128" g="128" b="255">${t:3.01}See y'all tomorrow!</LineEntry>
+          <LineEntry ID="7dea7ccd-9896-4937-bcff-d0fe9bf97b99" r="0" g="176" b="240" codes="GUID:7dea7ccd-9896-4937-bcff-d0fe9bf97b99">${t:1.91}Welcome back to the Cook Show folks.</LineEntry>
+          <LineEntry ID="cbc81305-9643-4602-8686-425aaae53aed" r="0" g="176" b="240">${t:3.42}Brought to you by Kitten Knives - Fine American Cookware</LineEntry>
+          <LineEntry ID="01d55321-a94c-4b63-b442-4951a6535df0" r="128" g="128" b="255">${t:2.64}Today's the day for a nourishing Chicken and Noodle soup.</LineEntry>
+          <LineEntry ID="18f2d508-0c09-41d7-9c2a-7660a3a311bd" r="128" g="128" b="255">${t:2.12}I don't know about you, but a good Chicken soup? </LineEntry>
+          <LineEntry ID="686820ce-1ff5-495b-a146-deaca79b41fa" r="128" g="128" b="255">${t:1.15}It solves everything.</LineEntry>
+          <LineEntry ID="16102657-fb87-419d-ae7e-bd6d9b975625" r="128" g="128" b="255">${t:1.57}Nourishing, mood-lifting... </LineEntry>
+          <LineEntry ID="ba88efb8-6046-4b62-ba0b-a85346f7d459" r="128" g="128" b="255">${t:1.52}The smell of home, y'know?</LineEntry>
+          <LineEntry ID="b31bcd26-273a-42e4-be83-0f6dbc362e6a" r="128" g="128" b="255" codes="COO+1">${t:1.70}To start, you need some cooked chicken.</LineEntry>
+          <LineEntry ID="08ad0333-2e95-4a1e-846e-fd5155b26712" r="128" g="128" b="255" codes="COO+1">${t:1.70}Broil, fry, bake - your choice.</LineEntry>
+          <LineEntry ID="ce21bffc-3873-45a2-a161-e534d548138a" r="128" g="128" b="255" codes="COO+1">${t:1.80}Then get yourself a pot of water.</LineEntry>
+          <LineEntry ID="0fc5302f-8b25-48d5-8525-4fdcbada5d5d" r="128" g="128" b="255" codes="COO+1">${t:1.75}Add it in, bring to the boil and add... </LineEntry>
+          <LineEntry ID="303298cd-2ea0-4568-ab6d-6852e93dc253" r="128" g="128" b="255" codes="COO+1">${t:4.20}Bell Pepper, Onion, Potato...</LineEntry>
+          <LineEntry ID="7045520e-d6a1-40e3-a166-cad0e00ed5de" r="128" g="128" b="255" codes="COO+1">${t:2.12}Don't matter if anything's getting stale.</LineEntry>
+          <LineEntry ID="6929e73c-f6d7-46db-b08c-014af1ca9299" r="128" g="128" b="255">${t:1.44} Soup fixes everything.</LineEntry>
+          <LineEntry ID="c13613c6-ced4-4d1b-b565-f5c385f99875" r="128" g="128" b="255" codes="COO+1">${t:2.12}Then don't forget those dry ramen noodles and...</LineEntry>
+          <LineEntry ID="48b062d1-e3e9-4a8e-b54c-6288289e552b" r="128" g="128" b="255" codes="COO+1">${t:2.64}A few twists of pepper.</LineEntry>
+          <LineEntry ID="533c0a62-b452-48d6-bb6a-2b3a0b66585d" r="128" g="128" b="255" codes="COO+1">${t:1.67}Bam! Chicken and Noodle soup. </LineEntry>
+          <LineEntry ID="a5f5d607-9e38-4853-9842-f860c85355a9" r="128" g="128" b="255">${t:1.91}Guaranteed to lighten a rainy day.</LineEntry>
+          <LineEntry ID="67f2417d-cba8-4e2d-8870-0f31b0124a17" r="128" g="128" b="255">${t:1.10}See y'all tomorrow!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="aece616a-4883-4e09-bd35-39aed89fe655" timestamp="720" endstamp="1080" type="ActivateBroadcast" day="0" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="d3e99611-97b3-4ac2-bc8a-cf9641b470c8" r="0" g="176" b="80" codes="GUID:d3e99611-97b3-4ac2-bc8a-cf9641b470c8">${t:1.96}Y'all are watching Woodcraft!</LineEntry>
@@ -6514,20 +6514,20 @@
           <LineEntry ID="f911cb42-799d-4d13-bf1f-57d58a170547" r="0" g="176" b="240">${t:4.99}[img=music] Wood... craft! [img=music]</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="4e3d8faf-8e30-4f80-9eac-a7fcb32b3900" timestamp="1080" endstamp="1410" type="ActivateBroadcast" day="0" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="d3fc88d4-5e1e-4d80-9665-59ac5e4fbf86" r="255" g="192" b="0" codes="GUID:d3fc88d4-5e1e-4d80-9665-59ac5e4fbf86">${t:3.53}Welcome to Exposure Survival guys.</LineEntry>
-          <LineEntry ID="dbf78302-9059-4d56-bda7-af581961d150" r="255" g="192" b="0">${t:3.13}I'm Dean and I'm goin' back to nature.</LineEntry>
-          <LineEntry ID="1ea4d154-be9d-4ccf-ac8c-804ce251de42" r="255" g="192" b="0">${t:3.74}This is a show that'll teach you the basics of outdoor life.</LineEntry>
-          <LineEntry ID="47678484-cd61-4e31-b818-fad7262e80cb" r="255" g="192" b="0">${t:3.69}But before we get to survival - lets nail the basics.</LineEntry>
-          <LineEntry ID="1ced94ac-bf3d-4595-807f-2f5f4170493f" r="255" g="192" b="0">${t:1.35}Let's fish.</LineEntry>
-          <LineEntry ID="33b32f34-f359-482c-8f10-47ec8f84566e" r="255" g="192" b="0" codes="FIS+1">${t:3.31}Now I'm sure you've got your rod...</LineEntry>
-          <LineEntry ID="13b70353-12dd-4185-9bee-21626b593d56" r="255" g="192" b="0">${t:2.47}But then: bait. </LineEntry>
-          <LineEntry ID="e6d3084e-b437-4e29-9614-7112f23933be" r="255" g="192" b="0">${t:2.28}What bait should you get?</LineEntry>
-          <LineEntry ID="dcfe96b8-c582-474c-9384-a80f8b505342" r="255" g="192" b="0" codes="FIS+1">${t:2.41}Well worms are common, right?</LineEntry>
-          <LineEntry ID="977cb9da-ab0c-492b-babf-adcc23f4d59c" r="255" g="192" b="0" codes="FIS+1">${t:3.63}So dig, and get a bunch.</LineEntry>
-          <LineEntry ID="8161a6b6-2819-42f6-a942-035f9e2aea74" r="255" g="192" b="0" codes="FIS+1">${t:4.53}Or there's lures, or maybe smaller fish - ey?</LineEntry>
-          <LineEntry ID="4f5b5625-32cb-4162-9b54-c342cd37baeb" r="255" g="192" b="0" codes="FIS+1">${t:4.99}Find your river, cast the line - wait a while. </LineEntry>
-          <LineEntry ID="96b96624-9826-41b3-b41a-3167cd9af168" r="255" g="192" b="0">${t:4.00}Job done.</LineEntry>
-          <LineEntry ID="da7756d6-dce4-4d69-8944-0ce751133097" r="255" g="192" b="0">${t:3.34}Until next time guys.</LineEntry>
+          <LineEntry ID="d3fc88d4-5e1e-4d80-9665-59ac5e4fbf86" r="255" g="192" b="0" codes="GUID:d3fc88d4-5e1e-4d80-9665-59ac5e4fbf86">${t:1.93}Welcome to Exposure Survival guys.</LineEntry>
+          <LineEntry ID="dbf78302-9059-4d56-bda7-af581961d150" r="255" g="192" b="0">${t:2.09}I'm Dean and I'm goin' back to nature.</LineEntry>
+          <LineEntry ID="1ea4d154-be9d-4ccf-ac8c-804ce251de42" r="255" g="192" b="0">${t:3.42}This is a show that'll teach you the basics of outdoor life.</LineEntry>
+          <LineEntry ID="47678484-cd61-4e31-b818-fad7262e80cb" r="255" g="192" b="0">${t:2.87}But before we get to survival - lets nail the basics.</LineEntry>
+          <LineEntry ID="1ced94ac-bf3d-4595-807f-2f5f4170493f" r="255" g="192" b="0">${t:0.84}Let's fish.</LineEntry>
+          <LineEntry ID="33b32f34-f359-482c-8f10-47ec8f84566e" r="255" g="192" b="0" codes="FIS+1">${t:1.62}Now I'm sure you've got your rod...</LineEntry>
+          <LineEntry ID="13b70353-12dd-4185-9bee-21626b593d56" r="255" g="192" b="0">${t:1.33}But then: bait. </LineEntry>
+          <LineEntry ID="e6d3084e-b437-4e29-9614-7112f23933be" r="255" g="192" b="0">${t:1.20}What bait should you get?</LineEntry>
+          <LineEntry ID="dcfe96b8-c582-474c-9384-a80f8b505342" r="255" g="192" b="0" codes="FIS+1">${t:1.49}Well worms are common, right?</LineEntry>
+          <LineEntry ID="977cb9da-ab0c-492b-babf-adcc23f4d59c" r="255" g="192" b="0" codes="FIS+1">${t:1.25}So dig, and get a bunch.</LineEntry>
+          <LineEntry ID="8161a6b6-2819-42f6-a942-035f9e2aea74" r="255" g="192" b="0" codes="FIS+1">${t:2.53}Or there's lures, or maybe smaller fish - ey?</LineEntry>
+          <LineEntry ID="4f5b5625-32cb-4162-9b54-c342cd37baeb" r="255" g="192" b="0" codes="FIS+1">${t:3.17}Find your river, cast the line - wait a while. </LineEntry>
+          <LineEntry ID="96b96624-9826-41b3-b41a-3167cd9af168" r="255" g="192" b="0">${t:2.16}Job done.</LineEntry>
+          <LineEntry ID="da7756d6-dce4-4d69-8944-0ce751133097" r="255" g="192" b="0">${t:1.33}Until next time guys.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="85953087-0ebe-4cce-9b49-857d583af344" timestamp="1410" endstamp="1440" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="20965910-b900-456e-af67-d917b846f112" timestamp="1440" endstamp="1800" type="ActivateBroadcast" day="1" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
@@ -6541,22 +6541,22 @@
           <LineEntry ID="20a5303d-1e14-4266-a5d1-51d2d19ba303" r="0" g="176" b="240">${t:1.51}All a joy.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="87fd2783-9fe4-4605-becf-5875a5616f28" timestamp="1800" endstamp="2160" type="ActivateBroadcast" day="1" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="a33fe7e9-d933-4e6b-9d6f-58479b671e8d" r="0" g="176" b="240" codes="BOR-1,GUID:a33fe7e9-d933-4e6b-9d6f-58479b671e8d">${t:4.77}Hey! You're with the Cook Show!</LineEntry>
-          <LineEntry ID="44679f0c-d139-4e67-9276-34037b48dd41" r="0" g="176" b="240">${t:4.99}Brought to you by Kitten Knives - Fine American Cookware</LineEntry>
-          <LineEntry ID="0b7679b9-6578-4a17-aaa9-eb53ae5ef81a" r="128" g="128" b="255">${t:3.21}My family are outdoors types. </LineEntry>
-          <LineEntry ID="580204b5-8bf4-402f-98ec-d3735b073632" r="128" g="128" b="255">${t:2.56}So my refrigerator can get kinda interesting.</LineEntry>
-          <LineEntry ID="005f58ac-903b-4694-bc5b-28c4e85f0d12" r="128" g="128" b="255">${t:3.91}One thing I can cook - and cook mighty fine - is rabbit.</LineEntry>
-          <LineEntry ID="b536fa5a-62f2-4045-a899-49e4385194ea" r="128" g="128" b="255" codes="BOR-1">${t:3.19}Now rabbit's a light flavor, so in today's stew... </LineEntry>
-          <LineEntry ID="1f87e2b8-7a7e-4f76-8567-97673ce9acc8" r="128" g="128" b="255" codes="BOR-1">${t:1.72}We're gonna back it up with bacon.</LineEntry>
-          <LineEntry ID="0187b55e-5f3b-46bd-8bd0-6fef8184a22f" r="128" g="128" b="255" codes="BOR-1">${t:1.87}Everyone likes bacon, huh?</LineEntry>
-          <LineEntry ID="8dce6f6f-0281-4137-bcdd-c68d923dfc24" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:2.84}Cook your rabbit meat, add to a pot of water then...</LineEntry>
-          <LineEntry ID="666e502f-eef9-4df1-bd77-c34a74cd64f5" r="128" g="128" b="255" codes="COO+1">${t:3.07}Throw in your bacon, your tomato, your onion...</LineEntry>
-          <LineEntry ID="bb32bf43-5e39-4fe1-8f83-a41f1e3293a0" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:1.72}... your carrots, if you want.</LineEntry>
-          <LineEntry ID="1be68998-2d9c-4a1f-8d3c-5ffc9a381ee9" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:3.19}Then, if you're like me, just a bit of salt for flavor.</LineEntry>
-          <LineEntry ID="8f7ef66d-ce51-4e58-9b2c-90fd6868a0c0" r="128" g="128" b="255" codes="COO+1">${t:2.50}Seventy minutes on high heat will do ya. </LineEntry>
-          <LineEntry ID="978b7301-fe57-4561-bbfc-eaee8130f154" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:3.68}Bam! Looks good, huh? </LineEntry>
-          <LineEntry ID="e31cd106-bdfd-4528-8f90-32b6483db250" r="128" g="128" b="255" codes="BOR-1">${t:4.20}Split into four bowls, or two if you're hungry.</LineEntry>
-          <LineEntry ID="80365889-9ba0-4056-8cb4-fa76f41d3b92" r="128" g="128" b="255" codes="BOR-1">${t:2.84}See y'all tomorrow.</LineEntry>
+          <LineEntry ID="a33fe7e9-d933-4e6b-9d6f-58479b671e8d" r="0" g="176" b="240" codes="BOR-1,GUID:a33fe7e9-d933-4e6b-9d6f-58479b671e8d">${t:1.70}Hey! You're with the Cook Show!</LineEntry>
+          <LineEntry ID="44679f0c-d139-4e67-9276-34037b48dd41" r="0" g="176" b="240">${t:3.71}Brought to you by Kitten Knives - Fine American Cookware</LineEntry>
+          <LineEntry ID="0b7679b9-6578-4a17-aaa9-eb53ae5ef81a" r="128" g="128" b="255">${t:1.62}My family are outdoors types. </LineEntry>
+          <LineEntry ID="580204b5-8bf4-402f-98ec-d3735b073632" r="128" g="128" b="255">${t:2.59}So my refrigerator can get kinda interesting.</LineEntry>
+          <LineEntry ID="005f58ac-903b-4694-bc5b-28c4e85f0d12" r="128" g="128" b="255">${t:3.00}One thing I can cook - and cook mighty fine - is rabbit.</LineEntry>
+          <LineEntry ID="b536fa5a-62f2-4045-a899-49e4385194ea" r="128" g="128" b="255" codes="BOR-1">${t:2.64}Now rabbit's a light flavor, so in today's stew... </LineEntry>
+          <LineEntry ID="1f87e2b8-7a7e-4f76-8567-97673ce9acc8" r="128" g="128" b="255" codes="BOR-1">${t:1.52}We're gonna back it up with bacon.</LineEntry>
+          <LineEntry ID="0187b55e-5f3b-46bd-8bd0-6fef8184a22f" r="128" g="128" b="255" codes="BOR-1">${t:1.38}Everyone likes bacon, huh?</LineEntry>
+          <LineEntry ID="8dce6f6f-0281-4137-bcdd-c68d923dfc24" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:3.55}Cook your rabbit meat, add to a pot of water then...</LineEntry>
+          <LineEntry ID="666e502f-eef9-4df1-bd77-c34a74cd64f5" r="128" g="128" b="255" codes="COO+1">${t:4.64}Throw in your bacon, your tomato, your onion...</LineEntry>
+          <LineEntry ID="bb32bf43-5e39-4fe1-8f83-a41f1e3293a0" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:1.33}... your carrots, if you want.</LineEntry>
+          <LineEntry ID="1be68998-2d9c-4a1f-8d3c-5ffc9a381ee9" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:4.34}Then, if you're like me, just a bit of salt for flavor.</LineEntry>
+          <LineEntry ID="8f7ef66d-ce51-4e58-9b2c-90fd6868a0c0" r="128" g="128" b="255" codes="COO+1">${t:2.17}Seventy minutes on high heat will do ya. </LineEntry>
+          <LineEntry ID="978b7301-fe57-4561-bbfc-eaee8130f154" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:3.74}Bam! Looks good, huh? </LineEntry>
+          <LineEntry ID="e31cd106-bdfd-4528-8f90-32b6483db250" r="128" g="128" b="255" codes="BOR-1">${t:2.22}Split into four bowls, or two if you're hungry.</LineEntry>
+          <LineEntry ID="80365889-9ba0-4056-8cb4-fa76f41d3b92" r="128" g="128" b="255" codes="BOR-1">${t:1.15}See y'all tomorrow.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="0f2c6233-c94b-4cfc-933a-64a20d41c803" timestamp="2160" endstamp="2520" type="ActivateBroadcast" day="1" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="22e69c69-0f13-4d40-8a46-3059a88dfe2c" r="0" g="176" b="80" codes="BOR-1,GUID:22e69c69-0f13-4d40-8a46-3059a88dfe2c">${t:1.62}Y'all are watching Woodcraft!</LineEntry>
@@ -6582,23 +6582,23 @@
           <LineEntry ID="4a52a841-1f50-40f6-8ede-dbc1863ad3c7" r="0" g="176" b="240">${t:4.99}[img=music] Wood... craft! [img=music]</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="42301cfa-ead1-4c3f-81db-b7369279aa4c" timestamp="2520" endstamp="2850" type="ActivateBroadcast" day="1" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="6a14722c-9476-41bb-8728-5cd6deade24c" r="255" g="192" b="0" codes="GUID:6a14722c-9476-41bb-8728-5cd6deade24c">${t:2.86}Welcome back to Exposure Survival guys.</LineEntry>
-          <LineEntry ID="aca869a0-bb3e-4895-be1e-c075720a85d0" r="255" g="192" b="0" codes="BOR-1">${t:3.23}I'm Dean and we're goin' back to nature.</LineEntry>
-          <LineEntry ID="e7a81556-30c1-4212-8d2e-8507d693ead1" r="255" g="192" b="0">${t:4.33}So you're a million miles from civilization, right?</LineEntry>
-          <LineEntry ID="56d27802-e9ac-4fa1-861a-55d091dc08c3" r="255" g="192" b="0" codes="BOR-1">${t:1.60}You've got a camp. </LineEntry>
-          <LineEntry ID="0b5ac31b-32d9-4be3-9c69-29e900107f4d" r="255" g="192" b="0" codes="BOR-1">${t:1.70}You've got a water supply.</LineEntry>
-          <LineEntry ID="8ebdc86d-7ae5-4036-81b6-1b48ea023ae5" r="255" g="192" b="0" codes="BOR-1">${t:2.26}But you're in for the long haul.</LineEntry>
-          <LineEntry ID="47f643b5-3423-4bde-b50e-762ab4b96069" r="255" g="192" b="0">${t:3.66}Let's Robinson Crusoe! Right?</LineEntry>
-          <LineEntry ID="3e67beca-7ec8-43d8-817f-7e6246305821" r="255" g="192" b="0" codes="BOR-1">${t:2.63}Time to farm.</LineEntry>
-          <LineEntry ID="030ea125-3258-4226-9766-1d36dac0ecd2" r="255" g="192" b="0" codes="FRM+1">${t:4.12}You won't get anywhere without seeds - so find 'em.</LineEntry>
-          <LineEntry ID="d5a7a459-120c-46d2-915a-84ba1453d013" r="255" g="192" b="0" codes="FRM+1,BOR-1">${t:4.99}Take a trowel. A shovel... hell maybe even your bare hands.</LineEntry>
-          <LineEntry ID="04b62f42-6c22-4dfb-88e2-e7051614cb69" r="255" g="192" b="0" codes="FRM+1,BOR-1">${t:2.53}Dig some earth.</LineEntry>
-          <LineEntry ID="fb843536-c351-4c16-9636-cd7c7182d9fd" r="255" g="192" b="0" codes="FRM+1,BOR-1">${t:4.99}Then sow seeds, and then... water 'em.</LineEntry>
-          <LineEntry ID="c7e0a365-1610-477d-865d-1268d0588a22" r="255" g="192" b="0" codes="FRM+1">${t:4.03}Keep 'em watered, don't trample 'em...</LineEntry>
-          <LineEntry ID="a71c6b8f-9db6-46c9-8411-c2f6a2098e13" r="255" g="192" b="0" codes="BOR-1">${t:2.73}...and watch the sky.</LineEntry>
-          <LineEntry ID="40f82a39-1039-458d-b95c-690497e00f5e" r="255" g="192" b="0" codes="FRM+1,BOR-1">${t:3.13}You're at the mercy of the elements here.</LineEntry>
-          <LineEntry ID="6ccff037-d9e8-4267-a36c-4b2c4470ed3d" r="255" g="192" b="0">${t:4.46}Who doesn't like a carrot, ey?</LineEntry>
-          <LineEntry ID="14e73659-c2bb-484e-b017-24fc57fd06e6" r="255" g="192" b="0" codes="BOR-1">${t:4.99}Until next time guys.</LineEntry>
+          <LineEntry ID="6a14722c-9476-41bb-8728-5cd6deade24c" r="255" g="192" b="0" codes="GUID:6a14722c-9476-41bb-8728-5cd6deade24c">${t:1.93}Welcome back to Exposure Survival guys.</LineEntry>
+          <LineEntry ID="aca869a0-bb3e-4895-be1e-c075720a85d0" r="255" g="192" b="0" codes="BOR-1">${t:2.09}I'm Dean and we're goin' back to nature.</LineEntry>
+          <LineEntry ID="e7a81556-30c1-4212-8d2e-8507d693ead1" r="255" g="192" b="0">${t:2.35}So you're a million miles from civilization, right?</LineEntry>
+          <LineEntry ID="56d27802-e9ac-4fa1-861a-55d091dc08c3" r="255" g="192" b="0" codes="BOR-1">${t:1.02}You've got a camp. </LineEntry>
+          <LineEntry ID="0b5ac31b-32d9-4be3-9c69-29e900107f4d" r="255" g="192" b="0" codes="BOR-1">${t:1.62}You've got a water supply.</LineEntry>
+          <LineEntry ID="8ebdc86d-7ae5-4036-81b6-1b48ea023ae5" r="255" g="192" b="0" codes="BOR-1">${t:1.49}But you're in for the long haul.</LineEntry>
+          <LineEntry ID="47f643b5-3423-4bde-b50e-762ab4b96069" r="255" g="192" b="0">${t:1.91}Let's Robinson Crusoe! Right?</LineEntry>
+          <LineEntry ID="3e67beca-7ec8-43d8-817f-7e6246305821" r="255" g="192" b="0" codes="BOR-1">${t:0.97}Time to farm.</LineEntry>
+          <LineEntry ID="030ea125-3258-4226-9766-1d36dac0ecd2" r="255" g="192" b="0" codes="FRM+1">${t:2.51}You won't get anywhere without seeds - so find 'em.</LineEntry>
+          <LineEntry ID="d5a7a459-120c-46d2-915a-84ba1453d013" r="255" g="192" b="0" codes="FRM+1,BOR-1">${t:3.66}Take a trowel. A shovel... hell maybe even your bare hands.</LineEntry>
+          <LineEntry ID="04b62f42-6c22-4dfb-88e2-e7051614cb69" r="255" g="192" b="0" codes="FRM+1,BOR-1">${t:0.86}Dig some earth.</LineEntry>
+          <LineEntry ID="fb843536-c351-4c16-9636-cd7c7182d9fd" r="255" g="192" b="0" codes="FRM+1,BOR-1">${t:3.75}Then sow seeds, and then... water 'em.</LineEntry>
+          <LineEntry ID="c7e0a365-1610-477d-865d-1268d0588a22" r="255" g="192" b="0" codes="FRM+1">${t:3.43}Keep 'em watered, don't trample 'em...</LineEntry>
+          <LineEntry ID="a71c6b8f-9db6-46c9-8411-c2f6a2098e13" r="255" g="192" b="0" codes="BOR-1">${t:1.25}...and watch the sky.</LineEntry>
+          <LineEntry ID="40f82a39-1039-458d-b95c-690497e00f5e" r="255" g="192" b="0" codes="FRM+1,BOR-1">${t:1.91}You're at the mercy of the elements here.</LineEntry>
+          <LineEntry ID="6ccff037-d9e8-4267-a36c-4b2c4470ed3d" r="255" g="192" b="0">${t:1.44}Who doesn't like a carrot, ey?</LineEntry>
+          <LineEntry ID="14e73659-c2bb-484e-b017-24fc57fd06e6" r="255" g="192" b="0" codes="BOR-1">${t:1.33}Until next time guys.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="72449092-ea4c-403c-8048-fdc336749d90" timestamp="2850" endstamp="2880" type="ActivateBroadcast" day="1" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="29f94658-1439-4dce-b764-828960ae641a" timestamp="2880" endstamp="3240" type="ActivateBroadcast" day="2" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
@@ -6613,21 +6613,21 @@
           <LineEntry ID="281289a5-de51-4005-9cd6-c279c762cc34" r="0" g="176" b="240">${t:1.70}Ask your doctor today.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="a24b3295-6241-401c-a7d2-0c1bf0bba426" timestamp="3240" endstamp="3600" type="ActivateBroadcast" day="2" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="672ede0c-8674-4e82-aa34-d5f4e6405588" r="0" g="176" b="240" codes="BOR-1,GUID:672ede0c-8674-4e82-aa34-d5f4e6405588">${t:4.96}Hey! You're with the Cook Show!</LineEntry>
-          <LineEntry ID="437ef656-fb3d-4c8a-80b0-3c7c58862e0e" r="0" g="176" b="240" codes="BOR-1">${t:4.99}Brought to you by Kitten Knives - Fine American Cookware</LineEntry>
-          <LineEntry ID="fc89eb09-6ed8-4d34-a175-19b234f583fc" r="128" g="128" b="255" codes="BOR-1">${t:4.19}Now, I stood on the scales the other day...</LineEntry>
-          <LineEntry ID="99f46cc4-9931-4216-a556-876151731454" r="128" g="128" b="255">${t:2.78}I got a shock people!</LineEntry>
-          <LineEntry ID="08435f67-733d-4971-a8c2-c7aaa88aa658" r="128" g="128" b="255">${t:3.81}Got me to thinking about a show that celebrates the healthy life?</LineEntry>
-          <LineEntry ID="78945f53-354c-4ae2-a6a5-e67160bf6c79" r="128" g="128" b="255" codes="BOR-1">${t:3.84}So here it is - the Salad Special.</LineEntry>
-          <LineEntry ID="7e4fbfd1-b736-4971-865b-9950e0db132c" r="128" g="128" b="255">${t:3.50}Just cause there's leaves, don't mean you'll heave.</LineEntry>
-          <LineEntry ID="97f3d925-0d4c-48f0-b2f4-0e95f4909601" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:4.62}Take a bowl - and as a base throw in some lettuce.</LineEntry>
-          <LineEntry ID="56536c44-e816-4d22-bbc7-8fe3a89475e0" r="128" g="128" b="255" codes="COO+1">${t:4.99}Then we add cheese, ham - and we're almost at Bam!</LineEntry>
-          <LineEntry ID="4eccab23-cf25-44b6-8845-214ddd435a87" r="128" g="128" b="255" codes="COO+1">${t:4.00}Let's add in some mayo... </LineEntry>
-          <LineEntry ID="d55314ef-6475-497c-9f3c-fddf28c431df" r="128" g="128" b="255" codes="COO+1">${t:3.40}Maybe a bit more mayo...</LineEntry>
-          <LineEntry ID="13e9fac4-189c-494e-9d94-de6bdd692c0e" r="128" g="128" b="255" codes="BOR-1">${t:1.31}Bam!</LineEntry>
-          <LineEntry ID="e1275fb7-1124-4c78-ab93-aa34bc70778e" r="128" g="128" b="255">${t:1.81}Light and delicious!</LineEntry>
-          <LineEntry ID="86536db4-09dd-4971-b423-3c382f9c9909" r="128" g="128" b="255" codes="COO+1">${t:2.37}Just don't leave it too long huh?</LineEntry>
-          <LineEntry ID="ed67dc7a-5b21-4d6f-aea9-5c211fe3db1a" r="128" g="128" b="255" codes="BOR-1">${t:4.22}Can't wait to hand this out to the team here!</LineEntry>
+          <LineEntry ID="672ede0c-8674-4e82-aa34-d5f4e6405588" r="0" g="176" b="240" codes="BOR-1,GUID:672ede0c-8674-4e82-aa34-d5f4e6405588">${t:1.85}Hey! You're with the Cook Show!</LineEntry>
+          <LineEntry ID="437ef656-fb3d-4c8a-80b0-3c7c58862e0e" r="0" g="176" b="240" codes="BOR-1">${t:3.76}Brought to you by Kitten Knives - Fine American Cookware</LineEntry>
+          <LineEntry ID="fc89eb09-6ed8-4d34-a175-19b234f583fc" r="128" g="128" b="255" codes="BOR-1">${t:1.93}Now, I stood on the scales the other day...</LineEntry>
+          <LineEntry ID="99f46cc4-9931-4216-a556-876151731454" r="128" g="128" b="255">${t:1.44}I got a shock people!</LineEntry>
+          <LineEntry ID="08435f67-733d-4971-a8c2-c7aaa88aa658" r="128" g="128" b="255">${t:2.87}Got me to thinking about a show that celebrates the healthy life?</LineEntry>
+          <LineEntry ID="78945f53-354c-4ae2-a6a5-e67160bf6c79" r="128" g="128" b="255" codes="BOR-1">${t:1.91}So here it is - the Salad Special.</LineEntry>
+          <LineEntry ID="7e4fbfd1-b736-4971-865b-9950e0db132c" r="128" g="128" b="255">${t:2.46}Just cause there's leaves, don't mean you'll heave.</LineEntry>
+          <LineEntry ID="97f3d925-0d4c-48f0-b2f4-0e95f4909601" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:4.80}Take a bowl - and as a base throw in some lettuce.</LineEntry>
+          <LineEntry ID="56536c44-e816-4d22-bbc7-8fe3a89475e0" r="128" g="128" b="255" codes="COO+1">${t:2.77}Then we add cheese, ham - and we're almost at Bam!</LineEntry>
+          <LineEntry ID="4eccab23-cf25-44b6-8845-214ddd435a87" r="128" g="128" b="255" codes="COO+1">${t:2.04}Let's add in some mayo... </LineEntry>
+          <LineEntry ID="d55314ef-6475-497c-9f3c-fddf28c431df" r="128" g="128" b="255" codes="COO+1">${t:1.99}Maybe a bit more mayo...</LineEntry>
+          <LineEntry ID="13e9fac4-189c-494e-9d94-de6bdd692c0e" r="128" g="128" b="255" codes="BOR-1">${t:0.65}Bam!</LineEntry>
+          <LineEntry ID="e1275fb7-1124-4c78-ab93-aa34bc70778e" r="128" g="128" b="255">${t:1.38}Light and delicious!</LineEntry>
+          <LineEntry ID="86536db4-09dd-4971-b423-3c382f9c9909" r="128" g="128" b="255" codes="COO+1">${t:1.49}Just don't leave it too long huh?</LineEntry>
+          <LineEntry ID="ed67dc7a-5b21-4d6f-aea9-5c211fe3db1a" r="128" g="128" b="255" codes="BOR-1">${t:2.04}Can't wait to hand this out to the team here!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="c8da05a5-8df9-4969-af46-65f415a0d321" timestamp="3600" endstamp="3960" type="ActivateBroadcast" day="2" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="3005733e-5814-4a7d-91d7-3d6fcc33d7c8" r="0" g="176" b="80" codes="GUID:3005733e-5814-4a7d-91d7-3d6fcc33d7c8">${t:1.94}Y'all are watching Woodcraft!</LineEntry>
@@ -6659,22 +6659,22 @@
           <LineEntry ID="fbc35c77-7a87-4917-befe-3141bfec8a0a" r="0" g="176" b="80" codes="BOR-1">${t:3.34}Can I hear a yee-hah?</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="e7f7c2e2-ec25-4098-99be-f9f423a2e79a" timestamp="3960" endstamp="4290" type="ActivateBroadcast" day="2" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="d571f119-39bb-44ae-94a1-3adc24d7ffc6" r="255" g="192" b="0" codes="GUID:d571f119-39bb-44ae-94a1-3adc24d7ffc6">${t:2.98}Welcome back to Exposure Survival guys.</LineEntry>
-          <LineEntry ID="19f7ba3c-2cb1-4abf-89b4-c6a3f9aa1318" r="255" g="192" b="0">${t:3.46}I'm Dean and I'm goin' back to nature.</LineEntry>
-          <LineEntry ID="e3a00030-ae88-4fbd-823d-b0a1356676bc" r="255" g="192" b="0">${t:3.33}Okay so here's the deal.</LineEntry>
-          <LineEntry ID="1132438b-d684-4df8-91d9-e816f8f72062" r="255" g="192" b="0">${t:2.02}You're a long way from home.</LineEntry>
-          <LineEntry ID="d56fb88d-68df-4366-958b-71e09e67010a" r="255" g="192" b="0" codes="BOR-1">${t:4.08}You're hungry, you're lost, you're alone.</LineEntry>
-          <LineEntry ID="ebc9d2c7-fa00-4cc1-abc8-d016e029ad5d" r="255" g="192" b="0" codes="BOR-1">${t:4.99}Life isn't all... Coke Floats and laughing it up.</LineEntry>
-          <LineEntry ID="f940c5e5-1d46-4563-a448-38b3c935da0a" r="255" g="192" b="0" codes="FIS+1,BOR-1">${t:3.01}Find a river that's jumping with fish.</LineEntry>
-          <LineEntry ID="fa45cf53-9d7a-45fb-a557-1f9b026c8230" r="255" g="192" b="0" codes="FIS+1">${t:2.08}Then build a rod.</LineEntry>
-          <LineEntry ID="6f9efc34-b2e3-4869-8699-ddf1a6fc62d6" r="255" g="192" b="0" codes="FIS+1">${t:4.99}Take a stick or a branch, tie up some twine... </LineEntry>
-          <LineEntry ID="417c9d53-4cd0-4395-a114-f198dcb0ad66" r="255" g="192" b="0" codes="FIS+1,BOR-1">${t:3.47}Like this...</LineEntry>
-          <LineEntry ID="52904b81-706f-481b-aaee-11ab442c3323" r="255" g="192" b="0" codes="FIS+1,BOR-1">${t:3.01}And use a paperclip on the end to snag those fish.</LineEntry>
-          <LineEntry ID="2e702d2a-3048-4b65-af95-d7d2bb3097a9" r="255" g="192" b="0" codes="BOR-1">${t:2.08}Now if you're a smart-arse, you're saying:</LineEntry>
-          <LineEntry ID="d184cf4c-16a3-49e9-9eec-57d16c0091af" r="255" g="192" b="0">${t:3.17} "Hey Dean, where'd the paperclip come from?"</LineEntry>
-          <LineEntry ID="452f46be-0105-4aa3-bcad-4f5daa3f6006" r="255" g="192" b="0" codes="FIS+1,BOR-1">${t:4.13}I always carry a paperclip guys, and so should you. </LineEntry>
-          <LineEntry ID="87566a35-626f-48b4-b1dd-d49cbab82c85" r="255" g="192" b="0" codes="BOR-1">${t:3.46}It's the first thing they teach in the Army.</LineEntry>
-          <LineEntry ID="d71cfb59-46e4-41c0-bf9e-2be764219d2d" r="255" g="192" b="0">${t:4.99}Until next time guys.</LineEntry>
+          <LineEntry ID="d571f119-39bb-44ae-94a1-3adc24d7ffc6" r="255" g="192" b="0" codes="GUID:d571f119-39bb-44ae-94a1-3adc24d7ffc6">${t:2.17}Welcome back to Exposure Survival guys.</LineEntry>
+          <LineEntry ID="19f7ba3c-2cb1-4abf-89b4-c6a3f9aa1318" r="255" g="192" b="0">${t:1.99}I'm Dean and I'm goin' back to nature.</LineEntry>
+          <LineEntry ID="e3a00030-ae88-4fbd-823d-b0a1356676bc" r="255" g="192" b="0">${t:1.52}Okay so here's the deal.</LineEntry>
+          <LineEntry ID="1132438b-d684-4df8-91d9-e816f8f72062" r="255" g="192" b="0">${t:1.33}You're a long way from home.</LineEntry>
+          <LineEntry ID="d56fb88d-68df-4366-958b-71e09e67010a" r="255" g="192" b="0" codes="BOR-1">${t:2.12}You're hungry, you're lost, you're alone.</LineEntry>
+          <LineEntry ID="ebc9d2c7-fa00-4cc1-abc8-d016e029ad5d" r="255" g="192" b="0" codes="BOR-1">${t:2.32}Life isn't all... Coke Floats and laughing it up.</LineEntry>
+          <LineEntry ID="f940c5e5-1d46-4563-a448-38b3c935da0a" r="255" g="192" b="0" codes="FIS+1,BOR-1">${t:2.04}Find a river that's jumping with fish.</LineEntry>
+          <LineEntry ID="fa45cf53-9d7a-45fb-a557-1f9b026c8230" r="255" g="192" b="0" codes="FIS+1">${t:1.15}Then build a rod.</LineEntry>
+          <LineEntry ID="6f9efc34-b2e3-4869-8699-ddf1a6fc62d6" r="255" g="192" b="0" codes="FIS+1">${t:2.51}Take a stick or a branch, tie up some twine... </LineEntry>
+          <LineEntry ID="417c9d53-4cd0-4395-a114-f198dcb0ad66" r="255" g="192" b="0" codes="FIS+1,BOR-1">${t:2.27}Like this...</LineEntry>
+          <LineEntry ID="52904b81-706f-481b-aaee-11ab442c3323" r="255" g="192" b="0" codes="FIS+1,BOR-1">${t:2.51}And use a paperclip on the end to snag those fish.</LineEntry>
+          <LineEntry ID="2e702d2a-3048-4b65-af95-d7d2bb3097a9" r="255" g="192" b="0" codes="BOR-1">${t:2.12}Now if you're a smart-arse, you're saying:</LineEntry>
+          <LineEntry ID="d184cf4c-16a3-49e9-9eec-57d16c0091af" r="255" g="192" b="0">${t:2.32} "Hey Dean, where'd the paperclip come from?"</LineEntry>
+          <LineEntry ID="452f46be-0105-4aa3-bcad-4f5daa3f6006" r="255" g="192" b="0" codes="FIS+1,BOR-1">${t:2.40}I always carry a paperclip guys, and so should you. </LineEntry>
+          <LineEntry ID="87566a35-626f-48b4-b1dd-d49cbab82c85" r="255" g="192" b="0" codes="BOR-1">${t:2.07}It's the first thing they teach in the Army.</LineEntry>
+          <LineEntry ID="d71cfb59-46e4-41c0-bf9e-2be764219d2d" r="255" g="192" b="0">${t:2.68}Until next time guys.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="d7e9c145-d228-437f-9ea4-5ea3718ea6fd" timestamp="4290" endstamp="4320" type="ActivateBroadcast" day="2" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="ad968fc8-cdfb-4c50-9341-45d3c6e687e1" timestamp="4320" endstamp="4680" type="ActivateBroadcast" day="3" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
@@ -6688,21 +6688,21 @@
           <LineEntry ID="ade87393-e60f-4677-a43a-8ed67a311547" r="0" g="176" b="240">${t:4.35}For $49.99 who'd resist? Call now!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="d969e014-5392-469d-9981-1e93d12ccfac" timestamp="4680" endstamp="5040" type="ActivateBroadcast" day="3" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="d6b66326-3d9f-4b04-89f5-dcbaf6a1c733" r="0" g="176" b="240" codes="GUID:d6b66326-3d9f-4b04-89f5-dcbaf6a1c733">${t:2.49}You're back with the Cook Show!</LineEntry>
-          <LineEntry ID="57034656-64ec-4905-b748-b1c1a213191c" r="0" g="176" b="240" codes="BOR-1">${t:4.51}Brought to you by Kitten Knives - Fine American Cookware</LineEntry>
-          <LineEntry ID="6b9bdb5c-7a64-4010-88f9-28ac8f39a8cc" r="128" g="128" b="255">${t:4.09}Today, we're gettin' a taste of Asia - with a frying pan.</LineEntry>
-          <LineEntry ID="2eafacda-b10d-4b76-98cb-df605ee56082" r="128" g="128" b="255">${t:3.06}Now, minding you don't cut yourself with this...</LineEntry>
-          <LineEntry ID="1c659b39-eae9-4ad8-8d6f-8751d7b6fb57" r="128" g="128" b="255" codes="COO+1">${t:1.97}Super sharp Kitten Knife.</LineEntry>
-          <LineEntry ID="f39c4529-1e48-4153-86d7-acada2c63689" r="128" g="128" b="255" codes="COO+1">${t:3.06}Cut your pork to pieces and throw it into fry. </LineEntry>
-          <LineEntry ID="16c25fd1-7728-4f1e-a2cf-041e01ae97ad" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:2.28}Then add in some fresh vegetables.</LineEntry>
-          <LineEntry ID="6d1fea56-0cf5-4394-8543-12a5e23c5d17" r="128" g="128" b="255" codes="COO+1">${t:4.54}I'm using onion to start, then Bell Pepper and Eggplant.</LineEntry>
-          <LineEntry ID="0098df83-551b-4c76-a1e5-845646fcfdcb" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:3.24}If you're hungry then try it out with some noodles.</LineEntry>
-          <LineEntry ID="b8dd565e-5918-4d83-b087-f0f54df9ac99" r="128" g="128" b="255" codes="COO+1">${t:3.17}See? Cooking can be fun and easy. </LineEntry>
-          <LineEntry ID="844cc720-8fd6-4e1c-9b57-5969a3e14b02" r="128" g="128" b="255">${t:1.55}And it's always healthy.</LineEntry>
-          <LineEntry ID="0c708785-44c8-4d78-b573-d899a134c412" r="128" g="128" b="255" codes="BOR-1">${t:2.07}Puts a smile on your face and...</LineEntry>
-          <LineEntry ID="8bddd749-3603-4c4b-be60-3033bfb1b664" r="128" g="128" b="255" codes="COO+1">${t:0.61}Bam! </LineEntry>
-          <LineEntry ID="5513ee36-c70b-4ce8-b61c-d2d9c5b6bddb" r="128" g="128" b="255" codes="BOR-1">${t:1.88}A spring in your step too!</LineEntry>
-          <LineEntry ID="c43d17b7-a0d1-4d43-bf58-0a5498612f42" r="128" g="128" b="255">${t:2.61}Now you have a great day!</LineEntry>
+          <LineEntry ID="d6b66326-3d9f-4b04-89f5-dcbaf6a1c733" r="0" g="176" b="240" codes="GUID:d6b66326-3d9f-4b04-89f5-dcbaf6a1c733">${t:1.52}You're back with the Cook Show!</LineEntry>
+          <LineEntry ID="57034656-64ec-4905-b748-b1c1a213191c" r="0" g="176" b="240" codes="BOR-1">${t:4.02}Brought to you by Kitten Knives - Fine American Cookware</LineEntry>
+          <LineEntry ID="6b9bdb5c-7a64-4010-88f9-28ac8f39a8cc" r="128" g="128" b="255">${t:3.11}Today, we're gettin' a taste of Asia - with a frying pan.</LineEntry>
+          <LineEntry ID="2eafacda-b10d-4b76-98cb-df605ee56082" r="128" g="128" b="255">${t:2.59}Now, minding you don't cut yourself with this...</LineEntry>
+          <LineEntry ID="1c659b39-eae9-4ad8-8d6f-8751d7b6fb57" r="128" g="128" b="255" codes="COO+1">${t:1.52}Super sharp Kitten Knife.</LineEntry>
+          <LineEntry ID="f39c4529-1e48-4153-86d7-acada2c63689" r="128" g="128" b="255" codes="COO+1">${t:4.62}Cut your pork to pieces and throw it into fry. </LineEntry>
+          <LineEntry ID="16c25fd1-7728-4f1e-a2cf-041e01ae97ad" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:1.93}Then add in some fresh vegetables.</LineEntry>
+          <LineEntry ID="6d1fea56-0cf5-4394-8543-12a5e23c5d17" r="128" g="128" b="255" codes="COO+1">${t:2.87}I'm using onion to start, then Bell Pepper and Eggplant.</LineEntry>
+          <LineEntry ID="0098df83-551b-4c76-a1e5-845646fcfdcb" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:2.32}If you're hungry then try it out with some noodles.</LineEntry>
+          <LineEntry ID="b8dd565e-5918-4d83-b087-f0f54df9ac99" r="128" g="128" b="255" codes="COO+1">${t:1.75}See? Cooking can be fun and easy. </LineEntry>
+          <LineEntry ID="844cc720-8fd6-4e1c-9b57-5969a3e14b02" r="128" g="128" b="255">${t:1.28}And it's always healthy.</LineEntry>
+          <LineEntry ID="0c708785-44c8-4d78-b573-d899a134c412" r="128" g="128" b="255" codes="BOR-1">${t:1.57}Puts a smile on your face and...</LineEntry>
+          <LineEntry ID="8bddd749-3603-4c4b-be60-3033bfb1b664" r="128" g="128" b="255" codes="COO+1">${t:3.18}Bam! </LineEntry>
+          <LineEntry ID="5513ee36-c70b-4ce8-b61c-d2d9c5b6bddb" r="128" g="128" b="255" codes="BOR-1">${t:1.57}A spring in your step too!</LineEntry>
+          <LineEntry ID="c43d17b7-a0d1-4d43-bf58-0a5498612f42" r="128" g="128" b="255">${t:1.33}Now you have a great day!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="8d8676b0-4498-47ad-830a-01c584b46eb7" timestamp="5040" endstamp="5400" type="ActivateBroadcast" day="3" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="d012a8c7-c83f-407b-85fb-8e40791ef185" r="0" g="176" b="80" codes="GUID:d012a8c7-c83f-407b-85fb-8e40791ef185">${t:1.39}Y'all are watching Woodcraft!</LineEntry>
@@ -6728,21 +6728,21 @@
           <LineEntry ID="4ad08200-0e48-4481-a1c1-9d7bc856368a" r="0" g="176" b="240" codes="BOR-1">${t:4.99}[img=music] Wood... craft! [img=music]</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="cae4e722-4ef4-4553-b926-542341ad9192" timestamp="5400" endstamp="5730" type="ActivateBroadcast" day="3" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="046f3a29-112e-48d5-a4ce-8182bfcabf0a" r="255" g="192" b="0" codes="BOR-1,GUID:046f3a29-112e-48d5-a4ce-8182bfcabf0a">${t:4.01}Welcome back to Exposure Survival.</LineEntry>
-          <LineEntry ID="54ce5b00-9903-4661-92b2-02230c24ad76" r="255" g="192" b="0">${t:4.57}I'm Dean guys, and I'm back with nature.</LineEntry>
-          <LineEntry ID="d27641c5-0573-442b-9f9c-537dd9b5cc6f" r="255" g="192" b="0" codes="BOR-1">${t:4.99}Alright so you're closing in on Everest Base Camp.</LineEntry>
-          <LineEntry ID="1838e0b1-f471-4cce-88f8-c72573f89f73" r="255" g="192" b="0">${t:3.18}But it's getting dark.</LineEntry>
-          <LineEntry ID="f6e390bc-6e80-475a-9e52-19d7743dfef9" r="255" g="192" b="0">${t:4.46}It's cold as hell, and oxygen isn't there.</LineEntry>
-          <LineEntry ID="7fde1e06-bc4e-47a6-a7ad-f931cbf0d22c" r="255" g="192" b="0" codes="BOR-1">${t:3.57}What do you do? You build a fire!</LineEntry>
-          <LineEntry ID="e89e8f7e-d633-420c-90fc-aa5dfc6a10c7" r="255" g="192" b="0" codes="BOR-1">${t:4.99}Take three pieces of wood - planks maybe.</LineEntry>
-          <LineEntry ID="645eb206-000b-499f-a452-b0000ab14c53" r="255" g="192" b="0" codes="BOR-1">${t:4.51}Then you need fuel. Anything that burns.</LineEntry>
-          <LineEntry ID="15e22dfd-2295-484b-ab82-811828ceaeac" r="255" g="192" b="0">${t:4.84}Old newspaper, books, bandages.</LineEntry>
-          <LineEntry ID="939dbae3-6db4-40a2-b4d9-18882f81fba2" r="255" g="192" b="0" codes="BOR-1">${t:4.99}Add a bit of the old rocket fuel... get it, ey?</LineEntry>
-          <LineEntry ID="31783dfe-2c0c-4acf-a0dd-12f4a10cf8c3" r="255" g="192" b="0" codes="BOR-1">${t:4.99}And flick your lighter like... this...</LineEntry>
-          <LineEntry ID="8b07ad31-1eba-4e57-81cb-295f6ab4f71b" r="255" g="192" b="0" codes="BOR-1">${t:4.99}There's a fire, right there.</LineEntry>
-          <LineEntry ID="9f872cad-40d4-474e-88c1-2b15ff386069" r="255" g="192" b="0" codes="BOR-1">${t:4.74}You'll be warm, and the sherpas will love it!</LineEntry>
-          <LineEntry ID="8498f3bc-0e70-422a-8c4d-1dca706f14cc" r="255" g="192" b="0">${t:3.16}Big shout out to the 42nd!</LineEntry>
-          <LineEntry ID="ec3ecb39-e84d-42fd-bb38-6257446cc92a" r="255" g="192" b="0">${t:3.01}Until next time guys!</LineEntry>
+          <LineEntry ID="046f3a29-112e-48d5-a4ce-8182bfcabf0a" r="255" g="192" b="0" codes="BOR-1,GUID:046f3a29-112e-48d5-a4ce-8182bfcabf0a">${t:1.93}Welcome back to Exposure Survival.</LineEntry>
+          <LineEntry ID="54ce5b00-9903-4661-92b2-02230c24ad76" r="255" g="192" b="0">${t:2.17}I'm Dean guys, and I'm back with nature.</LineEntry>
+          <LineEntry ID="d27641c5-0573-442b-9f9c-537dd9b5cc6f" r="255" g="192" b="0" codes="BOR-1">${t:2.27}Alright so you're closing in on Everest Base Camp.</LineEntry>
+          <LineEntry ID="1838e0b1-f471-4cce-88f8-c72573f89f73" r="255" g="192" b="0">${t:1.20}But it's getting dark.</LineEntry>
+          <LineEntry ID="f6e390bc-6e80-475a-9e52-19d7743dfef9" r="255" g="192" b="0">${t:2.17}It's cold as hell, and oxygen isn't there.</LineEntry>
+          <LineEntry ID="7fde1e06-bc4e-47a6-a7ad-f931cbf0d22c" r="255" g="192" b="0" codes="BOR-1">${t:2.46}What do you do? You build a fire!</LineEntry>
+          <LineEntry ID="e89e8f7e-d633-420c-90fc-aa5dfc6a10c7" r="255" g="192" b="0" codes="BOR-1">${t:2.32}Take three pieces of wood - planks maybe.</LineEntry>
+          <LineEntry ID="645eb206-000b-499f-a452-b0000ab14c53" r="255" g="192" b="0" codes="BOR-1">${t:2.27}Then you need fuel. Anything that burns.</LineEntry>
+          <LineEntry ID="15e22dfd-2295-484b-ab82-811828ceaeac" r="255" g="192" b="0">${t:1.99}Old newspaper, books, bandages.</LineEntry>
+          <LineEntry ID="939dbae3-6db4-40a2-b4d9-18882f81fba2" r="255" g="192" b="0" codes="BOR-1">${t:2.77}Add a bit of the old rocket fuel... get it, ey?</LineEntry>
+          <LineEntry ID="31783dfe-2c0c-4acf-a0dd-12f4a10cf8c3" r="255" g="192" b="0" codes="BOR-1">${t:2.38}And flick your lighter like... this...</LineEntry>
+          <LineEntry ID="8b07ad31-1eba-4e57-81cb-295f6ab4f71b" r="255" g="192" b="0" codes="BOR-1">${t:4.37}There's a fire, right there.</LineEntry>
+          <LineEntry ID="9f872cad-40d4-474e-88c1-2b15ff386069" r="255" g="192" b="0" codes="BOR-1">${t:2.04}You'll be warm, and the sherpas will love it!</LineEntry>
+          <LineEntry ID="8498f3bc-0e70-422a-8c4d-1dca706f14cc" r="255" g="192" b="0">${t:1.57}Big shout out to the 42nd!</LineEntry>
+          <LineEntry ID="ec3ecb39-e84d-42fd-bb38-6257446cc92a" r="255" g="192" b="0">${t:1.38}Until next time guys!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="1edf22ed-39c0-43ca-87bf-bf5c72951ea0" timestamp="5730" endstamp="5760" type="ActivateBroadcast" day="3" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="30ef07c1-2690-4e51-b421-a70ea3edf322" timestamp="5760" endstamp="6120" type="ActivateBroadcast" day="4" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
@@ -6758,28 +6758,28 @@
           <LineEntry ID="fb3befc0-b918-4990-82e4-787586b594be" r="255" g="192" b="0" codes="BOR-1">${t:2.03}...pitch perfect.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="48af015e-a0fa-4d24-b0fd-006d107d9069" timestamp="6120" endstamp="6480" type="ActivateBroadcast" day="4" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="c1e5ae2c-31d8-4f9f-a89c-b19249c8a4b1" r="0" g="176" b="240" codes="GUID:c1e5ae2c-31d8-4f9f-a89c-b19249c8a4b1">${t:3.99}Hey there. Welcome back to the Cook Show!</LineEntry>
-          <LineEntry ID="ea391c7a-9928-4efb-bb0f-aecc3414c7b1" r="0" g="176" b="240" codes="BOR-1">${t:4.52}Brought to you by Kitten Knives - Fine American Cookware</LineEntry>
-          <LineEntry ID="eb63a55a-d500-41cf-90ad-851e9041c215" r="128" g="128" b="255">${t:4.27}Now I hear it all the time - why so simple?</LineEntry>
-          <LineEntry ID="7f8cc3e2-8a99-4618-87d0-da2f326340ce" r="128" g="128" b="255">${t:2.31}I tell you why so simple...</LineEntry>
-          <LineEntry ID="f107d679-25d3-43ed-92d7-6f61c54d1ca8" r="128" g="128" b="255" codes="BOR-1">${t:2.42}I want to make healthy cooking as easy as... </LineEntry>
-          <LineEntry ID="9b784828-ffa8-4735-bfb5-7c220501b804" r="128" g="128" b="255">${t:3.43}...standing in line at Spiffos' or sittin' in Pizza Whirled.</LineEntry>
-          <LineEntry ID="7ec30333-076d-490e-a761-fed0cdfe33d9" r="128" g="128" b="255">${t:2.35}Now I love a BLT. </LineEntry>
-          <LineEntry ID="1c250bfa-5e0a-4b64-af85-5b1f39c04747" r="128" g="128" b="255" codes="BOR-1">${t:2.49}That's a Bacon, Lettuce and Tomato sandwich.</LineEntry>
-          <LineEntry ID="d0f96fca-8dac-4b8c-9fbd-ee5f2ec51449" r="128" g="128" b="255" codes="BOR-1">${t:1.89}It's God's Gift to bread.</LineEntry>
-          <LineEntry ID="47c60ee5-afa9-4819-897d-eaccb2ed8959" r="128" g="128" b="255" codes="BOR-1">${t:2.59}So let's make one together! </LineEntry>
-          <LineEntry ID="09683445-71e0-4c98-9cdc-3d7ea76aa54d" r="128" g="128" b="255" codes="COO+1">${t:3.82}First - you cook up that bacon.</LineEntry>
-          <LineEntry ID="1479d319-a621-44e6-abe0-ab561e0445fc" r="128" g="128" b="255" codes="COO+1">${t:4.31}I like mine crispy as all heck, but do it to your liking.</LineEntry>
-          <LineEntry ID="43030225-2881-431f-a553-7ba7cf4d8173" r="128" g="128" b="255" codes="COO+1">${t:3.19}Then take your bread, and add in that bacon.</LineEntry>
-          <LineEntry ID="320d9059-11e3-4770-b42a-71d76ec10bd4" r="128" g="128" b="255" codes="COO+1">${t:2.38}Then tomato and your lettuce.</LineEntry>
-          <LineEntry ID="90ba018c-d084-4646-b163-5b6793f69e43" r="128" g="128" b="255" codes="COO+1">${t:1.61}Not too much lettuce.</LineEntry>
-          <LineEntry ID="69a2eeef-e405-431d-a3eb-15127c386fc2" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:2.31}And bam! Easy as that!</LineEntry>
-          <LineEntry ID="b3d9ee68-773b-4a22-ab5f-14e4a82e6314" r="128" g="128" b="255">${t:1.51}Just like Mom used to make!</LineEntry>
-          <LineEntry ID="e83866e4-3ec9-4295-8be1-7401989760a1" r="128" g="128" b="255">${t:2.84}And if you want to be a bit more decadent? One word:</LineEntry>
-          <LineEntry ID="832e055a-65f1-431e-9ef5-a421a1b249af" r="128" g="128" b="255">${t:1.30}Meat patty! </LineEntry>
-          <LineEntry ID="7b661604-8164-4946-a886-f42371a86cf2" r="128" g="128" b="255" codes="BOR-1">${t:3.26}I make mine with an egg to hold it all together!</LineEntry>
-          <LineEntry ID="bc59ce51-6383-44d2-a749-691fb14dfdd4" r="128" g="128" b="255">${t:2.63}Who can resist a juicy burger?</LineEntry>
-          <LineEntry ID="5abcfcda-7c0b-4532-811e-59aafe63a983" r="128" g="128" b="255" codes="BOR-1">${t:2.07}See you tomorrow everyone!</LineEntry>
+          <LineEntry ID="c1e5ae2c-31d8-4f9f-a89c-b19249c8a4b1" r="0" g="176" b="240" codes="GUID:c1e5ae2c-31d8-4f9f-a89c-b19249c8a4b1">${t:2.35}Hey there. Welcome back to the Cook Show!</LineEntry>
+          <LineEntry ID="ea391c7a-9928-4efb-bb0f-aecc3414c7b1" r="0" g="176" b="240" codes="BOR-1">${t:3.66}Brought to you by Kitten Knives - Fine American Cookware</LineEntry>
+          <LineEntry ID="eb63a55a-d500-41cf-90ad-851e9041c215" r="128" g="128" b="255">${t:2.09}Now I hear it all the time - why so simple?</LineEntry>
+          <LineEntry ID="7f8cc3e2-8a99-4618-87d0-da2f326340ce" r="128" g="128" b="255">${t:1.62}I tell you why so simple...</LineEntry>
+          <LineEntry ID="f107d679-25d3-43ed-92d7-6f61c54d1ca8" r="128" g="128" b="255" codes="BOR-1">${t:1.93}I want to make healthy cooking as easy as... </LineEntry>
+          <LineEntry ID="9b784828-ffa8-4735-bfb5-7c220501b804" r="128" g="128" b="255">${t:2.93}...standing in line at Spiffos' or sittin' in Pizza Whirled.</LineEntry>
+          <LineEntry ID="7ec30333-076d-490e-a761-fed0cdfe33d9" r="128" g="128" b="255">${t:1.44}Now I love a BLT. </LineEntry>
+          <LineEntry ID="1c250bfa-5e0a-4b64-af85-5b1f39c04747" r="128" g="128" b="255" codes="BOR-1">${t:2.27}That's a Bacon, Lettuce and Tomato sandwich.</LineEntry>
+          <LineEntry ID="d0f96fca-8dac-4b8c-9fbd-ee5f2ec51449" r="128" g="128" b="255" codes="BOR-1">${t:1.44}It's God's Gift to bread.</LineEntry>
+          <LineEntry ID="47c60ee5-afa9-4819-897d-eaccb2ed8959" r="128" g="128" b="255" codes="BOR-1">${t:1.49}So let's make one together! </LineEntry>
+          <LineEntry ID="09683445-71e0-4c98-9cdc-3d7ea76aa54d" r="128" g="128" b="255" codes="COO+1">${t:4.54}First - you cook up that bacon.</LineEntry>
+          <LineEntry ID="1479d319-a621-44e6-abe0-ab561e0445fc" r="128" g="128" b="255" codes="COO+1">${t:2.95}I like mine crispy as all heck, but do it to your liking.</LineEntry>
+          <LineEntry ID="43030225-2881-431f-a553-7ba7cf4d8173" r="128" g="128" b="255" codes="COO+1">${t:2.04}Then take your bread, and add in that bacon.</LineEntry>
+          <LineEntry ID="320d9059-11e3-4770-b42a-71d76ec10bd4" r="128" g="128" b="255" codes="COO+1">${t:3.78}Then tomato and your lettuce.</LineEntry>
+          <LineEntry ID="90ba018c-d084-4646-b163-5b6793f69e43" r="128" g="128" b="255" codes="COO+1">${t:1.20}Not too much lettuce.</LineEntry>
+          <LineEntry ID="69a2eeef-e405-431d-a3eb-15127c386fc2" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:1.33}And bam! Easy as that!</LineEntry>
+          <LineEntry ID="b3d9ee68-773b-4a22-ab5f-14e4a82e6314" r="128" g="128" b="255">${t:1.62}Just like Mom used to make!</LineEntry>
+          <LineEntry ID="e83866e4-3ec9-4295-8be1-7401989760a1" r="128" g="128" b="255">${t:2.93}And if you want to be a bit more decadent? One word:</LineEntry>
+          <LineEntry ID="832e055a-65f1-431e-9ef5-a421a1b249af" r="128" g="128" b="255">${t:1.07}Meat patty! </LineEntry>
+          <LineEntry ID="7b661604-8164-4946-a886-f42371a86cf2" r="128" g="128" b="255" codes="BOR-1">${t:2.12}I make mine with an egg to hold it all together!</LineEntry>
+          <LineEntry ID="bc59ce51-6383-44d2-a749-691fb14dfdd4" r="128" g="128" b="255">${t:1.75}Who can resist a juicy burger?</LineEntry>
+          <LineEntry ID="5abcfcda-7c0b-4532-811e-59aafe63a983" r="128" g="128" b="255" codes="BOR-1">${t:1.49}See you tomorrow everyone!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="f1b5054b-6152-418f-993c-ad477bdbd0ce" timestamp="6480" endstamp="6840" type="ActivateBroadcast" day="4" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="b57d2625-7eda-4510-ace0-1e052ae5a6bd" r="0" g="176" b="80" codes="GUID:b57d2625-7eda-4510-ace0-1e052ae5a6bd">${t:1.93}Y'all are watching Woodcraft!</LineEntry>
@@ -6808,47 +6808,47 @@
           <LineEntry ID="41aa949c-7418-48ec-83fe-18b5a725ddd3" r="0" g="176" b="240">${t:4.99}[img=music] Wood... craft! [img=music]</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="3166434a-ce11-4df5-acb6-4a023bb45c67" timestamp="6840" endstamp="7170" type="ActivateBroadcast" day="4" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="c2d0fac9-c1c4-4e23-b23b-ff9e51104a48" r="255" g="192" b="0" codes="BOR-1,GUID:c2d0fac9-c1c4-4e23-b23b-ff9e51104a48">${t:3.24}Hey, I'm back with nature and I'm Dean.</LineEntry>
-          <LineEntry ID="6720377d-5293-418f-8e8e-d1a48348d85a" r="255" g="192" b="0" codes="BOR-1">${t:2.93}Welcome back to Exposure Survival.</LineEntry>
-          <LineEntry ID="8a1113ad-11c4-4eb5-8fcc-6ce75553b0c3" r="255" g="192" b="0">${t:4.42}One time I was out in the woods on South Island and...</LineEntry>
-          <LineEntry ID="61ba27f8-ec9d-41c4-95c4-c4cf576d2bc2" r="255" g="192" b="0" codes="BOR-1">${t:3.45}All of a sudden, I realized I'd lost my tent. </LineEntry>
-          <LineEntry ID="4c619e77-239e-4d88-8b8d-84dbe1d23722" r="255" g="192" b="0" codes="BOR-1">${t:2.34}Nightmare, ey?</LineEntry>
-          <LineEntry ID="aeb93f9a-899b-4ee3-8cc9-143153b89993" r="255" g="192" b="0" codes="FOR+1">${t:4.99}What I did have was four tent pegs - and four sheets.</LineEntry>
-          <LineEntry ID="23297493-a224-4874-a624-f07a148705a8" r="255" g="192" b="0" codes="FOR+1">${t:4.99}Using a stick I found foraging I built... this.</LineEntry>
-          <LineEntry ID="ea128bdf-0efa-4242-bb2f-f41b59fad8c2" r="255" g="192" b="0" codes="FOR+1,BOR-1">${t:4.99}Not much, but it's home - or one with fabric walls, ey?</LineEntry>
-          <LineEntry ID="0f243369-6582-41e6-9b5d-688ce8f49f7e" r="255" g="192" b="0" codes="BOR-1">${t:4.99}Don't get me wrong, it gets cold alright. </LineEntry>
-          <LineEntry ID="73781365-fe9e-492e-8a52-c05dc94595e0" r="255" g="192" b="0" codes="FOR+1,BOR-1">${t:3.21}But it keeps out the elements. </LineEntry>
-          <LineEntry ID="67d9ef10-3ffc-4065-8bbf-4e1b36f259c1" r="255" g="192" b="0">${t:2.16}Sometimes that's enough.</LineEntry>
-          <LineEntry ID="d3232819-0d22-4cbe-a83a-a59e2ae79bbf" r="255" g="192" b="0" codes="BOR-1">${t:2.37}Until next time guys!</LineEntry>
+          <LineEntry ID="c2d0fac9-c1c4-4e23-b23b-ff9e51104a48" r="255" g="192" b="0" codes="BOR-1,GUID:c2d0fac9-c1c4-4e23-b23b-ff9e51104a48">${t:1.70}Hey, I'm back with nature and I'm Dean.</LineEntry>
+          <LineEntry ID="6720377d-5293-418f-8e8e-d1a48348d85a" r="255" g="192" b="0" codes="BOR-1">${t:1.80}Welcome back to Exposure Survival.</LineEntry>
+          <LineEntry ID="8a1113ad-11c4-4eb5-8fcc-6ce75553b0c3" r="255" g="192" b="0">${t:2.59}One time I was out in the woods on South Island and...</LineEntry>
+          <LineEntry ID="61ba27f8-ec9d-41c4-95c4-c4cf576d2bc2" r="255" g="192" b="0" codes="BOR-1">${t:2.27}All of a sudden, I realized I'd lost my tent. </LineEntry>
+          <LineEntry ID="4c619e77-239e-4d88-8b8d-84dbe1d23722" r="255" g="192" b="0" codes="BOR-1">${t:1.10}Nightmare, ey?</LineEntry>
+          <LineEntry ID="aeb93f9a-899b-4ee3-8cc9-143153b89993" r="255" g="192" b="0" codes="FOR+1">${t:2.77}What I did have was four tent pegs - and four sheets.</LineEntry>
+          <LineEntry ID="23297493-a224-4874-a624-f07a148705a8" r="255" g="192" b="0" codes="FOR+1">${t:3.00}Using a stick I found foraging I built... this.</LineEntry>
+          <LineEntry ID="ea128bdf-0efa-4242-bb2f-f41b59fad8c2" r="255" g="192" b="0" codes="FOR+1,BOR-1">${t:2.87}Not much, but it's home - or one with fabric walls, ey?</LineEntry>
+          <LineEntry ID="0f243369-6582-41e6-9b5d-688ce8f49f7e" r="255" g="192" b="0" codes="BOR-1">${t:2.04}Don't get me wrong, it gets cold alright. </LineEntry>
+          <LineEntry ID="73781365-fe9e-492e-8a52-c05dc94595e0" r="255" g="192" b="0" codes="FOR+1,BOR-1">${t:1.52}But it keeps out the elements. </LineEntry>
+          <LineEntry ID="67d9ef10-3ffc-4065-8bbf-4e1b36f259c1" r="255" g="192" b="0">${t:1.20}Sometimes that's enough.</LineEntry>
+          <LineEntry ID="d3232819-0d22-4cbe-a83a-a59e2ae79bbf" r="255" g="192" b="0" codes="BOR-1">${t:1.28}Until next time guys!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="4e6bc1bd-5159-4da5-9211-8cf0244a8bbf" timestamp="7170" endstamp="7200" type="ActivateBroadcast" day="4" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="1165aff4-8707-47df-b4b9-80e168c77fb9" timestamp="7200" endstamp="7560" type="ActivateBroadcast" day="5" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="f2590d4b-839f-4b0b-ba56-d560094b6c5f" r="128" g="128" b="255" codes="GUID:f2590d4b-839f-4b0b-ba56-d560094b6c5f">${t:2.58}We've got a caller! Hi Dean!</LineEntry>
-          <LineEntry ID="eaa5808e-6955-4279-b296-fddc40f65734" r="128" g="128" b="255" codes="BOR-1">${t:4.17}Thanks so much for taking the time out from your show on Life and Living! </LineEntry>
-          <LineEntry ID="4f966909-6370-45a6-9b92-9b247388c212" r="255" g="192" b="0">${t:1.33}No worries guys!</LineEntry>
-          <LineEntry ID="b255dfb0-3342-4799-9dbf-9a61dce32bc5" r="255" g="192" b="0">${t:3.42}I just wanted to say that the climbing gear you're selling today...</LineEntry>
-          <LineEntry ID="48c11481-3baa-47c8-9fe6-50e2b9c3e089" r="255" g="192" b="0" codes="BOR-1">${t:3.12}It looks AMAZING. Real quality stuff.</LineEntry>
-          <LineEntry ID="6b2af433-dc55-4bbd-a982-de04fbc5f185" r="128" g="128" b="255" codes="BOR-1">${t:3.78}I love it when you get in touch Dean.</LineEntry>
-          <LineEntry ID="11c97767-5da9-4fea-82d6-d9f56a03efae" r="255" g="192" b="0" codes="BOR-1">${t:2.94}It just looks like the BARGAIN of a LIFETIME.</LineEntry>
-          <LineEntry ID="573fa5a3-cef6-4244-a1a5-a9ee901bca56" r="128" g="128" b="255">${t:3.80}Well, today only, I'm throwing in a set of crampons.</LineEntry>
-          <LineEntry ID="bbeacea6-4a8f-44c0-960c-3086f586718e" r="255" g="192" b="0" codes="BOR-1">${t:2.70}I'm sold. Put me through to sales line!</LineEntry>
-          <LineEntry ID="60358177-6e51-42e4-9cfc-3de7745dc31c" r="128" g="128" b="255">${t:3.51}Stocks are getting low folks! Call now!</LineEntry>
+          <LineEntry ID="f2590d4b-839f-4b0b-ba56-d560094b6c5f" r="128" g="128" b="255" codes="GUID:f2590d4b-839f-4b0b-ba56-d560094b6c5f">${t:1.93}We've got a caller! Hi Dean!</LineEntry>
+          <LineEntry ID="eaa5808e-6955-4279-b296-fddc40f65734" r="128" g="128" b="255" codes="BOR-1">${t:3.66}Thanks so much for taking the time out from your show on Life and Living! </LineEntry>
+          <LineEntry ID="4f966909-6370-45a6-9b92-9b247388c212" r="255" g="192" b="0">${t:1.07}No worries guys!</LineEntry>
+          <LineEntry ID="b255dfb0-3342-4799-9dbf-9a61dce32bc5" r="255" g="192" b="0">${t:2.82}I just wanted to say that the climbing gear you're selling today...</LineEntry>
+          <LineEntry ID="48c11481-3baa-47c8-9fe6-50e2b9c3e089" r="255" g="192" b="0" codes="BOR-1">${t:2.46}It looks AMAZING. Real quality stuff.</LineEntry>
+          <LineEntry ID="6b2af433-dc55-4bbd-a982-de04fbc5f185" r="128" g="128" b="255" codes="BOR-1">${t:1.80}I love it when you get in touch Dean.</LineEntry>
+          <LineEntry ID="11c97767-5da9-4fea-82d6-d9f56a03efae" r="255" g="192" b="0" codes="BOR-1">${t:2.27}It just looks like the BARGAIN of a LIFETIME.</LineEntry>
+          <LineEntry ID="573fa5a3-cef6-4244-a1a5-a9ee901bca56" r="128" g="128" b="255">${t:2.74}Well, today only, I'm throwing in a set of crampons.</LineEntry>
+          <LineEntry ID="bbeacea6-4a8f-44c0-960c-3086f586718e" r="255" g="192" b="0" codes="BOR-1">${t:2.35}I'm sold. Put me through to sales line!</LineEntry>
+          <LineEntry ID="60358177-6e51-42e4-9cfc-3de7745dc31c" r="128" g="128" b="255">${t:2.12}Stocks are getting low folks! Call now!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="18dce784-0448-4b0e-8cba-18d16d2b6601" timestamp="7560" endstamp="7920" type="ActivateBroadcast" day="5" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="fb40646a-160c-4709-9030-c5d0c33823de" r="0" g="176" b="240" codes="GUID:fb40646a-160c-4709-9030-c5d0c33823de">${t:2.55}How are you doing? This is the Cook Show!</LineEntry>
-          <LineEntry ID="da0e4d14-e2d3-4db1-9b55-ae856e7c470a" r="0" g="176" b="240">${t:4.25}Brought to you by Kitten Knives - Fine American Cookware.</LineEntry>
-          <LineEntry ID="1cfcfacb-bc5a-4a72-a353-a0b696e1dc35" r="128" g="128" b="255">${t:3.85}Now today's recipe is a family favorite: pie!</LineEntry>
-          <LineEntry ID="d5a4b433-df99-4c56-b37c-9c42756fd528" r="128" g="128" b="255" codes="BOR-1">${t:2.83}And not the sweet cherry pie kind...</LineEntry>
-          <LineEntry ID="f3d37cf1-c6e4-480d-a6b5-e01aee96be78" r="128" g="128" b="255" codes="BOR-1">${t:3.69}A delicious, hearty and wholesome savory pie...</LineEntry>
-          <LineEntry ID="d0e634e6-5eec-4c20-8462-21010810f2e2" r="128" g="128" b="255">${t:2.37}Mutton, leek and carrot!</LineEntry>
-          <LineEntry ID="9c64c5ec-7e36-43d0-8e64-91859b927eba" r="128" g="128" b="255" codes="COO+1">${t:1.42}First you need your pie base. </LineEntry>
-          <LineEntry ID="68fc612e-bf5d-40dd-a345-7f0314894861" r="128" g="128" b="255" codes="COO+1">${t:2.53}Mix in some flour, yeast, sugar and butter.</LineEntry>
-          <LineEntry ID="158d96f8-9f48-4f28-809c-cd97a5409876" r="128" g="128" b="255" codes="COO+1">${t:3.41}Use all that with your rolling pin... </LineEntry>
-          <LineEntry ID="d606fe94-c699-43a3-8260-cfdec2ecbe50" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:3.23}That right there is a Pie Preparation!</LineEntry>
-          <LineEntry ID="49b860f4-5611-4b14-962e-2e6ffb16c155" r="128" g="128" b="255" codes="COO+1">${t:3.72}Wrap in your lamb or mutton, your leeks and your carrots.</LineEntry>
-          <LineEntry ID="30ac0d85-270f-47c4-afa2-bf5aca404f84" r="128" g="128" b="255">${t:1.83}And season to taste!</LineEntry>
-          <LineEntry ID="326b2a43-9e96-4001-865c-62c18cf87358" r="128" g="128" b="255">${t:2.53}And bake!</LineEntry>
-          <LineEntry ID="6ab76e90-d7bc-4ee8-a833-26e4139e3355" r="128" g="128" b="255">${t:2.53}See you tomorrow!</LineEntry>
+          <LineEntry ID="fb40646a-160c-4709-9030-c5d0c33823de" r="0" g="176" b="240" codes="GUID:fb40646a-160c-4709-9030-c5d0c33823de">${t:2.35}How are you doing? This is the Cook Show!</LineEntry>
+          <LineEntry ID="da0e4d14-e2d3-4db1-9b55-ae856e7c470a" r="0" g="176" b="240">${t:3.24}Brought to you by Kitten Knives - Fine American Cookware.</LineEntry>
+          <LineEntry ID="1cfcfacb-bc5a-4a72-a353-a0b696e1dc35" r="128" g="128" b="255">${t:2.53}Now today's recipe is a family favorite: pie!</LineEntry>
+          <LineEntry ID="d5a4b433-df99-4c56-b37c-9c42756fd528" r="128" g="128" b="255" codes="BOR-1">${t:1.75}And not the sweet cherry pie kind...</LineEntry>
+          <LineEntry ID="f3d37cf1-c6e4-480d-a6b5-e01aee96be78" r="128" g="128" b="255" codes="BOR-1">${t:2.74}A delicious, hearty and wholesome savory pie...</LineEntry>
+          <LineEntry ID="d0e634e6-5eec-4c20-8462-21010810f2e2" r="128" g="128" b="255">${t:1.15}Mutton, leek and carrot!</LineEntry>
+          <LineEntry ID="9c64c5ec-7e36-43d0-8e64-91859b927eba" r="128" g="128" b="255" codes="COO+1">${t:1.52}First you need your pie base. </LineEntry>
+          <LineEntry ID="68fc612e-bf5d-40dd-a345-7f0314894861" r="128" g="128" b="255" codes="COO+1">${t:2.51}Mix in some flour, yeast, sugar and butter.</LineEntry>
+          <LineEntry ID="158d96f8-9f48-4f28-809c-cd97a5409876" r="128" g="128" b="255" codes="COO+1">${t:1.85}Use all that with your rolling pin... </LineEntry>
+          <LineEntry ID="d606fe94-c699-43a3-8260-cfdec2ecbe50" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:2.12}That right there is a Pie Preparation!</LineEntry>
+          <LineEntry ID="49b860f4-5611-4b14-962e-2e6ffb16c155" r="128" g="128" b="255" codes="COO+1">${t:4.80}Wrap in your lamb or mutton, your leeks and your carrots.</LineEntry>
+          <LineEntry ID="30ac0d85-270f-47c4-afa2-bf5aca404f84" r="128" g="128" b="255">${t:2.59}And season to taste!</LineEntry>
+          <LineEntry ID="326b2a43-9e96-4001-865c-62c18cf87358" r="128" g="128" b="255">${t:0.78}And bake!</LineEntry>
+          <LineEntry ID="6ab76e90-d7bc-4ee8-a833-26e4139e3355" r="128" g="128" b="255">${t:3.08}See you tomorrow!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="6c8629da-1997-4087-ad9d-f4908e7a8b39" timestamp="7920" endstamp="8280" type="ActivateBroadcast" day="5" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="ccc4d28c-3b1e-4827-b73b-135c5831c536" r="0" g="176" b="80" codes="BOR-1,GUID:ccc4d28c-3b1e-4827-b73b-135c5831c536">${t:2.00}Y'all are watching Woodcraft!</LineEntry>
@@ -6875,60 +6875,60 @@
           <LineEntry ID="f9371a01-c5c7-4f96-97b6-35b10c9b907d" r="0" g="176" b="240" codes="BOR-1">${t:4.99}[img=music] Wood... craft! [img=music]</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="40dacfdc-3473-40e8-8276-eb5faf42dea3" timestamp="8280" endstamp="8610" type="ActivateBroadcast" day="5" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="2f29b7e4-f698-4339-aeb0-653303d4a031" r="255" g="192" b="0" codes="GUID:2f29b7e4-f698-4339-aeb0-653303d4a031">${t:4.95}Hey, it's me. Dean - back with some nature.</LineEntry>
-          <LineEntry ID="b9adb9d6-17b1-45cb-85df-fe5491aa4dc8" r="255" g="192" b="0">${t:2.94}Welcome back to Exposure Survival.</LineEntry>
-          <LineEntry ID="660bdbdf-eb14-494d-ad94-a7a3d5492a78" r="255" g="192" b="0">${t:4.13}Now I hate killing little creature guys.</LineEntry>
-          <LineEntry ID="7291af6e-8dea-4011-ab2b-54b48ec9c9e8" r="255" g="192" b="0" codes="BOR-1">${t:3.72}But sometimes you've just got to survive, right?</LineEntry>
-          <LineEntry ID="1886312f-e076-4361-b745-f4e6bc8c9c10" r="255" g="192" b="0">${t:4.69}Today we're building what I call a 'Wooden Cage Trap'.</LineEntry>
-          <LineEntry ID="3e3dc4ba-124a-4db2-95bd-e64a66f7704c" r="255" g="192" b="0">${t:2.90}It's this cage you build out of wood.</LineEntry>
-          <LineEntry ID="21699af6-00ab-43a2-849f-4ec246019801" r="255" g="192" b="0">${t:2.60}Inside it you trap stuff.</LineEntry>
-          <LineEntry ID="e5a10065-d958-4e40-998c-27f9278911ae" r="255" g="192" b="0" codes="TRA+1">${t:4.99}So right now I'm taking this saw to three planks.</LineEntry>
-          <LineEntry ID="4dba4aa0-770f-48c3-9eaa-88623d5bd144" r="255" g="192" b="0" codes="TRA+1">${t:4.99}Then, five nails should do you right.</LineEntry>
-          <LineEntry ID="f40ec98e-99cc-4e24-807d-d8e62d6f9e91" r="255" g="192" b="0" codes="TRA+1">${t:2.23}Just hammer it all into place...</LineEntry>
-          <LineEntry ID="85687551-21a6-471b-89b0-45e5693fa47c" r="255" g="192" b="0" codes="TRA+1">${t:2.47}...like this.</LineEntry>
-          <LineEntry ID="f9c62c4c-c7b9-430c-8361-1725f3bb0443" r="255" g="192" b="0" codes="TRA+1">${t:3.39}Now let's go somewhere quiet.</LineEntry>
-          <LineEntry ID="19040afe-7570-45e2-8101-d338702f8496" r="255" g="192" b="0" codes="TRA+1">${t:4.97}Here I am in the woods, and I'm setting down the trap.</LineEntry>
-          <LineEntry ID="678c9acd-0d48-4b64-ade3-00e5e1d82854" r="255" g="192" b="0" codes="TRA+1,BOR-1">${t:4.91}Just... chuck in some bait like this and get outta there.</LineEntry>
-          <LineEntry ID="07800c34-064f-47ab-975e-1160593e38b8" r="255" g="192" b="0" codes="BOR-1">${t:2.27}When you get back?</LineEntry>
-          <LineEntry ID="6e49f4b3-8706-413e-a92d-5f03f201eea6" r="255" g="192" b="0" codes="TRA+1,BOR-1">${t:2.49}Maybe there'll be a little animal guy there. </LineEntry>
-          <LineEntry ID="45e706f7-6b9b-4d1c-a9b4-2f5b1ee11518" r="255" g="192" b="0" codes="BOR-1">${t:1.79}Ready for the pot.</LineEntry>
-          <LineEntry ID="9df26228-fd2d-45b6-94ac-18729eda5d8c" r="255" g="192" b="0" codes="TRA+1">${t:2.57}Once you've killed and gutted him anyway.</LineEntry>
-          <LineEntry ID="9a718e78-7681-456f-93e1-c5444fad6a03" r="255" g="192" b="0">${t:2.31}Until next time guys!</LineEntry>
+          <LineEntry ID="2f29b7e4-f698-4339-aeb0-653303d4a031" r="255" g="192" b="0" codes="GUID:2f29b7e4-f698-4339-aeb0-653303d4a031">${t:2.46}Hey, it's me. Dean - back with some nature.</LineEntry>
+          <LineEntry ID="b9adb9d6-17b1-45cb-85df-fe5491aa4dc8" r="255" g="192" b="0">${t:1.80}Welcome back to Exposure Survival.</LineEntry>
+          <LineEntry ID="660bdbdf-eb14-494d-ad94-a7a3d5492a78" r="255" g="192" b="0">${t:1.80}Now I hate killing little creature guys.</LineEntry>
+          <LineEntry ID="7291af6e-8dea-4011-ab2b-54b48ec9c9e8" r="255" g="192" b="0" codes="BOR-1">${t:2.40}But sometimes you've just got to survive, right?</LineEntry>
+          <LineEntry ID="1886312f-e076-4361-b745-f4e6bc8c9c10" r="255" g="192" b="0">${t:2.82}Today we're building what I call a 'Wooden Cage Trap'.</LineEntry>
+          <LineEntry ID="3e3dc4ba-124a-4db2-95bd-e64a66f7704c" r="255" g="192" b="0">${t:1.91}It's this cage you build out of wood.</LineEntry>
+          <LineEntry ID="21699af6-00ab-43a2-849f-4ec246019801" r="255" g="192" b="0">${t:1.62}Inside it you trap stuff.</LineEntry>
+          <LineEntry ID="e5a10065-d958-4e40-998c-27f9278911ae" r="255" g="192" b="0" codes="TRA+1">${t:4.35}So right now I'm taking this saw to three planks.</LineEntry>
+          <LineEntry ID="4dba4aa0-770f-48c3-9eaa-88623d5bd144" r="255" g="192" b="0" codes="TRA+1">${t:1.99}Then, five nails should do you right.</LineEntry>
+          <LineEntry ID="f40ec98e-99cc-4e24-807d-d8e62d6f9e91" r="255" g="192" b="0" codes="TRA+1">${t:1.70}Just hammer it all into place...</LineEntry>
+          <LineEntry ID="85687551-21a6-471b-89b0-45e5693fa47c" r="255" g="192" b="0" codes="TRA+1">${t:2.13}...like this.</LineEntry>
+          <LineEntry ID="f9c62c4c-c7b9-430c-8361-1725f3bb0443" r="255" g="192" b="0" codes="TRA+1">${t:1.62}Now let's go somewhere quiet.</LineEntry>
+          <LineEntry ID="19040afe-7570-45e2-8101-d338702f8496" r="255" g="192" b="0" codes="TRA+1">${t:2.35}Here I am in the woods, and I'm setting down the trap.</LineEntry>
+          <LineEntry ID="678c9acd-0d48-4b64-ade3-00e5e1d82854" r="255" g="192" b="0" codes="TRA+1,BOR-1">${t:3.34}Just... chuck in some bait like this and get outta there.</LineEntry>
+          <LineEntry ID="07800c34-064f-47ab-975e-1160593e38b8" r="255" g="192" b="0" codes="BOR-1">${t:1.07}When you come back?</LineEntry>
+          <LineEntry ID="6e49f4b3-8706-413e-a92d-5f03f201eea6" r="255" g="192" b="0" codes="TRA+1,BOR-1">${t:1.99}Maybe there'll be a little animal guy there. </LineEntry>
+          <LineEntry ID="45e706f7-6b9b-4d1c-a9b4-2f5b1ee11518" r="255" g="192" b="0" codes="BOR-1">${t:1.15}Ready for the pot.</LineEntry>
+          <LineEntry ID="9df26228-fd2d-45b6-94ac-18729eda5d8c" r="255" g="192" b="0" codes="TRA+1">${t:2.04}Once you've killed and gutted him anyway.</LineEntry>
+          <LineEntry ID="9a718e78-7681-456f-93e1-c5444fad6a03" r="255" g="192" b="0">${t:1.28}Until next time guys!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="99d6757f-bf57-44c1-b66f-102b0ebdc1a3" timestamp="8610" endstamp="8640" type="ActivateBroadcast" day="5" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="28f2ff4b-fd62-4176-af0e-766fd2cea3ff" timestamp="8640" endstamp="9000" type="ActivateBroadcast" day="6" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="2fcd2a97-8657-4d30-af3b-4c8ae7d15ef8" r="128" g="128" b="255" codes="GUID:2fcd2a97-8657-4d30-af3b-4c8ae7d15ef8">${t:3.68}It Steams! It Broils! It can even fricassee!</LineEntry>
-          <LineEntry ID="0fdb4770-75f6-4f75-ba50-f1020b3acf40" r="0" g="176" b="80" codes="BOR-1">${t:2.39}What is this amazing machine Diane?</LineEntry>
-          <LineEntry ID="4e3d4f81-29aa-4e1e-9965-df044395234f" r="128" g="128" b="255">${t:3.54}Why it's the Harakka all-purpose slow-broiler, from Scandinavia!</LineEntry>
-          <LineEntry ID="55cb9d4b-c878-42b7-a601-e54d9f7b4d9b" r="0" g="176" b="80">${t:4.49}I had NO idea that Scandinavia was such an AMAZING place!</LineEntry>
-          <LineEntry ID="cb1be025-e69b-48fc-926b-c33d192ff1de" r="128" g="128" b="255" codes="BOR-1">${t:2.69}Well now you do! Have you seen me do this yet?</LineEntry>
-          <LineEntry ID="f63f3fe0-18ee-48c1-8aa9-ac7947c9d3c5" r="0" g="176" b="80" codes="BOR-1">${t:1.40}No way.</LineEntry>
-          <LineEntry ID="fa6f8bf0-be16-4c8c-ac28-35cb5edbd6ee" r="128" g="128" b="255" codes="BOR-1">${t:0.65}Uhuh! </LineEntry>
-          <LineEntry ID="9324de03-8d2b-42ed-ac5e-6d2a0e1efb18" r="0" g="176" b="80" codes="BOR-1">${t:1.50}And what can I put in there?</LineEntry>
-          <LineEntry ID="0b6e75c7-55f6-43cb-9767-3fb4068b5ec3" r="128" g="128" b="255" codes="BOR-1">${t:1.76}Vegetables, meat, your favourite snack....</LineEntry>
-          <LineEntry ID="7453d0f1-4255-4926-8f72-edecd6b57be9" r="128" g="128" b="255">${t:3.22}This is the FIRST machine of its kind. And you know what?</LineEntry>
-          <LineEntry ID="8429889d-1767-46ff-911d-ff27774c9a02" r="0" g="176" b="80">${t:0.40}What?</LineEntry>
-          <LineEntry ID="abe8fe36-5e35-48a9-9a61-c1f091e37bb9" r="128" g="128" b="255" codes="BOR-1">${t:2.87}It's a DREAM to clean. Just watch.</LineEntry>
-          <LineEntry ID="5668ae1e-7da2-4543-a501-a6d2a75d9f8c" r="0" g="176" b="80">${t:2.73}That is amazing. How do I get one?</LineEntry>
-          <LineEntry ID="a1fa1783-f2af-47b3-9a3c-2fe29537b7ec" r="128" g="128" b="255">${t:1.88}Just call the number on-screen! </LineEntry>
-          <LineEntry ID="3a43c293-cf5d-4795-a121-3276dec64176" r="128" g="128" b="255" codes="BOR-1">${t:2.21}You know how this works by now!</LineEntry>
+          <LineEntry ID="2fcd2a97-8657-4d30-af3b-4c8ae7d15ef8" r="128" g="128" b="255" codes="GUID:2fcd2a97-8657-4d30-af3b-4c8ae7d15ef8">${t:3.11}It Steams! It Broils! It can even fricassee!</LineEntry>
+          <LineEntry ID="0fdb4770-75f6-4f75-ba50-f1020b3acf40" r="0" g="176" b="80" codes="BOR-1">${t:1.70}What is this amazing machine Diane?</LineEntry>
+          <LineEntry ID="4e3d4f81-29aa-4e1e-9965-df044395234f" r="128" g="128" b="255">${t:3.79}Why it's the Harakka all-purpose slow-broiler, from Scandinavia!</LineEntry>
+          <LineEntry ID="55cb9d4b-c878-42b7-a601-e54d9f7b4d9b" r="0" g="176" b="80">${t:3.60}I had NO idea that Scandinavia was such an AMAZING place!</LineEntry>
+          <LineEntry ID="cb1be025-e69b-48fc-926b-c33d192ff1de" r="128" g="128" b="255" codes="BOR-1">${t:2.51}Well now you do! Have you seen me do this yet?</LineEntry>
+          <LineEntry ID="f63f3fe0-18ee-48c1-8aa9-ac7947c9d3c5" r="0" g="176" b="80" codes="BOR-1">${t:0.78}No way.</LineEntry>
+          <LineEntry ID="fa6f8bf0-be16-4c8c-ac28-35cb5edbd6ee" r="128" g="128" b="255" codes="BOR-1">${t:1.02}Uhuh! </LineEntry>
+          <LineEntry ID="9324de03-8d2b-42ed-ac5e-6d2a0e1efb18" r="0" g="176" b="80" codes="BOR-1">${t:1.49}And what can I put in there?</LineEntry>
+          <LineEntry ID="0b6e75c7-55f6-43cb-9767-3fb4068b5ec3" r="128" g="128" b="255" codes="BOR-1">${t:2.27}Vegetables, meat, your favourite snack....</LineEntry>
+          <LineEntry ID="7453d0f1-4255-4926-8f72-edecd6b57be9" r="128" g="128" b="255">${t:2.93}This is the FIRST machine of its kind. And you know what?</LineEntry>
+          <LineEntry ID="8429889d-1767-46ff-911d-ff27774c9a02" r="0" g="176" b="80">${t:0.78}What?</LineEntry>
+          <LineEntry ID="abe8fe36-5e35-48a9-9a61-c1f091e37bb9" r="128" g="128" b="255" codes="BOR-1">${t:2.04}It's a DREAM to clean. Just watch.</LineEntry>
+          <LineEntry ID="5668ae1e-7da2-4543-a501-a6d2a75d9f8c" r="0" g="176" b="80">${t:1.52}That is amazing. How do I get one?</LineEntry>
+          <LineEntry ID="a1fa1783-f2af-47b3-9a3c-2fe29537b7ec" r="128" g="128" b="255">${t:1.67}Just call the number on-screen! </LineEntry>
+          <LineEntry ID="3a43c293-cf5d-4795-a121-3276dec64176" r="128" g="128" b="255" codes="BOR-1">${t:1.49}You know how this works by now!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="3f4b01a9-a596-4445-9adb-128e95e1ed3e" timestamp="9000" endstamp="9360" type="ActivateBroadcast" day="6" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="8d997d10-f603-4c6c-aba7-74bb8fd1699d" r="0" g="176" b="240" codes="BOR-1,GUID:8d997d10-f603-4c6c-aba7-74bb8fd1699d">${t:4.98}How you doing? Welcome back to the Cook show!</LineEntry>
-          <LineEntry ID="8a392cd5-cf02-4aac-a218-1e463bca430d" r="0" g="176" b="240" codes="BOR-1">${t:4.89}Brought to you by Kitten Knives - Fine American Cookware.</LineEntry>
-          <LineEntry ID="65a42099-95c3-483a-842d-0ff27d83702e" r="128" g="128" b="255" codes="BOR-1">${t:3.30}Let's quit fooling around! </LineEntry>
-          <LineEntry ID="79c19db0-a363-4d04-8159-492528f510d6" r="128" g="128" b="255">${t:2.54}You know why we're here...</LineEntry>
-          <LineEntry ID="811727a9-55e6-4b42-bf2e-b24ba6d0f5dc" r="128" g="128" b="255" codes="BOR-1">${t:1.86}Cake!</LineEntry>
-          <LineEntry ID="035e9b6c-fa6e-46c1-a44e-9a5b4cadc11a" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:4.37}First you need a batter - take a bowl and mix in...</LineEntry>
-          <LineEntry ID="410ea0e7-c3e1-4da2-8bc6-1131a6cf0c0f" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:4.68}Flour! Butter! Sugar! Egg! Yeast! Milk!</LineEntry>
-          <LineEntry ID="322df0cc-6c3e-41da-a00b-d44d63f8d24e" r="128" g="128" b="255">${t:1.68}You get all that? </LineEntry>
-          <LineEntry ID="d40f5977-1d11-4903-ac89-439584b3a9e0" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:4.00}Flour! Butter! Sugar! Egg! Yeast! Milk!</LineEntry>
-          <LineEntry ID="4377dd79-cf70-4f2c-b20c-e98436cf4a1a" r="128" g="128" b="255" codes="COO+1">${t:4.62}Add it all into a Baking Pan and... add some flavor.</LineEntry>
-          <LineEntry ID="38afce05-6a6a-48c1-8952-91fcf9a295cc" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:3.91}Today I'm using banana, berries... </LineEntry>
-          <LineEntry ID="3f9843da-d138-4d66-83dd-cfec50a3b57e" r="128" g="128" b="255" codes="COO+1">${t:2.60}And a squeeze of lemon.</LineEntry>
-          <LineEntry ID="b0da047e-270c-437c-950a-020807486806" r="128" g="128" b="255" codes="COO+1">${t:4.28}Then into the oven, and leave to get delicious!</LineEntry>
-          <LineEntry ID="402cada7-ca47-433f-ba05-d83360122d99" r="128" g="128" b="255" codes="BOR-1">${t:3.39}Can't beat that smell, huh?</LineEntry>
-          <LineEntry ID="2bd6201f-fc2e-423e-a0b9-b15989088e35" r="128" g="128" b="255" codes="BOR-1">${t:2.38}See you tomorrow!</LineEntry>
+          <LineEntry ID="8d997d10-f603-4c6c-aba7-74bb8fd1699d" r="0" g="176" b="240" codes="BOR-1,GUID:8d997d10-f603-4c6c-aba7-74bb8fd1699d">${t:2.53}How you doing? Welcome back to the Cook show!</LineEntry>
+          <LineEntry ID="8a392cd5-cf02-4aac-a218-1e463bca430d" r="0" g="176" b="240" codes="BOR-1">${t:3.24}Brought to you by Kitten Knives - Fine American Cookware.</LineEntry>
+          <LineEntry ID="65a42099-95c3-483a-842d-0ff27d83702e" r="128" g="128" b="255" codes="BOR-1">${t:1.20}Let's quit fooling around! </LineEntry>
+          <LineEntry ID="79c19db0-a363-4d04-8159-492528f510d6" r="128" g="128" b="255">${t:1.20}You know why we're here...</LineEntry>
+          <LineEntry ID="811727a9-55e6-4b42-bf2e-b24ba6d0f5dc" r="128" g="128" b="255" codes="BOR-1">${t:0.68}Cake!</LineEntry>
+          <LineEntry ID="035e9b6c-fa6e-46c1-a44e-9a5b4cadc11a" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:2.69}First you need a batter - take a bowl and mix in...</LineEntry>
+          <LineEntry ID="410ea0e7-c3e1-4da2-8bc6-1131a6cf0c0f" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:2.32}Flour! Butter! Sugar! Egg! Yeast! Milk!</LineEntry>
+          <LineEntry ID="322df0cc-6c3e-41da-a00b-d44d63f8d24e" r="128" g="128" b="255">${t:0.97}You get all that? </LineEntry>
+          <LineEntry ID="d40f5977-1d11-4903-ac89-439584b3a9e0" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:2.35}Flour! Butter! Sugar! Egg! Yeast! Milk!</LineEntry>
+          <LineEntry ID="4377dd79-cf70-4f2c-b20c-e98436cf4a1a" r="128" g="128" b="255" codes="COO+1">${t:2.77}Add it all into a Baking Pan and... add some flavor.</LineEntry>
+          <LineEntry ID="38afce05-6a6a-48c1-8952-91fcf9a295cc" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:1.75}Today I'm using banana, berries... </LineEntry>
+          <LineEntry ID="3f9843da-d138-4d66-83dd-cfec50a3b57e" r="128" g="128" b="255" codes="COO+1">${t:1.28}And a squeeze of lemon.</LineEntry>
+          <LineEntry ID="b0da047e-270c-437c-950a-020807486806" r="128" g="128" b="255" codes="COO+1">${t:2.51}Then into the oven, and leave to get delicious!</LineEntry>
+          <LineEntry ID="402cada7-ca47-433f-ba05-d83360122d99" r="128" g="128" b="255" codes="BOR-1">${t:1.57}Can't beat that smell, huh?</LineEntry>
+          <LineEntry ID="2bd6201f-fc2e-423e-a0b9-b15989088e35" r="128" g="128" b="255" codes="BOR-1">${t:3.27}See you tomorrow!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="35a2653b-10db-423a-8dfa-fb0e31a01200" timestamp="9360" endstamp="9720" type="ActivateBroadcast" day="6" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="0b8cf902-318c-42bb-9e70-691b7a60fad9" r="0" g="176" b="80" codes="GUID:0b8cf902-318c-42bb-9e70-691b7a60fad9">${t:2.01}Y'all are watching Woodcraft!</LineEntry>
@@ -6958,21 +6958,21 @@
           <LineEntry ID="dc94af8e-e791-4a0a-821a-ab7d41b1b81f" r="0" g="176" b="240" codes="BOR-1">${t:4.99}[img=music] Wood... craft! [img=music]</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="c20ef080-6050-4a1c-8428-277f61010dcf" timestamp="9720" endstamp="10050" type="ActivateBroadcast" day="6" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="4ec7eb7a-8b00-4fa2-95de-6286ba8cb83e" r="255" g="192" b="0" codes="GUID:4ec7eb7a-8b00-4fa2-95de-6286ba8cb83e">${t:3.44}It's Dean - back with Exposure Survival!</LineEntry>
-          <LineEntry ID="d3279147-c24a-4441-991f-729d6804a4c8" r="255" g="192" b="0" codes="BOR-1">${t:3.47}Hey guys! Welcome back to Nature!</LineEntry>
-          <LineEntry ID="ea4dcbf6-f658-4be6-969f-411b88da5ff8" r="255" g="192" b="0">${t:4.99}All the time people ask: "Dean - where do you find all this stuff?"</LineEntry>
-          <LineEntry ID="65516990-5571-425b-9073-2c16b613f033" r="255" g="192" b="0">${t:4.57}"You're in the middle of nowhere but you've got cool gear."</LineEntry>
-          <LineEntry ID="329b4fd1-cc3f-4a11-8afc-ceccd9fcb5a8" r="255" g="192" b="0">${t:4.04}Well there's two answers to that question-asker.</LineEntry>
-          <LineEntry ID="ef497181-a22d-4e8b-8870-2187d81f285b" r="255" g="192" b="0" codes="FOR+1,BOR-1">${t:4.87}One is the paperclip: which stays on me at ALL times.</LineEntry>
-          <LineEntry ID="dd875aa3-b6ff-4418-a377-35bdee71f20e" r="255" g="192" b="0" codes="FOR+1,BOR-1">${t:2.22}The second is foraging.</LineEntry>
-          <LineEntry ID="3f50871d-a047-4314-af45-bbdf5d0f4782" r="255" g="192" b="0" codes="FOR+1">${t:3.11}It's amazing the sort of stuff that nature can provide.</LineEntry>
-          <LineEntry ID="b34a4abf-d023-4eb9-b15b-9f58c2b37b02" r="255" g="192" b="0" codes="FOR+1">${t:3.31}So next time you're in the woods: open your eyes.</LineEntry>
-          <LineEntry ID="1cc3b153-1e07-4d52-a685-99322df5a52b" r="255" g="192" b="0" codes="FOR+1,BOR-1">${t:1.79}Look around. </LineEntry>
-          <LineEntry ID="d8981302-0c98-46d1-adea-d0510c30a87d" r="255" g="192" b="0" codes="FOR+1">${t:2.34}And when you've picked up what you can find?</LineEntry>
-          <LineEntry ID="fa6ad372-4889-498b-ae6d-1a3bae3c9992" r="255" g="192" b="0" codes="BOR-1">${t:3.27}Well that's just amazing, ey?</LineEntry>
-          <LineEntry ID="8c9a85c8-04c3-4a71-a6c3-3426f2083892" r="255" g="192" b="0" codes="FOR+1,BOR-1">${t:2.72}Then check out the woods next door.</LineEntry>
-          <LineEntry ID="7e0e663c-e6bb-4fbd-b89d-82658cf2c8ed" r="255" g="192" b="0" codes="FOR+1">${t:1.91}Woods are just awesome.</LineEntry>
-          <LineEntry ID="9ab792c5-aec1-4900-8ff9-f2560cf3871b" r="255" g="192" b="0" codes="BOR-1">${t:2.12}Until next time guys!</LineEntry>
+          <LineEntry ID="4ec7eb7a-8b00-4fa2-95de-6286ba8cb83e" r="255" g="192" b="0" codes="GUID:4ec7eb7a-8b00-4fa2-95de-6286ba8cb83e">${t:2.17}It's Dean - back with Exposure Survival!</LineEntry>
+          <LineEntry ID="d3279147-c24a-4441-991f-729d6804a4c8" r="255" g="192" b="0" codes="BOR-1">${t:2.09}Hey guys! Welcome back to Nature!</LineEntry>
+          <LineEntry ID="ea4dcbf6-f658-4be6-969f-411b88da5ff8" r="255" g="192" b="0">${t:3.47}All the time people ask: "Dean - where do you find all this stuff?"</LineEntry>
+          <LineEntry ID="65516990-5571-425b-9073-2c16b613f033" r="255" g="192" b="0">${t:2.59}"You're in the middle of nowhere but you've got cool gear."</LineEntry>
+          <LineEntry ID="329b4fd1-cc3f-4a11-8afc-ceccd9fcb5a8" r="255" g="192" b="0">${t:2.35}Well there's two answers to that question-asker.</LineEntry>
+          <LineEntry ID="ef497181-a22d-4e8b-8870-2187d81f285b" r="255" g="192" b="0" codes="FOR+1,BOR-1">${t:3.37}One is the paperclip: which stays on me at ALL times.</LineEntry>
+          <LineEntry ID="dd875aa3-b6ff-4418-a377-35bdee71f20e" r="255" g="192" b="0" codes="FOR+1,BOR-1">${t:1.33}The second is foraging.</LineEntry>
+          <LineEntry ID="3f50871d-a047-4314-af45-bbdf5d0f4782" r="255" g="192" b="0" codes="FOR+1">${t:2.77}It's amazing the sort of stuff that nature can provide.</LineEntry>
+          <LineEntry ID="b34a4abf-d023-4eb9-b15b-9f58c2b37b02" r="255" g="192" b="0" codes="FOR+1">${t:2.82}So next time you're in the woods: open your eyes.</LineEntry>
+          <LineEntry ID="1cc3b153-1e07-4d52-a685-99322df5a52b" r="255" g="192" b="0" codes="FOR+1,BOR-1">${t:0.91}Look around. </LineEntry>
+          <LineEntry ID="d8981302-0c98-46d1-adea-d0510c30a87d" r="255" g="192" b="0" codes="FOR+1">${t:2.04}And when you've picked up what you can find?</LineEntry>
+          <LineEntry ID="fa6ad372-4889-498b-ae6d-1a3bae3c9992" r="255" g="192" b="0" codes="BOR-1">${t:1.70}Well that's just amazing, ey?</LineEntry>
+          <LineEntry ID="8c9a85c8-04c3-4a71-a6c3-3426f2083892" r="255" g="192" b="0" codes="FOR+1,BOR-1">${t:1.57}Then check out the woods next door.</LineEntry>
+          <LineEntry ID="7e0e663c-e6bb-4fbd-b89d-82658cf2c8ed" r="255" g="192" b="0" codes="FOR+1">${t:1.33}Woods are just awesome.</LineEntry>
+          <LineEntry ID="9ab792c5-aec1-4900-8ff9-f2560cf3871b" r="255" g="192" b="0" codes="BOR-1">${t:1.15}Until next time guys!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="432f5bb3-8547-4fac-b2db-37d408aa61fd" timestamp="10050" endstamp="10080" type="ActivateBroadcast" day="6" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="3cc3f408-8a6e-49be-a46a-cb360026de7b" timestamp="10080" endstamp="10440" type="ActivateBroadcast" day="7" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
@@ -6991,25 +6991,25 @@
           <LineEntry ID="6c1b23db-580e-462d-b7ac-2f3e98380f1b" r="0" g="176" b="240" codes="BOR-1">${t:3.83}My life is illuminated, with Connall and Coble!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="7cb6038a-1f23-440a-ad95-68d01a657885" timestamp="10440" endstamp="10800" type="ActivateBroadcast" day="7" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="84247087-4754-4a2d-a638-3abe0a01e077" r="0" g="176" b="240" codes="BOR-1,GUID:84247087-4754-4a2d-a638-3abe0a01e077">${t:4.81}Welcome back to the Cook Show folks.</LineEntry>
-          <LineEntry ID="3d2a8186-bfcf-4a0f-861b-08901c568eb0" r="0" g="176" b="240" codes="BOR-1">${t:4.85}Brought to you by Kitten Knives - Fine American Cookware</LineEntry>
-          <LineEntry ID="6449f3ae-a30c-46c3-bb0f-5aed9f869ae4" r="128" g="128" b="255">${t:4.70}Today's the day for a nourishing Chicken and Noodle soup.</LineEntry>
-          <LineEntry ID="bcec4604-02f6-4fe2-8ec5-ed1be4c3cffc" r="128" g="128" b="255" codes="BOR-1">${t:4.99}I don't know about you, but a good Chicken soup? </LineEntry>
-          <LineEntry ID="ff2bb6d0-ce30-4fd9-baec-876eb19e6062" r="128" g="128" b="255">${t:2.84}It solves everything.</LineEntry>
-          <LineEntry ID="a56a64e4-7c26-4339-9899-062585f1d6b7" r="128" g="128" b="255" codes="BOR-1">${t:2.58}Nourishing, mood-lifting... </LineEntry>
-          <LineEntry ID="feb01a05-318f-4610-bbe4-d7c124380e26" r="128" g="128" b="255">${t:2.58}The smell of home, y'know?</LineEntry>
-          <LineEntry ID="546cd546-02f9-4de9-8d6d-e6796329ad3b" r="128" g="128" b="255" codes="COO+1">${t:3.80}To start, you need some cooked chicken.</LineEntry>
-          <LineEntry ID="079338c1-59bc-4933-9549-83c089fc8bce" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:3.87}Broil, fry, bake - your choice.</LineEntry>
-          <LineEntry ID="5af9957e-50cf-4214-b935-7bff0ae983be" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:3.21}Then get yourself a pot of water.</LineEntry>
-          <LineEntry ID="082144d4-c4f6-4a7f-adfd-d252bae52289" r="128" g="128" b="255" codes="COO+1">${t:3.56}Add it in, bring to the boil and add... </LineEntry>
-          <LineEntry ID="31b28954-cab1-4fec-9de5-ae90d471e75a" r="128" g="128" b="255" codes="COO+1">${t:3.21}Bell Pepper, Onion, Potato...</LineEntry>
-          <LineEntry ID="c7da542e-9f7f-4add-989f-b1b0ac099749" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:3.95}Don't matter if anything's getting stale.</LineEntry>
-          <LineEntry ID="43d09c73-57d2-4e2f-b639-c2a44d443c27" r="128" g="128" b="255" codes="COO+1">${t:2.86} Soup fixes everything.</LineEntry>
-          <LineEntry ID="ef3c5f5c-a063-4561-9ffc-665a893f4e01" r="128" g="128" b="255" codes="COO+1">${t:4.38}Then don't forget those dry ramen noodles and...</LineEntry>
-          <LineEntry ID="81a7dab8-cf92-4d9e-996b-30969aa207a6" r="128" g="128" b="255" codes="COO+1">${t:3.09}A few twists of pepper.</LineEntry>
-          <LineEntry ID="34b1a256-00eb-4c0d-8cf5-a067fe0d97c5" r="128" g="128" b="255" codes="COO+1">${t:2.90}Bam! Chicken and Noodle soup. </LineEntry>
-          <LineEntry ID="98399cd1-f82a-4ee7-8380-9a4ee0912870" r="128" g="128" b="255" codes="BOR-1">${t:3.29}Guaranteed to lighten a rainy day.</LineEntry>
-          <LineEntry ID="fccf356e-3258-4dc8-8487-13e67f47b017" r="128" g="128" b="255">${t:3.01}See y'all tomorrow!</LineEntry>
+          <LineEntry ID="84247087-4754-4a2d-a638-3abe0a01e077" r="0" g="176" b="240" codes="BOR-1,GUID:84247087-4754-4a2d-a638-3abe0a01e077">${t:1.91}Welcome back to the Cook Show folks.</LineEntry>
+          <LineEntry ID="3d2a8186-bfcf-4a0f-861b-08901c568eb0" r="0" g="176" b="240" codes="BOR-1">${t:3.42}Brought to you by Kitten Knives - Fine American Cookware</LineEntry>
+          <LineEntry ID="6449f3ae-a30c-46c3-bb0f-5aed9f869ae4" r="128" g="128" b="255">${t:2.64}Today's the day for a nourishing Chicken and Noodle soup.</LineEntry>
+          <LineEntry ID="bcec4604-02f6-4fe2-8ec5-ed1be4c3cffc" r="128" g="128" b="255" codes="BOR-1">${t:2.12}I don't know about you, but a good Chicken soup? </LineEntry>
+          <LineEntry ID="ff2bb6d0-ce30-4fd9-baec-876eb19e6062" r="128" g="128" b="255">${t:1.15}It solves everything.</LineEntry>
+          <LineEntry ID="a56a64e4-7c26-4339-9899-062585f1d6b7" r="128" g="128" b="255" codes="BOR-1">${t:1.57}Nourishing, mood-lifting... </LineEntry>
+          <LineEntry ID="feb01a05-318f-4610-bbe4-d7c124380e26" r="128" g="128" b="255">${t:1.52}The smell of home, y'know?</LineEntry>
+          <LineEntry ID="546cd546-02f9-4de9-8d6d-e6796329ad3b" r="128" g="128" b="255" codes="COO+1">${t:1.70}To start, you need some cooked chicken.</LineEntry>
+          <LineEntry ID="079338c1-59bc-4933-9549-83c089fc8bce" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:1.70}Broil, fry, bake - your choice.</LineEntry>
+          <LineEntry ID="5af9957e-50cf-4214-b935-7bff0ae983be" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:1.80}Then get yourself a pot of water.</LineEntry>
+          <LineEntry ID="082144d4-c4f6-4a7f-adfd-d252bae52289" r="128" g="128" b="255" codes="COO+1">${t:1.75}Add it in, bring to the boil and add... </LineEntry>
+          <LineEntry ID="31b28954-cab1-4fec-9de5-ae90d471e75a" r="128" g="128" b="255" codes="COO+1">${t:4.20}Bell Pepper, Onion, Potato...</LineEntry>
+          <LineEntry ID="c7da542e-9f7f-4add-989f-b1b0ac099749" r="128" g="128" b="255" codes="COO+1,BOR-1">${t:2.12}Don't matter if anything's getting stale.</LineEntry>
+          <LineEntry ID="43d09c73-57d2-4e2f-b639-c2a44d443c27" r="128" g="128" b="255" codes="COO+1">${t:1.44} Soup fixes everything.</LineEntry>
+          <LineEntry ID="ef3c5f5c-a063-4561-9ffc-665a893f4e01" r="128" g="128" b="255" codes="COO+1">${t:2.12}Then don't forget those dry ramen noodles and...</LineEntry>
+          <LineEntry ID="81a7dab8-cf92-4d9e-996b-30969aa207a6" r="128" g="128" b="255" codes="COO+1">${t:2.64}A few twists of pepper.</LineEntry>
+          <LineEntry ID="34b1a256-00eb-4c0d-8cf5-a067fe0d97c5" r="128" g="128" b="255" codes="COO+1">${t:1.67}Bam! Chicken and Noodle soup. </LineEntry>
+          <LineEntry ID="98399cd1-f82a-4ee7-8380-9a4ee0912870" r="128" g="128" b="255" codes="BOR-1">${t:1.91}Guaranteed to lighten a rainy day.</LineEntry>
+          <LineEntry ID="fccf356e-3258-4dc8-8487-13e67f47b017" r="128" g="128" b="255">${t:1.10}See y'all tomorrow!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="7275f2e9-a764-4637-8cf1-60b96362a846" timestamp="10800" endstamp="11160" type="ActivateBroadcast" day="7" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="2ab5a897-895d-4423-a9d5-1f6e438f0e6c" r="0" g="176" b="240" codes="BOR-1,GUID:2ab5a897-895d-4423-a9d5-1f6e438f0e6c">${t:3.68}Now I'd like you to meet my good friend Tooks Bear.</LineEntry>
@@ -7022,22 +7022,23 @@
           <LineEntry ID="63535008-4dee-4a39-a7c6-bdbe895dead1" r="0" g="176" b="240" codes="BOR-1">${t:4.35}For $49.99 who'd resist? Call now!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="7a1469c5-0f2f-48e4-b8e6-df2ead207b53" timestamp="11160" endstamp="11490" type="ActivateBroadcast" day="7" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="bab7d4c7-baa0-40e2-82cd-83af7ccb6a5f" r="255" g="192" b="0" codes="BOR-1,GUID:bab7d4c7-baa0-40e2-82cd-83af7ccb6a5f">${t:4.69}Dean right here: welcoming YOU back to Nature.</LineEntry>
-          <LineEntry ID="299d0d6c-a7f5-4e07-8db4-9f52846cdbda" r="255" g="192" b="0">${t:3.76}This is: Exposure Survival!</LineEntry>
-          <LineEntry ID="2f5141a6-192d-4dac-9491-e0d998251eab" r="255" g="192" b="0">${t:4.15}Everyone gets thirsty, right? I know I do.</LineEntry>
-          <LineEntry ID="024f1e84-0a68-4179-af7b-f7fe07f8b036" r="255" g="192" b="0">${t:3.60}If you're a way away from a river though, and there's no tap?</LineEntry>
-          <LineEntry ID="ca117ee4-b696-452c-81cd-cb27acafad4a" r="255" g="192" b="0">${t:3.15}What are you going to do when the sky stops providing?</LineEntry>
-          <LineEntry ID="d1996bb9-c634-4f62-8de1-2c15328086c8" r="255" g="192" b="0" codes="BOR-1">${t:1.48}I'm talking rain guys. </LineEntry>
-          <LineEntry ID="37354046-9ab5-4b76-ac75-9d45f8ca9f6f" r="255" g="192" b="0">${t:4.85}Storing rain, or 'water', is vital to survival.</LineEntry>
-          <LineEntry ID="51c11cc2-1a7d-48da-bd36-3fe363fe5a27" r="255" g="192" b="0">${t:3.82}So build a Rain Collector Barrel to collect water.</LineEntry>
-          <LineEntry ID="2b119fb1-53d7-495a-a1ba-b3f995696f67" r="255" g="192" b="0" codes="CRP+1">${t:4.37}Take four wooden planks, four nails and... </LineEntry>
-          <LineEntry ID="7919285a-dba9-4d9f-824b-d48c2d11e6c4" r="255" g="192" b="0" codes="CRP+1,BOR-1">${t:2.35}Whack 'em with your hammer.</LineEntry>
-          <LineEntry ID="c76be599-e22c-4992-9d7a-e7a895e10930" r="255" g="192" b="0" codes="CRP+1,BOR-1">${t:4.85}Then use rubbish bags, or 'garbage' bags, for the interior.</LineEntry>
-          <LineEntry ID="45bb7159-0a63-4e24-930d-477a4601583f" r="255" g="192" b="0">${t:2.83}Then: look at the sky. </LineEntry>
-          <LineEntry ID="de7c574d-48df-483d-9917-8585c8a58885" r="255" g="192" b="0" codes="BOR-1">${t:4.34}When it rains just watch that thing fill.</LineEntry>
-          <LineEntry ID="5d998990-8428-42bc-9220-a481f4918db8" r="255" g="192" b="0" codes="BOR-1">${t:3.89}You'll think: 'Wow. I'm not going to die." </LineEntry>
-          <LineEntry ID="a168155a-98a2-418c-b13d-62c10750cb60" r="255" g="192" b="0">${t:1.86}"And that is awesome!"</LineEntry>
-          <LineEntry ID="01f2ee09-0ca0-4a8b-acf8-f75643b18fa8" r="255" g="192" b="0">${t:2.25}Until next time guys!</LineEntry>
+          <LineEntry ID="bab7d4c7-baa0-40e2-82cd-83af7ccb6a5f" r="255" g="192" b="0" codes="BOR-1,GUID:bab7d4c7-baa0-40e2-82cd-83af7ccb6a5f">${t:2.46}Dean right here: welcoming YOU back to Nature.</LineEntry>
+          <LineEntry ID="299d0d6c-a7f5-4e07-8db4-9f52846cdbda" r="255" g="192" b="0">${t:1.99}This is: Exposure Survival!</LineEntry>
+          <LineEntry ID="2f5141a6-192d-4dac-9491-e0d998251eab" r="255" g="192" b="0">${t:2.32}Everyone gets thirsty, right? I know I do.</LineEntry>
+          <LineEntry ID="024f1e84-0a68-4179-af7b-f7fe07f8b036" r="255" g="192" b="0">${t:2.93}If you're a way away from a river though, and there's no tap?</LineEntry>
+          <LineEntry ID="ca117ee4-b696-452c-81cd-cb27acafad4a" r="255" g="192" b="0">${t:2.40}What are you going to do when the sky stops providing?</LineEntry>
+          <LineEntry ID="d1996bb9-c634-4f62-8de1-2c15328086c8" r="255" g="192" b="0" codes="BOR-1">${t:1.38}I'm talking rain guys. </LineEntry>
+          <LineEntry ID="37354046-9ab5-4b76-ac75-9d45f8ca9f6f" r="255" g="192" b="0">${t:2.82}Storing rain, or 'water', is vital to survival.</LineEntry>
+          <LineEntry ID="51c11cc2-1a7d-48da-bd36-3fe363fe5a27" r="255" g="192" b="0">${t:2.22}So build a Rain Collector Barrel to collect water.</LineEntry>
+          <LineEntry ID="2b119fb1-53d7-495a-a1ba-b3f995696f67" r="255" g="192" b="0" codes="CRP+1">${t:2.09}Take four wooden planks, four nails and... </LineEntry>
+          <LineEntry ID="7919285a-dba9-4d9f-824b-d48c2d11e6c4" r="255" g="192" b="0" codes="CRP+1,BOR-1">${t:2.42}Whack 'em with your hammer.</LineEntry>
+          <LineEntry ID="c76be599-e22c-4992-9d7a-e7a895e10930" r="255" g="192" b="0" codes="CRP+1,BOR-1">${t:3.24}Then use rubbish bags, or 'garbage' bags, for the interior.</LineEntry>
+          <LineEntry ID="45bb7159-0a63-4e24-930d-477a4601583f" r="255" g="192" b="0">${t:1.15}Then: look at the sky. </LineEntry>
+          <LineEntry ID="de7c574d-48df-483d-9917-8585c8a58885" r="255" g="192" b="0" codes="BOR-1">${t:1.93}When it rains just watch that thing fill.</LineEntry>
+          <LineEntry ID="5d998990-8428-42bc-9220-a481f4918db8" r="255" g="192" b="0" codes="BOR-1">${t:2.22}You'll think: 'Wow. I'm not going to die." </LineEntry>
+          <LineEntry ID="a168155a-98a2-418c-b13d-62c10750cb60" r="255" g="192" b="0">${t:1.15}"And that is awesome!"</LineEntry>
+          <LineEntry ID="01f2ee09-0ca0-4a8b-acf8-f75643b18fa8" r="255" g="192" b="0">${t:1.52}Until next time guys!</LineEntry>
+          <LineEntry ID="1bae42de-f213-4ae8-bf2a-e3211b77c7f0" r="0" g="176" b="240" codes="BOR-1">${t:3.00}[img=music] Wood... craft! [img=music]</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="5508c554-fe80-4433-936d-0f91c4e86b22" timestamp="11490" endstamp="11520" type="ActivateBroadcast" day="7" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="affd476c-4b21-4085-9f52-c80a9931f7a3" timestamp="11520" endstamp="11880" type="ActivateBroadcast" day="8" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
@@ -7051,22 +7052,22 @@
           <LineEntry ID="8cff9b21-6136-4685-beda-5ebe0b2c28c2" r="0" g="176" b="240">${t:4.35}For $49.99 who'd resist? Call now!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="a06dd29c-78cf-4a0b-bba9-600a517bf4a4" timestamp="11880" endstamp="12240" type="ActivateBroadcast" day="8" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="889e63b4-cbd1-40e3-b02a-7e3f9a2b5be4" r="0" g="176" b="240" codes="GUID:889e63b4-cbd1-40e3-b02a-7e3f9a2b5be4">${t:4.77}Hey! You're with the Cook Show!</LineEntry>
-          <LineEntry ID="fef101d2-97ae-490f-a853-19026e2a6ce5" r="0" g="176" b="240">${t:4.99}Brought to you by Kitten Knives - Fine American Cookware</LineEntry>
-          <LineEntry ID="bf638d19-3e28-4aef-b87d-09ed828abe54" r="128" g="128" b="255" codes="BOR-1">${t:3.21}My family are outdoors types. </LineEntry>
-          <LineEntry ID="76b8ebc1-bec1-4ecf-817e-6cf2732b7c6d" r="128" g="128" b="255">${t:2.56}So my refrigerator can get kinda interesting.</LineEntry>
-          <LineEntry ID="30dfe206-4a66-4de7-8de8-348946e53b77" r="128" g="128" b="255">${t:3.91}One thing I can cook - and cook mighty fine - is rabbit.</LineEntry>
-          <LineEntry ID="4f932e92-15f4-4a68-88fc-45fd6cf63451" r="128" g="128" b="255" codes="BOR-1">${t:3.19}Now rabbit's a light flavor, so in today's stew... </LineEntry>
-          <LineEntry ID="6d17d417-b44c-4f45-b487-019e003abd17" r="128" g="128" b="255" codes="BOR-1">${t:1.72}We're gonna back it up with bacon.</LineEntry>
-          <LineEntry ID="53fd9944-15cc-48a4-bc1b-fa1694c55ae5" r="128" g="128" b="255">${t:1.87}Everyone likes bacon, huh?</LineEntry>
-          <LineEntry ID="44d29730-fb79-4204-8893-7e86e6e1b21b" r="128" g="128" b="255" codes="COO+1">${t:2.84}Cook your rabbit meat, add to a pot of water then...</LineEntry>
-          <LineEntry ID="8c8f27de-207e-4284-9106-660bb3e5840b" r="128" g="128" b="255" codes="COO+1">${t:3.07}Throw in your bacon, your tomato, your onion...</LineEntry>
-          <LineEntry ID="368c473d-ae06-4f60-9368-0781fe768d71" r="128" g="128" b="255" codes="COO+1">${t:1.72}... your carrots, if you want.</LineEntry>
-          <LineEntry ID="818b80e2-2083-404d-80eb-15c756d1e3c7" r="128" g="128" b="255" codes="COO+1">${t:3.19}Then, if you're like me, just a bit of salt for flavor.</LineEntry>
-          <LineEntry ID="b4a0984f-9350-4995-8f9f-467b90c8a8ba" r="128" g="128" b="255" codes="COO+1">${t:2.50}Seventy minutes on high heat will do ya. </LineEntry>
-          <LineEntry ID="5f519992-8a18-47df-809f-1313d702474b" r="128" g="128" b="255" codes="COO+1">${t:3.68}Bam! Looks good, huh? </LineEntry>
-          <LineEntry ID="57989bf8-9dc7-4f42-92f1-98815939201b" r="128" g="128" b="255">${t:4.20}Split into four bowls, or two if you're hungry.</LineEntry>
-          <LineEntry ID="24f72017-e00f-4741-a59d-7c808b5e076f" r="128" g="128" b="255" codes="BOR-1">${t:2.84}See y'all tomorrow.</LineEntry>
+          <LineEntry ID="889e63b4-cbd1-40e3-b02a-7e3f9a2b5be4" r="0" g="176" b="240" codes="GUID:889e63b4-cbd1-40e3-b02a-7e3f9a2b5be4">${t:1.70}Hey! You're with the Cook Show!</LineEntry>
+          <LineEntry ID="fef101d2-97ae-490f-a853-19026e2a6ce5" r="0" g="176" b="240">${t:3.71}Brought to you by Kitten Knives - Fine American Cookware</LineEntry>
+          <LineEntry ID="bf638d19-3e28-4aef-b87d-09ed828abe54" r="128" g="128" b="255" codes="BOR-1">${t:1.62}My family are outdoors types. </LineEntry>
+          <LineEntry ID="76b8ebc1-bec1-4ecf-817e-6cf2732b7c6d" r="128" g="128" b="255">${t:2.59}So my refrigerator can get kinda interesting.</LineEntry>
+          <LineEntry ID="30dfe206-4a66-4de7-8de8-348946e53b77" r="128" g="128" b="255">${t:3.00}One thing I can cook - and cook mighty fine - is rabbit.</LineEntry>
+          <LineEntry ID="4f932e92-15f4-4a68-88fc-45fd6cf63451" r="128" g="128" b="255" codes="BOR-1">${t:2.64}Now rabbit's a light flavor, so in today's stew... </LineEntry>
+          <LineEntry ID="6d17d417-b44c-4f45-b487-019e003abd17" r="128" g="128" b="255" codes="BOR-1">${t:1.52}We're gonna back it up with bacon.</LineEntry>
+          <LineEntry ID="53fd9944-15cc-48a4-bc1b-fa1694c55ae5" r="128" g="128" b="255">${t:1.38}Everyone likes bacon, huh?</LineEntry>
+          <LineEntry ID="44d29730-fb79-4204-8893-7e86e6e1b21b" r="128" g="128" b="255" codes="COO+1">${t:3.55}Cook your rabbit meat, add to a pot of water then...</LineEntry>
+          <LineEntry ID="8c8f27de-207e-4284-9106-660bb3e5840b" r="128" g="128" b="255" codes="COO+1">${t:4.64}Throw in your bacon, your tomato, your onion...</LineEntry>
+          <LineEntry ID="368c473d-ae06-4f60-9368-0781fe768d71" r="128" g="128" b="255" codes="COO+1">${t:1.33}... your carrots, if you want.</LineEntry>
+          <LineEntry ID="818b80e2-2083-404d-80eb-15c756d1e3c7" r="128" g="128" b="255" codes="COO+1">${t:4.34}Then, if you're like me, just a bit of salt for flavor.</LineEntry>
+          <LineEntry ID="b4a0984f-9350-4995-8f9f-467b90c8a8ba" r="128" g="128" b="255" codes="COO+1">${t:2.17}Seventy minutes on high heat will do ya. </LineEntry>
+          <LineEntry ID="5f519992-8a18-47df-809f-1313d702474b" r="128" g="128" b="255" codes="COO+1">${t:3.74}Bam! Looks good, huh? </LineEntry>
+          <LineEntry ID="57989bf8-9dc7-4f42-92f1-98815939201b" r="128" g="128" b="255">${t:2.22}Split into four bowls, or two if you're hungry.</LineEntry>
+          <LineEntry ID="24f72017-e00f-4741-a59d-7c808b5e076f" r="128" g="128" b="255" codes="BOR-1">${t:1.15}See y'all tomorrow.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="5594486c-3204-4b7a-89e6-d2d83e937307" timestamp="12240" endstamp="12600" type="ActivateBroadcast" day="8" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="ba8d029d-7652-479e-a625-ceef52238fc8" r="0" g="176" b="80" codes="BOR-1,GUID:ba8d029d-7652-479e-a625-ceef52238fc8">${t:4.15}I'm Doctor Cox, I'm here to talk to YOU about bladder control.</LineEntry>
@@ -7101,15 +7102,15 @@
           <LineEntry ID="f0cfc5ab-135e-40cd-86ac-50b53a654b16" r="0" g="176" b="240" codes="BOR-1">${t:4.35}For $49.99 who'd resist? Call now!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="f6a29037-e70a-4745-8efc-0a58e4b086e9" timestamp="13320" endstamp="13680" type="ActivateBroadcast" day="9" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
-          <LineEntry ID="85b904e0-14e3-4daf-b354-33a7eb31df83" r="0" g="176" b="240" codes="GUID:85b904e0-14e3-4daf-b354-33a7eb31df83">${t:2.85}How you doing? You're on the Cook Show!</LineEntry>
-          <LineEntry ID="824de025-ac2f-445a-be63-ca0d7bad66a1" r="0" g="176" b="240" codes="BOR-1">${t:4.44}Brought to you by Kitten Knives - Fine American Cookware</LineEntry>
-          <LineEntry ID="c1683575-201b-4450-a96d-6f11c257d642" r="128" g="128" b="255" codes="BOR-1">${t:2.34}Today we're going to settle something!</LineEntry>
-          <LineEntry ID="80b0669b-91a1-4bdb-bc99-574fc3affb40" r="128" g="128" b="255">${t:2.05}Something once and for all!</LineEntry>
-          <LineEntry ID="fbb4360f-2fe8-470b-b793-57ad6b083314" r="128" g="128" b="255">${t:3.18}Pancakes or waffles, which is best?</LineEntry>
-          <LineEntry ID="8555a4d0-c749-4951-aeb0-85fa9acdaccc" r="128" g="128" b="255" codes="BOR-1">${t:1.47}Well, I'll tell ya.</LineEntry>
-          <LineEntry ID="bd8b59b6-e5e1-4a61-9742-e1248ff500b6" r="0" g="0" b="0" codes="BOR-1">${t:2.22}&lt;fzzt&gt;</LineEntry>
-          <LineEntry ID="fc7276dc-4976-49ba-a8f9-7d9dc39fb39c" r="0" g="0" b="0">${t:2.17}&lt;bzzt&gt;</LineEntry>
-          <LineEntry ID="c8d8d26c-9c3c-4534-9aad-a755a9d7c72c" r="0" g="0" b="0">${t:2.34}&lt;bzzt&gt;</LineEntry>
+          <LineEntry ID="85b904e0-14e3-4daf-b354-33a7eb31df83" r="0" g="176" b="240" codes="GUID:85b904e0-14e3-4daf-b354-33a7eb31df83">${t:2.27}How you doing? You're on the Cook Show!</LineEntry>
+          <LineEntry ID="824de025-ac2f-445a-be63-ca0d7bad66a1" r="0" g="176" b="240" codes="BOR-1">${t:3.00}Brought to you by Kitten Knives - Fine American Cookware</LineEntry>
+          <LineEntry ID="c1683575-201b-4450-a96d-6f11c257d642" r="128" g="128" b="255" codes="BOR-1">${t:1.67}Today we're going to settle something!</LineEntry>
+          <LineEntry ID="80b0669b-91a1-4bdb-bc99-574fc3affb40" r="128" g="128" b="255">${t:1.28}Something once and for all!</LineEntry>
+          <LineEntry ID="fbb4360f-2fe8-470b-b793-57ad6b083314" r="128" g="128" b="255">${t:2.09}Pancakes or waffles, which is best?</LineEntry>
+          <LineEntry ID="8555a4d0-c749-4951-aeb0-85fa9acdaccc" r="128" g="128" b="255" codes="BOR-1">${t:1.15}Well, I'll tell ya.</LineEntry>
+          <LineEntry ID="bd8b59b6-e5e1-4a61-9742-e1248ff500b6" r="0" g="0" b="0" codes="BOR-1">${t:4.00}&lt;fzzt&gt;</LineEntry>
+          <LineEntry ID="fc7276dc-4976-49ba-a8f9-7d9dc39fb39c" r="0" g="0" b="0">${t:3.00}&lt;bzzt&gt;</LineEntry>
+          <LineEntry ID="c8d8d26c-9c3c-4534-9aad-a755a9d7c72c" r="0" g="0" b="0">${t:3.00}&lt;bzzt&gt;</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="d795a253-0763-4c84-a1f2-f39382ae712b" timestamp="13680" endstamp="14040" type="ActivateBroadcast" day="9" advertCat="none" isSegment="false">
           <LineEntry ID="afae77c4-4077-4d81-92b1-52669661ad08" r="0" g="0" b="0">&lt;bzzt&gt;</LineEntry>

@@ -1,11 +1,9 @@
 Life and Living TV:
 	Director: Fed_Cap
-	(Full Human Voiceover)
 	Actors: WoodCraft Host: Atikar
 		WoodCraft Jingle: RebelRex
-		Salesman and Cookshow announcer: Goosesalesman of Hamburg
-		Cookshow Host (Diane): Ghoulie
-		Exposure Survival Host (Dean): ThatWeasel
+		Salesman: Goosesalesman of Hamburg
+		ElevenLabs
 
 LBMW - Kentucky Radio
 	Director: Fed_Cap
@@ -32,5 +30,3 @@ Adverts:
 	Dr Cox, Ivanov Clubs, Tooks Bear, Wok&Rolls, Pop, Seahorse coffee: Goosesalesman of Hamburg
 	Pop, Seahorse coffee: SerinaSilvermoon
 	Wok&Rolls: thatWeasel, Ghoulie
-	Democrat Ad: Radio dude?
-	Republican Ad: High Sunn
