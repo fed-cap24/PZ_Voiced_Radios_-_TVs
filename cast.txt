@@ -1,4 +1,9 @@
 [list]
+[*]Notable Characters:
+ [list]
+	[*] General John McGrew: The Marshal
+	[*] President Bill Clinton: MaytayMaya
+ [/list]
 [*]Life and Living TV:
  [list]
 	[*] Director: Fed_Cap
@@ -18,12 +23,16 @@
 [*]KnoxTalk Radio
  [list]
 	[*] Director: Fed_Cap
-	[*] Actors: ElevenLabs
+	Actors: ElevenLabs
+		[*] KnoxTalk Host: DaniTGW
  [/list]
 [*]Triple N
  [list]
 	[*] Director: Fed_Cap
-	[*] Actors: ElevenLabs
+	Actors:
+		[*] Joan: 3arthboound
+		[*] Kirsty Cormick: SerinaSilvermoon
+		[*] Judge Matt Hass: Pyrosshade
  [/list]
 [*]Automated Emergency Broadcast System
  [list]
