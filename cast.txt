@@ -9,7 +9,7 @@
 	[*] Director: Fed_Cap
 	(Full Human Voiceover)
 	Actors: 
-        [*]WoodCraft Host: Atikar
+        [*] WoodCraft Host: Atikar
 		[*] WoodCraft Jingle: RebelRex
 		[*] Salesman and Cookshow announcer: Goosesalesman of Hamburg
 		[*] Cookshow Host (Diane): Ghoulie
@@ -25,6 +25,15 @@
 	[*] Director: Fed_Cap
 	Actors: ElevenLabs
 		[*] KnoxTalk Host: DaniTGW
+
+		[*] Unnamed Janitor: Carmine
+		[*] Charles: Already Out
+		
+		[*] Danny: Brock
+		[*] Carla: SerinaSilvermoon
+		[*] Mike: TheDoctor
+
+		[*] Julie: SerinaSilvermoon
  [/list]
 [*]Triple N
  [list]
