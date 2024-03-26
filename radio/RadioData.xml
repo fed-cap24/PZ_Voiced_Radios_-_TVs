@@ -2646,7 +2646,7 @@
           <LineEntry ID="b48aeb45-f50b-44d6-b5c9-10badebee31c" r="0" g="176" b="80">${t:2.53}I headed out on the freeway when the soldiers showed.</LineEntry>
           <LineEntry ID="13311f69-1364-456c-a384-d2e8b190104d" r="0" g="176" b="80" codes="STS-1,UHP-1">${t:4.13}Musta been one of the last out. Then helicopters, trucks, guns...</LineEntry>
           <LineEntry ID="12b60198-a3e9-4bc0-a8f9-d37d96ea9aa8" r="0" g="176" b="240" codes="UHP-1">${t:1.67}You hear anything about the Event Bobby?</LineEntry>
-          <LineEntry ID="09636336-66c2-4f5c-94a1-ddd59ece8fdb" r="0" g="176" b="80">${t:2.51}Kinda. Heard it said some people are ill. </LineEntry>
+          <LineEntry ID="09636336-66c2-4f5c-94a1-ddd59ece8fdb" r="0" g="176" b="80">${t:2.51}Kinda heard it. Said some people are ill. </LineEntry>
           <LineEntry ID="a5dee869-77e5-4dd5-946d-aba04835d44d" r="0" g="176" b="80" codes="UHP-1">${t:0.91}Walking funny.</LineEntry>
           <LineEntry ID="1cba97ec-cc3e-49a1-b7a6-5e38cc8636b3" r="0" g="176" b="80">${t:2.95}They say it starts with a fever, but I missed all that.</LineEntry>
           <LineEntry ID="a39d698d-2e3f-4084-98f6-f1213ab769eb" r="0" g="176" b="240" codes="UHP-1">${t:1.33}Are they violent Bobby?</LineEntry>
@@ -2656,7 +2656,7 @@
           <LineEntry ID="f7d82c9d-d172-4134-a5b5-8829bc621648" r="0" g="176" b="80" codes="BOR-1,UHP-1">${t:1.80}I was getting lunch in Spiffo's.</LineEntry>
           <LineEntry ID="8a31eb2e-984e-43e3-bf91-edb990648354" r="0" g="176" b="80">${t:1.25}Didn't see no fight.</LineEntry>
           <LineEntry ID="7bf3f85c-aca7-4215-8be2-db7e931edf5b" r="0" g="176" b="240" codes="STS-1,UHP-1">${t:1.33}Thanks for your call Bobby!</LineEntry>
-          <LineEntry ID="034f1a81-890b-44cd-b288-0e28f14caf0e" r="0" g="176" b="80">${t:1.10}Okay. Bye.</LineEntry>
+          <LineEntry ID="034f1a81-890b-44cd-b288-0e28f14caf0e" r="0" g="176" b="80">${t:1.10}Alrighty. Bye.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="4fd49029-1b17-43ee-b699-1de993206620" timestamp="1080" endstamp="1410" type="ActivateBroadcast" day="0" advertCat="8a4c8f31-269c-4c35-876c-8db6edf08ead" isSegment="false">
           <LineEntry ID="2c719698-817d-47d0-ad4e-3a4b5b3ff054" r="0" g="176" b="240" codes="UHP-1,GUID:2c719698-817d-47d0-ad4e-3a4b5b3ff054">${t:2.77}We've got someone with something new. Twiggy, you there?</LineEntry>
