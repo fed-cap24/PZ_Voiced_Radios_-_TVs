@@ -26,6 +26,8 @@
 	Actors: ElevenLabs
 		[*] KnoxTalk Host: DaniTGW
 
+		[*] Bobby: Carmine 
+
 		[*] Unnamed Janitor: Carmine
 		[*] Charles: Already Out
 		
