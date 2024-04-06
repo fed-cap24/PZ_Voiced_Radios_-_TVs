@@ -168,13 +168,13 @@
         <LineEntry ID="76fc284d-42dd-409f-8f3e-b5ec27e58685" r="0" g="176" b="240">Out now in theaters!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="aeb5fdd9-c5cf-4816-9eea-b8f11daec903" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="f5969765-ff22-4bff-9d35-05c5a5bb8098" r="128" g="128" b="255">It makes a difference to pick up your medication...</LineEntry>
-        <LineEntry ID="72516138-6dae-41b2-ba27-8003b91c2313" r="128" g="128" b="255">... and see a smile.</LineEntry>
-        <LineEntry ID="a80f063f-935b-4d1e-89e7-ec1f6ecff06d" r="128" g="128" b="255">Your good health means so much.</LineEntry>
-        <LineEntry ID="2da1dcf0-e33e-458f-89b4-e765be2f4a09" r="128" g="128" b="255">We're here to help.</LineEntry>
-        <LineEntry ID="e9b81ec2-c7cd-4e8e-9012-e47e5ff8906c" r="128" g="128" b="255">We're here for your support.</LineEntry>
-        <LineEntry ID="20148f77-4a55-4358-abab-b4eedf032963" r="128" g="128" b="255">Pharmahug: your health...</LineEntry>
-        <LineEntry ID="fc434162-3415-4d37-aadc-86817edd12e7" r="128" g="128" b="255">... your store.</LineEntry>
+        <LineEntry ID="f5969765-ff22-4bff-9d35-05c5a5bb8098" r="128" g="128" b="255" codes="GUID:f5969765-ff22-4bff-9d35-05c5a5bb8098">${t:2.82}It makes a difference to pick up your medication...</LineEntry>
+        <LineEntry ID="72516138-6dae-41b2-ba27-8003b91c2313" r="128" g="128" b="255">${t:1.82}... and see a smile.</LineEntry>
+        <LineEntry ID="a80f063f-935b-4d1e-89e7-ec1f6ecff06d" r="128" g="128" b="255">${t:2.48}Your good health means so much.</LineEntry>
+        <LineEntry ID="2da1dcf0-e33e-458f-89b4-e765be2f4a09" r="128" g="128" b="255">${t:1.66}We're here to help.</LineEntry>
+        <LineEntry ID="e9b81ec2-c7cd-4e8e-9012-e47e5ff8906c" r="128" g="128" b="255">${t:2.29}We're here for your support.</LineEntry>
+        <LineEntry ID="20148f77-4a55-4358-abab-b4eedf032963" r="128" g="128" b="255">${t:2.16}Pharmahug: your health...</LineEntry>
+        <LineEntry ID="fc434162-3415-4d37-aadc-86817edd12e7" r="128" g="128" b="255">${t:1.65}... your store.</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="61be5b65-e9f2-491f-8514-f838f0468f7a" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="ce2f8a16-5c34-45ab-a0fc-42a45bae457d" r="0" g="176" b="80" codes="GUID:ce2f8a16-5c34-45ab-a0fc-42a45bae457d">${t:4.15}I'm Doctor Cox, I'm here to talk to YOU about bladder control.</LineEntry>

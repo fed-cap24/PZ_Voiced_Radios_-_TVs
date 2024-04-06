@@ -191,3 +191,4 @@ RadioWavs.addSongs("8d997d10-f603-4c6c-aba7-74bb8fd1699d","3f4b01a9-a596-4445-9a
 RadioWavs.addSongs("1ccbd6ed-40a5-4659-b6bf-2f35f0915dde","465ef67d-21a8-4c22-a6f4-257eea64e8a3")
 RadioWavs.addSongs("84247087-4754-4a2d-a638-3abe0a01e077","7cb6038a-1f23-440a-ad95-68d01a657885")
 RadioWavs.addSongs("889e63b4-cbd1-40e3-b02a-7e3f9a2b5be4","a06dd29c-78cf-4a0b-bba9-600a517bf4a4")
+RadioWavs.addSongs("f5969765-ff22-4bff-9d35-05c5a5bb8098","aeb5fdd9-c5cf-4816-9eea-b8f11daec903")
