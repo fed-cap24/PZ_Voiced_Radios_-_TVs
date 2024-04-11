@@ -44,6 +44,7 @@
 		[*] Joan: 3arthboound
 		[*] Kirsty Cormick: SerinaSilvermoon
 		[*] Judge Matt Hass: Pyrosshade
+		[*] Professor John Ramirez: CrystalChris
  [/list]
 [*]Automated Emergency Broadcast System
  [list]
