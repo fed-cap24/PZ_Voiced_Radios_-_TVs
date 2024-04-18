@@ -25,8 +25,11 @@
 	[*] Director: Fed_Cap
 	Actors: ElevenLabs
 		[*] KnoxTalk Host: DaniTGW
-
+		
 		[*] Bobby: Carmine 
+		[*] Twiggy: Carmine		
+
+		[*] Todd: Carmine
 
 		[*] Unnamed Janitor: Carmine
 		[*] Charles: Already Out
@@ -44,7 +47,10 @@
 		[*] Joan: 3arthboound
 		[*] Kirsty Cormick: SerinaSilvermoon
 		[*] Judge Matt Hass: Pyrosshade
+		[*] Displaced Civilian 2: AroBaro
 		[*] Professor John Ramirez: CrystalChris
+		[*] Daniel Sinclair: Kepi
+		[*] Triple-N Presentator: AroBaro
  [/list]
 [*]Automated Emergency Broadcast System
  [list]
