@@ -4480,8 +4480,8 @@
           <LineEntry ID="5c4f6fa6-ebcd-4ecb-a43f-a0f13638d24c" r="0" g="176" b="240">${t:2.96}... he has shown throughout his exemplary career.</LineEntry>
           <LineEntry ID="647585d4-1a73-40c9-933d-b19c3317c47b" r="0" g="176" b="240">${t:3.44}It is a distressing time America, but you are in safe hands.</LineEntry>
           <LineEntry ID="2e43030b-e8f8-4679-8277-02334f767336" r="0" g="176" b="240">${t:0.96}Thank you.</LineEntry>
-          <LineEntry ID="cc43cfe7-bf78-4109-a525-1fdadfa1ccd2" r="255" g="0" b="0" codes="BOR-1">${t:1.51}More as it happens throughout the night...</LineEntry>
-          <LineEntry ID="6d79f777-1bb8-472f-8ae7-7dd01c41411a" r="255" g="0" b="0" codes="BOR-1">${t:4.99}... on Triple-N.</LineEntry>
+          <LineEntry ID="cc43cfe7-bf78-4109-a525-1fdadfa1ccd2" r="255" g="192" b="0" codes="BOR-1">${t:1.51}We'll be keeping you updated throughout the night...</LineEntry>
+          <LineEntry ID="6d79f777-1bb8-472f-8ae7-7dd01c41411a" r="255" g="192" b="0" codes="BOR-1">${t:4.99}... on Triple-N.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="1a1cbd5e-182e-4ad9-bc18-85baffb888cb" timestamp="1410" endstamp="1440" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="f51f3562-d2b5-4805-97bd-f6a0f41330f2" timestamp="1440" endstamp="1800" type="ActivateBroadcast" day="1" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
