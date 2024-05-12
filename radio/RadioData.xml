@@ -2807,10 +2807,10 @@
           <LineEntry ID="ae8b721e-43cb-4971-a7bf-854deef884fc" r="0" g="176" b="80">${t:1.99}How in hell can they tell us what to do?</LineEntry>
           <LineEntry ID="d6d254e3-829e-4c74-844e-52a08195746e" r="0" g="176" b="80">${t:2.09}They're scared of catching a cold, so what?</LineEntry>
           <LineEntry ID="32eae4fa-c1b4-4315-8384-621b3629ff88" r="0" g="176" b="80" codes="STS-1,BOR-1">${t:1.67}America can't do business?</LineEntry>
-          <LineEntry ID="1fa654ac-88ea-43a1-848d-2123e43f9db3" r="0" g="176" b="80" codes="STS-1,BOR-1">${t:2.04}America can kiss vacations goodbye?</LineEntry>
+          <LineEntry ID="1fa654ac-88ea-43a1-848d-2123e43f9db3" r="0" g="176" b="80" codes="STS-1,BOR-1">${t:2.04}America can kiss their vacations goodbye?</LineEntry>
           <LineEntry ID="f4ca305a-01c2-4c80-963e-9940b77ac5ad" r="0" g="176" b="80" codes="STS-1">${t:2.77}We founded this nation to get away from those bastards.</LineEntry>
           <LineEntry ID="ce695fb9-fd46-4a8f-8ae5-aca138d8f71a" r="0" g="176" b="240">${t:2.12}Todd I'm gonna have to ask for less cussing.</LineEntry>
-          <LineEntry ID="2a74cbaf-2af3-4e04-94b8-f5177065255c" r="0" g="176" b="80" codes="BOR-1">${t:1.38}I'm sorry. I'm sorry.</LineEntry>
+          <LineEntry ID="2a74cbaf-2af3-4e04-94b8-f5177065255c" r="0" g="176" b="80" codes="BOR-1">${t:1.38}I- I'm sorry. I'm sorry.</LineEntry>
           <LineEntry ID="624bd39a-95fc-42ec-b83a-94abc28d0a6f" r="0" g="176" b="80">${t:1.10}It's just...</LineEntry>
           <LineEntry ID="ccb54f8d-dc17-4fe2-b1e5-c59d8dfb2b05" r="0" g="176" b="80" codes="STS-1">${t:1.52}Y'know I love America.</LineEntry>
           <LineEntry ID="9cabbd45-b363-4df3-a58a-e3cfff72d0ac" r="0" g="176" b="240" codes="BOR-1">${t:1.10}We all do Todd.</LineEntry>

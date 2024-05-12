@@ -29,7 +29,9 @@
 		[*] Bobby: Carmine 
 		[*] Twiggy: Carmine		
 		
+		[*] James: Bryan Butler
 		[*] Catherine: PALSJ
+		
 
 		[*] Todd: Carmine
 
@@ -39,7 +41,9 @@
 		[*] Danny: Brock
 		[*] Carla: SerinaSilvermoon
 		[*] Mike: TheDoctor
+		[*] Brian: kier gordon
 
+		[*] Howard: Bryan Butler
 		[*] Julie: SerinaSilvermoon
  [/list]
 [*]Triple N
