@@ -2235,4 +2235,17 @@ module Base
 			reverbFactor = 0,
 		}
 	}
+
+	sound 9ecd1200-8ead-4e2b-bb7a-9efc422ff77a
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/9ecd1200-8ead-4e2b-bb7a-9efc422ff77a.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
 }

@@ -155,17 +155,17 @@
         <LineEntry ID="39e5cb87-0970-4daf-b731-90f96fa02342" r="255" g="0" b="0">Out now in theaters!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="9ecd1200-8ead-4e2b-bb7a-9efc422ff77a" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="d5dfe630-bb8c-48b2-a706-7e2ffa6aa834" r="128" g="128" b="255">I am Dr. Oids.</LineEntry>
-        <LineEntry ID="5eb07580-c00e-4ae9-ba00-36c84543e946" r="128" g="128" b="255">Welcome to my... robot laboratory.</LineEntry>
-        <LineEntry ID="2e1457fb-9caa-4368-a7f9-dbce1b9a271a" r="255" g="0" b="0">In a future no-one thought would come.</LineEntry>
-        <LineEntry ID="aeadee27-07a3-463e-8187-02904d7867ef" r="255" g="0" b="0">Live robots no-one thought could love.</LineEntry>
-        <LineEntry ID="64f0df49-9a99-423e-8f65-50cdbff37247" r="255" g="0" b="0">Or... dance.</LineEntry>
-        <LineEntry ID="38ffbeba-a4ef-48db-83a4-20cd1c72ed22" r="0" g="176" b="80">[img=music] Do the robot! Do the robot! [img=music] </LineEntry>
-        <LineEntry ID="7c5dff7e-cf05-4071-a86f-229e0fee0764" r="0" g="176" b="80">[img=music] Do the robot dance [img=music]</LineEntry>
-        <LineEntry ID="0a3b6952-2b5d-4269-8bc2-517758f5e437" r="128" g="128" b="255">Stop this frivolity! </LineEntry>
-        <LineEntry ID="6ad58506-a49c-441e-a7b2-f63fa8ff43e6" r="255" g="0" b="0">Dr. Oids will see you now!</LineEntry>
-        <LineEntry ID="75fa01e1-5c17-493a-b539-1d009ade45f2" r="0" g="176" b="240">Dr. Oids, Rated Universal.</LineEntry>
-        <LineEntry ID="76fc284d-42dd-409f-8f3e-b5ec27e58685" r="0" g="176" b="240">Out now in theaters!</LineEntry>
+        <LineEntry ID="d5dfe630-bb8c-48b2-a706-7e2ffa6aa834" r="128" g="128" b="255" codes="GUID:d5dfe630-bb8c-48b2-a706-7e2ffa6aa834">${t:2.36}I am Dr. Oids.</LineEntry>
+        <LineEntry ID="5eb07580-c00e-4ae9-ba00-36c84543e946" r="128" g="128" b="255">${t:4.30}Welcome to my... robot laboratory.</LineEntry>
+        <LineEntry ID="2e1457fb-9caa-4368-a7f9-dbce1b9a271a" r="255" g="0" b="0">${t:2.86}In a future no-one thought would come.</LineEntry>
+        <LineEntry ID="aeadee27-07a3-463e-8187-02904d7867ef" r="255" g="0" b="0">${t:3.29}Live robots no-one thought could love.</LineEntry>
+        <LineEntry ID="64f0df49-9a99-423e-8f65-50cdbff37247" r="255" g="0" b="0">${t:2.58}Or... dance.</LineEntry>
+        <LineEntry ID="38ffbeba-a4ef-48db-83a4-20cd1c72ed22" r="0" g="176" b="80">${t:3.04}[img=music] Do the robot! Do the robot! [img=music] </LineEntry>
+        <LineEntry ID="7c5dff7e-cf05-4071-a86f-229e0fee0764" r="0" g="176" b="80">${t:2.29}[img=music] Do the robot dance [img=music]</LineEntry>
+        <LineEntry ID="0a3b6952-2b5d-4269-8bc2-517758f5e437" r="128" g="128" b="255">${t:2.67}Stop this frivolity! </LineEntry>
+        <LineEntry ID="6ad58506-a49c-441e-a7b2-f63fa8ff43e6" r="255" g="0" b="0">${t:1.69}Dr. Oids will see you now!</LineEntry>
+        <LineEntry ID="75fa01e1-5c17-493a-b539-1d009ade45f2" r="0" g="176" b="240">${t:1.13}Dr. Oids, Rated Universal.</LineEntry>
+        <LineEntry ID="76fc284d-42dd-409f-8f3e-b5ec27e58685" r="0" g="176" b="240">${t:0.67}Out now in theaters!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="aeb5fdd9-c5cf-4816-9eea-b8f11daec903" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="f5969765-ff22-4bff-9d35-05c5a5bb8098" r="128" g="128" b="255" codes="GUID:f5969765-ff22-4bff-9d35-05c5a5bb8098">${t:2.82}It makes a difference to pick up your medication...</LineEntry>
