@@ -112,13 +112,13 @@
         <LineEntry ID="63e34e92-148f-47a3-a7f2-5344199aade4" r="128" g="128" b="255">${t:1.99}Out now in theaters!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="72da949a-c198-4b08-a2ac-148917019063" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="74353cef-98ed-4aac-b450-eac04be503d8" r="255" g="192" b="0">That is BEAUTIFUL!</LineEntry>
-        <LineEntry ID="07a033a7-76ff-4aa6-acf9-17c4e442b5aa" r="128" g="128" b="255">This coat? It's from Fashionabelle.</LineEntry>
-        <LineEntry ID="e86eb129-9283-4a29-80cd-ab8489d95dd1" r="128" g="128" b="255">Clothes of distinction, at fine prices.</LineEntry>
-        <LineEntry ID="18bd8fb5-554d-417f-ac65-9a81cdfd11ef" r="255" g="192" b="0">Well I know where I'm going!</LineEntry>
-        <LineEntry ID="1ed02755-81e0-4bb4-8c3d-fa88391c086b" r="128" g="128" b="255">Right now?</LineEntry>
-        <LineEntry ID="07b5c28d-1288-4c4a-8c3a-a079ca902347" r="255" g="192" b="0">You said it! Right now!</LineEntry>
-        <LineEntry ID="303606ff-d1d3-42f9-91c1-60a31c840835" r="128" g="128" b="255">Fashionabelle!</LineEntry>
+        <LineEntry ID="74353cef-98ed-4aac-b450-eac04be503d8" r="255" g="192" b="0" codes="GUID:74353cef-98ed-4aac-b450-eac04be503d8">${t:2.50}That is BEAUTIFUL!</LineEntry>
+        <LineEntry ID="07a033a7-76ff-4aa6-acf9-17c4e442b5aa" r="128" g="128" b="255">${t:2.19}This coat? It's from Fashionabelle.</LineEntry>
+        <LineEntry ID="e86eb129-9283-4a29-80cd-ab8489d95dd1" r="128" g="128" b="255">${t:2.87}Clothes of distinction, at fine prices.</LineEntry>
+        <LineEntry ID="18bd8fb5-554d-417f-ac65-9a81cdfd11ef" r="255" g="192" b="0">${t:2.61}Well I know where I'm going!</LineEntry>
+        <LineEntry ID="1ed02755-81e0-4bb4-8c3d-fa88391c086b" r="128" g="128" b="255">${t:0.68}Right now?</LineEntry>
+        <LineEntry ID="07b5c28d-1288-4c4a-8c3a-a079ca902347" r="255" g="192" b="0">${t:1.87}You said it! Right now!</LineEntry>
+        <LineEntry ID="303606ff-d1d3-42f9-91c1-60a31c840835" r="128" g="128" b="255">${t:0.75}Fashionabelle!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="1c755859-73e9-486e-9f70-d0ba0d739db8" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="506d117a-4c3b-4e16-81c9-551232e77666" r="0" g="176" b="80" codes="GUID:506d117a-4c3b-4e16-81c9-551232e77666">${t:3.29}In today's busy cut and thrust world...</LineEntry>
@@ -4957,7 +4957,7 @@
           <LineEntry ID="c8b79a39-175a-45f4-8a6f-643c2a193789" r="255" g="0" b="0">${t:1.82}It has always been contained.</LineEntry>
           <LineEntry ID="4c1a79ce-c804-4506-bd91-f09d0b54fdb3" r="255" g="0" b="0" codes="BOR-1">${t:1.02}We are safe.</LineEntry>
           <LineEntry ID="4dfbd973-fdbf-4824-b9ae-7f7beb077a2b" r="255" g="0" b="0">${t:2.12}America is safe.</LineEntry>
-          <LineEntry ID="afee167e-1caf-4429-a26f-abe1d4d7d432" r="255" g="192" b="0" codes="BOR-1">${t:3.48}Meanwhile it's been a night of anarchy on our streets as...</LineEntry>
+          <LineEntry ID="afee167e-1caf-4429-a26f-abe1d4d7d432" r="255" g="192" b="0" codes="BOR-1">${t:3.48}Meanwhile it's been a night of anarchy in our streets as...</LineEntry>
           <LineEntry ID="6f4ba42e-b12c-45e4-9243-a488abf54734" r="0" g="0" b="0" codes="BOR-1">${t:2.50}&lt;bzzt&gt;</LineEntry>
           <LineEntry ID="7c9398d9-0b1d-4be7-8872-6d86dfca3d58" r="255" g="192" b="0" codes="BOR-1">${t:1.66}... gangs of youths....</LineEntry>
           <LineEntry ID="babc3ed3-9bef-4d79-b2b3-5d9955a54ae3" r="0" g="0" b="0" codes="BOR-1">${t:1.36}&lt;bzzt&gt;</LineEntry>
@@ -4971,18 +4971,18 @@
           <LineEntry ID="69369396-a312-4e57-8875-ffcf8e3e4c5b" r="255" g="192" b="0">${t:2.68}We've got live pictures from inside the event line</LineEntry>
           <LineEntry ID="0a6d0e67-4fa1-48bd-849b-4fc6ea19de48" r="255" g="192" b="0" codes="BOR-1">${t:1.88}Kirsty? Are you there?</LineEntry>
           <LineEntry ID="bc12607c-4c10-4b12-8873-079503e43a7a" r="128" g="128" b="255">${t:4.13}I am Joan. I can't say how, but we've been allowed access.</LineEntry>
-          <LineEntry ID="6484dbdf-76db-487a-85a9-ad5060c88c9a" r="128" g="128" b="255" codes="BOR-1">${t:3.17}We're through the Event line. This is an exclusive.</LineEntry>
+          <LineEntry ID="6484dbdf-76db-487a-85a9-ad5060c88c9a" r="128" g="128" b="255" codes="BOR-1">${t:3.17}We're currently through the Event line. This is an exclusive.</LineEntry>
           <LineEntry ID="48ceb1a4-4bf1-4370-a0d0-3d0a5e66e121" r="128" g="128" b="255" codes="BOR-1">${t:2.74}Once upon a time people pumped gas here.</LineEntry>
-          <LineEntry ID="85297159-9ca5-42a2-8f6b-737b63a29100" r="128" g="128" b="255">${t:3.81}Now it's eerie. It's quiet. It's desolate.</LineEntry>
-          <LineEntry ID="b44386a8-4702-4818-abd6-f4fdba88980f" r="128" g="128" b="255">${t:1.30}And we're not alone.</LineEntry>
-          <LineEntry ID="76ad3d60-8bf9-4d75-b276-cc6ceb772e64" r="128" g="128" b="255">${t:3.57}Just around this corner is a woman. A woman who used to work here.</LineEntry>
-          <LineEntry ID="75b4b6b8-6906-4dec-b4ec-7d0c3558ae4d" r="128" g="128" b="255">${t:2.09}Her mind's a blank, and she's angry...</LineEntry>
-          <LineEntry ID="864ec3ef-5870-4e2a-bcd2-f63ea738fc76" r="128" g="128" b="255">${t:3.14}... but her leg is injured, so we're safe. She's stationary.</LineEntry>
+          <LineEntry ID="85297159-9ca5-42a2-8f6b-737b63a29100" r="128" g="128" b="255">${t:3.81}Now it's eerie. Quiet. Desolate.</LineEntry>
+          <LineEntry ID="b44386a8-4702-4818-abd6-f4fdba88980f" r="128" g="128" b="255">${t:1.30}But we're not alone.</LineEntry>
+          <LineEntry ID="76ad3d60-8bf9-4d75-b276-cc6ceb772e64" r="128" g="128" b="255">${t:3.57}Just around this corner is a woman. She used to work here.</LineEntry>
+          <LineEntry ID="75b4b6b8-6906-4dec-b4ec-7d0c3558ae4d" r="128" g="128" b="255">${t:2.09}Her mind's gone blank, and she's- she's angry...</LineEntry>
+          <LineEntry ID="864ec3ef-5870-4e2a-bcd2-f63ea738fc76" r="128" g="128" b="255">${t:3.14}... but her leg is injured, so- so we're safe. She's stationary.</LineEntry>
           <LineEntry ID="68b3d124-2b82-4fe6-af59-c88afe36c2c9" r="0" g="0" b="0" codes="BOR-1">${t:1.17}*distant gunfire*</LineEntry>
           <LineEntry ID="4d99b32c-f94c-44bf-aed0-8803f9fdf9b2" r="128" g="128" b="255">${t:1.33}This might shock some viewers.</LineEntry>
           <LineEntry ID="390ab136-884d-4a47-a229-b5b28300dc3e" r="0" g="0" b="0" codes="BOR-1">${t:1.30}*distant explosion*</LineEntry>
           <LineEntry ID="e494bbc6-411f-4304-8024-4a447ad55007" r="128" g="128" b="255">${t:1.88}Did those noises just come from the camp?</LineEntry>
-          <LineEntry ID="cd521751-8eed-4da2-af40-6a9216a63049" r="128" g="128" b="255" codes="BOR-1">${t:1.53}Did you hear that?</LineEntry>
+          <LineEntry ID="cd521751-8eed-4da2-af40-6a9216a63049" r="128" g="128" b="255" codes="BOR-1">${t:1.53}Wait a minute... Hey, did you hear that?</LineEntry>
           <LineEntry ID="3f5a1110-3ec7-4b06-8564-1c6968e7ba03" r="255" g="0" b="0">${t:1.40}HGRAAAHHHH!</LineEntry>
           <LineEntry ID="8807c787-f38b-4616-9b3c-ca3a8e52a637" r="128" g="128" b="255">${t:0.50}FUCK!</LineEntry>
           <LineEntry ID="b378d9f3-aa3e-4198-9623-16c5bb15e9c5" r="128" g="128" b="255" codes="BOR-1">${t:0.74}Shoot her!</LineEntry>

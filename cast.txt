@@ -32,11 +32,12 @@
 		[*] James: Bryan Butler
 		[*] Catherine: PALSJ
 		
-
+		[*] Ethan: yuripulga
 		[*] Todd: Carmine
 
 		[*] Unnamed Janitor: Carmine
 		[*] Charles: Already Out
+		[*] John: Patriot
 		
 		[*] Danny: Brock
 		[*] Carla: SerinaSilvermoon
@@ -53,6 +54,7 @@
 		[*] Joan: 3arthboound
 		[*] Kirsty Cormick: SerinaSilvermoon
 		[*] Judge Matt Hass: Pyrosshade
+		[*] Displaced Civilian 1: Patriot
 		[*] Displaced Civilian 2: AroBaro
 		[*] Displaced Civilian 3: AroBaro
 		[*] Professor John Ramirez: CrystalChris
@@ -78,5 +80,6 @@
 	[*] Republican Ad: High Sunn
 	[*] Pharmahug: PALSJ
 	[*] Dr. Oids: Kepi
+	[*] Fashionabelle: Bryan Butler, Kier Gordon
  [/list]
 [/list]
