@@ -5089,13 +5089,13 @@
         </BroadcastEntry>
         <BroadcastEntry ID="8032bc01-fbf3-47c7-9df1-8fbb1593b962" timestamp="9360" endstamp="9720" type="ActivateBroadcast" day="6" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="3b3a1367-2fe9-4c4d-a03d-13b876db8c9c" r="128" g="128" b="255" codes="BOR-1,GUID:3b3a1367-2fe9-4c4d-a03d-13b876db8c9c">${t:2.80}This is Triple-N. </LineEntry>
-          <LineEntry ID="10272ca4-19cf-4a44-a12f-5a8b3764150c" r="128" g="128" b="255" codes="BOR-1">${t:1.92}This is Kirsty Cormick.</LineEntry>
+          <LineEntry ID="10272ca4-19cf-4a44-a12f-5a8b3764150c" r="128" g="128" b="255" codes="BOR-1">${t:1.92}And I'm Kirsty Cormick.</LineEntry>
           <LineEntry ID="18230762-a44b-474c-8e87-e3af2e1c4d41" r="128" g="128" b="255" codes="BOR-1">${t:2.39}The Knox Event infection is spreading.</LineEntry>
-          <LineEntry ID="29d60fff-d011-468c-90db-5e59f9cae45d" r="128" g="128" b="255">${t:3.65}It's spreading fast, and it's spreading without fluid contact.</LineEntry>
+          <LineEntry ID="29d60fff-d011-468c-90db-5e59f9cae45d" r="128" g="128" b="255">${t:3.65}It's spreading fast, and now without fluid contact.</LineEntry>
           <LineEntry ID="04b5e765-cb10-4395-a6b5-8deab8facac8" r="128" g="128" b="255">${t:3.11}It came out with the infected over the Event line.</LineEntry>
           <LineEntry ID="a123eda7-0b14-47e6-844f-ef58db3781db" r="128" g="128" b="255" codes="BOR-1">${t:1.51}It's chaos here. </LineEntry>
           <LineEntry ID="0cd084da-b1c4-4ee3-bacc-1879c05c656a" r="128" g="128" b="255">${t:3.30}People are heading North to Louisville, but it's gridlock.</LineEntry>
-          <LineEntry ID="ecc850a6-2ad1-4561-92b5-2b9847dcb45e" r="128" g="128" b="255" codes="BOR-1">${t:2.29}People are hungry, people are fighting. </LineEntry>
+          <LineEntry ID="ecc850a6-2ad1-4561-92b5-2b9847dcb45e" r="128" g="128" b="255" codes="BOR-1">${t:2.29}People are hungry and... fighting. </LineEntry>
           <LineEntry ID="f60491dd-cd73-433d-9722-7eee4627b201" r="128" g="128" b="255" codes="BOR-1">${t:1.73}And now they're falling ill:</LineEntry>
           <LineEntry ID="08e34c0b-5656-4d08-a438-5260a842abaa" r="0" g="176" b="80" codes="BOR-1">${t:3.46}My father... he's not bitten.</LineEntry>
           <LineEntry ID="cd262164-ec24-47cc-b551-24ea473bf9f2" r="0" g="176" b="80" codes="BOR-1">${t:2.55}He hasn't even seen one of those things.</LineEntry>
@@ -5313,15 +5313,15 @@
           <LineEntry ID="a91164fb-10b9-4617-a160-427fd32fafac" r="128" g="128" b="255">${t:3.91}It is... the stuff of nightmare.</LineEntry>
           <LineEntry ID="a373284d-d702-40dc-af31-04bed71cd5e2" r="128" g="128" b="255">${t:2.06}If you are still alive...</LineEntry>
           <LineEntry ID="db50ea73-8899-45c5-92d2-722f56620a93" r="128" g="128" b="255">${t:1.45}If the fever didn't get to you...</LineEntry>
-          <LineEntry ID="51f81edf-5d89-46e5-9443-e637f6b99cb0" r="128" g="128" b="255">${t:1.58}It all rests on you... </LineEntry>
+          <LineEntry ID="51f81edf-5d89-46e5-9443-e637f6b99cb0" r="128" g="128" b="255">${t:1.58}Then it all rests on you...</LineEntry>
           <LineEntry ID="2d9585f9-5671-41f3-a0fc-0250037ca3e3" r="128" g="128" b="255">${t:1.30}Just please...</LineEntry>
-          <LineEntry ID="6dcf11f2-4c30-4793-9120-5ce080f5346c" r="128" g="128" b="255">${t:1.21}Not now.</LineEntry>
-          <LineEntry ID="ca0a3862-0b93-400c-9b6b-b0e4ee69520b" r="128" g="128" b="255">${t:0.87}Please not now.</LineEntry>
-          <LineEntry ID="8ed240d2-7b25-4b0f-a54d-09cb9fd994ec" r="128" g="128" b="255">${t:0.76}No.</LineEntry>
+          <LineEntry ID="6dcf11f2-4c30-4793-9120-5ce080f5346c" r="128" g="128" b="255">${t:1.21}Oh God no.</LineEntry>
+          <LineEntry ID="ca0a3862-0b93-400c-9b6b-b0e4ee69520b" r="128" g="128" b="255">${t:0.87}No, Come on.</LineEntry>
+          <LineEntry ID="8ed240d2-7b25-4b0f-a54d-09cb9fd994ec" r="128" g="128" b="255">${t:0.76}Come on.</LineEntry>
           <LineEntry ID="30de7928-ad1f-4d46-bea4-331e7931331a" r="128" g="128" b="255">${t:0.37}Please.</LineEntry>
           <LineEntry ID="dd364ea2-18e2-4224-92a8-0fa241de7c23" r="128" g="128" b="255">${t:1.30}Find a way to survive.</LineEntry>
           <LineEntry ID="6d90d345-847b-4ae2-88d7-7767f02209c2" r="128" g="128" b="255">${t:0.39}Please.</LineEntry>
-          <LineEntry ID="12f133e8-13f5-4c95-8ccb-44d00ad0f213" r="128" g="128" b="255">${t:3.94}God Bless America.</LineEntry>
+          <LineEntry ID="12f133e8-13f5-4c95-8ccb-44d00ad0f213" r="128" g="128" b="255">${t:3.94}God &lt;sob&gt; Bless America.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="1939e33f-957c-412f-bb82-0c3ab2477468" timestamp="17250" endstamp="17280" type="ActivateBroadcast" day="11" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="7d7c338e-5b3d-4b4c-936a-d282c1911d00" timestamp="17280" endstamp="17640" type="ActivateBroadcast" day="12" advertCat="none" isSegment="false">
@@ -5330,15 +5330,15 @@
           <LineEntry ID="81cd0ca4-fca5-4796-82a3-cf562c539ebb" r="128" g="128" b="255">${t:3.91}It is... the stuff of nightmare.</LineEntry>
           <LineEntry ID="b7c1429c-b28c-4fb7-ad04-1b6da73e061d" r="128" g="128" b="255">${t:2.06}If you are still alive...</LineEntry>
           <LineEntry ID="fc472c7c-2699-422f-8424-e97f481ff25d" r="128" g="128" b="255">${t:1.45}If the fever didn't get to you...</LineEntry>
-          <LineEntry ID="cd7e030a-9419-4759-90b7-26061f0727a5" r="128" g="128" b="255">${t:1.58}It all rests on you... </LineEntry>
+          <LineEntry ID="cd7e030a-9419-4759-90b7-26061f0727a5" r="128" g="128" b="255">${t:1.58}Then it all rests on you...</LineEntry>
           <LineEntry ID="6c22215a-5c8f-4aa3-8765-a7fa3fede00a" r="128" g="128" b="255">${t:1.30}Just please...</LineEntry>
-          <LineEntry ID="229f6db5-8dc1-43d1-8124-ebaf87e53690" r="128" g="128" b="255">${t:1.21}Not now.</LineEntry>
-          <LineEntry ID="095f6427-c832-4fd5-acde-6a0b15969c74" r="128" g="128" b="255">${t:0.87}Please not now.</LineEntry>
-          <LineEntry ID="00581fd8-4812-4973-bd63-d4829e2d2c0b" r="128" g="128" b="255">${t:0.76}No.</LineEntry>
+          <LineEntry ID="229f6db5-8dc1-43d1-8124-ebaf87e53690" r="128" g="128" b="255">${t:1.21}Oh God no.</LineEntry>
+          <LineEntry ID="095f6427-c832-4fd5-acde-6a0b15969c74" r="128" g="128" b="255">${t:0.87}No, Come on.</LineEntry>
+          <LineEntry ID="00581fd8-4812-4973-bd63-d4829e2d2c0b" r="128" g="128" b="255">${t:0.76}Come on.</LineEntry>
           <LineEntry ID="405cf244-5d16-48a4-914e-5c59c830098a" r="128" g="128" b="255">${t:0.37}Please.</LineEntry>
           <LineEntry ID="5438f413-61c2-411d-a85c-b25e3832dc30" r="128" g="128" b="255">${t:1.30}Find a way to survive.</LineEntry>
           <LineEntry ID="b09ce72c-1ca8-4de6-92d2-67656317bd71" r="128" g="128" b="255">${t:0.39}Please.</LineEntry>
-          <LineEntry ID="d0b34548-d3dc-45a1-b101-6bb62dc8a913" r="128" g="128" b="255">${t:3.94}God Bless America.</LineEntry>
+          <LineEntry ID="d0b34548-d3dc-45a1-b101-6bb62dc8a913" r="128" g="128" b="255">${t:3.94}God &lt;sob&gt; Bless America.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="3de3297e-8084-4923-a26b-54d8a7e07190" timestamp="17640" endstamp="18000" type="ActivateBroadcast" day="12" advertCat="none" isSegment="false">
           <LineEntry ID="8d4d44a1-dc28-405d-aab9-f6cfa3c5bd78" r="128" g="128" b="255" codes="GUID:8d4d44a1-dc28-405d-aab9-f6cfa3c5bd78">${t:4.24}This is a recorded broadcast. It will be set to repeat.</LineEntry>
@@ -5346,15 +5346,15 @@
           <LineEntry ID="b4b65239-2d3d-4889-8701-5829e3b5be0e" r="128" g="128" b="255">${t:3.91}It is... the stuff of nightmare.</LineEntry>
           <LineEntry ID="ef52eeee-3dba-49ed-bae1-79055c07e7c9" r="128" g="128" b="255">${t:2.06}If you are still alive...</LineEntry>
           <LineEntry ID="5cfa64a0-847c-427b-a406-f748b9126d14" r="128" g="128" b="255">${t:1.45}If the fever didn't get to you...</LineEntry>
-          <LineEntry ID="506dc4b1-d1f8-41f5-85c8-618bea4fddc4" r="128" g="128" b="255">${t:1.58}It all rests on you... </LineEntry>
+          <LineEntry ID="506dc4b1-d1f8-41f5-85c8-618bea4fddc4" r="128" g="128" b="255">${t:1.58}Then it all rests on you...</LineEntry>
           <LineEntry ID="eb87ccdc-8f3d-4215-8d9d-582973906b36" r="128" g="128" b="255">${t:1.30}Just please...</LineEntry>
-          <LineEntry ID="91c937fb-6176-43c5-8e5f-22aa0e19dfa2" r="128" g="128" b="255">${t:1.21}Not now.</LineEntry>
-          <LineEntry ID="00321ae7-a66c-4fb7-ac0a-a453242b3caf" r="128" g="128" b="255">${t:0.87}Please not now.</LineEntry>
-          <LineEntry ID="dbb126f5-cb8b-49d7-a2b5-02472fc3bb80" r="128" g="128" b="255">${t:0.76}No.</LineEntry>
+          <LineEntry ID="91c937fb-6176-43c5-8e5f-22aa0e19dfa2" r="128" g="128" b="255">${t:1.21}Oh God no.</LineEntry>
+          <LineEntry ID="00321ae7-a66c-4fb7-ac0a-a453242b3caf" r="128" g="128" b="255">${t:0.87}No, Come on.</LineEntry>
+          <LineEntry ID="dbb126f5-cb8b-49d7-a2b5-02472fc3bb80" r="128" g="128" b="255">${t:0.76}Come on.</LineEntry>
           <LineEntry ID="d4eae1b8-5a6e-49b2-85d4-dc23ac042aa7" r="128" g="128" b="255">${t:0.37}Please.</LineEntry>
           <LineEntry ID="ca5e95c7-0e0c-45ed-b211-b097dabfd369" r="128" g="128" b="255">${t:1.30}Find a way to survive.</LineEntry>
           <LineEntry ID="be028879-076a-4e18-9e29-fb7c9697bc5b" r="128" g="128" b="255">${t:0.39}Please.</LineEntry>
-          <LineEntry ID="e1fb3fed-a047-49f9-9d57-df92ae1ba42c" r="128" g="128" b="255">${t:3.94}God Bless America.</LineEntry>
+          <LineEntry ID="e1fb3fed-a047-49f9-9d57-df92ae1ba42c" r="128" g="128" b="255">${t:3.94}God &lt;sob&gt; Bless America.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="d9c9f422-7252-4f39-ae53-04ba978a77d9" timestamp="18000" endstamp="18360" type="ActivateBroadcast" day="12" advertCat="none" isSegment="false">
           <LineEntry ID="d02609ab-510a-470f-b16b-d57ea40d2b2e" r="0" g="0" b="0">&lt;bzzt&gt;</LineEntry>
