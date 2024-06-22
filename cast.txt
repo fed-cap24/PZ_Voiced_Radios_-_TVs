@@ -2,7 +2,7 @@
 [*]Notable Characters:
  [list]
 	[*] General John McGrew: The Marshal
-	[*] President Bill Clinton: MaytayMaya
+	[*] President Bill Clinton: MaytayMaya (StS voice clone)
  [/list]
 [*]Life and Living TV:
  [list]
@@ -59,6 +59,7 @@
 		[*] Displaced Civilian 3: AroBaro
 		[*] Professor John Ramirez: CrystalChris
 		[*] Daniel Sinclair: Kepi
+		[*] Pauline Simpson: Brock (StS Alice)
 		[*] Triple-N Presentator: AroBaro
  [/list]
 [*]Automated Emergency Broadcast System

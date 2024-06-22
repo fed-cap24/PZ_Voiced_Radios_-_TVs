@@ -4320,7 +4320,7 @@
           <LineEntry ID="b4c18657-d934-4b8b-9f09-6b3ded4bf239" r="255" g="192" b="0" codes="BOR-1,GUID:b4c18657-d934-4b8b-9f09-6b3ded4bf239">${t:2.60}This is Triple-N. </LineEntry>
           <LineEntry ID="0c2d8833-a092-4310-82b3-aa7621f35f3c" r="255" g="192" b="0" codes="BOR-1">${t:3.20}We're going straight to Kentucky for this developing story.</LineEntry>
           <LineEntry ID="8bc41d8e-44dd-4e3b-9895-581839a51586" r="255" g="192" b="0">${t:1.76}Kirsty Cormick, are you there?</LineEntry>
-          <LineEntry ID="70119030-1d09-4680-af1b-eced1d9dab6e" r="128" g="128" b="255">${t:4.01}I am Joan. It's 48 hours since this all began.</LineEntry>
+          <LineEntry ID="70119030-1d09-4680-af1b-eced1d9dab6e" r="128" g="128" b="255">${t:4.01}I am Joan. It's been 48 hours since this all began.</LineEntry>
           <LineEntry ID="8d74cdc9-7631-4ed2-9484-32ea34b018e5" r="128" g="128" b="255" codes="BOR-1">${t:2.78}A community laid low with an unknown illness.</LineEntry>
           <LineEntry ID="cc802284-ca0c-439b-baec-c3cd943fcf2c" r="128" g="128" b="255" codes="BOR-1">${t:2.81}A military perimeter set up almost overnight.</LineEntry>
           <LineEntry ID="2ab593bb-947b-4345-a576-3cf5e8effffa" r="128" g="128" b="255">${t:4.61}Then the rumors of civilian confusion and bizarre activity within the zone.</LineEntry>
@@ -4480,7 +4480,7 @@
           <LineEntry ID="5c4f6fa6-ebcd-4ecb-a43f-a0f13638d24c" r="0" g="176" b="240">${t:2.96}... he has shown throughout his exemplary career.</LineEntry>
           <LineEntry ID="647585d4-1a73-40c9-933d-b19c3317c47b" r="0" g="176" b="240">${t:3.44}It is a distressing time America, but you are in safe hands.</LineEntry>
           <LineEntry ID="2e43030b-e8f8-4679-8277-02334f767336" r="0" g="176" b="240">${t:0.96}Thank you.</LineEntry>
-          <LineEntry ID="cc43cfe7-bf78-4109-a525-1fdadfa1ccd2" r="255" g="192" b="0" codes="BOR-1">${t:1.51}We'll be keeping you updated throughout the night...</LineEntry>
+          <LineEntry ID="cc43cfe7-bf78-4109-a525-1fdadfa1ccd2" r="255" g="192" b="0" codes="BOR-1">${t:1.51}More as it happens throughout the night......</LineEntry>
           <LineEntry ID="6d79f777-1bb8-472f-8ae7-7dd01c41411a" r="255" g="192" b="0" codes="BOR-1">${t:4.99}... on Triple-N.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="1a1cbd5e-182e-4ad9-bc18-85baffb888cb" timestamp="1410" endstamp="1440" type="ActivateBroadcast" day="0" advertCat="none" isSegment="false" />
@@ -4859,9 +4859,9 @@
           <LineEntry ID="efc6821d-078f-4282-bdcc-3889a70737d0" r="128" g="128" b="255">${t:2.39}Their story is one of horror.</LineEntry>
           <LineEntry ID="853b5319-c598-486b-8f34-26887723f025" r="128" g="128" b="255" codes="BOR-1">${t:3.41}The Knox Infection's final stage is one of violence.</LineEntry>
           <LineEntry ID="9f2ce773-c089-4069-a34b-86422eb17e0a" r="128" g="128" b="255">${t:1.83}Sufferers attack friends.</LineEntry>
-          <LineEntry ID="6b4d650d-c01d-4f4b-aa4c-66c1b9de1f61" r="128" g="128" b="255">${t:1.63}Sufferers attack family.</LineEntry>
+          <LineEntry ID="6b4d650d-c01d-4f4b-aa4c-66c1b9de1f61" r="128" g="128" b="255">${t:1.63}And they attack family.</LineEntry>
           <LineEntry ID="ce37aa68-6b68-4254-abdd-e28cbf246259" r="128" g="128" b="255">${t:4.58}These recently released survivors aside: the infection rate is total.</LineEntry>
-          <LineEntry ID="a4c67c26-b528-4d89-adc1-2366440aecad" r="128" g="128" b="255" codes="BOR-1">${t:4.69}I just recorded an interview with Pauline Simpson who has come from inside the zone.</LineEntry>
+          <LineEntry ID="a4c67c26-b528-4d89-adc1-2366440aecad" r="128" g="128" b="255" codes="BOR-1">${t:4.69}I just recorded an interview with Pauline Simpson who has come from the inside.</LineEntry>
           <LineEntry ID="325a8dc9-5bd1-4d12-be49-94d47881efbe" r="128" g="128" b="255">${t:3.06}You heard me right, she came from the INSIDE.</LineEntry>
           <LineEntry ID="9cb70a98-d378-46dd-bce6-fa4056c668e0" r="0" g="176" b="80">${t:2.34}We were on the road out when the fever hit.</LineEntry>
           <LineEntry ID="9b9db1ca-0327-446e-b205-31369a3df652" r="0" g="176" b="80">${t:2.09}Soldiers took us into their base.</LineEntry>
@@ -4878,7 +4878,7 @@
           <LineEntry ID="2008424c-41b9-4b1f-ba02-c139f01f830a" r="0" g="176" b="80" codes="BOR-1">${t:1.32}They can't stop it.</LineEntry>
           <LineEntry ID="fa4725fe-3f1b-4386-ab2a-c4de0c700816" r="0" g="176" b="80" codes="BOR-1">${t:3.06}They say it's contained, but you can't stop death.</LineEntry>
           <LineEntry ID="63f29991-d121-49c4-907e-e753e65b4af6" r="0" g="176" b="80" codes="BOR-1">${t:1.32}We've got it coming to us.</LineEntry>
-          <LineEntry ID="eab53b0d-5bbd-470f-97d4-4b63a1205159" r="0" g="176" b="80">${t:1.99}It's been coming for a long time.</LineEntry>
+          <LineEntry ID="eab53b0d-5bbd-470f-97d4-4b63a1205159" r="0" g="176" b="80">${t:1.99}And it's been coming for a long time.</LineEntry>
           <LineEntry ID="85b0bb43-3bf5-482c-862a-217b555e2696" r="128" g="128" b="255" codes="BOR-1">${t:1.53}Okay. Back to the studio.</LineEntry>
           <LineEntry ID="da78dc36-2cb6-47e8-bd97-9f86e93449a4" r="0" g="0" b="0" codes="BOR-1">${t:1.58}&lt;fzzt&gt;</LineEntry>
           <LineEntry ID="34d9d8c5-0698-43d9-bcc0-4c26b625bfc2" r="0" g="176" b="240" codes="BOR-1">${t:4.07}The curfew begins at 6pm EST. Please stay in your houses.</LineEntry>
@@ -5074,14 +5074,14 @@
           <LineEntry ID="ca37cbf2-080f-4cf6-b630-4ace2a9584c1" r="128" g="128" b="255" codes="BOR-1">${t:3.66}... caused a surge of infected civilians that broke through the border.</LineEntry>
           <LineEntry ID="8a3cc2c0-88e6-432e-9705-5a59e485d245" r="128" g="128" b="255">${t:3.30}We have no official numbers, but casualties are high.</LineEntry>
           <LineEntry ID="c7d5b609-9899-4071-86db-46cce4022516" r="255" g="192" b="0" codes="BOR-1">${t:2.37}Has the military restored order Kirsty?</LineEntry>
-          <LineEntry ID="e70dd3fb-cb9a-4b1c-a5ed-7ca69a39493f" r="128" g="128" b="255">${t:3.66}That's hard to say. Those who could head North have done so.</LineEntry>
+          <LineEntry ID="e70dd3fb-cb9a-4b1c-a5ed-7ca69a39493f" r="128" g="128" b="255">${t:3.66}That's hard to say. Those who could head North have already done so.</LineEntry>
           <LineEntry ID="76d3ec4b-cde6-4cd7-aed9-6a1707d2201a" r="128" g="128" b="255" codes="BOR-1">${t:3.45}A large number of military vehicles are moving alongside them.</LineEntry>
           <LineEntry ID="e71aca47-09a1-4882-be01-17b8b4f2ef70" r="128" g="128" b="255" codes="BOR-1">${t:1.82}The Army are pulling back.</LineEntry>
           <LineEntry ID="76145d5e-60b9-4d10-8031-887a7d0952a3" r="255" g="192" b="0">${t:1.72}The camp has been abandoned?</LineEntry>
           <LineEntry ID="86d38746-1e20-4be4-89be-af2ed941f440" r="128" g="128" b="255" codes="BOR-1">${t:1.17}Yes, but...</LineEntry>
           <LineEntry ID="babaf701-2de9-4eb8-8538-8d3956ad7b20" r="128" g="128" b="255">${t:3.08}... I'm sorry to say this but some have been left behind.</LineEntry>
-          <LineEntry ID="1e381151-2dca-44c1-b8eb-911c105ea1c2" r="128" g="128" b="255">${t:2.46}Some folk who were... bitten.</LineEntry>
-          <LineEntry ID="a0266777-d9a8-4b58-af80-1a527c38072f" r="128" g="128" b="255">${t:2.34}Some folk who wanted to stay and help.</LineEntry>
+          <LineEntry ID="1e381151-2dca-44c1-b8eb-911c105ea1c2" r="128" g="128" b="255">${t:2.46}Some people who were... bitten.</LineEntry>
+          <LineEntry ID="a0266777-d9a8-4b58-af80-1a527c38072f" r="128" g="128" b="255">${t:2.34}And some people who wanted to stay and help.</LineEntry>
           <LineEntry ID="944662a9-c2e7-42b0-9474-d4564fee0c00" r="128" g="128" b="255" codes="BOR-1">${t:2.09}It's a desperate scene here in Kentucky.</LineEntry>
           <LineEntry ID="daad0a3d-b0de-4032-91e4-3c25729dde1c" r="255" g="192" b="0">${t:2.34}Desperate indeed. Thank you Kirsty.</LineEntry>
           <LineEntry ID="6624f814-5a2e-4d80-abda-2b3707e1b906" r="0" g="176" b="240" codes="BOR-1">${t:4.16}The curfew begins at 6pm EST. Please stay in your houses.</LineEntry>
@@ -5169,7 +5169,7 @@
           <LineEntry ID="b2fae644-b723-4832-a612-be4edddf9a9b" r="128" g="128" b="255">${t:1.23}I don't know why.</LineEntry>
           <LineEntry ID="feaf8647-b7f8-48b4-8b4e-76364f88b013" r="128" g="128" b="255">${t:3.51}Maybe it was just dormant, maybe we had it all along...</LineEntry>
           <LineEntry ID="5124a08d-d16a-4116-b6eb-8d1f71dbdc2e" r="128" g="128" b="255" codes="BOR-1">${t:2.90}But everywhere I look I see dead and dying people.</LineEntry>
-          <LineEntry ID="c051da50-a8eb-42b3-9180-3d64fc6fc4b4" r="128" g="128" b="255">${t:2.86}Left on the street. Lying in doorways.</LineEntry>
+          <LineEntry ID="c051da50-a8eb-42b3-9180-3d64fc6fc4b4" r="128" g="128" b="255">${t:2.86}Just left on the street, or lying in doorways.</LineEntry>
           <LineEntry ID="26288cab-cb24-4df5-96f8-8eae099ccaee" r="128" g="128" b="255" codes="BOR-1">${t:1.33}But I'm okay.</LineEntry>
           <LineEntry ID="11de8fd7-9b14-484a-a5cf-4fb44e3a2422" r="128" g="128" b="255" codes="BOR-1">${t:1.64}I need you to tell people that...</LineEntry>
           <LineEntry ID="a07b848c-4dca-430e-85db-cd9339ad83ca" r="128" g="128" b="255">${t:1.71}... I think some people are immune.</LineEntry>
@@ -5228,7 +5228,7 @@
           <LineEntry ID="78b468e8-79ce-4155-bce0-9fe79d6cfb5c" r="0" g="0" b="0">${t:3.93}&lt;bzzt&gt;</LineEntry>
           <LineEntry ID="cb09c521-dea5-41f0-9eec-f9d3145c96bd" r="255" g="192" b="0">${t:4.38}&lt;bzzt&gt; radio stations &lt;fzzt&gt;</LineEntry>
           <LineEntry ID="7d77f0bc-9430-4f1a-a335-eb671115d64e" r="0" g="0" b="0" codes="BOR-1">${t:2.13}&lt;bzzt&gt;</LineEntry>
-          <LineEntry ID="d70f6b12-b970-4bb7-9b07-610e18e22db6" r="0" g="176" b="240" codes="BOR-1">${t:4.99}... on Triple-N.</LineEntry>
+          <LineEntry ID="d70f6b12-b970-4bb7-9b07-610e18e22db6" r="255" g="192" b="0" codes="BOR-1">${t:4.99}... on Triple-N.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="3aa336ec-41c0-4ab0-be7f-4e7818ba131f" timestamp="12600" endstamp="12930" type="ActivateBroadcast" day="8" advertCat="none" isSegment="false">
           <LineEntry ID="24618cad-771a-4013-9936-a93e23c621c3" r="0" g="0" b="0" codes="BOR-1,GUID:24618cad-771a-4013-9936-a93e23c621c3">${t:4.13}&lt;bzzt&gt;</LineEntry>
@@ -5236,7 +5236,7 @@
           <LineEntry ID="9495a211-babf-4cb7-9961-f1e56f8b1039" r="0" g="0" b="0" codes="BOR-1">${t:3.93}&lt;bzzt&gt;</LineEntry>
           <LineEntry ID="33bb7c38-9d31-4b9e-8d89-dfde29712b75" r="255" g="192" b="0">${t:4.38}&lt;bzzt&gt; radio stations &lt;fzzt&gt;</LineEntry>
           <LineEntry ID="18f979a5-48f6-49fc-bb47-d82c36058371" r="0" g="0" b="0" codes="BOR-1">${t:2.13}&lt;bzzt&gt;</LineEntry>
-          <LineEntry ID="ee0b14ea-c038-4573-9ac2-1ff0fb3ccea3" r="0" g="176" b="240" codes="BOR-1">${t:4.99}... on Triple-N.</LineEntry>
+          <LineEntry ID="ee0b14ea-c038-4573-9ac2-1ff0fb3ccea3" r="255" g="192" b="0" codes="BOR-1">${t:4.99}... on Triple-N.</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="079638f5-6637-44c2-8adf-e66957b7bda8" timestamp="12930" endstamp="12960" type="ActivateBroadcast" day="8" advertCat="none" isSegment="false" />
         <BroadcastEntry ID="2d4861db-c0ed-46e7-9845-e77437e86edf" timestamp="12960" endstamp="13320" type="ActivateBroadcast" day="9" advertCat="none" isSegment="false">
