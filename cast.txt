@@ -1,36 +1,97 @@
-Life and Living TV:
-	Director: Fed_Cap
+[list]
+[*]Notable Characters:
+ [list]
+	[*] General John McGrew: The Marshal
+	[*] President Bill Clinton: MaytayMaya (StS voice clone)
+ [/list]
+[*]Life and Living TV:
+ [list]
+	[*] Director: Fed_Cap
 	(Full Human Voiceover)
-	Actors: WoodCraft Host: Atikar
-		WoodCraft Jingle: RebelRex
-		Salesman and Cookshow announcer: Goosesalesman of Hamburg
-		Cookshow Host (Diane): Ghoulie
-		Exposure Survival Host (Dean): ThatWeasel
-
-LBMW - Kentucky Radio
-	Director: Fed_Cap
+	Actors: 
+        [*] WoodCraft Host: Atikar
+		[*] WoodCraft Jingle: RebelRex
+		[*] Salesman and Cookshow announcer: Goosesalesman of Hamburg
+		[*] Cookshow Host (Diane): Ghoulie
+		[*] Exposure Survival Host (Dean): ThatWeasel
+ [/list]
+[*]LBMW - Kentucky Radio
+ [list]
+	[*] Director: Fed_Cap
+	[*] Actors: ElevenLabs
+ [/list]
+[*]KnoxTalk Radio
+ [list]
+	[*] Director: Fed_Cap
 	Actors: ElevenLabs
+		[*] KnoxTalk Host: DaniTGW
+		
+		[*] Bobby: Carmine 
+		[*] Twiggy: Carmine		
+		
+		[*] James: Bryan Butler
+		[*] Catherine: PALSJ
+		
+		[*] Ethan: yuripulga
+		[*] Todd: Carmine
 
-KnoxTalk Radio
-	Director: Fed_Cap
-	Actors: ElevenLabs
+		[*] Unnamed Janitor: Carmine
+		[*] Charles: Already Out
+		[*] John: Patriot
+		
+		[*] Danny: Brock
+		[*] Carla: SerinaSilvermoon
+		[*] Mike: TheDoctor
+		[*] Brian: kier gordon
 
-Triple N
-	Director: Fed_Cap
-	Actors: ElevenLabs
+		[*] Howard: Bryan Butler
+		[*] Julie: SerinaSilvermoon
+ [/list]
+[*]Triple N
+ [list]
+	[*] Director: Fed_Cap
+	Actors:
+		[*] Joan: 3arthboound
+		[*] Kirsty Cormick: SerinaSilvermoon
+		[*] Judge Matt Hass: Pyrosshade
+		[*] Displaced Civilian 1: Patriot
+		[*] Displaced Civilian 2: AroBaro
+		[*] Displaced Civilian 3: AroBaro
+		[*] Professor John Ramirez: CrystalChris
+		[*] Daniel Sinclair: Kepi
+		[*] Pauline Simpson: Brock (StS Alice)
+		[*] Triple-N Presentator: AroBaro
+ [/list]
+[*]TURBO
+ [list]
+	[*] Director: Fed_Cap
+	Actors:
 
-Automated Emergency Broadcast System
-	Director: Burkanx
-	Actors: ElevenLabs
-
-Adverts:
-	Pizza Whirled: riptank
-	Churn R' Us, Fossoil: That Weasel
-	Greene's Grocery: Wawa Goat
-	Spiffo Movie: Adaminium
-	ValuInsurance: Brady/Charlie
-	Dr Cox, Ivanov Clubs, Tooks Bear, Wok&Rolls, Pop, Seahorse coffee: Goosesalesman of Hamburg
-	Pop, Seahorse coffee: SerinaSilvermoon
-	Wok&Rolls: thatWeasel, Ghoulie
-	Democrat Ad: Radio dude?
-	Republican Ad: High Sunn
+		[*] Joan: 3arthboound
+		[*] Kirsty Cormick: SerinaSilvermoon
+		[*] Judge Matt Hass: Pyrosshade
+		[*] Displaced Civilian 3: AroBaro
+		[*] Triple-N Presentator: AroBaro
+ [/list]
+[*]Automated Emergency Broadcast System
+ [list]
+	[*] Director: Burkanx
+	[*] Actors: ElevenLabs
+ [/list]
+[*]Adverts:
+ [list]
+	[*] Pizza Whirled: riptank
+	[*] Churn R' Us, Fossoil: That Weasel
+	[*] Greene's Grocery: Jaiden The Awesome
+	[*] Spiffo Movie: Adaminium
+	[*] ValuInsurance: Brady/Charlie
+	[*] Dr Cox, Ivanov Clubs, Tooks Bear, Wok&Rolls, Pop, Seahorse coffee: Goosesalesman of Hamburg
+	[*] Pop, Seahorse coffee: SerinaSilvermoon
+	[*] Wok&Rolls: thatWeasel, Ghoulie
+	[*] Democrat Ad: Radio dude?
+	[*] Republican Ad: High Sunn
+	[*] Pharmahug: PALSJ
+	[*] Dr. Oids: Kepi
+	[*] Fashionabelle: Bryan Butler, Kier Gordon
+ [/list]
+[/list]

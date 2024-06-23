@@ -2222,4 +2222,121 @@ module Base
 			reverbFactor = 0,
 		}
 	}
+
+	sound aeb5fdd9-c5cf-4816-9eea-b8f11daec903
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/aeb5fdd9-c5cf-4816-9eea-b8f11daec903.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 9ecd1200-8ead-4e2b-bb7a-9efc422ff77a
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/9ecd1200-8ead-4e2b-bb7a-9efc422ff77a.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 72da949a-c198-4b08-a2ac-148917019063
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/Adverts/72da949a-c198-4b08-a2ac-148917019063.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 2fbac710-f038-4ca9-b8d2-0a9846fade54
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/2fbac710-f038-4ca9-b8d2-0a9846fade54.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound 659773ee-aed2-4b6c-a20b-933acc16c5f5
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/659773ee-aed2-4b6c-a20b-933acc16c5f5.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound a9e59db3-1c62-434a-9bcb-95de485c3627
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/a9e59db3-1c62-434a-9bcb-95de485c3627.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound ea5fdb52-f762-4f2f-943e-50b9cc2d9ed3
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/ea5fdb52-f762-4f2f-943e-50b9cc2d9ed3.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound f99f8e6e-458c-45b8-aeb3-7412281480cc
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/f99f8e6e-458c-45b8-aeb3-7412281480cc.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
+
+	sound fa8c7cc9-0ae6-439c-9c59-24a2f9183ac8
+	{
+		category = Object,
+		clip
+		{
+			file = media/sound/Broadcasts/TURBO/fa8c7cc9-0ae6-439c-9c59-24a2f9183ac8.ogg,
+			distanceMin = 5,
+			distanceMax = 50,
+			reverbMaxRange = 10,
+			reverbFactor = 0,
+		}
+	}
 }
