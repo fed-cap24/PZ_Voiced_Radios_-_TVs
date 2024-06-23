@@ -62,6 +62,17 @@
 		[*] Pauline Simpson: Brock (StS Alice)
 		[*] Triple-N Presentator: AroBaro
  [/list]
+[*]TURBO
+ [list]
+	[*] Director: Fed_Cap
+	Actors:
+
+		[*] Joan: 3arthboound
+		[*] Kirsty Cormick: SerinaSilvermoon
+		[*] Judge Matt Hass: Pyrosshade
+		[*] Displaced Civilian 3: AroBaro
+		[*] Triple-N Presentator: AroBaro
+ [/list]
 [*]Automated Emergency Broadcast System
  [list]
 	[*] Director: Burkanx
