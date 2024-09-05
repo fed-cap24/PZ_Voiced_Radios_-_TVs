@@ -28,10 +28,11 @@
 		
 		[*] Bobby: Carmine 
 		[*] Twiggy: Carmine		
-		
+		[*] Madison: Patriot
+		[*] Christian: Nash
 		[*] James: Bryan Butler
 		[*] Catherine: PALSJ
-		
+		[*] Colonel Smythe: Patriot
 		[*] Ethan: yuripulga
 		[*] Todd: Carmine
 
@@ -41,6 +42,7 @@
 		
 		[*] Danny: Brock
 		[*] Carla: SerinaSilvermoon
+		[*] Raider: Peaseboy2234
 		[*] Mike: TheDoctor
 		[*] Brian: kier gordon
 
@@ -50,9 +52,10 @@
 [*]Triple N
  [list]
 	[*] Director: Fed_Cap
+	(Full Human Voiceover)
 	Actors:
 		[*] Joan: 3arthboound
-		[*] Kirsty Cormick: SerinaSilvermoon
+		[*] Kirsty Cormick: SerinaUmbra
 		[*] Judge Matt Hass: Pyrosshade
 		[*] Displaced Civilian 1: Patriot
 		[*] Displaced Civilian 2: AroBaro
