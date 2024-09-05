@@ -4416,7 +4416,7 @@
           <LineEntry ID="8078f5ba-d0f7-43bd-ba33-8609864c3657" r="255" g="192" b="0" codes="BOR-1,GUID:8078f5ba-d0f7-43bd-ba33-8609864c3657">${t:2.78}This is Triple-N. </LineEntry>
           <LineEntry ID="3cc56cfe-e202-4a71-99a6-321cdfa3593c" r="255" g="192" b="0">${t:1.85}We're here with some breaking news.</LineEntry>
           <LineEntry ID="99f55f04-949d-4e89-8e86-c6d40de612d7" r="255" g="192" b="0">${t:4.99}General McGrew has just finished speaking. Let's go over to the Knox Event Exclusion line.</LineEntry>
-          <LineEntry ID="a42dd600-7df9-4a08-8718-c143fcf323a9" r="128" g="128" b="255">${t:2.10}Thank you Joan. </LineEntry>
+          <LineEntry ID="a42dd600-7df9-4a08-8718-c143fcf323a9" r="128" g="128" b="255">${t:2.10}Thank you Joan.</LineEntry>
           <LineEntry ID="51cbb5d9-dcb0-41df-8311-9c2de6cb32b9" r="128" g="128" b="255">${t:4.99}General John McGrew has confirmed 'panic' and 'confusion' inside the Zone.</LineEntry>
           <LineEntry ID="a94d3b9b-d8a6-4811-aeff-6b35a04fa252" r="128" g="128" b="255" codes="BOR-1">${t:4.99}With NO confirmation of the violent scenes some claim to have witnessed.</LineEntry>
           <LineEntry ID="a582c16f-4f8e-4769-bf4e-661dd7fd6f15" r="128" g="128" b="255" codes="BOR-1">${t:3.51}And still no reasoning behind the communication blackout:</LineEntry>
@@ -7180,7 +7180,7 @@
         <ExitOptions />
         <BroadcastEntry ID="f324239e-cb04-4c5e-87ef-db551028aeec" timestamp="0" endstamp="360" type="ActivateBroadcast" day="0" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="0aca7dac-0f93-45b3-ad5d-801c8e987f3d" r="0" g="176" b="240" codes="UHP-1">TURBO: Your friend. Your entertainment!</LineEntry>
-          <LineEntry ID="10613e46-2223-42dd-bdb7-cde820db6ed7" r="0" g="176" b="80" codes="STS-1,BOR-1,UHP-1">We're going over to our colleagues at Triple-N. </LineEntry>
+          <LineEntry ID="10613e46-2223-42dd-bdb7-cde820db6ed7" r="0" g="176" b="240" codes="STS-1,BOR-1,UHP-1">We're going over to our colleagues at Triple-N. </LineEntry>
           <LineEntry ID="cf4960ad-24b5-4ac3-890a-8b2e0569ea86" r="255" g="192" b="0" codes="BOR-1,UHP-1">This is Triple-N. </LineEntry>
           <LineEntry ID="bf186107-a4b6-4f94-9b93-a899a8627dc0" r="255" g="192" b="0">We're going straight to Kentucky for this developing story.</LineEntry>
           <LineEntry ID="fede6ebb-f461-4530-bc41-8b8c03e4346b" r="255" g="192" b="0" codes="UHP-1">Kirsty Cormick, are you there?</LineEntry>
@@ -7203,8 +7203,8 @@
         </BroadcastEntry>
         <BroadcastEntry ID="a9fe4bb1-8c7f-4aab-b21f-e92f8c59aa50" timestamp="360" endstamp="690" type="ActivateBroadcast" day="0" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="5c741caa-a182-4215-b7a8-ac411f587524" r="0" g="176" b="240" codes="BOR-1,UHP-1">TURBO: Your friend. Your entertainment!</LineEntry>
-          <LineEntry ID="52155001-f962-44d8-ad8c-765112b1fde4" r="0" g="176" b="80">We're still broadcasting alongside colleagues at Triple-N... </LineEntry>
-          <LineEntry ID="3a54ce0d-534f-489d-b41a-e5698f19b881" r="0" g="176" b="80" codes="STS-1,BOR-1,UHP-1">...on the developing situation in Kentucky.</LineEntry>
+          <LineEntry ID="52155001-f962-44d8-ad8c-765112b1fde4" r="0" g="176" b="240">We're still broadcasting alongside colleagues at Triple-N... </LineEntry>
+          <LineEntry ID="3a54ce0d-534f-489d-b41a-e5698f19b881" r="0" g="176" b="240" codes="STS-1,BOR-1,UHP-1">...on the developing situation in Kentucky.</LineEntry>
           <LineEntry ID="0cf6c927-0835-4cd7-989e-b91dfc4c80ae" r="0" g="176" b="240" codes="BOR-1,UHP-1">Judge Matt Hass - on Triple-N!</LineEntry>
           <LineEntry ID="4df8a6c5-f8ed-4f2c-8405-0456b377144c" r="0" g="176" b="240" codes="BOR-1,UHP-1">The voice of reason!</LineEntry>
           <LineEntry ID="b51b709c-e085-46f0-b065-13b50c019fe3" r="0" g="176" b="80" codes="STS-1,BOR-1,UHP-1">So what is it? I'm no scientist...</LineEntry>
@@ -7255,7 +7255,7 @@
         </BroadcastEntry>
         <BroadcastEntry ID="f2aa8f05-153a-4d9a-91f8-767047ad31d6" timestamp="360" endstamp="720" type="ActivateBroadcast" day="0" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="32d8d098-8c5b-4948-b555-ccd369468a54" r="0" g="176" b="240" codes="BOR-1">TURBO: Your friend. Your entertainment!</LineEntry>
-          <LineEntry ID="1017746c-ae4f-4d98-8a44-f78c6f96a0a5" r="0" g="176" b="80" codes="UHP-1">We're going over to our colleagues at Triple-N. </LineEntry>
+          <LineEntry ID="1017746c-ae4f-4d98-8a44-f78c6f96a0a5" r="0" g="176" b="240" codes="UHP-1">We're going over to our colleagues at Triple-N. </LineEntry>
           <LineEntry ID="1a17fc7f-685a-41ad-9e3d-04fb30dfcbaf" r="255" g="192" b="0" codes="UHP-1">The Knox Event Exclusion Zone is STILL in place.</LineEntry>
           <LineEntry ID="85e051b8-5c1e-4cab-83e1-a6976350360b" r="255" g="192" b="0" codes="UHP-1">Officials remain silent on the impact of an outbreak...</LineEntry>
           <LineEntry ID="9b2fb916-e4a0-4ad3-90dc-f5a0c36ee4f6" r="255" g="192" b="0" codes="STS-1,BOR-1">... described as 'non-lethal' with symptoms of 'panic' and 'confusion'.</LineEntry>
@@ -7285,8 +7285,8 @@
         </BroadcastEntry>
         <BroadcastEntry ID="1c1d2d5c-f6bb-407f-9932-99269b96dadc" timestamp="720" endstamp="1080" type="ActivateBroadcast" day="0" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="58cc21f0-baf0-4ea9-ba62-04e34a82c84a" r="0" g="176" b="240">TURBO: Your friend. Your entertainment!</LineEntry>
-          <LineEntry ID="e49f580c-8cfb-409a-910d-c285ae42f04a" r="0" g="176" b="80" codes="ANG+1">Once more, we're going over to our colleagues at Triple-N. </LineEntry>
-          <LineEntry ID="889fb21e-cd0c-4b50-82f0-8f9265a6b169" r="128" g="128" b="255" codes="FAT+0.2,UHP-1">Thanks for joining us. We have an announcement on the Knox crisis:</LineEntry>
+          <LineEntry ID="e49f580c-8cfb-409a-910d-c285ae42f04a" r="0" g="176" b="240" codes="ANG+1">Once more, we're going over to our colleagues at Triple-N. </LineEntry>
+          <LineEntry ID="889fb21e-cd0c-4b50-82f0-8f9265a6b169" r="128" g="128" b="255" codes="FAT+0.2,UHP-1">Thank you Joan.</LineEntry>
           <LineEntry ID="e0ad27aa-1e64-418f-bc3b-c9427127f014" r="128" g="128" b="255" codes="HUN+1,STS-1,BOR-1,UHP-1">General John McGrew has confirmed 'panic' and 'confusion' inside the Zone.</LineEntry>
           <LineEntry ID="c9c1f0b0-be4d-4e02-ae0b-93af0159ead1" r="128" g="128" b="255" codes="BOR-1">With no confirmation of the violent scenes some claim to have witnessed.</LineEntry>
           <LineEntry ID="ebb52799-6489-4c6d-9afe-ec1ada4cb72c" r="128" g="128" b="255" codes="BOR+1,STS-1">But still no reasoning behind the communication blackout:</LineEntry>
@@ -7307,7 +7307,7 @@
           <LineEntry ID="1aef242d-0227-4b0f-bb9f-6b90c897aabb" r="128" g="128" b="255" codes="STS-1,UHP-1">Are the General's responses enough for America?</LineEntry>
           <LineEntry ID="1af1fedf-22be-47aa-92a4-147a2700d31b" r="128" g="128" b="255">Those forced to stay in Army issue tents around me...</LineEntry>
           <LineEntry ID="08e0c50c-355d-4267-a568-3e86a3c7e39d" r="128" g="128" b="255" codes="STS-1,BOR-1,UHP-1">... and evacuated to the North seem to be saying 'No'.</LineEntry>
-          <LineEntry ID="eb7f9886-893b-4f5b-83d6-3fa7874a3b72" r="128" g="128" b="255">We're now returning you to your regular programming.</LineEntry>
+          <LineEntry ID="eb7f9886-893b-4f5b-83d6-3fa7874a3b72" r="128" g="128" b="255">Back to the studio.</LineEntry>
           <LineEntry ID="028bc10b-f0af-43fb-8f83-ae2b3b1ccf21" r="0" g="176" b="240" codes="BOR-1">TURBO: Your friend. Your entertainment!</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="771aa622-bfc7-4541-9987-5be167fc1f73" timestamp="1080" endstamp="1410" type="ActivateBroadcast" day="0" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
@@ -7406,7 +7406,7 @@
           <LineEntry ID="7083ec42-78f1-4c11-98c4-d0af273e9e0b" r="128" g="128" b="255" codes="STS-1,BOR-1">But ghosts who turn people's heads inside out?</LineEntry>
           <LineEntry ID="1662d7ce-0124-4640-ae0e-7a3c1fa94e37" r="128" g="128" b="255" codes="UHP-1">It just doesn't make sense.</LineEntry>
           <LineEntry ID="3df9a0d5-ee8f-4a06-9d20-1eb6abbc6629" r="0" g="176" b="80" codes="BOR-1,UHP-1">Well I'm going.</LineEntry>
-          <LineEntry ID="42d65429-c2bf-419c-ae0a-3e7fe335ac65" r="0" g="176" b="80">I'm coming too. Someone needs to keep an eye on you.</LineEntry>
+          <LineEntry ID="42d65429-c2bf-419c-ae0a-3e7fe335ac65" r="128" g="128" b="255">I'm coming too. Someone needs to keep an eye on you.</LineEntry>
           <LineEntry ID="bf51a041-3d15-4f10-8f21-c876d7ed411e" r="0" g="176" b="240" codes="STS-1,UHP-1">[img=music] Doop-ity doo. Wee-woo. Wee-woo. [img=music]</LineEntry>
           <LineEntry ID="73e3ce5a-9429-48a6-9600-e05394176ebb" r="0" g="176" b="240" codes="BOR-1">[img=music] Woo. [img=music]</LineEntry>
         </BroadcastEntry>
@@ -7472,7 +7472,7 @@
           <LineEntry ID="c28aba0b-230f-48c4-bd28-2e9c2be7868c" r="128" g="128" b="255" codes="UHP-1">I'm so sorry. I was weak.</LineEntry>
           <LineEntry ID="fab62ad1-ee76-4b79-ad16-8a851dce3885" r="255" g="0" b="0" codes="BOR-1,UHP-1">I'm sorry sir, but is this really necessary?</LineEntry>
           <LineEntry ID="42d897aa-94df-4991-bebd-1ddf504f0f6e" r="255" g="0" b="0" codes="BOR-1,UHP-1">You're all present to hear your father's last will and testament.</LineEntry>
-          <LineEntry ID="74648638-c8f9-4750-8378-b22a06241583" r="128" g="128" b="255" codes="STS-1,BOR-1">You bet we are...</LineEntry>
+          <LineEntry ID="74648638-c8f9-4750-8378-b22a06241583" r="0" g="176" b="80" codes="STS-1,BOR-1">You bet we are...</LineEntry>
           <LineEntry ID="0e0e93c3-ccb5-4d27-a4c2-95510a1c2fbd" r="0" g="176" b="240" codes="UHP-1">[img=music] Sunset Drive. Got you on my mind... [img=music] </LineEntry>
           <LineEntry ID="86c8758f-502b-4149-aae9-f7f4b097871b" r="0" g="176" b="240" codes="STS-1,BOR-1,UHP-1">[img=music] On Sun... Set... Drive! [img=music] </LineEntry>
         </BroadcastEntry>
@@ -7760,7 +7760,7 @@
           <LineEntry ID="03566039-644b-4f95-9f03-ce9644fe5bd8" r="0" g="176" b="80" codes="STS-1,BOR-1">That will be all. </LineEntry>
           <LineEntry ID="3ec64d54-a02d-4d5d-9058-c77261f01779" r="128" g="128" b="255">Jeff! Jeff! One question!</LineEntry>
           <LineEntry ID="2395f959-a4c6-42da-9cf5-8cd2c7c980fe" r="0" g="176" b="80">Please talk to my publicist.</LineEntry>
-          <LineEntry ID="e14a9535-b1ae-4d8b-841a-14affb6fb289" r="255" g="192" b="0">Back after these messages!</LineEntry>
+          <LineEntry ID="e14a9535-b1ae-4d8b-841a-14affb6fb289" r="128" g="128" b="255">Back after these messages!</LineEntry>
           <LineEntry ID="43827254-6c7c-4d5d-9a3b-55282bd8c44b" r="255" g="0" b="0" codes="STS-1,UHP-1">The curfew begins at 6pm EST. Please stay in your houses.</LineEntry>
           <LineEntry ID="240b795d-e406-4f95-a216-ac4e6d756445" r="255" g="0" b="0">Please tune in to local programming for curfew information.</LineEntry>
         </BroadcastEntry>
@@ -7792,21 +7792,21 @@
         <BroadcastEntry ID="829cd133-3658-4deb-9217-22afaa3e7a61" timestamp="8640" endstamp="9000" type="ActivateBroadcast" day="6" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="fce039fd-4e81-44e8-9187-0e554605fa2d" r="0" g="0" b="0">&lt;bzzt&gt;</LineEntry>
           <LineEntry ID="a4fccd1e-4117-4f72-9989-d9df0ea3a54b" r="0" g="0" b="0">&lt;bzzt&gt;</LineEntry>
-          <LineEntry ID="92de6851-623f-4648-a18a-2d2bb7521d34" r="0" g="0" b="0">&lt;bzzt&gt; there's something I need to tell you Mary-Beth &lt;bzzt&gt;</LineEntry>
+          <LineEntry ID="92de6851-623f-4648-a18a-2d2bb7521d34" r="0" g="176" b="80">&lt;bzzt&gt; there's something I need to tell you Mary-Beth &lt;bzzt&gt;</LineEntry>
           <LineEntry ID="02861676-b0d5-471d-b760-f7e4b7e8c468" r="0" g="0" b="0">&lt;fzzt&gt;</LineEntry>
         </BroadcastEntry>
         <BroadcastEntry ID="91216c7b-035b-43f2-9086-2325f0bfe585" timestamp="9000" endstamp="9360" type="ActivateBroadcast" day="6" advertCat="5b86d977-59f6-4e4c-be27-9ca92e4ab5fa" isSegment="false">
           <LineEntry ID="39acc681-1ed0-4127-bfcd-84e62dfb4544" r="0" g="176" b="240" codes="STS-1,UHP-1">[img=music] Jaunty music [img=music]</LineEntry>
-          <LineEntry ID="5fa99291-e06a-4d92-8d93-d3a31736b89b" r="128" g="128" b="255">Albert, Albert is that you?</LineEntry>
+          <LineEntry ID="5fa99291-e06a-4d92-8d93-d3a31736b89b" r="128" g="128" b="255">&lt;sob&gt; Albert, Albert is that you?</LineEntry>
           <LineEntry ID="088521ce-2561-4fe6-a63b-e490062ade59" r="0" g="176" b="80" codes="STS-1">It is Eliza. What's wrong, why are you crying here outside the Wetherspoons Ball?</LineEntry>
-          <LineEntry ID="e36423a6-0fa6-4dd2-90c0-4a432f8d7cb8" r="0" g="176" b="80">They didn't let me in. I got ID-ed.</LineEntry>
-          <LineEntry ID="dac3411b-26e0-4bf7-95e9-7fd1b062c66e" r="255" g="0" b="0" codes="BOR-1,UHP-1">But Fothergay-Stroud. He... he...</LineEntry>
-          <LineEntry ID="dcc4c36c-3630-477e-a8ac-4dbfdb41f316" r="255" g="0" b="0" codes="STS-1,BOR-1">He went in without you, didn't he? The monster!</LineEntry>
-          <LineEntry ID="aa807f63-487f-46a8-b732-e143feb39b67" r="0" g="176" b="80" codes="STS-1,BOR-1,UHP-1">Oh Albert. I'm sorry for tiring of your legal success.</LineEntry>
-          <LineEntry ID="604b3ef6-e16e-4eec-9e69-12e279ae6698" r="255" g="0" b="0" codes="STS-1,UHP-1">I understand Eliza.</LineEntry>
-          <LineEntry ID="02967046-d275-404f-b27b-ead40c2ded01" r="255" g="0" b="0" codes="STS-1,BOR-1,UHP-1">Shall we try to get into Tiger Tiger?</LineEntry>
-          <LineEntry ID="96a72d97-a4dc-4e9f-aa37-21499ff9940a" r="0" g="176" b="80" codes="BOR-1">Oh Albert.</LineEntry>
-          <LineEntry ID="c55a9911-8d64-4386-9043-6b237c9ef3be" r="0" g="176" b="80">Yes, that would mean the world!</LineEntry>
+          <LineEntry ID="e36423a6-0fa6-4dd2-90c0-4a432f8d7cb8" r="128" g="128" b="255">They didn't let me in. I got ID-ed.</LineEntry>
+          <LineEntry ID="dac3411b-26e0-4bf7-95e9-7fd1b062c66e" r="128" g="128" b="255" codes="BOR-1,UHP-1">But Fothergay-Stroud. He... he...</LineEntry>
+          <LineEntry ID="dcc4c36c-3630-477e-a8ac-4dbfdb41f316" r="0" g="176" b="80" codes="STS-1,BOR-1">He went in without you, didn't he? The monster!</LineEntry>
+          <LineEntry ID="aa807f63-487f-46a8-b732-e143feb39b67" r="128" g="128" b="255" codes="STS-1,BOR-1,UHP-1">Oh Albert. I'm sorry for tiring of your legal success.</LineEntry>
+          <LineEntry ID="604b3ef6-e16e-4eec-9e69-12e279ae6698" r="0" g="176" b="80" codes="STS-1,UHP-1">I understand Eliza.</LineEntry>
+          <LineEntry ID="02967046-d275-404f-b27b-ead40c2ded01" r="0" g="176" b="80" codes="STS-1,BOR-1,UHP-1">Shall we try to get into Tiger Tiger?</LineEntry>
+          <LineEntry ID="96a72d97-a4dc-4e9f-aa37-21499ff9940a" r="128" g="128" b="255" codes="BOR-1">Oh Albert.</LineEntry>
+          <LineEntry ID="c55a9911-8d64-4386-9043-6b237c9ef3be" r="128" g="128" b="255">Yes, that would mean the world!</LineEntry>
           <LineEntry ID="babda04e-a872-4951-9c0d-45d8ef815062" r="0" g="176" b="240" codes="UHP-1">[img=music] Jaunty music [img=music]</LineEntry>
           <LineEntry ID="a58f5ed2-3ea7-4ba6-ad43-a0c8ef91609f" r="0" g="176" b="80" codes="UHP-1">And that, dear diary, was my day.</LineEntry>
           <LineEntry ID="d142dd20-ceeb-47d2-8222-87b9a927030b" r="0" g="176" b="80" codes="UHP-1">A day of highs of law, lows of love and...</LineEntry>
