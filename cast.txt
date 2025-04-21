@@ -20,6 +20,22 @@
 	[*] Director: Fed_Cap
 	[*] Actors: ElevenLabs
  [/list]
+[*]NNR Radio:
+ [list]
+	[*] Director: Fed_Cap
+	(Full Human Voiceover)
+	Actors: 
+		[*] NNR Presentator: glassorca
+       		[*] NNR Host: EmpyrealVanguard
+		[*] Dr. Jeff Galbraithe: OhzoLate
+		[*] Prof. Jake Wilson: Skellitor301
+		[*] Al: that_troglodyte_guy
+		[*] Pastor James Hartnell: Donnie Narco
+		[*] Civilian 1: Already Out
+		[*] Civilian 2: KAIARGNT
+		[*] Civilian 3: ilovetrashytv
+		[*] Civilian 4: Coda / Angel
+ [/list]
 [*]KnoxTalk Radio
  [list]
 	[*] Director: Fed_Cap
