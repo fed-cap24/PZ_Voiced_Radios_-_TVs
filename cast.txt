@@ -25,7 +25,7 @@
 	[*] Director: Fed_Cap
 	Actors: ElevenLabs
 		[*] KnoxTalk Host: DaniTGW
-		
+		[*] Marcia: Mira
 		[*] Bobby: Carmine 
 		[*] Twiggy: Carmine		
 		[*] Madison: Patriot
@@ -35,7 +35,10 @@
 		[*] Colonel Smythe: Patriot
 		[*] Ethan: yuripulga
 		[*] Todd: Carmine
+		
+		[*] Clare: Mira (StS Freya)
 
+		[*] Kelly: SerinaUmbra
 		[*] Unnamed Janitor: Carmine
 		[*] Charles: Already Out
 		[*] John: Patriot
@@ -48,6 +51,7 @@
 
 		[*] Howard: Bryan Butler
 		[*] Julie: SerinaSilvermoon
+		[*] Mary: Mira
  [/list]
 [*]Triple N
  [list]
@@ -69,7 +73,8 @@
  [list]
 	[*] Director: Fed_Cap
 	Actors:
-
+		
+		[*] Mary Beth (sunset drive): Mira
 		[*] Joan: 3arthboound
 		[*] Kirsty Cormick: SerinaSilvermoon
 		[*] Judge Matt Hass: Pyrosshade
@@ -96,5 +101,6 @@
 	[*] Pharmahug: PALSJ
 	[*] Dr. Oids: Kepi
 	[*] Fashionabelle: Bryan Butler, Kier Gordon
+	[*] Cross Roads Mall: Mira
  [/list]
 [/list]

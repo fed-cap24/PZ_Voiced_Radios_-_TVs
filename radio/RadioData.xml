@@ -3064,7 +3064,7 @@
           <LineEntry ID="2bbbee69-9fef-4f15-8226-703b68193ff2" r="0" g="176" b="80">${t:2.04}Else I wouldn't be seeing them for a week.</LineEntry>
           <LineEntry ID="8e16b33f-b22f-493c-a548-96fc883aba36" r="0" g="176" b="80" codes="BOR-1,UHP-1">${t:2.27}Dog's been sick, so glad she's with me.</LineEntry>
           <LineEntry ID="33e5dccc-1b53-4d81-a82a-e52bcb26f19c" r="0" g="176" b="80">${t:2.17}I don't know how long this dang thing will take.</LineEntry>
-          <LineEntry ID="08914b5c-d081-44a6-a5e5-b4d0705b079c" r="0" g="176" b="80" codes="BOR-1,UHP-1">${t:0.73}Do you know?</LineEntry>
+          <LineEntry ID="08914b5c-d081-44a6-a5e5-b4d0705b079c" r="0" g="176" b="80" codes="BOR-1,UHP-1">${t:0.73}D-Do you know?</LineEntry>
           <LineEntry ID="a8c8b532-da43-42ed-9001-7afc304563f8" r="0" g="176" b="240" codes="STS-1">${t:1.07}I'm afraid I do not.</LineEntry>
           <LineEntry ID="363f6b31-09fb-48e8-8d84-8fe01049ade3" r="0" g="176" b="240" codes="UHP-1">${t:1.07}Thanks for your call.</LineEntry>
         </BroadcastEntry>
