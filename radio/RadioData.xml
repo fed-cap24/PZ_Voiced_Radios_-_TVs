@@ -140,19 +140,19 @@
         <LineEntry ID="19baec04-2f87-4e26-baa8-10524a01e2d2" r="128" g="128" b="255">${t:3.51}[img=music] I love Wok and Rolls! [img=music]</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="d7000646-97bb-4513-9abc-4f5accd6e4b8" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="92a9cdd6-b50e-400f-906b-9579fdd18294" r="0" g="176" b="80">Earth. Air. Wind. Fire.</LineEntry>
-        <LineEntry ID="fbe7163e-b9a7-469e-9c60-4629ef9d115b" r="0" g="176" b="80">But there is... another.</LineEntry>
-        <LineEntry ID="056eb78b-f554-4e63-be9f-df999d3f3792" r="0" g="176" b="80">There is a Forgotten Element.</LineEntry>
-        <LineEntry ID="57de3430-ffc2-40f1-ae15-00643d98d4b4" r="0" g="0" b="0">*drums* *explosion*</LineEntry>
-        <LineEntry ID="835ecc09-513c-414c-a3bc-9c0d9f10c140" r="128" g="128" b="255">Can't stand a little... magic, Buck?</LineEntry>
-        <LineEntry ID="f146413b-e69d-45c6-99e8-fed7c056f458" r="0" g="0" b="0">*Sprrring!*</LineEntry>
-        <LineEntry ID="11850386-6ac1-451c-896f-c6bcf382c86e" r="0" g="176" b="240">I can't believe these things come in that size!</LineEntry>
-        <LineEntry ID="27c9a086-afd7-4b1a-b4c6-f2e1a0bfaea9" r="0" g="0" b="0">*Crash!* *Gunshot!*</LineEntry>
-        <LineEntry ID="eb21cefd-76a0-41de-b2dd-6a45822fb21c" r="128" g="128" b="255">The elements are against us today, huh?</LineEntry>
-        <LineEntry ID="2d2d1b9b-11c8-4ff4-a2c9-6a0161310e25" r="0" g="176" b="240">Not for long. Let's kick some butt!</LineEntry>
-        <LineEntry ID="ad2512d5-908a-41b0-8e76-8a45ff9d121c" r="0" g="0" b="0">*tadaaaa!*</LineEntry>
-        <LineEntry ID="04de67eb-b8a5-4ca2-ab54-7d0ec8a85074" r="255" g="0" b="0">The Forgotten Element! Rated PG-13!</LineEntry>
-        <LineEntry ID="39e5cb87-0970-4daf-b731-90f96fa02342" r="255" g="0" b="0">Out now in theaters!</LineEntry>
+        <LineEntry ID="92a9cdd6-b50e-400f-906b-9579fdd18294" r="0" g="176" b="80" codes="GUID:92a9cdd6-b50e-400f-906b-9579fdd18294">${t:4.99}Earth. Air. Wind. Fire.</LineEntry>
+        <LineEntry ID="fbe7163e-b9a7-469e-9c60-4629ef9d115b" r="0" g="176" b="80">${t:3.28}But there is... another.</LineEntry>
+        <LineEntry ID="056eb78b-f554-4e63-be9f-df999d3f3792" r="0" g="176" b="80">${t:2.64}There is a Forgotten Element.</LineEntry>
+        <LineEntry ID="57de3430-ffc2-40f1-ae15-00643d98d4b4" r="0" g="0" b="0">${t:2.12}*drums* *explosion*</LineEntry>
+        <LineEntry ID="835ecc09-513c-414c-a3bc-9c0d9f10c140" r="128" g="128" b="255">${t:2.55}Can't stand a little... magic, Buck?</LineEntry>
+        <LineEntry ID="f146413b-e69d-45c6-99e8-fed7c056f458" r="0" g="0" b="0">${t:1.11}*Sprrring!*</LineEntry>
+        <LineEntry ID="11850386-6ac1-451c-896f-c6bcf382c86e" r="0" g="176" b="240">${t:2.35}I can't believe these things come in that size!</LineEntry>
+        <LineEntry ID="27c9a086-afd7-4b1a-b4c6-f2e1a0bfaea9" r="0" g="0" b="0">${t:2.41}*Crash!* *Gunshot!*</LineEntry>
+        <LineEntry ID="eb21cefd-76a0-41de-b2dd-6a45822fb21c" r="128" g="128" b="255">${t:2.22}The elements are against us today, huh?</LineEntry>
+        <LineEntry ID="2d2d1b9b-11c8-4ff4-a2c9-6a0161310e25" r="0" g="176" b="240">${t:2.33}Not for long. Let's kick some butt!</LineEntry>
+        <LineEntry ID="ad2512d5-908a-41b0-8e76-8a45ff9d121c" r="0" g="0" b="0">${t:1.55}*tadaaaa!*</LineEntry>
+        <LineEntry ID="04de67eb-b8a5-4ca2-ab54-7d0ec8a85074" r="255" g="0" b="0">${t:2.60}The Forgotten Element! Rated PG-13!</LineEntry>
+        <LineEntry ID="39e5cb87-0970-4daf-b731-90f96fa02342" r="255" g="0" b="0">${t:2.28}Out now in theaters!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="9ecd1200-8ead-4e2b-bb7a-9efc422ff77a" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="d5dfe630-bb8c-48b2-a706-7e2ffa6aa834" r="128" g="128" b="255" codes="GUID:d5dfe630-bb8c-48b2-a706-7e2ffa6aa834">${t:2.36}I am Dr. Oids.</LineEntry>
@@ -219,16 +219,16 @@
         <LineEntry ID="5ab44286-8548-4abf-a1cf-3fa940c6586a" r="255" g="192" b="0">[img=music] Say: "YAAAAAY!" [img=music]</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="1c6954ae-36ee-4ed0-863d-cf507943d15c" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="309cf2f7-647f-416d-aec4-cbfc85a78547" r="0" g="176" b="80">Welcome to Pile o' Crepe! </LineEntry>
-        <LineEntry ID="6641751b-4eae-4705-83f8-28ae3f25e571" r="0" g="176" b="80">What can I get for you today?</LineEntry>
-        <LineEntry ID="788c9931-5d1b-48c3-aaf1-5cffd8c6ea07" r="255" g="0" b="0">PANCAKES!</LineEntry>
-        <LineEntry ID="d5d071d4-d9a1-42f1-b4b4-d1f8845a630b" r="0" g="176" b="80">Pancakes, or waffles?</LineEntry>
-        <LineEntry ID="fb74f2c6-6d04-4f92-ac9e-cd098024b1cd" r="255" g="0" b="0">PAAANCAKES!</LineEntry>
-        <LineEntry ID="d05b4fd8-7f8b-460e-aca7-bee2e5c25496" r="0" g="176" b="80">What sort of pancake sir? We have over 20 on the menu!</LineEntry>
-        <LineEntry ID="138e1483-f0e4-4c92-b638-2f3654ed8e1d" r="255" g="0" b="0">PAAAAAANCAAAAKES!</LineEntry>
-        <LineEntry ID="e99a365a-3fc4-4ac8-b3f8-845f37ddd39c" r="0" g="176" b="80">Coming right up!</LineEntry>
-        <LineEntry ID="37c822f3-da1e-417a-bc8f-a3d321e616a9" r="0" g="176" b="240">[img=music] We're called Pile o' Crepe! [img=music]</LineEntry>
-        <LineEntry ID="a3043512-7926-433b-a48f-a50c2ff1153d" r="0" g="176" b="240">[img=music] Pile o' Crepe! Pile o' Crepe! [img=music]</LineEntry>
+        <LineEntry ID="309cf2f7-647f-416d-aec4-cbfc85a78547" r="0" g="176" b="80" codes="GUID:309cf2f7-647f-416d-aec4-cbfc85a78547">${t:2.57}Welcome to Pile o' Crepe! </LineEntry>
+        <LineEntry ID="6641751b-4eae-4705-83f8-28ae3f25e571" r="0" g="176" b="80">${t:1.88}What can I get for you today?</LineEntry>
+        <LineEntry ID="788c9931-5d1b-48c3-aaf1-5cffd8c6ea07" r="255" g="0" b="0">${t:1.54}PANCAKES!</LineEntry>
+        <LineEntry ID="d5d071d4-d9a1-42f1-b4b4-d1f8845a630b" r="0" g="176" b="80">${t:2.66}Pancakes, or waffles?</LineEntry>
+        <LineEntry ID="fb74f2c6-6d04-4f92-ac9e-cd098024b1cd" r="255" g="0" b="0">${t:2.06}PAAANCAKES!</LineEntry>
+        <LineEntry ID="d05b4fd8-7f8b-460e-aca7-bee2e5c25496" r="0" g="176" b="80">${t:4.03}What sort of pancake sir? We have over 20 on the menu!</LineEntry>
+        <LineEntry ID="138e1483-f0e4-4c92-b638-2f3654ed8e1d" r="255" g="0" b="0">${t:3.25}PAAAAAANCAAAAKES!</LineEntry>
+        <LineEntry ID="e99a365a-3fc4-4ac8-b3f8-845f37ddd39c" r="0" g="176" b="80">${t:3.74}Coming right up!</LineEntry>
+        <LineEntry ID="37c822f3-da1e-417a-bc8f-a3d321e616a9" r="0" g="176" b="240">${t:4.99}[img=music] We're called Pile o' Crepe! [img=music]</LineEntry>
+        <LineEntry ID="a3043512-7926-433b-a48f-a50c2ff1153d" r="0" g="176" b="240">${t:4.99}[img=music] Pile o' Crepe! Pile o' Crepe! [img=music]</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="7a81bdbd-e395-4374-9ec6-fce227569b90" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="232678f5-afae-48ae-bc50-4fd6365d46ea" r="0" g="176" b="80" codes="GUID:232678f5-afae-48ae-bc50-4fd6365d46ea">${t:4.39}In 1992 Governor Cal Fairweather made a promise.</LineEntry>
@@ -255,14 +255,14 @@
         <LineEntry ID="92d1d873-d94f-4e94-8c50-a55a7ea88d00" r="0" g="176" b="240">${t:4.20}This has been an endorsed message by the Republican party.</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="30b3bc40-702b-4e85-b6f6-d6b18b21c2b3" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="f22811aa-5c8c-4ce4-8f58-f3ddc7224168" r="0" g="176" b="240">[img=music] Jolly good. Jolly good. Jolly good-good-GOOD! [img=music]</LineEntry>
-        <LineEntry ID="7da09b30-41bb-4a7a-8bdc-b0ba52481864" r="0" g="176" b="240">[img=music] Jolly good. Jolly good. Jolly good-good-good. [img=music]</LineEntry>
-        <LineEntry ID="197bd089-af56-4ed4-9421-b231eba82439" r="0" g="176" b="240">[img=music] Jolly good. Jolly good. Jolly good-good-GOOD! [img=music]</LineEntry>
-        <LineEntry ID="88b95c0d-7275-4416-985b-2380e806ef22" r="0" g="176" b="240">[img=music] Jolly GOOOOOOOD! Jolly Good Fish and Chips! [img=music]</LineEntry>
-        <LineEntry ID="b007b91a-52f6-4841-9060-cafffdb5be5a" r="128" g="128" b="255">Authentic British cuisine!</LineEntry>
-        <LineEntry ID="15e6f9df-6254-42ba-9b93-1197880cc88a" r="128" g="128" b="255">Try our new Biscuit and Gravy menu!</LineEntry>
-        <LineEntry ID="e9408199-ae4e-4da6-89b1-bb72a548e748" r="128" g="128" b="255">Bottomless iced tea!</LineEntry>
-        <LineEntry ID="b688524b-9cb0-4c4f-b994-9d68448e8eef" r="128" g="128" b="255">Come today!</LineEntry>
+        <LineEntry ID="f22811aa-5c8c-4ce4-8f58-f3ddc7224168" r="0" g="176" b="240" codes="GUID:f22811aa-5c8c-4ce4-8f58-f3ddc7224168">${t:4.07}[img=music] Jolly good. Jolly good. Jolly good-good-GOOD! [img=music]</LineEntry>
+        <LineEntry ID="7da09b30-41bb-4a7a-8bdc-b0ba52481864" r="0" g="176" b="240">${t:3.86}[img=music] Jolly good. Jolly good. Jolly good-good-good. [img=music]</LineEntry>
+        <LineEntry ID="197bd089-af56-4ed4-9421-b231eba82439" r="0" g="176" b="240">${t:4.06}[img=music] Jolly good. Jolly good. Jolly good-good-GOOD! [img=music]</LineEntry>
+        <LineEntry ID="88b95c0d-7275-4416-985b-2380e806ef22" r="0" g="176" b="240">${t:4.64}[img=music] Jolly GOOOOOOOD! Jolly Good Fish and Chips! [img=music]</LineEntry>
+        <LineEntry ID="b007b91a-52f6-4841-9060-cafffdb5be5a" r="128" g="128" b="255">${t:1.86}Authentic British cuisine!</LineEntry>
+        <LineEntry ID="15e6f9df-6254-42ba-9b93-1197880cc88a" r="128" g="128" b="255">${t:2.29}Try our new Biscuit and Gravy menu!</LineEntry>
+        <LineEntry ID="e9408199-ae4e-4da6-89b1-bb72a548e748" r="128" g="128" b="255">${t:1.56}Bottomless iced tea!</LineEntry>
+        <LineEntry ID="b688524b-9cb0-4c4f-b994-9d68448e8eef" r="128" g="128" b="255">${t:1.49}Come today!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="1f007d6c-e93b-43b7-9630-cf28ff9681d0" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="d9595983-1557-48af-aded-d053494f262f" r="128" g="128" b="255">[img=music]</LineEntry>
@@ -519,14 +519,14 @@
         <LineEntry ID="18fe69ab-685b-4dca-b74d-e269eadcd3bc" r="0" g="176" b="80">The Double XL Bacon upgrade - in stores now!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="147da3c4-18b3-4918-b595-62cb8fd2cb8f" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="bd78a2b6-1aca-4271-b884-8c81c32f018f" r="0" g="176" b="80">Ey, my name eez Pancho.</LineEntry>
-        <LineEntry ID="e20c46c3-f2a9-4298-b495-2bfd25560188" r="0" g="176" b="80">I am a leetle puppy dog!</LineEntry>
-        <LineEntry ID="bcd6bf7c-fb93-44f1-a49f-16d3fdfb397f" r="0" g="176" b="80">I am 'ere to tell you one thing.</LineEntry>
-        <LineEntry ID="df856737-76e0-48c3-9c06-43fa97bb4ad2" r="0" g="176" b="80">TACOS! BURRITOS! ENCHILLLLADAS!</LineEntry>
-        <LineEntry ID="8c1e5c92-b42e-4222-ad8d-4c0f90bae572" r="0" g="176" b="80">ALL OF THAT GOOOOD STUFF!</LineEntry>
-        <LineEntry ID="8af01ccb-40bd-4863-b668-b16fb1eeb746" r="0" g="176" b="80">COME TO THE TACO DEL PANCHO!</LineEntry>
-        <LineEntry ID="5ec18628-1f94-4560-ae72-a3b26c54e1bc" r="0" g="176" b="80">Take it from me! I'm wearing a hat!</LineEntry>
-        <LineEntry ID="2885a9cf-878c-4f67-a6ca-3a417c0666d7" r="0" g="176" b="80">Arriba!</LineEntry>
+        <LineEntry ID="bd78a2b6-1aca-4271-b884-8c81c32f018f" r="0" g="176" b="80" codes="GUID:bd78a2b6-1aca-4271-b884-8c81c32f018f">${t:4.01}Ey, my name eez Pancho.</LineEntry>
+        <LineEntry ID="e20c46c3-f2a9-4298-b495-2bfd25560188" r="0" g="176" b="80">${t:2.92}I am a leetle puppy dog!</LineEntry>
+        <LineEntry ID="bcd6bf7c-fb93-44f1-a49f-16d3fdfb397f" r="0" g="176" b="80">${t:2.73}I am 'ere to tell you one thing.</LineEntry>
+        <LineEntry ID="df856737-76e0-48c3-9c06-43fa97bb4ad2" r="0" g="176" b="80">${t:4.85}TACOS! BURRITOS! ENCHILLLLADAS!</LineEntry>
+        <LineEntry ID="8c1e5c92-b42e-4222-ad8d-4c0f90bae572" r="0" g="176" b="80">${t:3.73}ALL OF THAT GOOOOD STUFF!</LineEntry>
+        <LineEntry ID="8af01ccb-40bd-4863-b668-b16fb1eeb746" r="0" g="176" b="80">${t:3.00}COME TO THE TACO DEL PANCHO!</LineEntry>
+        <LineEntry ID="5ec18628-1f94-4560-ae72-a3b26c54e1bc" r="0" g="176" b="80">${t:2.45}Take it from me! I'm wearing a hat!</LineEntry>
+        <LineEntry ID="2885a9cf-878c-4f67-a6ca-3a417c0666d7" r="0" g="176" b="80">${t:2.38}Arriba!</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="224617bf-78c4-4d6e-bd38-92f93f006bce" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="4d92e83a-731d-4c1f-a7d0-251dd233a001" r="128" g="128" b="255" codes="GUID:4d92e83a-731d-4c1f-a7d0-251dd233a001">${t:1.92}[img=music] Never let the music stop! [img=music]</LineEntry>
@@ -591,16 +591,16 @@
         <LineEntry ID="dbbce015-1961-449b-8ae8-0dc8d6c61dab" r="255" g="192" b="0">[img=music] Say: "YAAAAAY!" [img=music]</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="b5cd3ee2-48b0-41be-b1aa-ee6f81039f90" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="fc411c78-7d8e-482c-96f4-ea8ab05e34d3" r="0" g="176" b="80">Welcome to Pile o' Crepe! </LineEntry>
-        <LineEntry ID="1ab24723-5860-487b-92fc-819138d72048" r="0" g="176" b="80">What can I get for you today?</LineEntry>
-        <LineEntry ID="8042220f-6f5b-417a-8a79-5112537ff335" r="255" g="0" b="0">PANCAKES!</LineEntry>
-        <LineEntry ID="264cb8ec-2070-432c-a686-d3e1b6fe53d3" r="0" g="176" b="80">Pancakes, or waffles?</LineEntry>
-        <LineEntry ID="e8591682-6f5a-4743-99d7-57aa17c896c0" r="255" g="0" b="0">PAAANCAKES!</LineEntry>
-        <LineEntry ID="a0a0924e-a78a-48c5-bc3f-222b2f97ac36" r="0" g="176" b="80">What sort of pancake sir? We have over 20 on the menu!</LineEntry>
-        <LineEntry ID="b7be3fcb-5619-4d90-b08d-6bb5e90b8c51" r="255" g="0" b="0">PAAAAAANCAAAAKES!</LineEntry>
-        <LineEntry ID="be721558-a69e-4e4c-abce-143c12d28871" r="0" g="176" b="80">Coming right up!</LineEntry>
-        <LineEntry ID="b23cebc5-12b9-4a9c-8008-216c4fbf6989" r="0" g="176" b="240">[img=music] We're called Pile o' Crepe! [img=music]</LineEntry>
-        <LineEntry ID="1ca7b489-f5f3-401b-bdb2-4e35b992f562" r="0" g="176" b="240">[img=music] Pile o' Crepe! Pile o' Crepe! [img=music]</LineEntry>
+        <LineEntry ID="fc411c78-7d8e-482c-96f4-ea8ab05e34d3" r="0" g="176" b="80" codes="GUID:fc411c78-7d8e-482c-96f4-ea8ab05e34d3">${t:2.57}Welcome to Pile o' Crepe! </LineEntry>
+        <LineEntry ID="1ab24723-5860-487b-92fc-819138d72048" r="0" g="176" b="80">${t:1.88}What can I get for you today?</LineEntry>
+        <LineEntry ID="8042220f-6f5b-417a-8a79-5112537ff335" r="255" g="0" b="0">${t:1.54}PANCAKES!</LineEntry>
+        <LineEntry ID="264cb8ec-2070-432c-a686-d3e1b6fe53d3" r="0" g="176" b="80">${t:2.66}Pancakes, or waffles?</LineEntry>
+        <LineEntry ID="e8591682-6f5a-4743-99d7-57aa17c896c0" r="255" g="0" b="0">${t:2.06}PAAANCAKES!</LineEntry>
+        <LineEntry ID="a0a0924e-a78a-48c5-bc3f-222b2f97ac36" r="0" g="176" b="80">${t:4.03}What sort of pancake sir? We have over 20 on the menu!</LineEntry>
+        <LineEntry ID="b7be3fcb-5619-4d90-b08d-6bb5e90b8c51" r="255" g="0" b="0">${t:3.25}PAAAAAANCAAAAKES!</LineEntry>
+        <LineEntry ID="be721558-a69e-4e4c-abce-143c12d28871" r="0" g="176" b="80">${t:3.74}Coming right up!</LineEntry>
+        <LineEntry ID="b23cebc5-12b9-4a9c-8008-216c4fbf6989" r="0" g="176" b="240">${t:4.99}[img=music] We're called Pile o' Crepe! [img=music]</LineEntry>
+        <LineEntry ID="1ca7b489-f5f3-401b-bdb2-4e35b992f562" r="0" g="176" b="240">${t:4.99}[img=music] Pile o' Crepe! Pile o' Crepe! [img=music]</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="bf540c47-4aa6-47d6-97c4-2a78a8ae5f7f" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="be134e2a-36ea-4a55-bcf4-ef05ac756773" r="0" g="176" b="80" codes="GUID:be134e2a-36ea-4a55-bcf4-ef05ac756773">${t:4.39}In 1992 Governor Cal Fairweather made a promise.</LineEntry>
@@ -819,14 +819,14 @@
         <LineEntry ID="819d135c-ccc4-47ef-8f4b-f570e4d25a90" r="0" g="176" b="80">... to our circuit, just west of Crossroads Mall.</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="2aa4cf56-2c07-4f12-a148-f6f4643ca13f" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
-        <LineEntry ID="4c980fd9-c584-4c5b-8778-a3635b8c8160" r="0" g="176" b="80">[img=music] What do you do with a fish so battered? [img=music]</LineEntry>
-        <LineEntry ID="8ec25560-e4e3-4c24-8bfb-ec3152cd5e87" r="0" g="176" b="80">[img=music] What do you do with the shrimp so slathered...  [img=music]</LineEntry>
-        <LineEntry ID="7abbe9aa-aed1-4f34-b40e-351a2c9db66b" r="0" g="176" b="80">[img=music] ... in that garlic butter? [img=music]</LineEntry>
-        <LineEntry ID="f9090ca6-a177-4f2d-992c-e8065a6a7425" r="255" g="192" b="0">Try our all-you-can-eat shrimp platter for $9.99...</LineEntry>
-        <LineEntry ID="6d189c87-11b2-455e-b5f0-5c02880b221f" r="255" g="192" b="0">... our crab and lobster specials on Saturday...</LineEntry>
-        <LineEntry ID="5182b075-f330-4bfd-b588-5c35f359b51e" r="255" g="192" b="0">... and don't forget Tuesday's surf-and-turf special for $6.99,</LineEntry>
-        <LineEntry ID="a46a19d5-6971-430a-b6fd-3e0f9808f87b" r="0" g="176" b="80">[img=music] What do you do when you get that hunger? [img=music]</LineEntry>
-        <LineEntry ID="2822b26d-7d53-4001-a7ef-6314d50372ae" r="0" g="176" b="80">[img=music] Come to The Sea Shanty! [img=music]</LineEntry>
+        <LineEntry ID="4c980fd9-c584-4c5b-8778-a3635b8c8160" r="0" g="176" b="80" codes="GUID:4c980fd9-c584-4c5b-8778-a3635b8c8160">${t:4.48}[img=music] What do you do with a fish so battered? [img=music]</LineEntry>
+        <LineEntry ID="8ec25560-e4e3-4c24-8bfb-ec3152cd5e87" r="0" g="176" b="80">${t:2.00}[img=music] What do you do with the shrimp so slathered...  [img=music]</LineEntry>
+        <LineEntry ID="7abbe9aa-aed1-4f34-b40e-351a2c9db66b" r="0" g="176" b="80">${t:2.59}[img=music] ... in that garlic butter? [img=music]</LineEntry>
+        <LineEntry ID="f9090ca6-a177-4f2d-992c-e8065a6a7425" r="255" g="192" b="0">${t:3.98}Try our all-you-can-eat shrimp platter for $9.99...</LineEntry>
+        <LineEntry ID="6d189c87-11b2-455e-b5f0-5c02880b221f" r="255" g="192" b="0">${t:3.09}... our crab and lobster specials on Saturday...</LineEntry>
+        <LineEntry ID="5182b075-f330-4bfd-b588-5c35f359b51e" r="255" g="192" b="0">${t:4.72}... and don't forget Tuesday's surf-and-turf special for $6.99,</LineEntry>
+        <LineEntry ID="a46a19d5-6971-430a-b6fd-3e0f9808f87b" r="0" g="176" b="80">${t:2.14}[img=music] What do you do when you get that hunger? [img=music]</LineEntry>
+        <LineEntry ID="2822b26d-7d53-4001-a7ef-6314d50372ae" r="0" g="176" b="80">${t:2.96}[img=music] Come to The Sea Shanty! [img=music]</LineEntry>
       </BroadcastEntry>
       <BroadcastEntry ID="b0bc6e19-0ea9-45e1-95c2-cd7ce8c30782" timestamp="0" endstamp="0" type="ActivateBroadcast" day="0" advertCat="none" isSegment="true">
         <LineEntry ID="444fbd55-4efc-44e2-9bfc-460aebbc128b" r="128" g="128" b="255">Jay's Chicken! Poetry in poultry!</LineEntry>

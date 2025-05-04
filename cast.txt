@@ -22,7 +22,7 @@
  [/list]
 [*]NNR Radio:
  [list]
-	[*] Director: Fed_Cap
+	[*] Director: EmpyrealVanguard
 	(Full Human Voiceover)
 	Actors: 
 		[*] NNR Presentator: glassorca
@@ -32,7 +32,7 @@
 		[*] Al: that_troglodyte_guy
 		[*] Pastor James Hartnell: Donnie Narco
 		[*] Civilian 1: Already Out
-		[*] Civilian 2: KAIARGNT
+		[*] Civilian 2: anon
 		[*] Civilian 3: ilovetrashytv
 		[*] Civilian 4: Coda / Angel
  [/list]
@@ -118,5 +118,10 @@
 	[*] Dr. Oids: Kepi
 	[*] Fashionabelle: Bryan Butler, Kier Gordon
 	[*] Cross Roads Mall: Mira
+	[*] The Forgotten Element: OhzoLate, ⦑ A L L G R U N F A N 5 0 ⦒, Mòran Taing
+	[*] Fish and Chips: Peaseboy2234
+	[*] Pile o' Crepe: yuripulga, Patriot, Suno AI (music)
+	[*] Taco del Pancho: EmpyrealVanguard
+	[*] The Sea Shanty: EmpyrealVanguard
  [/list]
 [/list]
